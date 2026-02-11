@@ -1,13 +1,12 @@
 oz w_stem 
 osd w_stem doric 
-os reg_fut 
-oc reg_fut 
-os aor1 
-oc aor1 
-oss aor1 
+os reg_fut attic ionic
+os aor1 attic ionic 
+oss aor1 epic ionic
 ok perf_act 
-o perfp_d 
+o perfp_d attic epic ionic
 o perfp_g doric 
-osq aor_pass 
+osq aor_pass attic ionic 
 oxq aor_pass doric 
 ost os_on
+#oc removed bc not recognized as doric. bug?
