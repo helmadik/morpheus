@@ -368,6 +368,7 @@
 :vb:i)/wmen   irreg_mi pres subj act 1st pl
 :vb:i)/wmes   irreg_mi pres subj act 1st pl doric
 :vb:i)/omen   irreg_mi pres subj act 1st pl epic short_subj
+:vb:i)/omes   irreg_mi pres subj act 1st pl doric short_subj
 :vb:i)/hte   irreg_mi pres subj act 2nd pl
 :vb:i)/hsqe   irreg_mi pres subj act 2nd pl epic
 :vb:i)/wsin   irreg_mi pres subj act 3rd pl nu_movable
@@ -404,6 +405,8 @@
 :vb:i)/mmen   irreg_mi pres inf act epic
 :vb:i)/mmenai   irreg_mi pres inf act epic
 :vb:i)w/n   irreg_mi pres part act masc nom sg
+:vb:i)/wn   irreg_mi pres part act masc nom sg late comp_only
+#borderline; clearly editor error in Athenaeus
 :vb:i)ou=sa   irreg_mi pres part act fem nom/voc sg attic epic doric ionic suff_acc
 :vb:i)oi=sa   irreg_mi pres part act fem nom/voc sg doric aeolic suff_acc
 :vb:i)o/n   irreg_mi pres part act neut nom/voc/acc sg

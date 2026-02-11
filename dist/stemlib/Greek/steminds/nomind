@@ -4,7 +4,7 @@
 *(abrw :*(/abrwn:n_nos:masc
 *(abrwnix :*(abrw/nixos:os_ou:masc
 *(adikurnai *(adikurnai_:*(adikurnai=os:os_ou:masc
-*(adrian :*(adriano/s:os_ou:suff_acc
+*(adrian :*(adriano/s:os_ou:masc:suff_acc
 *(adrianoupol :*)adrianou/polis:is_ews:fem:geog_name
 *(adsian :*(adsianeu/s:eus_ews:masc:suff_acc
 *(afaist *(a_faist:*(/hfaistos:os_ou:masc:doric
@@ -15,7 +15,7 @@
 *(agi :*(/agios:os_ou:masc
 *(agn :*(agnh/:h_hs:fem:suff_acc :*(agnw/:w_oos:fem:suff_acc :*)agnou=s:oeis_oentos:masc
 *(agnagor :*(agnago/rh:h_hs:fem
-*(agni :*(agni/as:hs_ou:masc:pers_name
+*(agni :*(agni/as:hs_ou:masc:stem_acc:pers_name
 *(agnodwr :*(agno/dwros:os_ou:masc
 *(agnofil :*(agno/filos:os_ou:masc
 *(agnousi :*)agnou/sios:os_ou:masc
@@ -170,6 +170,7 @@
 *(elikwni :*(elikw/n:os_h_on :*(elikw/nios:os_h_on
 *(elikwnia :*(elikwnia/des:s_dos:fem:stem_acc
 *(eliss :*(elissou=s:oos_oou:masc:suff_acc :*(elissw/n:wn_ontos:masc:suff_acc
+*(elissai :*)elissai=os:os_ou:masc:stem_acc
 *(elkhb :*(/elkhbos:os_ou:masc
 *(elki :*(elki/as:hs_ou:masc:stem_acc
 *(ell :*(/ellh:h_hs:fem :*selloi/:os_ou:masc:pl:suff_acc
@@ -225,7 +226,7 @@
 *(ermadi :*(erma/dion:os_ou:neut
 *(ermafrodit *(ermafrodi_t:*(ermafro/ditos:os_ou:masc
 *(ermagor :*(ermago/ras:hs_ou:masc:sg:pers_name
-*(ermai *(ermai_:*(ermai=os:os_h_on:stem_acc :*(/ermaion:os_ou:neut :*(/ermaios:os_ou:masc:sg:pers_name :*(ermai/as:hs_ou:masc
+*(ermai *(ermai_:*(ermai=os:os_h_on:stem_acc :*(/ermaion:os_ou:neut :*(/ermaios:os_ou:masc:sg:pers_name :*(ermai/as:hs_ou:masc:stem_acc
 *(ermaik :*(ermaiko/s:os_h_on:suff_acc
 *(ermaiwnd :*(ermaiw/ndhs:hs_ou:masc:doric
 *(ermanoub *(ermanou_b:*(ermanou=bis:is_idos:masc:sg:stem_acc:pers_name :*(erma/noubis:is_ews:masc:sg:pers_name
@@ -259,7 +260,7 @@
 *(ermondor :*(ermo/ndoroi:os_ou:masc:pl
 *(ermopolit *(ermopoli_t:*(ermeopoli/ths:hs_ou:masc
 *(ermotim :*(ermo/timos:os_ou:masc
-*(ermotubi :*(ermotubi/as:hs_eos:masc
+*(ermotub :*(ermotu/bies:is_ews:masc
 *(ermoupolit *(ermoupoli_t:*(ermeopoli/ths:hs_ou:masc
 *(ermw :*(/ermwn:n_nos:masc
 *(ermwna :*(ermw=nac:c_ktos:masc:pers_name:ant_acc
@@ -327,7 +328,7 @@
 *(hghsistrat :*(hghsi/stratos:os_ou:masc
 *(hght :*(hgh/twr:wr_oros:masc:sg:pers_name
 *(hghtorid :*(hghtori/dhs:hs_ou:masc
-*(hgi :*(hgi/as:hs_ou:masc
+*(hgi :*(hgi/as:hs_ou:masc:stem_acc
 *(hgul :*(/hgulos:os_ou:masc
 *(hill :*(/hillos:os_ou:masc:sg:pers_name
 *(hli :*(/hlios:os_ou :*(/hlios:os_ou:sg :*)hli/as:masc:sg:pers_name
@@ -348,7 +349,8 @@
 *(hmaw :*(hma/wn:n_nos:masc
 *(hmerasi :*(hmerasi/a:h_hs:fem:stem_acc :*(hmerasi/h:h_hs:fem
 *(hmerhsi :*(hmerhsi/a:a_hs:fem:sg:pers_name
-*(hmiqe :*(hmiqe/h:h_hs:fem:pers_name :*(hmiqe/wn:wn_onos:masc:sg:pers_name
+*(hmiqe :*(hmiqe/h:h_hs:fem:pers_name
+*(hmiqew :*(hmiqe/wn:n_nos:masc:sg:pers_name
 *(hmixar :*(hmixa/ra:a_hs:fem:stem_acc
 *(hniox :*(hni/oxos:os_ou:masc:sg:pers_name :*(hnio/xh:h_hs:fem
 *(hr :*(/hra:h_hs:fem :*(/hra:h_hs:fem:ionic :*(/hrw:w_oos:fem :*(hrw/:ws_wos:fem:suff_acc
@@ -426,8 +428,8 @@
 *(iero :*(ieroklh=s:klehs_kleous:masc
 *(ierobam :*(iero/bamos:os_ou:masc:pers_name
 *(ieroboam :*(ieroboamos:os_ou:masc:pers_name
+*(ierof :*(ierofw=n:wCn_wCntos:suff_acc:pers_name
 *(ierofil :*(iero/filos:os_ou:masc:sg:pers_name
-*(ierofw :*(ierofw=n:n_ntos:masc:stem_acc:contr:pers_name
 *(ieromnhm :*(ieromnh/mh:h_hs:fem
 *(ieroqe :*(iero/qeos:os_ou:masc:sg:pers_name
 *(ierosolum :*(ieroso/luma:os_ou:neut:pl :*(ieroso/lumos:os_ou:masc:pers_name
@@ -468,7 +470,7 @@
 *(ippei :*(ippei=os:os_h_on:stem_acc
 *(ipphmolg :*(ipphmolgoi/:os_ou:masc:pl:suff_acc
 *(ipphn :*(ipphno/s:os_ou:masc:suff_acc
-*(ippi :*(/ippios:os_ou:masc :*(ippi/as:hs_ou:masc
+*(ippi :*(/ippios:os_ou:masc :*(ippi/as:hs_ou:masc:stem_acc
 *(ippo :*(ippoklh=s:klehs_kleous:masc:suff_acc
 *(ippobin :*(ippo/binos:os_ou:masc
 *(ippobot :*(ippo/botos:os_ou:masc:sg:pers_name
@@ -543,7 +545,7 @@
 *(istor :*(istori/s:is_idos:fem:suff_acc
 *(istori :*(istori/h:h_hs:fem
 *(istorik :*(istoriko/s:os_h_on:suff_acc
-*(olai :*(olai/as:hs_ou:masc
+*(olai :*(olai/as:hs_ou:masc:stem_acc
 *(olm :*(/olmos:os_ou:masc:sg:pers_name
 *(omaguri :*(omagu/rios:os_h_on
 *(omhr :*(/omhros:os_ou:masc :*(omhri/s:is_idos:fem:suff_acc
@@ -611,7 +613,7 @@
 *(rakwt :*(rakw=tis:is_idos:fem:stem_acc
 *(rambaki :*(rambaki/a:a_hs:fem:stem_acc
 *(ramess *(rame/ss:*(rame/sshs:hs_ou:masc:stem_acc:pers_name :*(ramessh=:eh_ehs:fem:suff_acc:geog_name
-*(ramfi :*(ramfi/as:hs_ou:masc
+*(ramfi :*(ramfi/as:hs_ou:masc:stem_acc
 *(ramfinit :*(ramfi/nitos:os_ou:masc:sg:pers_name
 *(ramn :*(ramno/eis:oeis_oentos
 *(ramnous :*(ramnousi/s:is_idos:fem:suff_acc
@@ -666,7 +668,7 @@
 *(rhgi :*(rh/gion:os_ou:neut :*(rhgi/a:a_hs:fem:stem_acc
 *(rhgian :*(rhgi/anon:os_ou:neut
 *(rhgill :*(rh/gillon:os_ou:neut :*(rhgi/llh:h_hs:fem
-*(rhgillan :*(rhgillano/s:os_ou:suff_acc
+*(rhgillan :*(rhgillano/s:os_ou:masc:suff_acc
 *(rhgin *(rhgi_n:*(rh/gion:os_h_on:stem_acc *(rhgi_n:*(rhgi=nos:os_ou:stem_acc
 *(rhgisouill :*(rhgisou/illa:a_hs:fem
 *(rhgl :*(rh/goul:os_ou:masc:pers_name :*(rh=glos:os_ou:masc:stem_acc
@@ -708,7 +710,9 @@
 *(ro :*(ro/h:h_hs:fem
 *(roboam :*(robo/amos:os_ou:masc
 *(robogdi :*(robo/gdioi:os_ou:masc:pl :*(robo/gdion:os_ou:neut
+*(rocandr :*(rwca/ndra:a_hs:fem:stem_acc
 *(rod :*(ro/da:os_ou:neut:pl :*(ro/dh:h_hs:fem :*(ro/dos:os_ou:fem
+*(rodai :*(rodai=os:os_h_on:stem_acc
 *(rodan :*(rodano/s:os_ou:masc:suff_acc
 *(rodanq :*(roda/nqh:h_hs:fem:pers_name
 *(rodei :*(ro/deia:a_hs:fem:sg:pers_name
@@ -754,6 +758,7 @@
 *(roum *(rou_m:*(rou=mos:os_ou:masc:stem_acc
 *(roumisian :*(roumisi/ana:a_hs:fem
 *(rounikat *(rounika_t:*(rounika=tai:h_hs:fem:pl
+*(rouseli :*(rouse/lios:os_ou:masc
 *(rousell :*(rouse/llai:h_hs:fem:pl
 *(rousi :*(rou/sion:os_ou:neut
 *(rousib :*(rousibi/s:is_idos:fem:suff_acc
@@ -782,6 +787,7 @@
 *(rutin :*(/rutinon:os_ou:neut:geog_name
 *(ruy :*(ru/y:y_pos:masc:ant_acc
 *(rwcan :*(rwca/nh:h_hs:fem
+*(rwcandr :*(rwca/ndra:a_hs:fem:stem_acc
 *(rwcolan :*(rwcolanoi/:os_ou:masc:pl:suff_acc
 *(rwdi :*(rwdi/ai:h_hs:fem:pl
 *(rwg :*(rw/gh:h_hs:fem
@@ -859,13 +865,13 @@
 *(ule :*(ule/h:h_hs:fem
 *(ulet :*(ule/ths:hs_ou:masc:stem_acc
 *(uli :*(uli/as:hs_ou:masc
-*(ull :*(/ullos:os_ou:masc:sg:pers_name :*(ullh/s:hs_eos:masc:suff_acc :*(ulli/s:is_idos:fem:suff_acc
+*(ull :*(/ullos:os_ou:masc:sg:pers_name :*(ulleu/s:hs_eos:masc:suff_acc :*(ulli/s:is_idos:fem:suff_acc
 *(ullaik *(ullai+k:*(ullai+ko/s:os_h_on:suff_acc *(ullai+k:*)iasiko/s:os_h_on
 *(ullh :*(ullhi/s:is_idos:fem:suff_acc
 *(ullik :*(ulliko/s:os_ou:masc:suff_acc
 *(ulofag :*(ulofa/goi:os_ou:masc:pl :*(ulofa/gos:os_ou:masc:stem_acc
 *(um :*(umh/n:hn_enos:masc:suff_acc
-*(umai :*(umai/as:hs_eos:masc
+*(umai :*(umai/hs:hs_ou:masc:stem_acc
 *(ume :*(ume/hs:hs_ou:masc:sg:pers_name
 *(umenai :*(ume/naios:os_ou:masc
 *(umhtt :*(/umhttos:os_ou:masc :*(umhtto/s:os_ou:fem:suff_acc
@@ -1188,7 +1194,7 @@
 *)agaq :*)aga/qh:h_hs:fem:sg:stem_acc
 *)agaqaght :*)agaqa/ghtos:os_ou:masc:sg:pers_name
 *)agaqarx :*)aga/qarxos:os_ou:masc:pers_name
-*)agaqarxid :*)agaqarxi/dhs:hs_ou:masc:doric
+*)agaqarxid :*)agaqarxi/das:hs_ou:masc:doric:stem_acc
 *)agaqhmer :*)agaqh/meros:os_ou:masc:sg:pers_name
 *)agaqi :*)agaqi/as:hs_ou:masc:sg:pers_name
 *)agaqin :*)aga/qinos:os_ou:masc
@@ -1239,7 +1245,7 @@
 *)aggour :*)/aggouron:os_ou:neut
 *)aggr :*)/aggros:os_ou:masc
 *)aggriouari :*)aggrioua/rioi:os_ou:masc:pl
-*)aggur :*)/aggouron:os_ou:neut
+*)aggur :*)/aggouron:os_ou:neut :*)/agkura:a_hs:fem
 *)aghn :*)agh/nwr:wr_oros:masc:sg:stem_acc:pers_name
 *)aghnori :*)aghno/rion:os_ou:neut
 *)aghnorid :*)aghnori/dhs:hs_ou:masc:stem_acc
@@ -1254,8 +1260,9 @@
 *)aghsipol :*)aghsi/polis:is_idos:masc
 *)aghsippid :*)aghsippi/das:hs_ou:masc:doric:aeolic:pers_name
 *)aght :*)/aghtos:os_ou:masc :*)agh/tas:hs_ou:masc:sg:doric:aeolic:pers_name :*)agh/twr:wr_oros:masc
-*)agi :*)agi/as:hs_ou:masc:doric
-*)agiad :*)agia/dhs:hs_ou:masc:doric
+*)agi :*)agi/as:hs_ou:masc:doric:stem_acc
+*)agiad :*)agia/dhs:hs_ou:masc:doric:stem_acc
+*)agid :*)agidw/:w_oos:fem:suff_acc
 *)agk :*)/agkos:os_ou:masc:pers_name :*)/agkos:os_ou:masc:suff_acc:pers_name:late
 *)agkad :*)agka/dhs:hs_ou:masc
 *)agkai *)agkai_:*)agkai=os:os_ou:masc:stem_acc
@@ -1497,13 +1504,13 @@
 *)alb :*)/alba:a_hs:fem
 *)alban :*)albanh/:h_hs:fem:suff_acc:geog_name :*)albani/s:is_idos:fem:suff_acc :*)albano/n:os_ou:neut:suff_acc :*)albano/s:os_ou:masc:suff_acc
 *)albani :*)alba/nios:os_h_on :*)albani/a:a_hs:fem:stem_acc
-*)albenouan :*)albenouano/s:os_ou:suff_acc
+*)albenouan :*)albenouano/s:os_ou:masc:suff_acc
 *)albi :*)/albia:os_ou:neut:pl :*)/albion:os_ou:neut :*)/albios:os_ou:masc:pers_name :*)albi/a:a_hs:fem:stem_acc
 *)albiggaun :*)albi/ggaunon:os_ou:neut
 *)albin *)albi_n:*)albi=nos:os_ou:masc:stem_acc :*)albi/na:a_hs:fem:stem_acc :*)albi/nos:os_ou:masc:sg:stem_acc:pers_name
 *)albinei :*)albi/neios:os_h_on
 *)albini :*)albi/nios:os_ou:masc
-*)albinoouan :*)albinoouano/s:os_ou:suff_acc
+*)albinoouan :*)albinoouano/s:os_ou:masc:suff_acc
 *)albintimili :*)albintimi/lion:os_ou:neut
 *)albioik :*)albi/oikoi:os_ou:masc:pl
 *)albokel :*)albo/kela:a_hs:fem
@@ -1522,7 +1529,7 @@
 *)alecandropol :*)alecandro/polis:is_ews:masc :*)alecandro/polis:is_idos:fem
 *)alecandrwd :*)alecandrw/dhs:hs_es:stem_acc
 *)alecarx :*)ale/carxos:os_ou:masc:sg:pers_name
-*)aleci :*)ale/cios:os_ou:masc:sg:pers_name :*)aleci/as:hs_ou:masc :*)aleciklh=s:klehs_kleous:masc:sg:suff_acc:pers_name
+*)aleci :*)ale/cios:os_ou:masc:sg:pers_name :*)aleci/as:hs_ou:masc:stem_acc :*)aleciklh=s:klehs_kleous:masc:sg:suff_acc:pers_name
 *)aleciar :*)alecia/ras:hs_eos:masc
 *)alecibi :*)aleci/bios:os_ou:masc
 *)alecibia :*)alecibia/s:s_dos:fem:stem_acc
@@ -1536,7 +1543,7 @@
 *)alecinei :*)aleci/neios:os_ou:masc
 *)alecinik :*)aleci/nikos:os_ou:masc
 *)alecipp :*)ale/cippos:os_ou:masc
-*)alecippid :*)alecippi/dhs:hs_ou:masc
+*)alecippid :*)alecippi/dhs:hs_ou:masc:stem_acc
 *)alecw :*)ale/cwn:n_nos:masc
 *)aleghn :*)alegh/nwr:wr_oros:masc:stem_acc
 *)aleghnorid :*)aleghnori/dhs:hs_ou:masc:sg:stem_acc:pers_name :*)aleghnori/dhs:hs_ou:masc:stem_acc
@@ -1544,7 +1551,7 @@
 *)alekt :*)ale/ktwr:wr_oros:masc:sg:stem_acc:pers_name
 *)alektru :*)alektruw/n:wn_onos:masc:sg:suff_acc:pers_name
 *)aleri :*)aleri/a:a_hs:fem:stem_acc
-*)alesi :*)ale/sios:os_h_on :*)alesi/h:h_hs:fem:pl
+*)alesi :*)ale/sios:os_h_on :*)alesi/h:h_hs:fem:pl:stem_acc
 *)alesiai *)alesiai_:*)alesiai=on:os_ou:neut
 *)aletri :*)ale/trion:os_ou:neut
 *)aleu :*)aleu/hs:hs_ou:masc
@@ -1590,7 +1597,7 @@
 *)alket :*)/alketos:os_ou:masc :*)alke/tas:hs_ou:masc
 *)alkhn :*)alkh/nwr:wr_oros:masc
 *)alkhst :*)/alkhstis:is_idos:fem:sg:pers_name
-*)alki :*)alki/as:hs_ou:masc
+*)alki :*)alki/as:hs_ou:masc:stem_acc
 *)alkibiad :*)alkibia/dhs:hs_ou:masc
 *)alkid :*)alki/dhs:hs_ou:masc:doric
 *)alkidam :*)alkida/mas:hs_ou:masc:sg:doric:aeolic:pers_name
@@ -1741,7 +1748,7 @@
 *)ambrwss :*)/ambrwssos:os_ou:masc :*)ambrwsseu/s:eus_ews:masc:suff_acc
 *)ame :*)/amer:r_ros:masc
 *)ameilix :*)amei/lixos:os_ou:masc
-*)ameini :*)ameini/as:hs_ou:masc
+*)ameini :*)ameini/as:hs_ou:masc:stem_acc
 *)ameiniad :*)ameinia/dhs:hs_ou:masc
 *)ameino :*)ameinokle/os:masc:suff_acc :*)ameinoklh=s:klehs_kleous:masc:suff_acc
 *)ameiyi :*)ameiyi/as:hs_ou:masc:sg:pers_name
@@ -1765,9 +1772,9 @@
 *)amfiana :*)amfi/anac:c_ktos:masc :*)amfia/nac:c_ktos:masc:sg:pers_name:ant_acc
 *)amfiar :*)amfia/raos:eus_ews:masc:doric:stem_acc :*)amfia/raos:eus_ews:masc:doric:suff_acc
 *)amfiara *)amfiara_:*)amfia/raos:os_ou:masc
-*)amfiarai :*)amfiara/ion:os_ou:neut
+*)amfiarai *)amfiarai+:*)amfiara/i+on:os_ou:neut :*)amfiara/i+on:os_ou:neut
 *)amfiare :*)amfia/raos:ws_w:masc:attic
-*)amfiarei :*)amfia/reion:os_ou:neut
+*)amfiarei :*)amfiara/i+on:os_ou:neut
 *)amfiarh :*)amfia/raos:os_ou:masc
 *)amfibai :*)amfi/baios:os_ou:masc
 *)amfibi :*)amfibi/a:h_hs:fem:stem_acc
@@ -1802,9 +1809,9 @@
 *)amfimall :*)amfi/malla:a_hs:fem
 *)amfimar :*)amfi/maros:os_ou:masc
 *)amfimax :*)amfi/maxos:os_ou:masc:sg:pers_name
-*)amfimed :*)amfime/dwn:wn_ontos:masc:sg:pers_name
+*)amfimed :*)amfime/dwn:wn_ontos:masc:sg:pers_name :*)amfimedw/:w_oos:fem:suff_acc
+*)amfimedous :*)amfime/dousa:a_hs:fem
 *)amfimnhst :*)amfi/mnhstos:os_ou:masc
-*)amfimusi :*)amfimusi/wn:wn_onos:fem
 *)amfinom :*)amfi/nomos:os_ou:masc:sg:pers_name :*)amfino/mh:h_hs:fem:sg:stem_acc:pers_name
 *)amfipol :*)amfi/polis:is_ews:fem
 *)amfipolit *)amfipoli_t:*)amfipoli/ths:hs_ou:masc:stem_acc :*)amfipo/litos:os_h_on
@@ -1927,7 +1934,7 @@
 *)amwri :*)amo/rion:os_ou:neut
 *)amyag :*)amya/ga:masc:stem_acc
 *)an :*)/anas:hs_ou:masc:doric:aeolic
-*)ana :*)/anac:c_ktos:masc :*)/anakes:c_kos:masc:pl
+*)ana :*)/anac:c_ktos:masc :*)/anakes:c_kos:masc:pl :*)/anares:r_ros:masc:pl
 *)anab :*)ana/bous:oos_oou:masc:pers_name
 *)anabhsine :*)anabhsi/news:ws_w:masc:sg:pers_name
 *)anac :*)/anacis:is_ews:masc :*)anacw/:w_oos:fem:suff_acc
@@ -1937,7 +1944,7 @@
 *)anacandrid :*)anacandri/dhs:hs_ou:masc
 *)anacaret :*)anacare/th:h_hs:fem:sg:pers_name
 *)anacarx :*)ana/carxos:os_ou:masc :*)ana/carxos:os_ou:masc:pers_name :*)anaca/rxos:os_ou:masc:sg:pers_name
-*)anaci :*)/anacis:hs_ou:masc :*)anaci/as:hs_eos:masc
+*)anaci :*)/anacis:hs_ou:masc:stem_acc
 *)anacibi :*)anaci/bios:os_ou:masc:sg:pers_name :*)anacibi/h:h_hs:fem
 *)anacidam :*)anaci/damos:os_ou:masc
 *)anacikrat :*)anacikra/ths:hs_eos:masc
@@ -1959,9 +1966,9 @@
 *)anagnwst :*)anagnw/sths:hs_ou:masc:pers_name
 *)anagur :*)anagurou=s:oeis_oentos:fem
 *)anagurasi :*)anagura/sios:os_h_on
-*)anai *)anai_:*)anai=os:os_ou:masc :*)anai/a:h_hs:fem:doric :*)annai/a:h_hs:fem :*)annai/a:os_h_on
-*)anaiit *)anaii_t:*)anaii=ths:hs_ou:masc:stem_acc *)anaii_t:*)anaii=tis:is_idos:fem:stem_acc
-*)anait *)anai+t:*)anai+/tis:is_idos:fem:pers_name *)anai_+t:*)anai/+ths:hs_ou:masc:pl *)anai_+t:*)anai=+tis:is_idos:fem:sg:pers_name :*)annai/a:hs_ou:masc
+*)anai *)anai_:*)anai=os:os_ou:masc *)anai_:*)annai=os:os_ou:masc:sg:stem_acc:pers_name :*)/anaia:h_hs:fem:doric :*)/anaia:os_ou:neut:pl :*)anai/a:h_hs:fem:stem_acc :*)annai/a:h_hs:fem :*)annai/a:os_h_on
+*)anaiit *)anaii_t:*)anaii/ths:hs_ou:masc:stem_acc *)anaii_t:*)anaii=tis:is_idos:fem:stem_acc
+*)anait *)anai+t:*)anai+/tis:is_idos:fem:pers_name *)anai_+t:*)anai=+tis:is_idos:fem:sg:pers_name :*)annai/a:hs_ou:masc
 *)anak :*)ana/kh:h_hs:fem:stem_acc
 *)anakai :*)anakaieu/s:eus_ews:masc:suff_acc
 *)anakei :*)ana/keion:os_ou:neut
@@ -1980,8 +1987,10 @@
 *)anani :*)ana/nios:os_ou:masc:sg:pers_name :*)anani/as:hs_ou:masc:stem_acc:pers_name
 *)anap :*)/anapos:os_ou:masc
 *)anapi :*)anapi/as:hs_ou:masc:stem_acc
+*)anapous :*)anapou=sa:a_hs:fem:stem_acc
 *)anaq :*)anaqw/:ws_wos:fem:suff_acc
-*)anare :*)ana/rea:a_hs:fem
+*)anar :*)/anaros:os_ou:fem:sg
+*)anare :*)ana/rea:os_ou:neut:pl
 *)anariak :*)anaria/kai:h_hs:fem:pl
 *)anastasi :*)anasta/sios:os_ou:masc:sg:pers_name :*)anastasi/h:h_hs:fem:pers_name
 *)anatoli :*)anato/lios:os_ou:masc:sg:pers_name
@@ -2034,6 +2043,7 @@
 *)androtiw :*)androti/wn:n_nos:masc
 *)andrw :*)/andrwn:n_nos:masc
 *)andrwnid :*)andrwni/das:hs_ou:masc:sg:doric:aeolic:pers_name
+*)anem :*)anema=s:masc:suff_acc
 *)anemas *)anema_s:*)anema=sa:a_hs:fem:stem_acc
 *)anemouri :*)anemou/rion:os_ou:neut
 *)anemwlei :*)anemw/leia:a_hs:fem
@@ -2051,14 +2061,18 @@
 *)anikht :*)ani/khtos:os_ou:masc
 *)aniki :*)ani/kios:os_ou:masc
 *)anilai :*)anilai=os:os_h_on:stem_acc
+*)anin :*)ani/na:a_hs:fem:stem_acc
+*)aninat :*)ani/nhton:os_ou:neut
+*)aninhsi :*)aninh/sioi:os_ou:masc
 *)aninht :*)ani/nhton:os_ou:neut
 *)anipp :*)ani/pph:h_hs:fem:pers_name
 *)aniw :*)ani/wn:n_nos:masc
-*)ann :*)/anna:a_hs:fem:pers_name :*)/anna:a_hs:fem:pl:pers_name :*)/anna:a_hs:fem:sg:pers_name :*)/annas:masc:pers_name
+*)ann :*)/anna:a_hs:fem:pers_name :*)/anna:a_hs:fem:pl:pers_name :*)/anna:a_hs:fem:sg:pers_name :*)/annas:masc:pers_name :*)anna=s:masc:suff_acc
 *)annai *)annai_:*)annai=os:os_ou:masc:stem_acc:pers_name :*)annai/a:h_hs:fem :*)annai/a:os_h_on
+*)anne :*)anne/as:masc:stem_acc
 *)anni :*)/annios:os_ou:masc:pers_name
 *)annib :*)anni/bas:hs_ou:masc:sg:doric:aeolic:pers_name
-*)annibaik :*)annibaiko/s:os_h_on:suff_acc
+*)annibaik *)annibai+k:*)annibai+ko/s:os_h_on:suff_acc
 *)annibiak :*)annibiako/s:os_h_on:suff_acc
 *)anniker :*)anni/keris:is_idos:masc:sg:pers_name
 *)annw :*)/annwn:n_nos:masc
@@ -2083,7 +2097,9 @@
 *)anqemoeis :*)anqemoeisi/s:is_idos:fem:suff_acc
 *)anqemokrit :*)anqemo/kritos:os_ou:masc
 *)anqemounti :*)anqemou/ntios:os_ou:masc
+*)anqemous :*)anqemou=s:a_hs:fem:late
 *)anqemousi :*)anqe-mou/sios:os_h_on :*)anqemousi/a:a_hs:fem:stem_acc
+*)anqemouss :*)anqemou=s:a_hs:fem:stem_acc:late
 *)anqesfor :*)anqesfo/ros:os_on:stem_acc
 *)anqesfori :*)anqesfo/ria:os_ou:neut:pl
 *)anqesthri :*)anqesth/ria:os_ou:neut:pl
@@ -2105,30 +2121,35 @@
 *)anqraki :*)anqraki/h:h_hs:fem
 *)anqull :*)/anqulla:a_hs:fem
 *)anqullai *)anqullai_:*)anqullai=os:os_ou:masc
+*)ansin :*)/ansinon:os_ou:neut
 *)anstakhn :*)anstakhni/s:is_idos:fem:suff_acc
 *)ant :*)/anths:hs_ou:masc
 *)antagor :*)antago/ras:hs_ou:masc
 *)antai :*)antai/a:a_hs:fem:sg:pers_name :*)antai=os:os_ou:masc:stem_acc
 *)antaiopol :*)antaiou/polis:is_ews:fem:geog_name
-*)antaiopolit *)antaiopoli_t:*)antaio-poli/ths:hs_ou:masc:stem_acc
+*)antaiopolit *)antaiopoli_t:*)antaiopoli/ths:hs_ou:masc:stem_acc
 *)antaioupol :*)antaiou/polis:is_ews:fem:geog_name
-*)antaioupolit *)antaioupoli_t:*)antaio-poli/ths:hs_ou:masc:stem_acc
+*)antaioupolit *)antaioupoli_t:*)antaiopoli/ths:hs_ou:masc:stem_acc
 *)antal :*)anta/las:masc:pers_name
 *)antalkid :*)antalki/das:hs_ou:masc:doric
+*)antan :*)anta/nhs:hs_ou:masc:stem_acc
 *)antandr :*)/antandros:os_ou:masc :*)anta/ndrh:h_hs:fem:stem_acc:pers_name
 *)antandri :*)anta/ndrios:os_h_on
+*)antani :*)anta/nia:os_ou:neut:pl :*)antani/a:h_hs:fem:stem_acc
 *)antarad :*)anta/rados:os_ou:masc
 *)antas :*)/antasos:os_ou:masc
 *)ante :*)ante/as:hs_ou:masc:stem_acc
-*)antei :*)/anteia:a_hs:fem:sg:pers_name
+*)antei :*)/anteia:a_hs:fem:sg:pers_name :*)antei/as:hs_ou:masc:stem_acc
 *)antemn :*)ante/mnai:h_hs:fem:pl
 *)antesiw :*)antesi/wn:n_nos:masc
+*)anthi :*)anth/ios:os_ou:masc
 *)anthn :*)anth/nwr:wr_oros:masc:sg:stem_acc :*)anth/nwr:wr_oros:masc:stem_acc
 *)anthnorid :*)anthnori/dhs:hs_ou:masc:sg:stem_acc:pers_name
 *)anti :*)/antion:os_ou:neut:geog_name :*)anti/a:h_hs:fem:geog_name :*)anti/wn:wn_onos:masc:sg:pers_name :*)antiklh=s:klehs_kleous:masc:suff_acc
 *)antiad :*)antia/dhs:hs_ou:masc
 *)antianeir :*)antia/neira:a_hs:fem:sg:pers_name
 *)antiat *)antia_t:*)antia/ths:hs_ou:masc:stem_acc :*)antia/ths:hs_ou:masc
+*)antidam :*)antida/mas:as_antos:masc
 *)antidot :*)anti/dotos:os_ou:masc
 *)antidwr :*)anti/dwros:os_ou:masc
 *)antidwrid :*)antidwri/dhs:hs_ou:masc:stem_acc
@@ -2143,7 +2164,6 @@
 *)antifon :*)anti/fonos:os_ou:masc:sg:pers_name
 *)antifr :*)anti/fra:a_hs:fem :*)anti/frai:h_hs:fem:pl :*)antifrw/:ws_wos:fem:suff_acc
 *)antifrai *)antifrai_:*)antifrai=os:os_ou:masc
-*)antifw :*)antifw/n:n_ntos:masc:stem_acc
 *)antigen :*)antige/nhs:hs_eos:masc
 *)antigenid :*)antigeni/das:hs_ou:masc:sg:doric:aeolic:pers_name
 *)antigon :*)anti/gonos:os_ou:masc :*)antigo/nh:h_hs:fem :*)antigoneu/s:eus_ews:masc:suff_acc :*)antigoni/s:is_idos:fem:suff_acc
@@ -2158,9 +2178,11 @@
 *)antiklei :*)anti/kleia:a_hs:fem:sg:pers_name
 *)antikleid :*)antiklei/dhs:hs_ou:masc:sg:pers_name
 *)antikrat :*)antikra/ths:hs_eos:masc :*)antikra/ths:hs_ou:masc:stem_acc
-*)antikur :*)anti/kura:a_hs:fem :*)antiku/rh:h_hs:fem :*)antikureu/s:eus_ews:masc:suff_acc
+*)antikur :*)anti/kura:a_hs:fem :*)antiku/ra:a_hs:fem :*)antiku/ra:h_hs:fem:stem_acc :*)antikureu/s:eus_ews:masc:suff_acc
 *)antikurai *)antikurai_:*)antikurai=os:os_ou:masc
-*)antikurr :*)anti/kurra:a_hs:fem
+*)antikurik :*)antikuriko/s:os_h_on:suff_acc
+*)antikurr :*)antiku/ra:a_hs:fem
+*)antil :*)anti/las:masc:stem_acc
 *)antile :*)antile/wn:wn_ontos:masc
 *)antiliban :*)antili/banos:os_ou:masc
 *)antilox :*)anti/loxos:os_ou:masc:sg:pers_name
@@ -2205,6 +2227,7 @@
 *)anus :*)/anusis:is_ews:fem
 *)anut :*)/anutos:os_ou:masc :*)anu/th:h_hs:fem
 *)anwg :*)anw/gwn:wn_ontos:masc
+*)anzal :*)anzala=s:masc:suff_acc
 *)aoid :*)aoidh/:h_hs:fem:suff_acc
 *)aoni :*)ao/nios:os_h_on
 *)aor :*)/aoris:is_idos:masc
@@ -2238,10 +2261,11 @@
 *)aperleit :*)aperlei/ths:hs_ou:masc
 *)aperopi :*)aperopi/h:h_hs:fem
 *)apes :*)ape/sas:as_antos:masc:stem_acc
+*)apesant :*)ape/santon:os_ou:neut :*)ape/santos:os_ou:masc
 *)apesanti :*)apesa/ntios:os_h_on
 *)aphmi :*)aph/mios:os_ou:masc:sg:pers_name
 *)aphmosun :*)aphmosu/nh:h_hs:fem
-*)api :*)ap/i/wn:wn_onos:masc:sg:pers_name :*)api/h:h_hs:fem :a)/pios2:os_h_on
+*)api :*)ap/i/wn:wn_onos:masc:sg:pers_name :*)api/h:h_hs:fem :*)apieu/s:eus_ews:masc:suff_acc :a)/pios2:os_h_on
 *)apiak :*)apiako/s:os_h_on:suff_acc
 *)apidan :*)apidano/s:os_ou:masc:suff_acc
 *)apiei :*)apiei=on:os_ou:neut:stem_acc
@@ -2293,7 +2317,7 @@
 *)appi :*)/appios:os_ou:masc :*)appi/a:a_hs:fem:stem_acc
 *)appian :*)appiano/s:os_ou:masc:sg:suff_acc:pers_name
 *)apragopol :*)aprago/polis:is_ews:fem
-*)apri :*)apri/as:hs_ou:masc
+*)apri :*)apri/as:hs_ou:masc:stem_acc
 *)aprili :*)apri/lios:os_h_on
 *)aprilli :*)apri/lios:os_h_on
 *)aprw :*)/aprwn:n_nos:masc
@@ -2556,7 +2580,7 @@
 *)ariste :*)ari/steas:hs_ou:masc:sg:doric:aeolic:pers_name :*)ariste/as:hs_ou:masc
 *)aristeid :*)aristei/dhs:hs_ou:masc
 *)aristhn :*)aristhno/s:os_ou:masc:suff_acc:pers_name
-*)aristi :*)ari/stion:os_ou:neut :*)aristi/as:hs_ou:masc:doric
+*)aristi :*)ari/stion:os_ou:neut :*)aristi/as:hs_ou:masc:doric:stem_acc
 *)aristipp :*)ari/stippos:os_ou:masc
 *)aristiw :*)aristi/wn:n_nos:masc
 *)aristo :*)aristoklh=s:klehs_kleous:masc
@@ -2733,7 +2757,7 @@
 *)artaukt *)artau+kt:*)artau/+kths:hs_ou:masc
 *)artaun :*)/artaunon:os_ou:neut
 *)artaunt *)artau+nt:*)artau/+nths:hs_ou:masc
-*)artaxai :*)artaxai/as:hs_eos:masc :*)artaxai/as:hs_ou:masc
+*)artaxai :*)artaxai/hs:hs_ou:masc:stem_acc :*)artaxai=os:os_ou:masc:stem_acc
 *)artem :*)/artemis:is_idos:fem:pers_name :*)artema=s:masc:suff_acc
 *)artembar :*)artemba/rhs:hs_eos:masc :*)artemba/rhs:hs_ou:masc:stem_acc
 *)artemi :*)arte/mios:os_ou:masc
@@ -2803,7 +2827,7 @@
 *)arxetim :*)arxe/timos:os_ou:masc :*)arxetimo/s:os_ou:masc:sg:suff_acc:pers_name
 *)arxhdi :*)arxh/dios:os_ou:masc
 *)arxhget :*)arxhge/ths:hs_ou:masc:sg:pers_name
-*)arxi :*)arxi/as:hs_ou:masc :*)arxi/as:hs_ou:masc:doric
+*)arxi :*)arxi/as:hs_ou:masc:stem_acc
 *)arxiad :*)arxia/dhs:hs_ou:masc:stem_acc:pers_name
 *)arxibi :*)arxi/bios:os_ou:masc:sg:pers_name
 *)arxidam *)arxida_m:*)arxi/damos:os_ou:masc
@@ -2834,7 +2858,7 @@
 *)asam :*)asa/ma:a_hs:fem:stem_acc
 *)asamw :*)asa/mwn:n_nos:masc
 *)asamwnai :*)asamwnai=os:os_h_on:stem_acc
-*)asan :*)/asanos:os_ou:masc
+*)asan :*)/asanos:os_ou:masc :*)asa/nhs:hs_ou:masc:stem_acc:late
 *)asandr :*)/asandros:os_ou:masc:sg:pers_name
 *)asbamai *)asbamai_:*)asbamai=os:os_ou:masc:stem_acc:pers_name
 *)asbol :*)/asbolos:os_ou:masc:sg:pers_name
@@ -2853,7 +2877,7 @@
 *)asfodik :*)asfo/dikos:os_ou:masc
 *)asgelai :*)asgelai=a:os_ou:neut:pl:stem_acc
 *)ashrw :*)ash/rwn:n_nos:masc
-*)asi *)a_si:*)/asias:s_dos:fem:stem_acc *)a_si:*)/asios:os_h_on :*)asi/a:h_hs:fem:ionic:stem_acc :*)asi/a:h_hs:fem:stem_acc :*)asi/as:hs_ou:masc
+*)asi *)a_si:*)/asias:s_dos:fem:stem_acc *)a_si:*)/asios:os_h_on :*)asi/a:h_hs:fem:ionic:stem_acc :*)asi/a:h_hs:fem:stem_acc :*)asi/as:hs_ou:masc:stem_acc
 *)asia :*)/asias:s_dos:fem:stem_acc :*)asia/s:s_dos:fem:stem_acc
 *)asiad :*)asia/dhs:hs_ou:masc:sg:stem_acc:pers_name
 *)asiagen :*)asiagenh/s:hs_es:suff_acc
@@ -2904,6 +2928,7 @@
 *)askwli :*)askw/lia:os_ou:neut:pl
 *)askwnd :*)askw/ndhs:hs_ou:masc:doric
 *)asmirai :*)asmirai/a:a_hs:fem:stem_acc
+*)asmodai :*)asmodai=os:os_ou:masc:stem_acc
 *)asp :*)aspi/s:is_idos:fem:suff_acc
 *)aspa :*)/aspac:c_kos:masc :*)/aspar:r_ros:masc
 *)aspabwt :*)aspabw/ta:a_hs:fem:stem_acc
@@ -2980,7 +3005,7 @@
 *)astuana :*)astua/nac:c_ktos:masc:sg:pers_name:ant_acc
 *)astuanaktei :*)astuana/kteios:os_h_on
 *)astuanass :*)astua/nassa:a_hs:fem:sg:pers_name
-*)astubi :*)astubi/as:hs_ou:masc
+*)astubi :*)astubi/as:hs_ou:masc:stem_acc
 *)astudam :*)astuda/mas:hs_ou:masc:sg:doric:aeolic:pers_name
 *)astudamei :*)astuda/meia:a_hs:fem:pers_name
 *)astufil :*)astu/filos:os_ou:masc:pers_name
@@ -3151,6 +3176,7 @@
 *)ayar :*)/ayaros:os_ou:masc
 *)ayefiw :*)ayefi/wn:n_nos:masc
 *)ayeud :*)ayeu/dhs:hs_eos:masc :*)ayeudh/s:hs_ou:masc:sg:suff_acc:pers_name
+*)ayimar :*)ayi/maros:os_ou:masc
 *)ayin :*)ayi/nhs:hs_ou:masc:sg:pers_name
 *)ayinq :*)ayinqi/s:is_idos:fem:suff_acc
 *)ayinqi :*)ayi/nqios:os_ou:masc
@@ -3186,7 +3212,7 @@
 *)eborak :*)ebo/rakon:os_ou:neut
 *)ebour *)ebou_r:*)ebou=ra:a_hs:fem:stem_acc :*)/eboura:a_hs:fem
 *)ebous :*)/ebousos:os_ou:masc
-*)ebrai :*)ebrai=os:os_h_on:stem_acc
+*)ebrai :*(ebrai=os:os_h_on:stem_acc:late
 *)ebrodoun :*)ebro/dounon:os_ou:neut
 *)ecabouli :*(ecabou/lios:os_ou:masc
 *)ecadi :*)eca/dios:os_ou:masc:sg:pers_name
@@ -3249,12 +3275,12 @@
 *)elafiai :*)elafi/aios:os_h_on
 *)elafonhs :*)elafo/nhsos:os_ou:masc
 *)elafostikt :*)elafo/stiktos:os_ou:masc
-*)elai *)elai_:*)elai=os:os_ou:masc :*)/elaios:os_ou:masc :*)/elaiou=s:oos_oou:masc:suff_acc :*)elai/a:h_hs:fem :*)elaio/s:os_ou:masc:suff_acc :*)elaiou=s:oeis_oentos
+*)elai *)elai_:*)elai=os:os_ou:masc :*)/elaios:os_ou:masc :*)/elaiou=s:oos_oou:masc:suff_acc :*)elai/a:h_hs:fem :*)elaieu/s:eus_ews:masc:suff_acc :*)elaio/s:os_ou:masc:suff_acc :*)elaiou=s:oeis_oentos
 *)elaiat *)elaia_t:*)elaia=tis:is_idos:fem:stem_acc
 *)elaiousi :*)elaiou/sios:os_h_on
 *)elait *)ela+i_t:*)ela+i=ths:hs_ou:masc:pers_name *)elai+t:*)elai+/ths:hs_ou:masc
 *)elaitik *)elai+tik:*)elai+tiko/s:os_h_on:suff_acc
-*)elamit *)elami_t:*)elami=tai:h_hs:fem:pl
+*)elamit *)elami_t:*)elami=tai:hs_ou:masc:stem_acc
 *)elan :*)ela/na:a_hs:fem:stem_acc
 *)elaous :*)elaou/sh:h_hs:fem
 *)elar :*)ela/rh:h_hs:fem
@@ -3302,7 +3328,7 @@
 *)elimiwt :*)elimiw/ths:hs_ou:masc:stem_acc
 *)elis :*)eli/swn:wn_onos:masc
 *)elisar :*)elisa/roi:os_ou:masc:pl
-*)elissai :*)elissai=os:os_h_on:stem_acc
+*)elissai :*)elissai=os:os_ou:masc:stem_acc
 *)elkhb :*)/elkhbos:os_ou:masc
 *)ello :*)/elloy:y_pos:masc:pers_name:ant_acc
 *)ellomen :*)ellomeno/s:os_ou:masc:suff_acc
@@ -3425,7 +3451,7 @@
 *)epidwt :*)epidw/ths:hs_ou:masc
 *)epidwtei :*)epidw/teion:os_ou:neut
 *)epieiki :*)epieiki/a:a_hs:fem:stem_acc
-*)epifan :*)epifaneu/s:eus_ews:masc:suff_acc
+*)epifan :*)epifa/nhs:hs_eos:masc :*)epifaneu/s:eus_ews:masc:suff_acc
 *)epifanei :*)epifa/neia:a_hs:fem :*)epifanei/a:a_hs:fem:stem_acc
 *)epifani :*)epifa/nios:os_ou:masc :*)epifa/nios:os_ou:masc:sg:pers_name
 *)epigen :*)epige/nhs:hs_eos:masc
@@ -3486,6 +3512,7 @@
 *)epox :*)/epoxos:os_ou:masc
 *)epoyi :*)epo/yios:os_ou:masc:sg:pers_name
 *)eptakomht *)eptakomh_t:*)eptakomh=tai:h_hs:fem:pl
+*)epuac :*)epu/aca:a_hs:fem
 *)epwp :*)epw/peus:eus_ews:masc :*)epwpeu/s:eus_ews:masc:suff_acc
 *)eqodai *)eqodai+:*)eqodai/+h:h_hs:fem
 *)er :*)/eris:is_idos:fem:sg:pers_name :*)erai/:h_hs:fem:pl:suff_acc
@@ -3590,7 +3617,7 @@
 *)eruqei :*)eruqei/a:a_hs:fem
 *)eruqin *)eruqi_n:*)eruqi=noi:os_ou:masc:pl:stem_acc
 *)eruqr :*)/eruqros:os_ou:masc :*)eru/qras:hs_ou:masc:doric :*)eruqrai/:h_hs:fem:pl:suff_acc:geog_name :*)eruqrai/:h_hs:fem:sg:suff_acc:geog_name :*)eruqrai/:h_hs:fem:suff_acc:geog_name :*)eruqro/n:os_ou:neut:suff_acc
-*)eruqrai :*)eruqrai/as:hs_ou:masc :*)eruqrai=os:os_h_on:stem_acc
+*)eruqrai :*)eruqrai=os:os_h_on:stem_acc
 *)eruqraik :*)eruqraiko/s:os_h_on:suff_acc
 *)eruqri :*)eru/qrios:os_ou:masc
 *)erusixai :*)erusixai=os:os_h_on:stem_acc
@@ -3714,7 +3741,7 @@
 *)hnopid :*)hnopi/dhs:hs_ou:masc:sg:stem_acc:pers_name
 *)hoi :*)hoi=ai:h_hs:fem:pl:stem_acc
 *)how :*)how/wn:wn_onos:masc
-*)hpeir :*)/hpeiros:os_ou:masc
+*)hpeir :*)/hpeiros:os_ou:fem
 *)hpeirwt :*)hpeirw/ths:hs_ou:masc:stem_acc
 *)hpeirwtik :*)hpeirwtiko/s:os_ou:masc:suff_acc
 *)hpidan :*)hpidano/s:os_ou:masc:suff_acc
@@ -3997,9 +4024,10 @@
 *)iofwss :*)iofw=ssa:a_hs:fem:pers_name :*)iofw=ssa:a_hs:fem:sg:pers_name
 *)iogorq :*)iogo/rqas:hs_ou:masc:stem_acc
 *)iokast :*)io/kastos:os_ou:masc:sg:pers_name :*)ioka/sth:h_hs:fem :*)ioka/sth:h_hs:fem:sg
-*)iol :*)io/leus:eus_ews:masc :*)io/lh:h_hs:fem
+*)iol :*)io/lh:h_hs:fem
 *)iola :*)io/laos:os_ou:masc
 *)iolaei :*)iola/eioi:os_ou:masc:pl
+*)iole :*)io/laos:ws_w:masc
 *)iolei :*)io/leia:a_hs:fem
 *)ion :*)io/nh:h_hs:fem
 *)iond :*)/ionda:a_hs:fem
@@ -4065,9 +4093,10 @@
 *)isaur :*)/isaura:os_ou:neut:pl :*)/isauroi:os_ou:masc:pl :*)/isauroi:os_ou:masc:pl:stem_acc :*)/isauros:os_ou:masc:pers_name :*)isaureu/s:eus_ews:masc:suff_acc
 *)isauri :*)isauri/a:a_hs:fem:stem_acc
 *)isaurik :*)isauriko/s:os_h_on:suff_acc
+*)isaxar :*)isa/xar:os_ou:masc
 *)ise :*)ise/as:hs_ou:masc:sg:pers_name
 *)isei :*)isei=a:os_ou:neut:pl:stem_acc :*)isei=on:os_ou:neut:stem_acc:geog_name :*)isei=os:os_ou:masc:stem_acc
-*)isi :*)/ision:os_ou:neut :*)isi/as:hs_ou:masc
+*)isi :*)/ision:os_ou:neut :*)isi/as:hs_ou:masc:stem_acc
 *)isia *)_isia:*)isiako/s:s_dos:fem:stem_acc
 *)isiak *)i_siak:*)isiako/s:os_h_on:suff_acc
 *)isiast :*)isiastai/:hs_ou:masc:pl:suff_acc
@@ -4375,7 +4404,7 @@
 *)onai *)onai_:*)onai=on:os_ou:neut
 *)onaiq :*)/onaiqos:os_ou:masc
 *)onas :*)/onasos:os_ou:masc:sg:pers_name
-*)onasi :*)onasi/as:hs_ou:masc
+*)onasi :*)onasi/as:hs_ou:masc:stem_acc
 *)onasim :*)ona/simos:os_ou:masc:sg:pers_name
 *)onasimhd :*)onasimh/dhs:hs_eos:masc
 *)onat :*)ona/ths:hs_ou:masc:doric
@@ -4486,7 +4515,7 @@
 *)orosped :*)oro/speda:a_hs:fem
 *)oroudi :*)orou/dia:os_ou:neut:pl
 *)orq :*)/orqh:h_hs:fem:sg:geog_name :*)/orqos:os_ou:masc
-*)orqagor :*)orqago/ras:hs_ou:masc
+*)orqagor :*)orqago/ras:hs_ou:masc:stem_acc
 *)orqagori :*)orqagori/a:a_hs:fem:stem_acc
 *)orqai *)orqai_:*)orqai=os:os_ou:masc:sg:stem_acc:pers_name :*)orqai/h:h_hs:fem
 *)orqann :*)orqa/nnhs:hs_ou:masc:stem_acc
@@ -4557,7 +4586,7 @@
 *)ouakkai :*)ouakkai=os:os_h_on:stem_acc
 *)ouar *)oua_r:*)oua=ros:os_ou:masc:stem_acc
 *)ouentidi :*)ouenti/dios:os_ou:masc
-*)ouerban :*)ouerbano/s:os_ou:suff_acc
+*)ouerban :*)ouerbano/s:os_ou:masc:suff_acc
 *)oxew :*)oxew/n:n_nos:masc:stem_acc
 *)oxhsi :*)oxh/sios:os_ou:masc:sg:pers_name
 *)oxim :*)/oximos:os_ou:masc:sg:pers_name
@@ -4660,7 +4689,7 @@
 *agisumb :*agi/sumba:a_hs:fem
 *ai(gi(ti :*ai(gi(tion:os_ou:neut
 *ai(m :*ai(/mwn:wn_onos:masc:sg:stem_acc:pers_name :*ai(=mos:os_ou:masc :*ai(=mos:os_ou:neut
-*ai(man :*ai(mano/s:os_ou:suff_acc
+*ai(man :*ai(mano/s:os_ou:masc:suff_acc
 *ai(moni :*ai(mo/niai:h_hs:fem:pl :*ai(mo/nios:os_ou:masc :*ai(moni/a:h_hs:fem:geog_name
 *ai(monid :*ai(moni/dhs:hs_ou:masc:sg:stem_acc:pers_name
 *ai(mostrat :*ai(mo/stratos:os_ou:masc
@@ -4774,7 +4803,7 @@
 *ai)neiad :*ai)neia/dhs:hs_ou:masc:stem_acc
 *ai)nesidhm :*ai)nesi/dhmos:os_ou:masc
 *ai)net :*ai)neto/s:os_ou:masc:suff_acc
-*ai)nhsi :*ai)nhsi/as:hs_ou:masc:pers_name
+*ai)nhsi :*ai)nhsi/as:hs_ou:masc:stem_acc:pers_name
 *ai)nhsidam :*ai)nhsi/dhmos:os_ou:masc:doric:pers_name
 *ai)nhsidhm :*ai)nhsi/dhmos:os_ou:masc:pers_name
 *ai)nht :*ai)/nhtos:os_ou:masc :*ai)nh/th:h_hs:fem:sg:pers_name
@@ -4847,7 +4876,7 @@
 *ai)swpei :*ai)sw/peios:os_h_on
 *ai)swpopoiht :*ai)swpopoi/htos:os_on
 *ai)sxin :*ai)sxi/nhs:hs_ou:masc
-*ai)sxinad :*ai)sxina/dhs:hs_ou:masc
+*ai)sxinad :*ai)sxina/dhs:hs_ou:masc:stem_acc
 *ai)sxr :*ai)/sxrh:h_hs:fem:pers_name
 *ai)sxrai :*ai)/sxraios:os_ou:masc
 *ai)sxrh :*ai)sxrhi/s:is_idos:fem:suff_acc
@@ -4875,7 +4904,7 @@
 *amen :*ame/nas:hs_ou:masc:doric:aeolic
 *amfigen :*amfigeneu/s:eus_ews:masc:suff_acc
 *amfoter :*amfotero/s:os_ou:masc:suff_acc:pers_name
-*amuni :*amuni/as:hs_ou:masc:pers_name
+*amuni :*amuni/as:hs_ou:masc:stem_acc:pers_name
 *annib :*anni/bas:hs_ou:masc:stem_acc
 *aorulai :*aoru/laion:os_ou:neut
 *apenest :*apene/stai:h_hs:fem:pl
@@ -4941,12 +4970,12 @@
 *au)rhlian :*au)rhliano/s:os_ou:suff_acc:pers_name
 *au)rougk :*au)/rougkoi:os_ou:masc:pl
 *au)roupi)n :*au)roupi)noi:os_ou:masc:pl
-*au)s :*au)/sa:a_hs:fem :*au)/swn:wn_onos:masc:sg:pers_name
+*au)s :*au)/sa:a_hs:fem :*au)/sones:wn_onos:masc:pl :*au)/swn:wn_onos:masc:sg:pers_name
 *au)sar :*au)/sara:a_hs:fem
 *au)se :*au)se/as:hs_eos:masc:stem_acc
 *au)ski :*au)/skioi:os_ou:masc:pl
 *au)son :*au)soni/s:is_idos:fem:suff_acc
-*au)soni :*au)so/nios:os_h_on :*au)soni/h:h_hs:fem
+*au)soni :*au)so/nios:os_h_on :*au)soni/a:h_hs:fem:stem_acc
 *au)spi :*au)/spic:c_kos:masc
 *au)sxis :*au)sxi/sai:hs_ou:masc:pl:stem_acc
 *au)sxit :*au)sxi/tai:h_hs:fem:pl
@@ -5044,7 +5073,7 @@
 *bakouat *bakou_at:*bakou=atai:h_hs:fem:pl *bakoua_t:*bakoua=tai:h_hs:fem:pl
 *baktr :*ba/ktra:a_hs:fem :*ba/ktra:os_ou:neut:pl :*ba/ktros:os_ou:masc
 *baktri :*ba/ktrios:os_h_on :*baktri/on:os_ou:neut
-*baktrian :*baktrianh/s:hs_ou:masc:suff_acc :*baktriano/s:os_h_on:suff_acc
+*baktrian :*baktriano/s:os_h_on:suff_acc
 *bakx :*ba/kxh:h_hs:fem :*ba/kxis:is_idos:masc :*ba/kxos:os_ou:masc :*bakxeu/s:eus_ews:masc:suff_acc :*bakxi/s:is_idos:fem:suff_acc
 *bakxebakx :*bakxe/bakxon:os_ou:masc
 *bakxei *bakxei_:*bakxei=on:os_ou:neut:stem_acc *bakxei_:*bakxei=os:os_h_on:stem_acc *bakxei_:*bakxei=os:os_ou:masc:pers_name *bakxei_:*bakxei=os:os_ou:masc:sg:pers_name :*ba/kxeios:os_h_on :*ba/kxeios:os_h_on:masc :*ba/kxeios:os_h_on:stem_acc :*bakxei/a:h_hs:fem:stem_acc :*bakxei/os:os_ou:masc:pers_name :*bakxei/os:os_ou:masc:sg:pers_name :*bakxei=a:os_ou:neut:pl:stem_acc
@@ -5227,7 +5256,7 @@
 *bazi :*ba/zion:os_ou:neut
 *bazir :*ba/zira:a_hs:fem
 *bdeluklew :*bdelukle/wn:n_nos:masc:pers_name
-*bebru :*be/brukes:c_kos:masc:pl
+*bebru :*be/bruc:c_kos:masc
 *bebruk :*bebru/kh:h_hs:fem:sg:pers_name
 *bebruki :*bebruki/a:h_hs:fem:stem_acc
 *bebw :*be/bwn:n_nos:masc:pers_name
@@ -5532,6 +5561,9 @@
 *boubastei :*boubastei/a:h_hs:fem:stem_acc
 *boubastit *boubasti_t:*boubasti/ths:hs_ou:masc:stem_acc
 *boubentan :*boubentano/s:os_ou:masc:suff_acc
+*boubolk :*boubou=lkoi:os_ou:masc:suff_acc
+*bouboulk :*boubou=lkoi:os_ou:masc :*boubou=lkoi:os_ou:masc:stem_acc
+*boubwn :*boubwneu/s:eus_ews:masc:suff_acc
 *boudei :*bou/deion:os_ou:neut:sg:geog_name :*boudeion:os_ou:neut
 *boudi :*bou/dioi:os_ou:masc:pl
 *boudin *boudi_n:*boudi=noi:os_ou:masc:pl
@@ -5549,11 +5581,11 @@
 *boukefalei :*boukefa/leia:a_hs:fem
 *boukefali :*boukefali/a:a_hs:fem:stem_acc :*boukefali/a:h_hs:fem:geog_name
 *boukol :*bouko/los:os_ou:masc:stem_acc
-*boukolian :*boukoliano/s:os_ou:suff_acc
+*boukolian :*boukoliano/s:os_ou:masc:suff_acc
 *boukolid :*boukoli/dhs:hs_ou:masc:sg:stem_acc:pers_name
 *boukoliw :*boukoli/wn:n_nos:masc :*boukoli/wn:n_nos:masc:sg :*boukoliw/n:n_nos:fem:stem_acc
 *boukopi :*bouko/pia:os_ou:neut:pl
-*boul :*bou=lis:is_ews:masc :*bou=lis:is_idos:fem :*bou=lis:is_idos:fem:suff_acc :*bouleu/s:eus_ews:masc:suff_acc
+*boul :*bou=lis2:is_idos:fem :*bou=lis2:is_idos:fem:suff_acc :*bou=lis:is_ews:masc :*bouleu/s:eus_ews:masc:suff_acc
 *boulai :*boulai=os:os_ou:masc:pers_name
 *boulgar :*bou/lgaros:os_ou:masc :*bou/lgaros:os_ou:stem_acc
 *boulgari :*boulgari/a:a_hs:fem:stem_acc:geog_name
@@ -5650,8 +5682,8 @@
 *briganti :*briga/ntioi:os_ou:masc:pl :*briga/ntion:os_ou:neut
 *brikinni :*brikinni/ai:h_hs:fem:pl
 *brilhss :*brilhsso/s:os_ou:masc:suff_acc
-*brim :*brimw/:ws_wos:fem:sg:suff_acc:pers_name :*brimw/:ws_wos:fem:suff_acc:pers_name
-*brimi :*brimi/as:hs_ou:masc
+*brim :*brimw/:w_oos:fem:suff_acc :*brimw/:ws_wos:fem:sg:suff_acc:pers_name :*brimw/:ws_wos:fem:suff_acc:pers_name
+*brimi :*brimi/as:hs_ou:masc:stem_acc
 *briouat :*brioua/ths:hs_ou:masc
 *brioul :*bri/oula:a_hs:fem
 *bris :*briseu/s:eus_ews:masc:sg:suff_acc:pers_name
@@ -5742,7 +5774,7 @@
 *cenar :*cena/rhs:hs_eos:masc :*cena/rhs:hs_ou:masc:sg:pers_name
 *cenarx :*ce/narxos:os_ou:masc:sg:pers_name
 *cenet :*ce/netos:os_ou:masc
-*ceni :*ce/nios:os_ou:masc :*ceni/as:hs_ou:masc
+*ceni :*ce/nios:os_ou:masc :*ceni/as:hs_ou:masc:stem_acc
 *ceniad :*cenia/dhs:hs_ou:masc:sg:pers_name
 *cenn :*cenni/s:is_idos:fem:suff_acc
 *ceno :*cenoklh=s:klehs_kleous:masc
@@ -5809,6 +5841,7 @@
 *daimax *dai+max:*dai/+maxos:os_ou:masc:pers_name
 *daimon :*daimo/nwn:wn_onos:masc
 *daiq *dai+q:*da/iq:os_ou:masc:pers_name :*da/iqos:os_ou:masc:pers_name
+*dair :*da/eira:a_hs:fem:attic
 *daishn :*daish/nwr:wr_oros:masc
 *daisi :*dai/sios:os_ou:masc
 *daisidiat *daisidia_t:*daisidia=tai:h_hs:fem:pl
@@ -5844,7 +5877,7 @@
 *damas :*da/mason:os_ou:neut:sg:geog_name :*da/masos:os_ou:masc
 *damasan *damasa_n:*damash/nwr:wr_oros:masc:pers_name
 *damashn :*damash/nwr:wr_oros:masc:pers_name
-*damasi :*damasi/as:hs_ou:masc
+*damasi :*damasi/as:hs_ou:masc:stem_acc
 *damasipp :*dama/sippos:os_ou:masc
 *damasiqum :*damasi/qumos:os_ou:masc
 *damasistrat :*damasi/stratos:os_ou:masc
@@ -6363,11 +6396,11 @@
 *dolw :*do/lwn:n_nos:masc :*do/lwn:n_nos:masc:sg
 *domatit :*domati/ths:hs_ou:masc:sg:pers_name
 *dometi :*dome/tios:os_ou:masc
-*dometian :*dometiano/s:os_ou:suff_acc
+*dometian :*dometiano/s:os_ou:masc:suff_acc
 *dometiopolit *dometiopoli_t:*dometiopoli/ths:hs_ou:masc:stem_acc
 *dometioupol :*dometiou/polis:is_ews:fem:geog_name
 *domiti :*domi/tios:os_ou:masc:pers_name
-*domitian :*domitiano/s:os_ou:suff_acc
+*domitian :*domitiano/s:os_ou:masc:suff_acc
 *domn :*do/mnos:os_ou:masc:sg:pers_name
 *domnin *domni_n:*domni=nos:os_ou:masc:sg:stem_acc:pers_name
 *donakt :*dona/ktas:hs_ou:masc:stem_acc
@@ -6885,7 +6918,7 @@
 *faia *faia_:*fai/ac:c_kos:masc
 *faidim :*fai/dimos:os_ou:masc:sg:pers_name :*faidi/mh:h_hs:fem:sg:pers_name
 *faidr *fai_dr:*fai=dras:hs_ou:masc:sg:pers_name :*fai/drh:h_hs:fem:sg:stem_acc:pers_name :*fai=dros:os_ou:masc
-*faidri :*faidri/as:hs_ou:masc
+*faidri :*faidri/as:hs_ou:masc:stem_acc
 *faidum :*faidu/mh:h_hs:fem
 *faidw :*fai/dwn:n_nos:masc
 *faih :*fai/ac:c_kos:masc
@@ -6910,7 +6943,6 @@
 *faki :*fa/kion:os_ou:neut :*fakieu/s:eus_ews:masc:suff_acc
 *fakouss *fakou_ss:*fakou=ssai:h_hs:fem:pl
 *fakras :*fakrash=s:ehs_eou:masc:sg:suff_acc:pers_name
-*fal :*falh/s:hs_eos:masc:suff_acc
 *falaik :*fa/laikos:os_ou:masc
 *falaisi :*falai/siai:h_hs:fem:pl :*falaisi/ai:h_hs:fem:pl :*falaisieu/s:eus_ews:masc:suff_acc
 *falakr :*fala/kra:a_hs:fem
@@ -6928,9 +6960,10 @@
 *faleri :*fale/rioi:os_ou:masc:pl :*fale/rion:os_ou:neut
 *falerin *faleri_n:*faleri=nos:os_ou:masc:stem_acc :*falerino/s:os_h_on:suff_acc:geog_name
 *falern :*fa/lernos:os_ou:masc
+*falh :*falh=s:s_tos:masc:stem_acc:contr
 *falhr :*fa/lhron:os_ou:neut :*fa/lhros:os_ou:masc:sg:pers_name :*falhreu/s:eus_ews:masc:suff_acc :*falhro/n:os_ou:neut:suff_acc
 *falhrik :*falhriko/s:os_h_on:suff_acc
-*fali :*fa/lion:os_ou:neut:geog_name :*fali/as:hs_ou:masc :*fali/os:os_ou:masc:stem_acc
+*fali :*fa/lion:os_ou:neut:geog_name :*fali/as:hs_ou:masc:stem_acc :*fali/os:os_ou:masc:stem_acc
 *falin *fali_n:*fali=nos:os_ou:masc:sg:stem_acc:pers_name
 *falisk :*fali/skos:os_ou:masc :*fali/skos:os_ou:masc:stem_acc
 *falk :*fa/lkhs:hs_ou:masc:sg:stem_acc:pers_name
@@ -6967,7 +7000,7 @@
 *fanotei :*fano/teia:a_hs:fem
 *fant :*fa/nths:hs_ou:masc :*fa/ntwn:wn_onos:masc:sg:pers_name
 *fantasi :*fantasi/a:a_hs:fem:sg:pers_name
-*fanti :*fanti/as:hs_ou:masc
+*fanti :*fanti/as:hs_ou:masc:stem_acc
 *faouenti :*faouenti/a:a_hs:fem:stem_acc
 *far *fa_r:*fa=ris:is_ews:fem:geog_name *fa_r:*fa=ris:is_ews:fem:sg:geog_name :*fa/ras:hs_eos:masc :*fa/ras:hs_ou:masc:pers_name :*fa/rh:h_hs:fem:pl :*fa/ros:os_ou:fem :*fari/s:is_ews:fem:suff_acc
 *fara :*fa/rac:c_kos:masc
@@ -7030,7 +7063,7 @@
 *feia :*feia/s:s_dos:fem:stem_acc
 *feid :*fei/das:as_antos:masc:sg:stem_acc:pers_name :*fei/dwn:wn_onos:masc:sg:stem_acc:pers_name
 *feidhnai :*feidhnai=os:os_h_on:stem_acc
-*feidi :*feidi/as:hs_ou:masc
+*feidi :*feidi/as:hs_ou:masc:stem_acc
 *feidiak :*feidiako/s:os_h_on:suff_acc
 *feidipp :*fei/dippos:os_ou:masc:sg:pers_name
 *feidippid :*feidippi/dhs:hs_ou:masc
@@ -7066,7 +7099,7 @@
 *feretim :*fereti/mh:h_hs:fem
 *ferh :*fe/rhs:s_tos:masc :*fe/rhs:s_tos:masc:sg
 *ferhtiad :*ferhtia/dhs:hs_ou:masc:sg:pers_name
-*feri :*feri/as:hs_ou:masc
+*feri :*feri/as:hs_ou:masc:stem_acc
 *feroit :*feroi/ths:hs_ou:masc
 *ferous :*fe/rousa:a_hs:fem:sg:pers_name
 *ferrefatt :*ferse/fassa:a_hs:fem:attic:*plat.
@@ -7111,10 +7144,11 @@
 *fiki :*fi/kion:os_ou:neut
 *fikipp :*fi/kippoi:os_ou:masc:pl
 *fikolne :*fiko/lneoi:os_ou:masc:pl
-*fil :*fi/la:a_hs:fem:sg:pers_name :*fi/lus:us_uos :*filh/s:hs_ou:masc:suff_acc
+*fil :*fi/la:a_hs:fem:sg:pers_name :*fi/lai:h_hs:fem:pl :*fi/lai:h_hs:fem:pl:suff_acc :*fi/lus:us_uos :*filh=s:masc:suff_acc
 *fila :*fila/wn:wn_onos:masc
 *filadelf :*fila/delfos:os_ou:masc :*filadelfeu/s:eus_ews:masc:suff_acc
 *filadelfei :*filade/lfeia:a_hs:fem
+*filadelfhn :*filadelfhno/s:os_h_on:suff_acc
 *filadelfi *filade/lfi:*filade/lfion:os_ou:neut:late :*filade/lfios:os_ou:masc
 *filagr :*fi/lagros:os_ou:masc
 *filagri :*fila/grios:os_ou:masc:sg:pers_name
@@ -7124,7 +7158,7 @@
 *filainet :*filaine/th:h_hs:fem
 *filalhq :*filalh/qhs:hs_ou:masc:pers_name
 *filammw :*fila/mmwn:n_nos:masc
-*filan :*fila/nwr:wr_oros:masc
+*filan :*fila/nwr:wr_oros:masc:doric:stem_acc
 *filandrid :*filandri/dhs:hs_ou:masc
 *filanori :*filano/rion:os_ou:neut
 *filanq :*fi/lanqos:os_ou:masc
@@ -7138,6 +7172,8 @@
 *filhm :*filh/mwn:wn_onos:masc
 *filhmen :*filh/menos:os_ou:masc:sg:pers_name
 *filhmonid :*filhmoni/dhs:hs_ou:masc:stem_acc
+*filhn :*fila/nwr:wr_oros:masc:stem_acc
+*filhnori :*filano/rion:os_ou:neut :*filhno/rios:os_ou:masc
 *filhsi :*filh/sios:os_ou:masc :*filhsi/as:hs_ou:masc:sg:pers_name
 *filht :*filh/ths:hs_ou:masc:sg:pers_name :*filhta=s:ehs_eou:masc:sg:suff_acc:pers_name
 *filhtorid :*filhtori/dhs:hs_ou:masc:sg:stem_acc:pers_name
@@ -7232,7 +7268,7 @@
 *filwt :*filw/tas:hs_ou:masc:doric :*filwti/s:is_idos:fem:suff_acc
 *filwtad :*filwta/dhs:hs_ou:masc:stem_acc
 *filwter :*filwte/ra:a_hs:fem:stem_acc
-*fimbri :*fimbri/as:hs_ou:masc:pers_name :*fimbri/as:masc:stem_acc:pers_name
+*fimbri :*fimbri/as:hs_ou:masc:stem_acc:pers_name :*fimbri/as:masc:stem_acc:pers_name
 *fin :*fineu/s:eus_ews:masc:suff_acc
 *finees :*finee/shs:hs_ou:masc:stem_acc
 *fineid :*finei/dhs:hs_ou:masc
@@ -7270,13 +7306,12 @@
 *fleguant :*fleguanti/s:is_idos:fem:suff_acc
 *flei :*fliou=s:oeis_oentos:fem:suff_acc
 *fleiasi :*flia/sios:os_h_on
-*fli :*fli/as:hs_ou:masc :*fliou=s:oeis_oentos:fem:suff_acc :*fliou=s:oeis_oentos:masc:suff_acc
+*fli :*fli/as:as_antos:masc :*fliou=s:oeis_oentos:fem:suff_acc :*fliou=s:oeis_oentos:masc:suff_acc
 *fliasi :*flia/sios:os_h_on :*fliou=s:os_h_on
 *fliount :*fliounti/s:is_idos:fem:suff_acc
 *fliounti :*fliou/ntios:os_h_on
 *flngoni :*flngo/nion:os_ou:neut
 *flu :*flu/os:os_ou:masc :*flueu/s:eus_ews:masc:suff_acc
-*flu[ :*flu[eu/s:eus_ews:masc:suff_acc
 *flugoni :*flugo/nion:os_ou:neut
 *flwr :*flw=ra:a_hs:fem:pers_name :*flw=ros:os_ou:masc
 *flwrenti :*flwre/ntios:os_ou:masc:pers_name :*flwrenti/a:a_hs:fem:stem_acc :*flwrenti/a:h_hs:fem:stem_acc:pers_name
@@ -7360,6 +7395,8 @@
 *fradmonid :*fradmoni/dhs:hs_ou:masc:sg:stem_acc:pers_name
 *fragg :*fra/ggos:os_ou:masc
 *fraggi :*fraggi/a:h_hs:fem:stem_acc
+*fragk :*fra/gkoi:os_ou:masc
+*fragkiw :*fragki/wn:n_nos:masc
 *fraort :*frao/rths:hs_ou:masc
 *frasaort :*frasao/rths:hs_ou:masc:sg:pers_name
 *frasi :*fra/sios:os_ou:masc :*frasikle/hs:klehs_kleous:masc:pers_name
@@ -7485,7 +7522,7 @@
 *gadhn :*gadhnoi/:os_ou:masc:pl:suff_acc
 *gadhr :*ga/dhra:a_hs:fem
 *gadilw :*gadilw/n:n_nos:masc:pl:stem_acc
-*gaditan :*gaditano/s:os_ou:suff_acc
+*gaditan :*gaditano/s:os_h_on:suff_acc
 *gadrwsi :*gadrw/sioi:os_ou:masc:pl
 *gag :*ga/gai:h_hs:fem:pl
 *gagai *gagai_:*gagai=os:os_ou:masc
@@ -7636,8 +7673,8 @@
 *geranei :*geranei/a:a_hs:fem :*geranei/h:h_hs:fem
 *gerani :*gerani/h:h_hs:fem
 *geranqr :*ge/ranqrai:h_hs:fem:pl :*gera/nqrai:h_hs:fem:pl
-*gerar :*ge/rara:a_hs:fem
-*geras :*ge/rasa:a_hs:fem
+*gerar :*ge/rara:os_ou:neut:pl
+*geras :*ge/rasa:a_hs:fem :*ge/rasa:os_ou:neut:pl
 *gerashn :*gerashno/s:os_ou:masc:suff_acc :*gerashno/s:os_ou:masc:suff_acc:pers_name
 *gerasti :*gera/stios:os_ou:masc
 *gerenqr :*gere/nqrai:h_hs:fem:pl
@@ -7645,7 +7682,8 @@
 *gergesai *gergesai_:*gergesai=oi:os_ou:masc:pl
 *gergi :*ge/rgis:s_qos:fem
 *gergiqi :*gergi/qios:os_ou:masc :*gergi/qios:os_ou:masc:pers_name
-*gerhn :*ge/rhna:a_hs:fem :*ge/rhnos:os_ou:masc
+*gerh :*ge/rhn:n_nos:masc
+*gerhn :*ge/rhna:os_ou:neut:pl :*ge/rhnos:os_ou:fem
 *gerhni :*gerh/nios:os_ou:masc:sg:pers_name :*gerhni/a:a_hs:fem:stem_acc
 *germ :*ge/rmh:h_hs:fem
 *german :*germano/s:os_ou:masc:suff_acc :*germanw=n:wCn_wCntos:masc:suff_acc
@@ -7719,7 +7757,7 @@
 *glauk *glau_k:*glau=kos:os_ou:masc:sg:stem_acc:pers_name :*glau/kh:h_hs:fem:sg:stem_acc:pers_name :*glau=kos:os_ou:masc:sg:pers_name
 *glaukanit *glaukani_t:*glaukani=tai:h_hs:fem:pl
 *glauket :*glauke/ths:hs_ou:masc
-*glauki :*glauki/as:hs_ou:masc
+*glauki :*glauki/as:hs_ou:masc:stem_acc
 *glaukid :*glauki/dhs:hs_ou:masc
 *glaukipp :*glau/kippos:os_ou:masc :*glauki/pph:h_hs:fem
 *glaukonom :*glaukono/mh:h_hs:fem
@@ -7766,7 +7804,7 @@
 *gonqar *go/nqar:*go/nqaris:is_ews:masc:pers_name
 *gord :*go/rdus:us_uos:masc:sg:pers_name
 *gordhni :*gordhni/a:a_hs:fem:stem_acc
-*gordi :*go/rdios:os_ou:masc:sg:pers_name :*gordi/as:hs_ou:masc
+*gordi :*go/rdios:os_ou:masc:sg:pers_name :*gordi/as:hs_ou:masc:stem_acc
 *gordian :*gordiano/s:os_ou:masc:suff_acc:pers_name
 *gordoni :*gordoni/a:a_hs:fem:stem_acc
 *gordouni :*gordouni/a:a_hs:fem:stem_acc
@@ -7777,7 +7815,7 @@
 *gorga :*gorga/s:s_dos:fem:stem_acc
 *gorgas :*go/rgasos:os_ou:masc
 *gorgei :*go/rgeios:os_h_on
-*gorgi :*gorgi/as:hs_ou:masc :*gorgi/wn:wn_onos:masc:sg:pers_name
+*gorgi :*gorgi/as:hs_ou:masc:stem_acc :*gorgi/wn:wn_onos:masc:sg:pers_name
 *gorgia :*gorgia/s:s_dos:fem:stem_acc
 *gorgid :*gorgi/das:hs_ou:masc:sg:doric:aeolic:pers_name
 *gorgiei :*gorgi/eios:os_on
@@ -7898,9 +7936,9 @@
 *kabas :*ka/basa:os_ou:neut:pl:geog_name
 *kabasil :*kabasi/las:hs_ou:masc:doric:aeolic:pers_name
 *kabass :*ka/bassa:a_hs:fem :*kabasso/s:os_ou:masc:suff_acc
-*kabeir :*ka/beira:a_hs:fem :*ka/beiroi:os_ou:masc:pl
+*kabeir :*ka/beira:a_hs:fem :*ka/beiroi:os_ou:masc:pl :*ka/beiros:os_ou:masc:sg
 *kabeirai *kabeirai_:*kabeirai=os:os_h_on:stem_acc :*kabeirai/h:h_hs:fem :*kabeirai=os:os_h_on:stem_acc
-*kabeiri :*kabei/ria:os_ou:neut:pl :*kabei/rion:os_ou:neut :*kabeiri/a:h_hs:fem:stem_acc :*kabeiri/as:hs_ou:masc
+*kabeiri :*kabei/ria:os_ou:neut:pl :*kabei/rion:os_ou:neut :*kabeiri/a:h_hs:fem:stem_acc :*kabeiri/s:s_dos:fem:stem_acc
 *kabeiria :*kabeiria/s:s_dos:fem:stem_acc
 *kabeirik :*kabeiriko/s:os_h_on:suff_acc
 *kabelliwnhsi :*kabelliwnh/sios:os_ou:masc
@@ -7937,7 +7975,7 @@
 *kafisi :*kafisi/as:hs_ou:masc:stem_acc
 *kafu :*kafu/h:h_hs:fem:doric :*kafu/h:h_hs:fem:pl :*kafueu/s:eus_ews:masc:suff_acc
 *kafuat :*kafua/ths:hs_ou:masc
-*kafuatik :*kafuatikh/s:hs_ou:masc:suff_acc
+*kafuatik :*kafuatikh/:h_hs:fem:suff_acc
 *kaiad :*kaia/dhs:hs_ou:masc:doric
 *kaiaf :*kaia/fas:masc:stem_acc
 *kaian *kai+an:*kai+ano/s:os_ou:masc:sg:suff_acc:pers_name
@@ -8000,10 +8038,10 @@
 *kalaminqi :*kalami/nqios:os_ou:masc
 *kalamis :*kala/misa:os_ou:neut:pl
 *kalamit :*kalami/ths:hs_ou:masc:sg:pers_name
-*kalan :*ka/lanos:os_ou:masc:sg:pers_name :*kalano/s:os_ou:suff_acc
+*kalan :*ka/lanos:os_ou:masc:sg:pers_name :*kalano/s:os_ou:masc :*kalano/s:os_ou:masc:suff_acc
 *kalaoidi :*kalaoi/dia:os_ou:neut:pl
 *kalaqi :*kala/qion:os_ou:neut
-*kalasiri :*kalasiri/as:hs_eos:masc
+*kalasir :*kala/siris:is_idos:masc :*kalasi/ries:is_ews:masc:pl
 *kalat :*ka/latis:is_idos:fem
 *kalati :*kalati/a:a_hs:fem:stem_acc :*kalati/a:h_hs:fem:geog_name
 *kalaureat :*kalaurea/ths:hs_ou:masc:stem_acc
@@ -8035,7 +8073,7 @@
 *kalle :*kalli/as:hs_ou:masc:stem_acc
 *kallei :*ka/lleion:os_ou:neut :*kalli/as:hs_ou:masc:stem_acc
 *kalleid :*kallei/dhs:hs_ou:masc:stem_acc
-*kalli :*ka/llion:os_ou:neut :*kalli/as:hs_ou:masc :*kalli/as:hs_ou:masc:stem_acc :*kalli/h:h_hs:fem:pl:suff_acc :*kallieu/s:eus_ews:masc:suff_acc :*kallih/:h_hs:fem:suff_acc :*kallih/s:hs_eos:masc:suff_acc :*kalliklh=s:klehs_kleous:masc
+*kalli :*ka/llion:os_ou:neut :*kalli/as:hs_ou:masc:stem_acc :*kalli/h:h_hs:fem:pl:suff_acc :*kallieu/s:eus_ews:masc:suff_acc :*kallih/:h_hs:fem:suff_acc :*kalliklh=s:klehs_kleous:masc
 *kalliad :*kallia/dhs:hs_ou:masc
 *kalliana :*kalli/anac:c_ktos:masc :*kallia/nac:c_ktos:masc:sg:pers_name:ant_acc
 *kallianass :*kallia/nassa:a_hs:fem:sg:pers_name
@@ -8243,7 +8281,7 @@
 *kardamul :*kardamu/lh:h_hs:fem:sg:stem_acc:pers_name
 *kardamulit :*kardamuli/ths:hs_ou:masc
 *kardi :*kardi/h:h_hs:fem
-*kardian :*kardiano/s:os_ou:suff_acc
+*kardian :*kardiano/s:os_ou:masc:suff_acc
 *kardopiw :*kardopi/wn:n_nos:masc
 *kardoux *kardou_x:*kardou=xoi:os_ou:masc:pl
 *karei :*ka/reios:os_ou:masc
@@ -8256,7 +8294,7 @@
 *kariat :*kari/atai:h_hs:fem:pl
 *karik *ka_rik:*kariko/s:os_h_on:suff_acc
 *karikoerg :*karikoergh/s:hs_es:suff_acc
-*karin *ka_ri_n:*kari/nh:h_hs:fem:stem_acc :*karino/s:os_ou:masc:suff_acc
+*karin *ka_ri_n:*kari/nh:h_hs:fem:stem_acc *kari_n:*kari=nos:os_ou:masc:stem_acc :*karino/s:os_ou:masc:suff_acc
 *kariw :*kari/wn:n_nos:masc
 *karkaqiokert :*karkaqio/kerta:a_hs:fem
 *karkin *karki_n:*karki=nos:os_ou:masc:stem_acc:pers_name :*ka/rkina:a_hs:fem :*karki/nos:os_ou:masc:stem_acc
@@ -8401,6 +8439,7 @@
 *katarrhkt :*katarrh/kths:hs_ou:masc
 *katarzhn :*katarzhnh/:h_hs:fem:suff_acc
 *katelan :*katela/noi:os_ou:masc:stem_acc
+*katell :*kate/lla:a_hs:fem:stem_acc
 *katilin :*katili/nas:masc:stem_acc:pers_name
 *katill :*ka/tillos:os_ou:masc
 *katis :*ka/tisa:a_hs:fem
@@ -8435,7 +8474,7 @@
 *kaustr *kau+str:*ka/u+stros:os_ou:masc:geog_name
 *kaustri *kau+stri:*ka/u+stros:os_h_on *kau+stri:*kau/strios:os_h_on
 *kauxabhn :*kauxa/bhnoi:os_ou:masc:pl
-*kaxal :*kaxa/lhs:hs_ou:masc
+*kaxal :*kaxa/lhs:hs_ou:masc:stem_acc
 *kay :*ka/ya:a_hs:fem
 *kazeik :*kaze/ika:a_hs:fem
 *ke :*ke/os:os_ou:fem:ionic :*ke/ws:ws_w:fem
@@ -8676,7 +8715,7 @@
 *kinar :*ki/naros:os_ou:masc
 *kindu :*ki/nduh:h_hs:fem :*kindueu/s:eus_ews:masc:suff_acc
 *kine :*kine/as:hs_ou:masc
-*kinhsi :*kinhsi/as:hs_ou:masc
+*kinhsi :*kinhsi/as:hs_ou:masc:stem_acc
 *kinn :*ki/nnas:masc:pers_name
 *kinnam :*ki/nnamos:os_ou:masc:pers_name
 *kinu :*ki/nuy:y_fos:fem
@@ -8711,10 +8750,11 @@
 *kissi :*ki/ssios:os_h_on
 *kissid :*kissi/das:hs_ou:masc:sg:doric:aeolic:pers_name
 *kistobwk *kistobw_k:*kistobw=koi:os_ou:masc:pl
-*kiti :*ki/tion:os_ou:neut :*kitieu/s:eus_ews:masc:suff_acc:pers_name :*kitih/s:hs_eos:masc:suff_acc :*kitio/n:os_ou:neut:suff_acc
+*kiti :*ki/tion:os_ou:neut :*kitieu/s:eus_ews:masc:suff_acc
 *kitiai :*kitiai=os:os_h_on:stem_acc
 *kitr :*ki/tron:os_ou:neut
-*kitti :*kittieu/s:eus_ews:masc:suff_acc
+*kitt :*ki/ttos:os_ou:masc
+*kitti :*kitieu/s:eus_ews:masc:suff_acc
 *kittiai *kittiai_:*kittiai=oi:os_ou:masc:pl
 *kixur :*ki/xuros:os_ou:masc
 *kixwri :*kixw/rios:os_ou:masc
@@ -8758,7 +8798,7 @@
 *kleigen :*kleige/nhs:hs_eos:masc
 *klein *klei_n:*klei=nis:is_idos:masc:sg:pers_name
 *kleinaret :*kleinare/th:h_hs:fem
-*kleini :*klei/nios:os_ou:masc :*kleini/as:hs_ou:masc
+*kleini :*klei/nios:os_ou:masc :*kleini/as:hs_ou:masc:stem_acc
 *kleinomax :*kleino/maxos:os_ou:masc
 *kleinopatr :*kleino/patros:os_ou:masc
 *kleippid *klei+ppid:*klei+ppi/dhs:hs_ou:masc:pers_name
@@ -8770,7 +8810,7 @@
 *kleitern :*klei/ternon:os_ou:neut
 *kleitodhm :*kleito/dhmos:os_ou:masc
 *kleitodik :*kleito/dikos:os_ou:masc
-*kleitofw :*kleitofw=n:n_ntos:masc:stem_acc:contr:pers_name
+*kleitof :*kleitofw=n:wCn_wCntos:masc:suff_acc
 *kleitomax :*kleito/maxos:os_ou:masc
 *kleitori :*kleito/rios:os_h_on
 *kleitw :*klei/twn:n_nos:masc
@@ -8778,24 +8818,29 @@
 *kleob :*kle/obis:is_ews:masc :*kle/obis:is_idos:masc
 *kleobi :*kleo/bios:os_ou:masc
 *kleoboi :*kleoboi/a:a_hs:fem
-*kleoboul :*kleo/boulos:os_ou:masc:sg:pers_name
-*kleoboulin :*kleobouli/nh:h_hs:fem:sg:pers_name
+*kleoboul :*kleo/boulos:os_ou:masc:sg:pers_name :*kleobou/lh:h_hs:fem:stem_acc
+*kleoboulin *kleobouli_n:*kleobouli/nh:h_hs:fem:stem_acc
 *kleocen :*kleo/cenos:os_ou:masc:sg:pers_name
-*kleodai :*kleo/daios:os_ou:masc
+*kleodai :*kleodai=os:os_ou:masc :*kleodai=os:os_ou:masc:stem_acc
+*kleodam :*kleo/dhmos:os_ou:masc:sg:doric:pers_name
 *kleodhm :*kleo/dhmos:os_ou:masc:sg:pers_name
 *kleodik :*kleodi/kh:h_hs:fem
 *kleodoc :*kleo/doca:a_hs:fem
+*kleodot :*kleo/dotos:os_ou:masc
 *kleodwr :*kleo/dwros:os_ou:masc:pers_name :*kleodw/rh:h_hs:fem
 *kleof :*kleofw=n:wCn_wCntos:masc
 *kleofant :*kleo/fantos:os_ou:masc:sg:pers_name
 *kleoful :*kleofu/lh:h_hs:fem
 *kleogen :*kleoge/nhs:hs_eos:masc
 *kleoit :*kleoi/ths:hs_ou:masc:doric
+*kleokrat :*kleokra/ths:hs_eos:masc
 *kleokrit :*kleo/kritos:os_ou:masc
 *kleol :*kleo/lhs:hs_ou:masc:doric
 *kleola :*kleo/laos:os_ou:masc
+*kleomant :*kleo/mantis:is_ews:masc
 *kleomax :*kleo/maxos:os_ou:masc:sg:pers_name
 *kleombrot :*kleo/mbrotos:os_ou:masc
+*kleomed :*kleome/dwn:wn_ontos:masc
 *kleomen :*kleome/nhs:hs_eos:masc
 *kleomenik :*kleomeniko/s:os_h_on:suff_acc
 *kleomenist :*kleomenistai/:hs_ou:masc:pl:suff_acc
@@ -8808,6 +8853,7 @@
 *kleopatr :*kleopa/trh:h_hs:fem:sg:stem_acc:pers_name :*kleopatri/s:is_idos:fem:suff_acc
 *kleopomp :*kleo/pompos:os_ou:masc
 *kleoptolem :*kleopto/lemos:os_ou:masc:sg:pers_name
+*kleoqhr :*kleoqh/ra:h_hs:fem:stem_acc
 *kleosqen :*kleosqe/nhs:hs_eos:masc
 *kleostrat :*kleo/stratos:os_ou:masc
 *kleotim :*kleo/timos:os_ou:masc:pers_name
@@ -8824,10 +8870,10 @@
 *klhs :*klhsw/:w_oos:fem:suff_acc
 *klhsw :*klh/swn:n_nos:masc
 *klht :*klh/th:h_hs:fem:doric :*klh/th:h_hs:fem:doric:suff_acc
-*klima :*kli/mac:c_kos:masc:ant_acc
+*klima *kli_ma:*kli=mac:c_kos:fem :*kli=mac:c_kos:fem:late
 *klimak :*kli/makos:os_ou:masc:pers_name
 *kloenti :*kloe/ntios:os_ou:masc
-*kloili :*kloi/lios:os_ou:masc :*kloili/as:hs_ou:masc:stem_acc:pers_name
+*kloili :*kloi/lios:os_ou:masc :*kloili/a:h_hs:fem:stem_acc:pers_name
 *klon :*klona=s:ehs_eou:masc:sg:suff_acc:pers_name
 *kloni :*klo/nios:os_ou:masc:sg:pers_name :*kloni/h:h_hs:fem :*kloni/os:os_ou:masc:sg:stem_acc:pers_name
 *kloui :*klou/ios:os_ou:masc
@@ -8835,7 +8881,7 @@
 *klousi :*klou/sion:os_ou:neut :*klou/sios:os_ou:masc :*klousi/a:h_hs:fem:pers_name
 *kluli :*klu/lios:os_ou:masc:pers_name
 *klumen :*klu/menos:os_ou:masc:sg:pers_name :*klume/nh:h_hs:fem:sg:stem_acc:pers_name
-*klusm *klu_sm:*klu=sma:a_hs:fem
+*klus :*klu/sma:ma_matos:neut
 *klut :*klu/tos:os_ou:masc:sg:pers_name :*kluto/s:os_ou:masc:sg:suff_acc:pers_name
 *klutaimhstr :*klutaimnh/stra:h_hs:fem:stem_acc
 *klutaimnhstr :*klutaimnh/stra:h_hs:fem:stem_acc :*klutaimnh/strh:h_hs:fem:sg:stem_acc:pers_name
@@ -8856,7 +8902,7 @@
 *knakadi :*knaka/dion:os_ou:neut
 *knakal :*kna/kalos:os_ou:masc
 *knakalhsi :*knakalh/sios:os_h_on
-*knaki :*knaki/as:hs_ou:masc
+*knaki :*knaki/as:hs_ou:masc:stem_acc
 *knaus :*kna/usos:os_ou:neut
 *knhm :*knh=mis:is_idos:fem :*knh=mos:os_ou:masc :*knhmi/s:is_iCdos:fem:suff_acc
 *knid :*kni/dos:os_ou:masc
@@ -8925,7 +8971,7 @@
 *kolofwni :*kolofw/nios:os_h_on
 *kolont :*kolo/nths:hs_ou:masc:doric
 *koloss :*ko/lossai:h_hs:fem:pl
-*kolossa :*ko-lossaeu/s:eus_ews:masc:suff_acc
+*kolossa :*kolossaeu/s:eus_ews:masc:suff_acc
 *kolosshn :*kolosshno/s:os_h_on:suff_acc
 *kolouq :*ko/louqos:os_ou:masc:sg:pers_name
 *kolp :*ko/lpos:os_ou:masc
@@ -9004,7 +9050,7 @@
 *kopt :*ko/ptos:os_ou:masc :*kopti/s:is_idos:fem:suff_acc :*kopto/s:os_ou:masc:suff_acc :*koptw/:ws_wos:fem:suff_acc
 *koptit *kopti_t:*kopti/ths:hs_ou:masc:stem_acc
 *koq :*ko/qos:os_ou:masc:pers_name
-*koqwkid :*koqw/kidai:hs_ou:masc:pl :*koqwki/dhs:hs_ou:masc:stem_acc
+*koqwkid :*koqwki/dai:hs_ou:masc:stem_acc :*koqwki/dhs:hs_ou:masc:stem_acc
 *kor :*ko/ra:h_hs:fem :*ko/ronta:wn_ontos:neut:pl :*ko/rus:us_uos:fem
 *kora :*ko/rac:c_kos:masc :*ko/rac:c_kos:masc:sg
 *korac :*ko/racoi:os_ou:masc:pl :*koracoi/:os_ou:masc:pl:suff_acc
@@ -9053,7 +9099,7 @@
 *korinqik :*kori/nqios:os_h_on:suff_acc
 *korinqiourg :*korinqiourgh/s:hs_es:suff_acc
 *korinqoeid :*korinqoeidh/s:hs_es:suff_acc
-*koriolan :*korio/lanos:os_ou:masc:pers_name :*koriola/nos:os_ou:masc:stem_acc :*koriolano/s:os_ou:suff_acc
+*koriolan :*korio/lanos:os_ou:masc:pers_name :*koriola/nos:os_ou:masc:stem_acc :*koriolano/s:os_ou:masc:suff_acc
 *korioll :*korio/lla:a_hs:fem
 *korisk :*kori/skos:os_ou:masc:pers_name
 *korkotoulan :*korkotoulano/s:os_ou:masc:suff_acc
@@ -9149,7 +9195,7 @@
 *koulew :*koule/wn:n_nos:masc
 *koullew :*koulle/wn:n_nos:masc
 *koum *kou_m:*kou=mai:h_hs:fem:pl
-*kouman :*koumano/s:os_ou:suff_acc
+*kouman :*koumano/s:os_ou:masc :*koumano/s:os_ou:masc:suff_acc
 *kounac :*kounaca:a_hs:fem
 *koune :*kou/neoi:os_ou:masc:pl :*kou/neos:os_ou:masc
 *koup :*kou=poi:os_ou:masc:pl
@@ -9165,7 +9211,7 @@
 *kourikt :*kouri/kta:a_hs:fem
 *kouriw :*kouri/wn:n_nos:masc
 *kourob :*kou/robis:is_idos:fem
-*kourotrof :*kouro/trofos:os_ou:masc
+*kourotrof :*kourotro/fos:os_on
 *kourotrop :*kourotro/pos:os_ou:masc:stem_acc
 *kourt :*kou/rta:a_hs:fem
 *kourti :*kou/rtios:os_ou:masc
@@ -9182,7 +9228,7 @@
 *krambousai *krambousai_:*krambousai=os:os_ou:masc
 *krambousi :*krambou/sios:os_ou:masc
 *krana :*krana/h:h_hs:fem :*kranah/:h_hs:fem:sg:suff_acc:geog_name :*kranah/:h_hs:fem:suff_acc:geog_name :*kranao/s:os_ou:masc:suff_acc
-*kranai *kranai_:*kranai=a:a_hs:fem:pers_name *kranai_:*kranai=a:a_hs:fem:sg:pers_name :*kranai/as:hs_ou:masc
+*kranai *kranai_:*kranai=a:a_hs:fem:pers_name *kranai_:*kranai=a:a_hs:fem:sg:pers_name
 *kranaixm :*kranai/xmh:h_hs:fem
 *kranasp :*krana/sphs:hs_eos:masc
 *kranei :*kra/neios:os_ou:masc
@@ -9195,7 +9241,7 @@
 *krapaq :*ka/rpaqos:os_ou:fem:epic
 *kraq *kra_q:*kra=qis:is_idos:fem *kra_q:*kra=qis:is_idos:masc:geog_name :*kra/qis:is_ews:fem:geog_name
 *krass :*kra/ssos:os_ou:masc:pers_name
-*krassian :*krassiano/s:os_ou:suff_acc
+*krassian :*krassiano/s:os_ou:masc:suff_acc
 *krassini :*krassi/nios:os_ou:masc
 *krat :*kra/twr:wr_oros:masc:sg:pers_name
 *kratai :*kra/taiis:is_idos:fem:sg:pers_name :*krataii/s:is_idos:fem:suff_acc
@@ -9212,7 +9258,7 @@
 *krathsippid :*krathsippi/das:hs_ou:masc:sg:doric:aeolic:pers_name
 *krathtei :*krath/teios:os_on
 *krati :*krati/eus:eus_ews:masc
-*kratin *krati_n:*krati=nos:os_ou:masc:sg:stem_acc:pers_name :*kra/tinos:os_ou:masc
+*kratin *krati_n:*krati=nos:os_ou:masc:sg:stem_acc:pers_name
 *kratinei :*krati/neios:os_h_on
 *kratipp :*kra/tippos:os_ou:masc:sg:pers_name
 *kratisqen :*kratisqe/nhs:hs_eos:masc
@@ -9294,7 +9340,7 @@
 *krisw :*kri/swn:n_nos:masc
 *krit :*kri/twn:wn_onos:masc:sg:pers_name
 *kritall :*kri/talla:a_hs:fem
-*kriti :*kriti/as:hs_ou:masc
+*kriti :*kriti/as:hs_ou:masc:stem_acc
 *kritoboul :*krito/boulos:os_ou:masc
 *kritodam :*krito/damos:os_ou:masc
 *kritodhm :*krito/dhmos:os_ou:masc
@@ -9356,7 +9402,7 @@
 *krwpid :*krwpi/dhs:hs_ou:masc
 *kteat :*kte/atos:os_ou:masc:sg:pers_name
 *kten :*ktenou=s:oos_oou:masc:suff_acc
-*kthsi :*kth/sias:hs_ou:masc:sg:doric:aeolic:pers_name :*kth/sios:os_ou:masc:sg:pers_name :*kthsi/as:hs_ou:masc :*kthsiklh=s:klehs_kleous:masc
+*kthsi :*kth/sias:hs_ou:masc:sg:doric:aeolic:pers_name :*kth/sios:os_ou:masc:sg:pers_name :*kthsi/as:hs_ou:masc:stem_acc :*kthsiklh=s:klehs_kleous:masc
 *kthsibi :*kthsi/bios:os_ou:masc:sg:pers_name
 *kthsif :*kthsifw=n:wCn_wCntos:masc
 *kthsifw :*kthsifw/n:n_nos:masc:pl:stem_acc
@@ -9386,7 +9432,7 @@
 *kud :*ku/das:hs_ou:masc:sg:doric:aeolic:pers_name
 *kudantid :*kudanti/dhs:hs_ou:masc:stem_acc
 *kudaqhnai :*kudaqhnaieu/s:eus_ews:masc:suff_acc
-*kudi :*kudi/as:hs_ou:masc
+*kudi :*kudi/as:hs_ou:masc:stem_acc
 *kudipp :*ku/dippos:os_ou:masc:sg:pers_name :*kudi/pph:h_hs:fem
 *kudn :*ku/dnos:os_ou:masc
 *kudoim :*kudoimo/s:os_ou:masc:sg:suff_acc:pers_name
@@ -9554,7 +9600,7 @@
 *kwlwtari :*kwlwta/rios:os_h_on
 *kwm :*kw/mh:h_hs:fem :*kw=mos:os_ou:masc:sg:pers_name
 *kwmarxid :*kwmarxi/dhs:hs_ou:masc
-*kwmi :*kwmi/as:hs_ou:masc
+*kwmi :*kwmi/as:hs_ou:masc:stem_acc
 *kwmit :*kwmi/ths:hs_ou:masc
 *kwmw :*kw/mwn:n_nos:masc
 *kwmy :*kw=mya:a_hs:fem
@@ -9688,7 +9734,7 @@
 *lamex :*la/mexos:os_ou:masc
 *lamhtik :*lamhtiko/s:os_h_on:suff_acc
 *lamhtin *lamhti_n:*lamhti=noi:os_ou:masc:pl
-*lami :*la/mia:a_hs:fem :*lami/as:hs_ou:masc:doric :*lamieu/s:eus_ews:masc:suff_acc
+*lami :*la/mia:a_hs:fem :*lami/as:hs_ou:masc:doric:stem_acc :*lamieu/s:eus_ews:masc:suff_acc
 *lamiak :*lamiako/s:os_h_on:suff_acc
 *lamini :*lami/nion:os_ou:neut
 *lamisk :*lami/skos:os_ou:masc:sg:stem_acc:pers_name
@@ -9702,7 +9748,7 @@
 *lampi :*lampi/as:hs_ou:masc:sg:pers_name
 *lampit :*lampitw/:w_oos:fem:suff_acc
 *lampr :*la/mpros:os_ou:masc:sg:pers_name :*lampro/s:os_ou:masc:sg:suff_acc:pers_name
-*lampri :*lampri/as:hs_ou:masc:pers_name
+*lampri :*lampri/as:hs_ou:masc:stem_acc:pers_name
 *lampria :*lampria/s:s_dos:fem:stem_acc
 *lampro :*lamproklh=s:klehs_kleous:masc:sg:suff_acc:pers_name
 *lamptr :*lamptreu/s:eus_ews:masc:suff_acc
@@ -9793,10 +9839,10 @@
 *lasiwni :*lasiw/nios:os_ou:masc
 *laskar :*la/skaris:is_ews:masc
 *lasqen :*lasqe/nhs:hs_eos:masc:pers_name
-*lasqenei :*lasqe//neia:a_hs:fem:sg:pers_name
+*lasqenei :*lasqe/neia:a_hs:fem:sg:pers_name
 *lastratid :*lastrati/dhs:hs_ou:masc:doric
 *lat *la_t:*lhtw/:w_oos:fem:suff_acc *la_t:*lhtw/:w_oos:fem:voc:suff_acc :*la/twn:wn_onos:masc
-*lateran :*laterano/s:os_ou:suff_acc
+*lateran :*laterano/s:os_ou:masc:suff_acc
 *lati :*la/tion:os_ou:neut
 *latiari :*latia/ria:os_ou:neut:pl :*latia/rios:os_ou:masc
 *latin *lati_n:*lati=nos:os_ou:masc:stem_acc :*lati/nh:h_hs:fem
@@ -9928,11 +9974,11 @@
 *letr :*letreu/s:eus_ews:masc:suff_acc
 *letrin :*le/trinoi:os_ou:masc:pl :*letri/na:a_hs:fem:stem_acc
 *letrinai :*letrinai=os:os_h_on:stem_acc
-*leueit *leuei_t:*leuei/ths:hs_ou:masc:stem_acc
+*leueit *leuei_t:*leui/ths:hs_ou:masc:stem_acc
 *leufan :*leufa/na:a_hs:fem:stem_acc
-*leuit *leui_t:*leui/ths:hs_ou:masc:stem_acc :*leui/ths:hs_ou:masc:pl:stem_acc
+*leuit *leui_t:*leui/ths:hs_ou:masc:stem_acc
 *leuitik :*leuitiko/s:os_h_on:suff_acc
-*leuk *leu_k:*leu=kos:os_ou:masc:sg:stem_acc:pers_name :*leu/kh:h_hs:fem:sg:pers_name :*leukh/:h_hs:fem:suff_acc :*leukh/:h_hs:fem:suff_acc:geog_name :*leukh/s:hs_ou:masc:doric:suff_acc :*leuko/s:os_ou:neut:suff_acc :*leukoi/:os_ou:masc:pl:suff_acc
+*leuk *leu_k:*leu=kos:os_ou:masc:sg:stem_acc:pers_name :*leu/kh:h_hs:fem:sg:pers_name :*leukh/:h_hs:fem:suff_acc :*leukh/:h_hs:fem:suff_acc:geog_name :*leuko/s:os_ou:neut:suff_acc :*leukoi/:os_ou:masc:pl:suff_acc
 *leuka :*leuka/s:s_dos:fem:sg:stem_acc :*leuka/s:s_dos:fem:stem_acc
 *leukadi :*leuka/dios:os_h_on :*leukadi/a:h_hs:fem:sg
 *leukai *leukai_:*leukai=os:os_ou:masc:sg:pers_name *leukai_:*leukai=os:os_ou:masc:stem_acc:pers_name :*leu/kaios:os_ou:masc
@@ -9941,10 +9987,11 @@
 *leukaqe :*leuka/qea:os_ou:neut:pl :*leukaqe/a:h_hs:fem
 *leukaqew :*leukaqew/n:n_nos:masc:stem_acc
 *leukasi :*leuka/sion:os_ou:neut :*leuka/sios:os_ou:masc:sg:pers_name :*leukasi/h:h_hs:fem :*leukasi/on:os_ou:neut:stem_acc
+*leuke :*leuke/as:hs_ou:masc:stem_acc
 *leuki :*leu/kios:os_ou:masc
-*leukian :*leukianh/:h_hs:fem:suff_acc
-*leukimm :*leuki/mmh:h_hs:fem
-*leukipp :*leu/kippos:os_ou:masc :*leuki/pph:h_hs:fem :*leukippi/des:is_idos:fem:pl:suff_acc
+*leukian :*leukianh/:h_hs:fem:suff_acc :*leukianoi/:os_ou:masc:suff_acc
+*leukimm :*leuki/mmh:a_hs:fem:nom:sg:late :*leuki/mmh:h_hs:fem
+*leukipp :*leu/kippos:os_ou:masc :*leuki/pph:h_hs:fem :*leukippi/des:is_idos:fem:suff_acc
 *leukofr :*leu/kofrus:us_uos:fem
 *leukofruhn :*leukofruhna/:os_ou:neut:pl :*leukofruhnh/:h_hs:fem:suff_acc
 *leukofrun :*leukofru/nh:h_hs:fem:sg:pers_name
@@ -9960,7 +10007,7 @@
 *leukousi :*leukousi/a:a_hs:fem:stem_acc
 *leuktr *leu_ktr:*leu=ktros:os_ou:masc:stem_acc :*leu=ktra:os_ou:neut:pl
 *leuktrik :*leuktriko/s:os_h_on:suff_acc
-*leukuani :*leukuani/as:hs_ou:masc
+*leukuani :*leukuani/as:hs_ou:masc:stem_acc
 *leukuanit :*leukuani/ths:hs_ou:masc
 *leukw :*leu/kwn:n_nos:masc
 *leukwn :*leukw/nhs:hs_ou:masc
@@ -10206,11 +10253,10 @@
 *loxei :*loxei/a:a_hs:fem:sg:pers_name :*loxei/a:os_ou:neut:pl:stem_acc
 *loxia :*loxia/s:s_dos:fem:stem_acc
 *loyik :*lo/yika:a_hs:fem
-*lu)goust :*lu)gou/ston:os_ou:neut
 *luai *luai_:*luai=os:os_ou:masc:stem_acc
 *luamm :*lu/ammos:os_ou:masc
 *lud *lu_d:*ludo/s:os_ou:masc:suff_acc :*ludo/s:os_h_on:suff_acc
-*ludi *lu_di:*ludi/a:h_hs:fem:stem_acc :*lu/dios:os_h_on :*lu/dios:os_on :*ludi/as:hs_ou:masc
+*ludi *lu_di:*ludi/a:h_hs:fem:stem_acc :*lu/dios:os_h_on :*lu/dios:os_on :*ludi/as:hs_ou:masc:stem_acc
 *ludiad :*ludia/dhs:hs_ou:masc
 *ludiak :*ludiaka/:os_ou:neut:pl:suff_acc
 *ludopaq :*ludopaqh/s:hs_es:suff_acc
@@ -10308,7 +10354,7 @@
 *lusitani :*lusitani/a:a_hs:fem:stem_acc
 *lusitanik :*lusitanikh/:h_hs:fem:suff_acc
 *lusizwn :*lusizw/nh:h_hs:fem:sg:pers_name
-*lustr :*lu/stra:a_hs:fem
+*lustr :*lu/stra:a_hs:fem :*lu/stra:os_ou:neut:pl
 *lusw :*lu/swn:n_nos:masc
 *lutai :*lutai/h:h_hs:fem
 *lutati :*luta/tios:os_ou:masc
@@ -10532,7 +10578,7 @@
 *mantiqe :*manti/qeos:os_ou:masc
 *mantou :*ma/ntoua:a_hs:fem
 *mantu :*mantu/hs:hs_ou:masc
-*mantuan :*mantuano/s:os_ou:suff_acc
+*mantuan :*mantuano/s:os_ou:masc:suff_acc
 *mantzikert *mantzi/kert:*mantziki/ert:os_ou:neut:sg:geog_name
 *manwx :*manw/xhs:hs_ou:masc:stem_acc
 *maoskop :*mao/skopos:os_ou:masc
@@ -10597,7 +10643,7 @@
 *markell :*ma/rkellos:os_ou:masc:pers_name
 *markellin *markelli_n:*markelli=nos:os_ou:masc:stem_acc
 *marki :*ma/rkios:os_ou:masc:pers_name :*marki/a:a_hs:fem:pers_name
-*markian :*markiano/s:os_ou:suff_acc:pers_name
+*markian :*markiano/s:os_ou:masc:suff_acc:pers_name
 *markianoupol :*markianou/polis:is_ews:fem:geog_name
 *markin *marki_n:*marki=na:a_hs:fem:stem_acc
 *markiw :*marki/wn:n_nos:masc:pers_name
@@ -10606,7 +10652,7 @@
 *markomann :*markoma/nnoi:os_ou:masc:pl
 *markomman :*markomanoi/:os_ou:masc:pl
 *marma :*ma/rmac:c_kos:masc
-*marmar :*marmarh/s:hs_eos:masc:suff_acc
+*marmar :*marmareu/s:eus_ews:masc:suff_acc
 *marmarik :*marmarikh/:h_hs:fem:suff_acc
 *marmarin :*marma/rinos:os_ou:masc:sg:pers_name
 *marn :*ma/rnas:hs_ou:masc
@@ -10640,7 +10686,7 @@
 *marwnei :*marw/neia:a_hs:fem
 *marwneit :*marwnei/ths:hs_ou:masc
 *marwns :*ma/rwnsa:a_hs:fem
-*maryi :*ma/ryios:os_ou:masc :*maryi/as:hs_ou:masc:doric
+*maryi :*ma/ryios:os_ou:masc :*maryi/as:hs_ou:masc:doric:stem_acc
 *masad :*masa/da:a_hs:fem:stem_acc
 *masaisuli :*masaisu/lios:os_h_on
 *masaitik *masai+tik:*masai+ti/kh:h_hs:fem
@@ -10758,7 +10804,7 @@
 *megale :*megale/as:hs_ou:masc:sg:pers_name
 *megalofan :*megalofa/nhs:hs_eos:masc
 *megalopol :*megalo/polis:is_ews:fem
-*megalopolit *megalopoli_t:*megalopoli/ths:hs_ou:masc:stem_acc *megalopoli_t:*megalopoli=tis:is_ews:masc:stem_acc *megalopoli_t:*megalopoli=tis:is_idos:fem:stem_acc *megalopoli_t:*megalopolith/s:hs_ou:masc:suff_acc
+*megalopolit *megalopoli_t:*megalopoli/ths:hs_ou:masc:stem_acc *megalopoli_t:*megalopoli=tis:is_ews:masc:stem_acc *megalopoli_t:*megalopoli=tis:is_idos:fem:stem_acc
 *megalopolitik :*megalopolitiko/s:os_h_on:suff_acc
 *megalostrat :*megalostra/ta:a_hs:fem:sg:stem_acc:pers_name
 *megamhd :*megamh/dh:h_hs:fem
@@ -10774,7 +10820,7 @@
 *megh :*me/ghs:s_tos:masc :*me/ghs:s_tos:masc:sg
 *megill :*me/gillos:os_ou:masc:sg:pers_name
 *megist :*megi/sth:h_hs:fem :*megistw/:w_oos:fem:suff_acc:pers_name :*megistw/:ws_wos:fem:sg:suff_acc:pers_name :*megistw/:ws_wos:fem:suff_acc:pers_name
-*megisti :*megisti/as:hs_ou:masc
+*megisti :*megisti/as:hs_ou:masc:stem_acc
 *megiston :*megisto/nous:oos_oou:masc:pers_name
 *meidi :*mei/dios:os_ou :*meidi/as:hs_ou:masc:stem_acc
 *meidulid :*meiduli/dhs:hs_ou:masc:stem_acc
@@ -10823,7 +10869,7 @@
 *meleti :*mele/tios:os_ou:masc:sg:pers_name
 *melhsagor :*melhsago/ras:hs_ou:masc
 *melhsandr :*melh/sandros:os_ou:masc
-*melhsi :*melhsi/as:hs_ou:masc
+*melhsi :*melhsi/as:hs_ou:masc:stem_acc
 *melhsipp :*melh/sippos:os_ou:masc :*melhsippi/s:is_idos:fem:suff_acc
 *melht :*me/lhtos:os_ou:masc
 *melhtid :*melhti/dhs:hs_ou:masc:stem_acc
@@ -10845,6 +10891,7 @@
 *melithn :*melithnh/:h_hs:fem:suff_acc :*melithno/s:os_ou:masc:suff_acc
 *meliti :*meli/tios:os_ou:masc :*meliti/a:a_hs:fem:stem_acc
 *melitt :*melitta:a_hs:fem
+*melitw :*meli/twn:n_nos:masc
 *melitwd :*melitw/dhs:hs_ou:masc:sg:pers_name
 *melizeigar :*melizeiga/ra:a_hs:fem:stem_acc
 *mellari :*mellari/a:a_hs:fem:stem_acc
@@ -11008,8 +11055,12 @@
 *metell :*me/tellos:os_ou:masc :*mete/lla:h_hs:fem:pers_name
 *metew :*mete/wn:n_nos:masc
 *metewri :*metew/rion:os_ou:neut
+*methl :*me/thlis:is_ews:fem
+*methlit *methli_t:*methli/ths:hs_ou:masc:stem_acc
 *meti :*me/tios:os_ou:masc:pers_name
 *metili :*meti/lios:os_ou:masc
+*metin :*meti/nhs:hs_ou:masc:stem_acc
+*metoul :*metou=lon:os_ou:fem:sg:stem_acc :*metou=lon:os_ou:neut:sg
 *metoxit :*metoxi/ths:hs_ou:stem_acc:late
 *metti :*me/tios:os_ou:masc:pers_name :*me/ttios:os_ou:masc:pers_name
 *metw :*me/twn:n_nos:masc
@@ -11299,7 +11350,7 @@
 *mougilan :*mougilano/s:os_ou:masc:suff_acc
 *mouikour *moui+kou_r:*moui/+kou=ron:os_ou:neut:stem_acc
 *mouki :*mou/kios:os_ou:masc :*mouki/as:hs_ou:masc:stem_acc
-*moukian :*moukiano/s:os_ou:suff_acc
+*moukian :*moukiano/s:os_ou:masc:suff_acc
 *mouli :*mou/lios:os_ou:masc:sg:pers_name
 *moummi :*mou/mmios:os_ou:masc
 *mounati :*mouna/tios:os_ou:masc
@@ -11408,7 +11459,7 @@
 *murkin :*mu/rkinos:os_ou:masc
 *murkini :*mu/rkinos:os_h_on :*murki/nios:os_ou:masc
 *murkinn :*mu/rkinnos:os_ou:masc
-*murlean :*murleano/s:os_ou:suff_acc
+*murlean :*murleano/s:os_ou:masc:suff_acc
 *murlei :*mu/rleia:a_hs:fem
 *murmh :*mu/rmhc:c_kos:masc
 *murmhki :*murmh/kion:os_ou:neut
@@ -11683,7 +11734,7 @@
 *neokleid :*neoklei/dhs:hs_ou:masc
 *neomhr :*neo/mhris:is_idos:fem
 *neopolit *neopoli_t:*neopoli/ths:hs_ou:masc:stem_acc
-*neopolitan :*neopolitano/s:os_ou:suff_acc
+*neopolitan :*neopolitano/s:os_ou:masc:suff_acc
 *neoptolem :*neopto/lemos:os_ou:masc
 *neoptolemei :*neoptole/meios:os_on
 *neoq :*neoqeu/s:eus_ews:masc:suff_acc
@@ -11793,7 +11844,7 @@
 *nikomaxei :*nikoma/xeios:os_on
 *nikomaxid :*nikomaxi/dhs:hs_ou:masc:sg:pers_name
 *nikomen :*nikome/nhs:hs_eos:masc
-*nikomhd :*nikomh/dhs:hs_eos:masc :*nikomhdeu/s:eus_ews:masc:suff_acc :*nikomhdh/s:hs_eos:masc:suff_acc
+*nikomhd :*nikomh/dhs:hs_eos:masc :*nikomhdeu/s:eus_ews:masc:suff_acc
 *nikomhdei :*nikomh/deia:a_hs:fem
 *nikonid :*nikoni/das:hs_ou:masc:doric:aeolic:pers_name
 *nikopol :*niko/polis:is_ews:fem
@@ -11905,7 +11956,7 @@
 *nwni :*nw/nios:os_ou:masc
 *nwr :*nw/rh:h_hs:fem
 *nwra :*nw=rac:c_kos:masc
-*nwrban :*nwrbano/s:os_ou:suff_acc
+*nwrban :*nwrbano/s:os_ou:masc:suff_acc
 *nwx :*nw=xos:os_ou:masc:stem_acc
 *ogxhst :*ogxhsto/s:os_ou:masc:suff_acc
 *oi) :*oi)/h:h_hs:fem :*oi)/h:h_hs:fem:doric :*oi)=on:os_ou:neut :*oi)kle/hs:klehs_kleous:masc:suff_acc:pers_name :*oi)o/n:os_ou:neut:suff_acc
@@ -11933,7 +11984,7 @@
 *oi)neid *oi)nei+d:*oi)nei/+dhs:hs_ou:masc:sg:stem_acc:pers_name
 *oi)new :*oi)new/n:n_nos:masc:stem_acc
 *oi)nhi *oi)nhi+:*oi)nhi/+s:s_dos:fem:stem_acc :*oi)nhi/+s:s_dos:fem:stem_acc
-*oi)ni :*oi)/nios:os_ou:masc :*oi)ni/as:hs_ou:masc
+*oi)ni :*oi)/nios:os_ou:masc :*oi)ni/as:hs_ou:masc:stem_acc
 *oi)niad :*oi)nia/dai:h_hs:fem:pl :*oi)nia/dh:h_hs:fem:pl
 *oi)no :*oi)/noy:y_pos:masc :*oi)/noy:y_pos:masc:sg :*oi)no/h:h_hs:fem:stem_acc
 *oi)noai *oi)noai_:*oi)noai=os:os_ou:masc
@@ -11956,8 +12007,8 @@
 *oi)nouss :*oi)nou/sshs:hs_ou:masc:pl :*oi)nou=ssos:os_h_on:stem_acc
 *oi)nwat *oi)nwa_t:*oi)nwa=tis:is_idos:fem:sg:stem_acc:pers_name
 *oi)nwn :*oi)nw/nh:h_hs:fem
-*oi)nwtr :*oi)/nwtros:os_ou:masc:pers_name :*oi)nwtri/des:is_idos:fem:pl:suff_acc
-*oi)nwtri :*oi)nwtri/a:h_hs:fem:geog_name :*oi)nwtri/h:h_hs:fem
+*oi)nwtr :*oi)nwtri/des:is_idos:fem:pl:suff_acc :*oi)nwtroi/:os_ou:masc :*oi)nwtroi/:os_ou:masc:suff_acc
+*oi)nwtri :*oi)nwtri/a:h_hs:fem:stem_acc:geog_name
 *oi)obaz :*oi)o/bazos:os_ou:masc
 *oi)okl :*oi)/oklos:os_ou:masc
 *oi)oluk :*oi)o/lukos:os_ou:masc
@@ -11974,7 +12025,7 @@
 *oi)tosur :*oi)to/suros:os_ou:masc
 *oi)tul :*oi)/tulos:os_ou:masc:sg:pers_name
 *oi)wn :*oi)wno/s:os_ou:masc:suff_acc
-*oi)wni :*oi)wni/as:hs_ou:masc:doric
+*oi)wni :*oi)wni/as:hs_ou:masc:doric:stem_acc
 *oi)xali :*oi)xali/a:h_hs:fem:stem_acc :*oi)xalieu/s:eus_ews:masc:suff_acc
 *oi)xard :*oi)xa/rdhs:hs_ou:masc
 *oixali :*oixalieu/s:eus_ews:masc:sg:suff_acc:pers_name
@@ -11985,6 +12036,8 @@
 *ou(ad :*ou(/ada:a_hs:fem
 *ou(al :*ou(a/loi:os_ou:masc:pl
 *ou(duss :*ou(dusseu/s:eus_ews:masc:suff_acc
+*ou(nn :*ou(=nnoi:os_ou:masc:pl
+*ou(nnik :*ou(nniko/s:os_h_on:suff_acc
 *ou(zit :*ou(/zita:a_hs:fem
 *ou)adikassi :*ou)adika/ssioi:os_ou:masc:pl
 *ou)adm :*ou)a/dmwn:wn_onos:masc
@@ -12002,7 +12055,7 @@
 *ou)alentin *ou)alenti_n:*ou)alenti=nos:os_ou:masc:sg:stem_acc:pers_name
 *ou)alentinian :*ou)alentiniano/s:os_ou:masc:suff_acc:pers_name
 *ou)aleri :*ou)ale/rios:os_ou:masc:pers_name :*ou)aleri/a:a_hs:fem:stem_acc :*ou)aleri/a:a_hs:fem:stem_acc:pers_name
-*ou)alerian :*ou)alerianh/:h_hs:fem:suff_acc :*ou)aleriano/s:os_ou:suff_acc
+*ou)alerian :*ou)alerianh/:h_hs:fem:suff_acc :*ou)aleriano/s:os_ou:masc:suff_acc
 *ou)all :*ou)a/llai:h_hs:fem:pl
 *ou)alleri :*ou)ale/rios:os_ou:masc:pers_name :*ou)aleri/a:a_hs:fem:stem_acc:pers_name
 *ou)alou :*ou)a/loua:a_hs:fem
@@ -12092,6 +12145,9 @@
 *ou)etouri :*ou)etou/rios:os_ou:masc :*ou)etouri/a:h_hs:fem:pers_name
 *ou)etti :*ou)e/ttios:os_ou:masc
 *ou)gern :*ou)/gernon:os_ou:neut
+*ou)ggr :*ou)=ggroi:os_ou:masc
+*ou)ggri :*ou)ggri/a:h_hs:fem:stem_acc
+*ou)ggrik :*ou)ggriko/s:os_h_on:suff_acc
 *ou)gi :*ou)gi/a:a_hs:fem:stem_acc
 *ou)hi :*ou)h/ioi:os_ou:masc:pl:geog_name :*ou)hi/oi:os_ou:masc:pl
 *ou)hientan :*ou)hientano/s:os_ou:masc:suff_acc
@@ -12159,7 +12215,8 @@
 *ou)lsini :*ou)lsi/nios:os_ou:masc
 *ou)ltourn *ou)ltou_rn:*ou)oultou=rnos:os_ou:masc:stem_acc
 *ou)lump :*)/olumpos:os_ou:masc:epic:ionic
-*ou)nn *ou)_nn:*ou)=nnoi:os_ou:masc:pl
+*ou)nn *ou)_nn:*ou)=nnoi:os_ou:masc:pl :*ou(=nnoi:os_ou:masc:pl
+*ou)nnik :*ou(nniko/s:os_h_on:suff_acc
 *ou)olaterr :*ou)olate/rrai:h_hs:fem:pl
 *ou)olgesi :*ou)olgesi/a:a_hs:fem:stem_acc
 *ou)olib :*ou)o/liba:a_hs:fem
@@ -12244,6 +12301,7 @@
 *pai :*pai/wn:wn_onos:masc:sg:pers_name
 *paia *paia_:*paia/n:n_nos:masc:stem_acc
 *paiani :*paia/nios:os_ou:masc :*paianieu/s:eus_ews:masc:suff_acc
+*paiazht :*paiazh/ths:hs_ou:masc:stem_acc
 *paidarht :*paida/rhtos:os_ou:masc:pers_name
 *paidiz :*paidizh/:h_hs:fem:suff_acc
 *paih :*paia/n:n_nos:masc:epic:ionic:stem_acc :*paia/n:wn_onos:masc:epic:ionic:stem_acc :*paih/wn:wn_onos:masc:sg:stem_acc:pers_name
@@ -12268,7 +12326,7 @@
 *paiwnei :*paiw/neios:os_on
 *paiwni :*paiw/nion:os_ou:neut :*paiw/nios1:os_h_on :*paiwnia/:h_hs:fem:stem_acc
 *pakki :*pa/kkios:os_ou:masc:pers_name
-*pakkian :*pakkiano/s:os_ou:suff_acc
+*pakkian :*pakkiano/s:os_ou:masc:suff_acc
 *pakor :*pa/koros:os_ou:masc
 *pakouri :*pakou/rios:os_ou:masc:pers_name
 *paktu :*pa/ktua:a_hs:fem :*paktu/hs:hs_ou:masc:pers_name
@@ -12431,7 +12489,7 @@
 *pantaux :*pa/ntauxos:os_ou:masc:sg:pers_name
 *pantax :*pa/ntaxos:os_ou:masc
 *pantele :*pante/leos:os_ou:masc:sg:pers_name
-*panti :*panti/as:hs_ou:masc
+*panti :*panti/as:hs_ou:masc:stem_acc
 *pantikap :*pantika/ph:h_hs:fem :*pantikapeu/s:eus_ews:masc:suff_acc
 *pantikapai *pantikapai_:*pantikapai=on:os_ou:neut :*pantika/paion:os_ou:neut :*pantikapai/a:a_hs:fem:stem_acc :*pantikapaieu/s:eus_ews:masc:suff_acc
 *pantikapait *pantikapai+t:*pantikapai+/tai:h_hs:fem:pl *pantikapai+t:*pantikapai+/ths:hs_ou:masc
@@ -12557,7 +12615,7 @@
 *parwri :*parwri/h:h_hs:fem
 *pasargad :*pasarga/dai:hs_ou:masc/fem:pl:stem_acc
 *pase :*pase/as:hs_ou:masc
-*pasi *pa_si:*pa/sios:os_ou:masc :*pasi/as:hs_ou:masc:doric :*pasiklh=s:klehs_kleous:masc
+*pasi *pa_si:*pa/sios:os_ou:masc :*pasi/as:hs_ou:masc:doric:stem_acc :*pasiklh=s:klehs_kleous:masc
 *pasiad :*pasia/dhs:hs_ou:masc:pers_name
 *pasid :*pa/sida:a_hs:fem
 *pasifa :*pasifa/h:h_hs:fem
@@ -12609,11 +12667,11 @@
 *pattalhn :*pattalhnh/:h_hs:fem:suff_acc
 *paul :*pau=los:os_ou:masc
 *paulin *pauli_n:*pauli=nos:os_ou:masc:sg:stem_acc:pers_name
-*pausani :*pausani/as:hs_ou:masc
-*pausi :*pausi/as:hs_ou:masc
+*pausani :*pausani/as:hs_ou:masc:stem_acc
+*pausi :*pausi/as:hs_ou:masc:stem_acc
 *pausik :*pausi/khs:hs_ou:masc:pl:stem_acc
 *pausimax :*pausi/maxos:os_ou:masc
-*pausir :*pau/siris:is_ews:fem :*pausi/ras:hs_ou:masc:sg:pers_name
+*pausir :*pau/siris:is_ews:masc :*pausi/ras:hs_ou:masc:sg:pers_name
 *pausistrat :*pausi/stratos:os_ou:masc:sg:pers_name
 *pausw :*pau/swn:n_nos:masc
 *pautali :*pautali/a:a_hs:fem:stem_acc
@@ -12626,6 +12684,7 @@
 *paxwmi :*paxw/mios:os_ou:masc:sg:pers_name
 *paz :*pazoi/:os_ou:masc:pl:suff_acc
 *ped :*pe/da:a_hs:fem
+*pedageitni :*pedagei/tnuos:os_ou:masc
 *pedageitnu :*pedagei/tnuos:os_ou:masc
 *pedan :*pedano/s:os_ou:masc:suff_acc
 *pedani :*peda/nios:os_ou:masc
@@ -12659,7 +12718,7 @@
 *peiriqo :*peiri/qoos:os_ou:masc:sg:pers_name
 *peiro :*pei/roos:os_ou:masc:sg:pers_name
 *peiroust *peirou_st:*peirou=stai:h_hs:fem:pl
-*peis :*pei/sis:is_ews:fem :*pei=sos:os_ou:masc
+*peis :*pei=sis:is_ews:fem :*pei=sis:is_idos:masc :*pei=sos:os_ou:masc
 *peisandr :*pei/sandros:os_ou:masc:sg:pers_name
 *peishn :*peish/nwr:wr_oros:masc:sg:stem_acc:pers_name
 *peishnorid :*peishnori/dhs:hs_ou:masc:sg:stem_acc:pers_name
@@ -12685,7 +12744,6 @@
 *pelasgik :*pelasgiko/s:os_h_on:suff_acc
 *pelasgiwt *pelasgiw_t:*pelasgiw=tai:hs_ou:masc:pl:stem_acc :*pelasgiw=tis:is_idos:fem:stem_acc
 *peldekeit :*peldekei=tis:is_idos:fem:stem_acc
-*pelei :*pelei/as:hs_ou:masc:doric
 *pelek :*peleka=s:ehs_eou:masc:suff_acc
 *peleqroni :*peleqro/nion:os_ou:neut
 *peleqronia :*peleqronia/s:s_dos:fem:stem_acc
@@ -12806,11 +12864,12 @@
 *perousi :*perousi/a:a_hs:fem:stem_acc
 *peroz :*pero/zhs:hs_ou:masc:pers_name
 *perpenn :*perpe/nnas:masc:stem_acc:pers_name
-*perperhn :*perperh/na:a_hs:fem:stem_acc
+*perperhn :*perperh/nh:h_hs:fem:stem_acc :*perperh/nh:h_hs:fem:suff_acc
 *perraib :*perraibi/s:is_idos:fem:suff_acc :*perraibo/s:os_on:suff_acc :*perraiboi/:os_ou:masc:suff_acc
 *perraibi :*perraibi/a:h_hs:fem
 *pers :*pe/rshs:hs_ou:masc :*pe/rshs:hs_ou:masc:acc:sg:stem_acc :*pe/rshs:hs_ou:masc:stem_acc :*pe/rshs:hs_ou:masc:voc:sg:stem_acc :*perseu/s:eus_ews:masc:acc:sg:suff_acc:pers_name :*perseu/s:eus_ews:masc:sg:ionic:suff_acc:pers_name :*perseu/s:eus_ews:masc:sg:suff_acc:pers_name :*persi/s:is_idos:fem:suff_acc :*persw/:ws_wos:fem:sg:suff_acc:pers_name :*persw/:ws_wos:fem:suff_acc:pers_name
 *persai :*persai=os:os_ou:masc:stem_acc
+*persarmeni :*persarme/nioi:os_ou:masc :*persarmeni/a:h_hs:fem:stem_acc
 *persefass :*persefo/nh:a_hs:fem
 *persefon :*ferse/fassa:h_hs:fem :*persefo/nh:h_hs:fem:stem_acc
 *persefonei :*persefo/neia:a_hs:fem:sg:pers_name
@@ -12834,15 +12893,18 @@
 *pesin :*pesino/eis:oeis_oentos
 *pessin :*pessinou=s:oeis_oentos:masc:stem_acc
 *pessinount :*pessinounti/s:is_idos:fem:suff_acc
-*pessinounti :*pessinou/ntios:os_ou:masc :*pessinounti/a:a_hs:fem:sg:pers_name
+*pessinounti :*pessinou/ntios:os_h_on
 *pest :*pe/stas:hs_ou:masc:sg:doric:aeolic:pers_name
+*petageitni :*pedagei/tnuos:os_ou:masc
+*petageitnu :*pedagei/tnuos:os_ou:masc
 *petauoni :*petauo/nion:os_ou:neut
 *pete :*pe/tewn:wn_onos:masc :*petew/s:ws_w:masc:suff_acc
 *petew :*petew/n:n_nos:masc:sg:stem_acc :*petew/n:n_nos:masc:sg:stem_acc:pers_name :*petew/n:n_nos:masc:stem_acc
 *petewni :*petew/nios:os_ou:masc
 *pethli :*pethli/a:a_hs:fem:stem_acc
 *pethlin *pethli_n:*pethli=nos:os_ou:masc:stem_acc
-*petilli :*peti/llios:os_ou:masc:pers_name
+*petili :*peti/lios:os_ou:masc:pers_name
+*petilli :*peti/lios:os_ou:masc:pers_name
 *petin :*peti/nhs:hs_ou:masc:sg:pers_name
 *petosir :*peto/siris:is_idos:masc:sg:pers_name
 *petouari :*petouari/a:a_hs:fem:stem_acc
@@ -12949,7 +13011,7 @@
 *piqw :*pi/qwn:n_nos:masc:pers_name
 *pira :*piraeu/s:eus_ews:masc:suff_acc
 *piroust *pirou_st:*pirou=stai:h_hs:fem:pl
-*pis *pi_s:*pi=sa:a_hs:fem *pi_s:*pi=sa:h_hs:fem *pi_s:*pi=sa:h_hs:fem:doric :*pi/sos:os_ou:masc
+*pis *pi_s:*pei=sis:is_idos:masc *pi_s:*pi=sa:a_hs:fem *pi_s:*pi=sa:h_hs:fem *pi_s:*pi=sa:h_hs:fem:doric :*pi/sos:os_ou:masc
 *pisai :*pisai=oi:os_ou:masc:pl:stem_acc :*pisai=os:os_h_on:stem_acc :*pisaieu/s:eus_ews:masc:suff_acc
 *pisat *pisa_t:*pisa/ths:hs_ou:masc:doric:stem_acc *pisa_t:*pisa/ths:is_idos:fem:doric:stem_acc *pisa_t:*pisa=tis:is_idos:fem:stem_acc
 *pisaur *pisau_r:*pisau=ron:os_ou:neut:stem_acc
@@ -13334,7 +13396,7 @@
 *prac :*praci/s:is_ews:fem:suff_acc
 *pracagor :*pracago/ras:hs_ou:masc:pers_name :*pracago/rh:h_hs:fem
 *pracast :*praca/sths:hs_ou:masc:sg:pers_name
-*praci :*praci/as:hs_ou:masc
+*praci :*praci/as:hs_ou:masc:stem_acc
 *pracidam :*pracida/mas:as_antos:masc
 *pracidik :*pracidi/kh:h_hs:fem :*pracidi/kh:h_hs:fem:doric
 *pracierg :*praci/ergos:os_ou:masc
@@ -13491,7 +13553,7 @@
 *prous *prou_s:*prou=sa:a_hs:fem
 *prousa :*prousaeu/s:eus_ews:masc:suff_acc
 *prousai :*prousaeu/s:os_h_on:stem_acc
-*prousi :*prousaeu/s:os_h_on:late :*prousi/as:hs_ou:masc :*prousieu/s:eus_ews:masc:suff_acc
+*prousi :*prousaeu/s:os_h_on:late :*prousi/as:hs_ou:masc:stem_acc :*prousieu/s:eus_ews:masc:suff_acc
 *prousia :*prousia/s:s_dos:fem:stem_acc
 *proxarisi :*proxarisi/a:h_hs:fem:stem_acc
 *proxor :*pro/xoros:os_ou:masc:sg:pers_name
@@ -13654,7 +13716,7 @@
 *purras :*pu/rrasos:os_ou:masc
 *purrhn :*purrh/nh:h_hs:fem:stem_acc:geog_name
 *purrhnai :*purrhnai=os:os_h_on:stem_acc:geog_name
-*purri :*purri/as:hs_ou:masc
+*purri :*purri/as:hs_ou:masc:stem_acc
 *purrik :*purriko/s:os_h_on:suff_acc
 *purrix :*pu/rrixos:os_ou:masc
 *purrw :*pu/rrwn:n_nos:masc
@@ -13710,7 +13772,7 @@
 *qarghli :*qargh/lia:os_ou:neut:pl
 *qarghliw :*qarghliw/n:n_nos:masc:stem_acc
 *qarr :*qa/rras:hs_ou:masc
-*qarreleid :*qarrelei/dhs:hs_ou:masc
+*qarreleid :*qarrelei/dhs:hs_ou:masc:stem_acc
 *qarsandal :*qarsa/ndala:a_hs:fem
 *qaru :*qa/ruc:c_kos:masc :*qa/ruy:y_pos:masc
 *qarup :*qaru/phs:hs_ou:masc:doric
@@ -13724,7 +13786,6 @@
 *qaumasi :*qauma/sios:os_ou:masc
 *qay :*qa/yis:is_idos:fem :*qa/yos:os_ou:masc
 *qayak :*qa/yakos:os_ou:masc
-*qe :*qe/wn:wn_onos:masc:sg:pers_name
 *qeag :*qea/ghs:hs_ou:masc:sg:pers_name
 *qeagen :*qeage/nhs:hs_eos:masc
 *qeageneid :*qeagenei/dhs:hs_ou:masc
@@ -13742,7 +13803,7 @@
 *qeariw :*qeari/wn:n_nos:masc
 *qeasid :*qeasi/dhs:hs_ou:masc
 *qehkolew :*qehkolew/n:n_nos:masc:stem_acc
-*qei :*qei/as:as_antos:masc :*qei/as:hs_ou:masc :*qei/h:h_hs:fem
+*qei :*qei/as:as_antos:masc :*qei/h:h_hs:fem
 *qeilouqi :*qeilou/qios:os_ou:masc
 *qeiodam :*qeioda/mas:as_antos:masc
 *qeiso :*qeiso/h:h_hs:fem:doric
@@ -13810,7 +13871,7 @@
 *qeomhlid :*qeomhli/dh:h_hs:fem:doric
 *qeomhst :*qeomh/stwr:wr_oros:masc
 *qeomnhst :*qeo/mnhstos:os_ou:masc
-*qeono :*qeono/h:h_hs:fem
+*qeono :*qeono/h:h_hs:fem:stem_acc
 *qeopomp :*qeo/pompos:os_ou:masc
 *qeoprop :*qeo/propos:os_ou:masc
 *qeorrht :*qeo/rrhton:os_ou:neut
@@ -13829,6 +13890,10 @@
 *qermi :*qe/rmios:os_ou:masc
 *qermolai :*qermolai=os:os_ou:masc:stem_acc
 *qermopul :*qermopu/lai:h_hs:fem:pl:stem_acc
+*qermouq :*qe/rmouqis:is_ews:fem:acc:sg :*qe/rmouqis:is_ews:fem:sg:stem_acc
+*qermouqi :*qe/rmouqis:s_dos:fem
+*qermout :*qe/rmouqis:is_ews:fem:acc:sg :*qe/rmouqis:is_ews:fem:acc:sg:stem_acc
+*qermouti :*qe/rmouqis:s_dos:fem
 *qermudr :*qermudrai/:h_hs:fem:pl:suff_acc
 *qermw :*qe/rmwn:n_nos:masc:pers_name
 *qermwd :*qermw/dwn:wn_ontos:masc
@@ -13877,10 +13942,11 @@
 *qeuderix :*qeude/rixos:os_ou:masc:pers_name
 *qeudiw :*qeudi/wn:n_nos:masc
 *qeuxar :*qeuxari/s:is_idos:fem:suff_acc
+*qew :*qe/wn:n_nos:masc:sg:pers_name
 *qewdwropol :*qewdwro/polis:is_ews:fem:geog_name
 *qewl :*qe/wlos:os_ou:masc
 *qewr :*qe/wros:os_ou:masc
-*qewri :*qea/rios:os_ou:masc :*qew/rios:os_h_on :*qewri/h:h_hs:fem
+*qewri :*qea/rios:os_ou:masc :*qew/rios:os_h_on :*qewri/h:h_hs:fem:stem_acc
 *qewrid :*qeari/dhs:hs_ou:masc
 *qewriw :*qeari/wn:n_nos:masc
 *qhb :*qh/bh:h_hs:fem:sg :*qh=bai:h_hs:fem:pl
@@ -13895,7 +13961,7 @@
 *qhganouss :*qhganou=ssa:a_hs:fem:stem_acc
 *qh|bai :*qh|bai=os:os_h_on:stem_acc
 *qhmak :*qhmako/s:os_ou:masc:suff_acc
-*qhman :*qhmano/s:os_ou:suff_acc
+*qhman :*qhmano/s:os_ou:masc:suff_acc
 *qhq *qh_q:*qh=qai:h_hs:fem:pl
 *qhr :*qh/ra:h_hs:fem :*qh/ras:hs_ou:masc :*qh/rh:h_hs:fem :*qhrw/:w_oos:fem:suff_acc
 *qhrai *qhrai_:*qhrai=os:os_ou:masc :*qh/raion:os_ou:neut :*qhrai=os:os_h_on:stem_acc
@@ -14408,7 +14474,7 @@
 *sect :*se/ctos:os_ou:masc
 *secti :*se/ctios:os_ou:masc
 *sectili :*secti/lios:os_h_on :*secti/lios:os_ou:masc
-*sedeki :*sedeki/as:hs_ou:masc:pers_name
+*sedeki :*sedeki/as:hs_ou:masc:stem_acc:pers_name
 *seffor :*se/fforis:is_idos:fem
 *segallaun :*segallaunoi/:os_ou:masc:pl:suff_acc
 *segesam :*segesa/ma:a_hs:fem:stem_acc
@@ -14518,10 +14584,10 @@
 *seroug *serou_g:*serou=gos:os_ou:masc:stem_acc
 *seroui *seroui+:*serou/i+os:os_ou:masc:pers_name :*se/rouios:os_ou:masc
 *serouili :*seroui/lios:os_ou:masc:pers_name
-*serouilian :*serouiliano/s:os_ou:suff_acc
+*serouilian :*serouiliano/s:os_ou:masc:suff_acc
 *serr :*se/rrai:h_hs:pl
 *serraipol :*serrai/polis:is_ews:fem
-*serran :*serrano/s:os_ou:suff_acc
+*serran :*serrano/s:os_ou:masc:suff_acc
 *serrei :*se/rreion:os_ou:neut
 *serri :*se/rrion:os_ou:neut
 *sertwri :*sertw/rios:os_ou:masc:pers_name
@@ -14551,7 +14617,8 @@
 *sfair :*sfai=ros:os_ou:masc
 *sfairi :*sfairi/h:h_hs:fem
 *sfakthri :*sfakthri/a:h_hs:fem
-*sfendale :*sfenda/leai:h_hs:fem:pl
+*sfendal :*sfendaleu/s:eus_ews:masc:suff_acc :*sfendalh/:h_hs:fem:suff_acc
+*sfendosqlab :*sfendosqla/bos:os_ou:masc:stem_acc
 *sfh :*sfh=kes:c_kos:masc:pl
 *sfhkei :*sfh/keia:a_hs:fem
 *sfhl *sfh_l:*sfh=los:os_ou:masc:sg:stem_acc:pers_name
@@ -14569,8 +14636,8 @@
 *shkouan :*shkoua/nas:hs_ou:masc:doric:aeolic :*shkouanoi/:os_ou:masc:pl:suff_acc
 *shlambin :*shla/mbina:a_hs:fem
 *shlubri :*shlubri/a:a_hs:fem:stem_acc :*shlubri/h:h_hs:fem
-*shlumbri :*shlumbri/h:h_hs:fem:geog_name
-*shlumbrian :*shlumbriano/s:os_ou:suff_acc
+*shlumbri :*shlumbri/a:h_hs:fem:stem_acc:geog_name
+*shlumbrian :*shlumbriano/s:os_h_on:suff_acc
 *shlwnit :*shlwni/ths:hs_ou:masc
 *shm :*sh=mos:os_ou:masc:sg:pers_name
 *shmanqin :*shmanqinoi/:os_ou:masc:pl:suff_acc
@@ -14886,7 +14953,7 @@
 *skullai :*sku/llaion:os_ou:neut :*skullai=on:os_ou:neut:stem_acc
 *skullhti :*skullh/tion:os_ou:neut
 *skullhtik :*skullh/tikos:os_ou:masc :*skullhtiko/s:os_h_on:suff_acc
-*skulli :*skulli/as:hs_ou:masc
+*skulli :*skulli/hs:hs_ou:masc:stem_acc
 *skumbrat :*skumbra/ths:hs_ou:masc:stem_acc:pers_name
 *skumn :*sku/mnos:os_ou:masc:sg:pers_name
 *skuppi :*sku/ppion:os_ou:neut
@@ -15057,7 +15124,7 @@
 *spendi :*spe/ndios:os_ou:masc:sg:pers_name
 *sperm :*spermw/:w_oos:fem:suff_acc
 *spermi :*spe/rmios:os_ou:masc
-*sperqi :*sperqi/as:hs_ou:masc
+*sperqi :*sperqi/hs:hs_ou:masc:stem_acc
 *sperx :*spe/rxis:is_ews:masc:pers_name
 *sperxei :*sperxeio/s:os_ou:masc:suff_acc
 *speusipp :*speu/sippos:os_ou:masc
@@ -15077,14 +15144,16 @@
 *spouri :*spou/rios:os_ou:masc
 *spourin :*spouri/nas:masc:pers_name
 *spwlhti :*spwlh/tion:os_ou:neut
-*sqen :*sqenw/:w_oos:fem:suff_acc
+*sqen :*sqe/nis:is_idos:masc :*sqenw/:w_oos:fem:suff_acc
 *sqeneboi :*sqene/boia:a_hs:fem
-*sqenel :*sqe/nelh:h_hs:fem:pers_name :*sqe/nelh:h_hs:fem:sg:pers_name :*sqe/nelos:os_ou:masc:sg:pers_name :*sqene/leus:eus_ews:masc :*sqene/lh:h_hs:fem
+*sqenel :*sqe/nelh:h_hs:fem:pers_name :*sqe/nelos:os_ou:masc:sg:pers_name :*sqene/lh:h_hs:fem
 *sqenela :*sqene/laos:os_ou:masc:sg:pers_name
 *sqenelaid *sqenelai+d:*sqenelai/+dhs:hs_ou:masc:doric:stem_acc
-*sqeni :*sqe/nios:os_ou:masc:sg:pers_name :*sqeni/as:hs_ou:masc
-*sqenn :*sqe/nnis:is_idos:masc
+*sqeni :*sqe/nios:os_ou:masc:sg:pers_name :*sqeni/h:h_hs:fem:stem_acc
+*sqenid :*sqeni/dhs:hs_ou:masc:stem_acc
+*sqenn :*sqe/nis:is_idos:masc :*sqenw/:w_oos:fem:suff_acc
 *sqenni :*sqe/nnios:os_ou:masc:pers_name
+*sqennw :*sqe/nnwn:n_nos:masc
 *stabi :*sta/biai:h_hs:fem:pl
 *stablhsian :*stablhsianoi/:os_ou:masc:pl:suff_acc
 *stabrobat :*stabroba/ths:hs_ou:masc:pers_name
@@ -15105,9 +15174,9 @@
 *stasioik :*stasi/oikos:os_ou:masc:sg:pers_name
 *stasipp :*sta/sippos:os_ou:masc:sg:pers_name
 *stasixor *sta_sixor:*sthsi/xoros:os_ou:masc:doric
-*statan :*statano/s:os_ou:suff_acc
+*statan :*statano/s:os_ou:masc:suff_acc
 *stateir :*sta/teira:a_hs:fem:sg:pers_name
-*statian :*statiano/s:os_ou:suff_acc
+*statian :*statiano/s:os_ou:masc:suff_acc
 *statiell :*stati/elloi:os_ou:masc:pl :*statie/llai:h_hs:fem:pl
 *statili :*stati/lios:os_ou:masc
 *statulli :*statu/llios:os_ou:masc:pers_name
@@ -15124,7 +15193,7 @@
 *stell :*ste/llos:os_ou:masc:pers_name
 *stent :*ste/ntwr:wr_oros:masc
 *stentorei :*stento/reios:os_on
-*stentorid :*stentori/dhs:hs_ou:masc
+*stentorid :*stentori/dhs:hs_ou:masc:stem_acc
 *stenuklar :*stenu/klaros:os_ou:masc
 *stenuklhr :*stenu/klhros:os_ou:masc
 *stenuklhri :*stenuklh/rios:os_h_on
@@ -15149,7 +15218,7 @@
 *stiboit *stiboi_t:*stiboi/ths:hs_ou:masc:stem_acc
 *stifan :*stifa/nh:h_hs:fem
 *stilb :*sti/lbh:h_hs:fem:sg:pers_name
-*stilbid :*stilbi/dhs:hs_ou:masc
+*stilbid :*stilbi/dhs:hs_ou:masc:stem_acc
 *stilbw :*sti/lbwn:n_nos:masc
 *stilbwnid :*stilbwni/dhs:hs_ou:masc
 *stilix :*stili/xwn:wn_onos:masc:sg:pers_name
@@ -15191,7 +15260,7 @@
 *stratwnid :*stratwni/dhs:hs_ou:masc:stem_acc
 *streouint :*streoui/nta:a_hs:fem
 *strey :*stre/ya:a_hs:fem
-*streyiad :*streyia/dhs:hs_eos:masc:voc:sg :*streyia/dhs:hs_ou:masc
+*streyiad :*streyia/dhs:hs_eos:masc:voc:sg :*streyia/dhs:hs_ou:masc:stem_acc
 *strhno :*strh/nois:is_idos:fem
 *strobil :*stro/bilos:os_ou:masc
 *strofa :*strofa/des:s_dos:fem:pl:stem_acc
@@ -15226,7 +15295,7 @@
 *stumfali :*stu/mfalos:os_h_on :*stumfa/lios:os_h_on
 *stumfhl :*stu/mfalos:is_idos:fem:suff_acc :*stu/mfalos:os_ou:fem:epic:ionic
 *stumfhli :*stu/mfalos:os_h_on
-*stur :*stu/ra:os_ou:neut:pl:geog_name :*stureu/s:eus_ews:masc:suff_acc :*sturh/s:hs_es:suff_acc
+*stur :*stu/ra:os_ou:neut:pl:geog_name :*stureu/s:eus_ews:masc:suff_acc
 *sture :*stu/reos:os_h_on
 *stwa :*stw/ac:c_kos:masc
 *stwik :*stwiko/s:os_h_on:suff_acc
@@ -15278,6 +15347,7 @@
 *sumqr :*su/mqra:a_hs:fem
 *sumqul :*su/mqulon:os_ou:neut
 *sunad :*su/nada:os_ou:neut:pl :*sunadeu/s:eus_ews:masc:suff_acc
+*sunadhn :*sunadhno/s:os_h_on:suff_acc
 *sunanoubiast :*sunanoubiastai/:hs_ou:masc:pl:suff_acc
 *sunep :*sune/pwn:wn_onos:masc:stem_acc
 *sunesi :*sune/sios:os_ou:masc:sg:pers_name
@@ -15372,7 +15442,7 @@
 *sws :*sw=sis:is_idos:masc:sg:pers_name :*sw=sos:os_ou:masc:sg:pers_name
 *swsandr :*sw/sandros:os_ou:masc:sg:pers_name
 *swsann :*swsa/nna:a_hs:fem:stem_acc
-*swsi :*swsi/as:hs_ou:masc :*swsiklh=s:klehs_kleous:masc:sg:suff_acc:pers_name
+*swsi :*swsi/as:hs_ou:masc:stem_acc :*swsiklh=s:klehs_kleous:masc:sg:suff_acc:pers_name
 *swsibi :*swsi/bios:os_ou:masc:sg:pers_name
 *swsifan :*swsifa/nhs:hs_ou:masc:sg:pers_name
 *swsigen :*swsige/nhs:hs_eos:masc
@@ -15387,7 +15457,7 @@
 *swsistrat :*swsi/stratos:os_ou:masc
 *swsp :*sw=spis:is_idos:masc:pers_name
 *swsqen :*swsqe/nhs:hs_eos:masc:pers_name
-*swstrat :*sw/stratos:os_ou:masc :*swstra/th:h_hs:fem :*swstra/ths:hs_ou:masc
+*swstrat :*sw/stratos:os_ou:masc :*swstra/th:h_hs:fem
 *swstratid :*swstrati/dhs:hs_ou:masc
 *swtad :*swta/dhs:hs_ou:masc
 *swteir :*sw/teira:a_hs:fem:sg:pers_name
@@ -15423,6 +15493,8 @@
 *tafr :*ta/frai:h_hs:fem:pl :*ta/fros:os_ou:masc
 *tag :*ta/gos:os_ou:masc
 *tagar :*ta/gara:a_hs:fem
+*taggroliph :*taggroli/phc:c_kos:masc
+*taggrolipi :*taggroli/phc:c_kos:masc:ant_acc
 *taghnist :*taghnistai/:h_hs:fem:pl:suff_acc
 *tagr :*ta/groi:os_ou:masc:pl
 *tagwni :*tagw/nios:os_ou:masc
@@ -15555,6 +15627,8 @@
 *tarthss :*ta/rthssos:os_ou:masc/fem :*tarthssi/s:is_idos:fem:suff_acc :*tarthsso/s:os_ou:masc:suff_acc
 *tarthssi :*tarth/ssioi:os_ou:masc:pl :*tarth/ssios:os_h_on
 *tarwn :*tarw=na:a_hs:fem:stem_acc
+*tarxaneiwt :*tarxaneiw/ths:hs_ou:masc:stem_acc
+*tarxaneiwtiss :*tarxaneiw/ths:a_hs:fem
 *tarxhti :*tarxh/tios:os_ou:masc:sg:pers_name
 *tati :*ta/tios:os_ou:masc
 *tatian :*tatiano/s:os_ou:masc:sg:suff_acc:pers_name
@@ -15569,7 +15643,7 @@
 *taurew :*taurew/n:n_nos:masc:stem_acc
 *taurhsi :*taurh/sion:os_ou:neut
 *tauri :*tau/rios:os_h_on :*tau/rios:os_ou:masc
-*taurik :*taurikh/s:hs_ou:masc:suff_acc :*tauriko/s:os_h_on:suff_acc
+*taurik :*tauriko/s:os_h_on:suff_acc
 *taurin :*taurinoi/:os_ou:masc:pl:suff_acc :*taurinw=n:wCn_wCntos:masc:suff_acc
 *tauriw :*tauri/wn:n_nos:masc
 *tauriwn :*tauriw/nh:h_hs:fem:sg:pers_name
@@ -15631,7 +15705,7 @@
 *telamw :*telamw/n:n_nos:masc :*telamw/n:n_nos:masc:sg:stem_acc
 *telamwni :*telamw/n:os_h_on
 *telamwniad :*telamwnia/dhs:hs_ou:masc:sg:stem_acc:pers_name
-*tele :*tele/as:hs_ou:masc :*tele/ontes:wn_ontos:masc:pl :*tele/wn:wn_ontos:masc
+*tele :*tele/as:hs_ou:masc:stem_acc :*tele/ontes:wn_ontos:masc:pl :*tele/wn:wn_ontos:masc
 *teledam :*tele/damos:os_ou:masc
 *telenik :*tele/nikos:os_ou:masc
 *teles :*te/lesis:is_idos:fem:sg:pers_name
@@ -15650,11 +15724,11 @@
 *telfous :*telfou/sa:a_hs:fem
 *telfousi :*telfou/sios:os_ou:masc
 *telfouss *telfou_ss:*telfou=ssa:a_hs:fem:pers_name *telfou_ss:*telfou=ssa:a_hs:fem:sg:pers_name
-*telhti :*telhti/as:hs_ou:masc:pers_name
+*telhti :*telhti/as:hs_ou:masc:stem_acc:pers_name
 *tell :*te/llis:is_idos:masc :*te/llis:masc :*te/llos:os_ou:masc
 *tellh :*te/llhs:s_nos:masc:pers_name :*tellh/n:n_nos:masc:stem_acc:pers_name
 *tellhn *tellh_n:*tellh=nai:h_hs:fem:pl :*tellhneu/s:eus_ews:masc:suff_acc
-*telli :*telli/as:hs_ou:masc
+*telli :*telli/as:hs_ou:masc:stem_acc
 *telliad :*tellia/dhs:hs_ou:masc
 *tellw :*te/llwn:n_nos:masc
 *telmhss :*telmhsseu/s:eus_ews:masc:suff_acc :*telmhsso/s:os_ou:masc:suff_acc
@@ -15696,6 +15770,7 @@
 *tentur :*te/ntura:a_hs:fem
 *tenturit :*tenturi/ths:hs_ou:masc
 *teourni :*teourni/a:a_hs:fem:stem_acc
+*teqmws :*te/qmwsis:is_ews:masc
 *teqrwni :*teqrw/nion:os_ou:neut
 *terakatri :*terakatri/ai:h_hs:fem:pl
 *teramb :*te/rambos:os_ou:masc:sg:pers_name
@@ -15918,7 +15993,7 @@
 *tisai *tisai_:*tisai=on:os_ou:neut
 *tisamen :*tisameno/s:os_ou:masc:suff_acc
 *tisandr :*ti/sandros:os_ou:masc
-*tisi :*tisi/as:hs_ou:masc
+*tisi :*tisi/as:hs_ou:masc:stem_acc
 *tisiat :*tisia/ths:hs_ou:masc
 *tisifon :*tisi/fonos:os_ou:masc :*tisifo/nh:h_hs:fem
 *tisikrat :*tisikra/ths:hs_eos:masc
@@ -15945,7 +16020,7 @@
 *tith *ti_th:*tita/n:n_nos:masc:dat:pl:epic:stem_acc *ti_th:*tita/n:n_nos:masc:dat:pl:stem_acc *ti_th:*tita/n:n_nos:masc:ionic:stem_acc *ti_th:*tita/n:n_nos:masc:nom:pl:stem_acc
 *tithn :*titani/s:is_idos:fem:ionic:suff_acc
 *titi :*ti/tios:os_ou:masc :*titi/as:hs_ou:masc:sg:pers_name
-*titian :*titiano/s:os_ou:suff_acc
+*titian :*titiano/s:os_ou:masc:suff_acc
 *titini :*titi/nios:os_ou:masc
 *titorm :*ti/tormos:os_ou:masc
 *titqi :*ti/tqion:os_ou:neut
@@ -15954,7 +16029,7 @@
 *titur *ti_tu_r:*ti/tu=ros:os_ou:masc:stem_acc :*sa/turos:os_ou:masc :*ti/turos:os_ou:masc
 *tlhpolem :*tlhpo/lemos:os_ou:masc:sg:pers_name
 *tlhptolem :*tlhpto/lemos:os_ou:masc
-*tlhsi :*tlhsi/as:hs_ou:masc
+*tlhsi :*tlhsi/as:hs_ou:masc:stem_acc
 *tlhsimax :*tlhsi/maxos:os_ou:masc:pers_name
 *tlhsimen :*tlhsime/nhs:hs_eos:masc
 *tmwl *tmw_l:*tmw=los:os_ou:masc
@@ -16014,7 +16089,7 @@
 *toubousoupt :*toubou/souptos:os_ou:masc
 *touci :*tou/cion:os_ou:neut:geog_name
 *toud *tou_d:*tou=dai:h_hs:fem:pl
-*touditan :*touditano/s:os_ou:suff_acc
+*touditan :*touditano/s:os_ou:masc:suff_acc
 *touerob :*toue/robis:is_idos:fem
 *toufik :*tou/fikon:os_ou:neut
 *touggr *tou_ggr:*tou=ggroi:os_ou:masc:pl
@@ -16043,7 +16118,7 @@
 *touroul :*tou/roulis:is_idos:fem
 *tourount :*tourou/ntos:os_ou:masc
 *tourouptian :*touroupti/ana:a_hs:fem
-*tourpilian :*tourpiliano/s:os_ou:suff_acc
+*tourpilian :*tourpiliano/s:os_ou:masc:suff_acc
 *tourpin :*tou/rpinos:os_ou:masc
 *tourrlg :*tou/rrlga:a_hs:fem
 *tourwn :*tou/rwnoi:os_ou:masc:pl
@@ -16065,7 +16140,7 @@
 *tragisk :*tragi/skos:os_ou:masc:pers_name :*tragi/skos:os_ou:masc:sg:stem_acc:pers_name
 *tragouri :*tragou/rion:os_ou:neut
 *traguri :*tragu/rion:os_ou:neut
-*traian *trai+an:*trai+ano/s:os_ou:suff_acc
+*traian *trai+an:*trai+ano/s:os_ou:masc:suff_acc
 *traianopol *trai+anopol:*trai+ano/polis:is_ews:fem:geog_name
 *traianoupol *trai+anoupol:*trai+ano/polis:is_ews:fem:geog_name
 *trakan :*tra/kana:a_hs:fem
@@ -16085,7 +16160,7 @@
 *trapezoupol :*trapezo/polis:is_ews:fem:geog_name
 *trari :*tra/rion:os_ou:neut
 *trasmarik :*trasma/rika:a_hs:fem
-*traspi :*traspi/as:hs_eos:masc
+*trasp :*tra/spies:is_ews:masc:pl
 *trau *trau_:*trau=os:os_ou:masc
 *traul :*traulo/s:os_ou:masc:suff_acc:pers_name
 *traus :*trausoi/:os_ou:masc:pl:suff_acc
@@ -16125,6 +16200,8 @@
 *triboun *tribou_n:*tribou=nos:os_ou:masc:sg:stem_acc:pers_name
 *tribwni :*tribw/nios:os_ou:masc
 *tridentin *tridenti_n:*tridenti=noi:os_ou:masc:pl
+*trief :*triefw=n:wCn_wCntos:masc:suff_acc
+*triefwntei :*triefw/nteios:os_h_on
 *triful :*tri/fulos:os_ou:masc
 *trifuli :*trifuli/h:h_hs:fem
 *trifuliak :*trifuliako/s:os_h_on:suff_acc
@@ -16181,8 +16258,8 @@
 *triss :*trisso/n:os_ou:neut:suff_acc
 *trit *tri_t:*tritw/:w_oos:fem:suff_acc
 *tritai :*tri/taia:a_hs:fem:sg:pers_name :*tri/taios:os_ou:masc :*tritai/eus:eus_ews:masc :*tritaieu/s:eus_ews:masc:suff_acc
-*tritantaixm :*tritantai/xmhs:hs_ou:masc
-*trite :*tri/teai:h_hs:fem:pl
+*tritantaixm :*tritantai/xmhs:hs_ou:masc:stem_acc
+*trite :*trite/ai:h_hs:fem:pl:stem_acc
 *tritei :*tritei/a:a_hs:fem
 *triti :*tri/tion:os_ou:neut
 *tritogen *tri_togen:*tritoge/neia:hs_es:suff_acc
@@ -16334,12 +16411,12 @@
 *xa :*xa/ones:wn_onos:masc
 *xab :*xa/bhs:hs_ou:masc
 *xabal :*xaba/la:a_hs:fem:stem_acc
-*xabri :*xabri/as:hs_ou:masc
+*xabri :*xabri/as:hs_ou:masc:stem_acc
 *xabwr :*xabw/ras:hs_ou:masc
 *xadisi :*xadi/sios:os_ou:masc
 *xagan :*xaga/nos:os_ou:masc:stem_acc
 *xair :*xai/ris:is_ews:masc
-*xaire :*xaire/as:hs_ou:masc
+*xaire :*xaire/as:hs_ou:masc:stem_acc
 *xairedhm :*xaire/dhmos:os_ou:masc
 *xairef :*xairefw=n:wCn_wCntos:masc
 *xairefan :*xairefa/nhs:hs_eos:masc:pers_name
@@ -16377,13 +16454,14 @@
 *xalkhtor :*xalkhtoreu/s:eus_ews:masc:suff_acc
 *xalkhtori :*xalkhto/rion:os_ou:neut
 *xalki :*xalki/a:a_hs:fem:stem_acc
-*xalkid :*xalkideu/s:eus_ews:masc:pl:suff_acc :*xalkideu/s:eus_ews:masc:sg:suff_acc:pers_name :*xalkideu/s:eus_ews:masc:suff_acc
+*xalkid :*xalkideu/s:eus_ews:masc:sg:suff_acc:pers_name :*xalkideu/s:eus_ews:masc:suff_acc
 *xalkidik :*xalkidiko/s:os_h_on:suff_acc
 *xalkioik :*xalki/oikon:os_ou:neut :*xalki/oikos:os_ou:masc:sg:pers_name
 *xalkiop :*xalkio/ph:h_hs:fem :*xalkioph/:h_hs:fem:suff_acc:pers_name
 *xalkit *xalki_t:*xalki=tis:is_idos:fem:stem_acc :*xalki/ths:hs_ou:masc
 *xalkomed :*xalkome/dh:h_hs:fem:pers_name
 *xalkomedei :*xalkome/dh:a_hs:fem:pers_name
+*xalkopratei :*xalkopra/teia:os_ou:neut:pl :*xalkopra/teia:os_ou:neut:pl:stem_acc
 *xalkw :*xa/lkwn:n_nos:masc :*xa/lkwn:n_nos:masc:sg
 *xalkwd :*xalkw/dwn:wn_ontos:masc
 *xalkwdontiad :*xalkwdontia/dhs:hs_ou:masc:sg:stem_acc:pers_name
@@ -16409,7 +16487,7 @@
 *xarakmwb :*xarakmw=ba:a_hs:fem:stem_acc
 *xarakwm :*xara/kwma:a_hs:fem
 *xarh :*xa/rhs:s_tos
-*xari :*xari/as:hs_ou:masc:doric :*xariklh=s:klehs_kleous:masc:stem_acc
+*xari :*xari/as:hs_ou:masc:doric:stem_acc :*xariklh=s:klehs_kleous:masc:stem_acc
 *xariad :*xaria/dhs:hs_ou:masc:stem_acc
 *xaricen :*xari/cenos:os_ou:masc:sg:pers_name :*xarice/na:a_hs:fem:sg:stem_acc:pers_name
 *xaridhm :*xari/dhmos:os_ou:masc
@@ -16443,6 +16521,8 @@
 *xaro :*xa/roy:y_pos:masc :*xa/roy:y_pos:masc:sg
 *xaroiad :*xaroia/dhs:hs_ou:masc
 *xarop :*xa/ropos:os_ou:masc:sg:pers_name
+*xarsian :*xarsiano/n:os_ou:neut:sg
+*xarsianit *xarsiani_t:*xarsiani/ths:hs_ou:masc:stem_acc
 *xart :*xa/rths:hs_ou:masc:doric
 *xarubd :*xa/rubdis:is_ews:fem
 *xarw :*xa/rwn:n_nos:masc/fem
@@ -16488,7 +16568,7 @@
 *xerronhsit *xerronhsi_t:*xersonhsi/ths:hs_ou:masc:stem_acc
 *xerrouri :*xerrou/rios:os_ou:masc
 *xers :*xe/rsis:is_ews:fem
-*xersi :*xersi/as:hs_ou:masc
+*xersi :*xersi/as:hs_ou:masc:stem_acc
 *xersidam :*xersida/mas:as_antos:masc:sg:stem_acc
 *xersifr :*xersi/frwn:wn_onos:masc:sg:pers_name
 *xersonhs :*xerso/nhsos:os_ou:fem
@@ -16535,6 +16615,7 @@
 *xoir :*xoi/rh:h_hs:fem:doric :*xoi=ros:os_ou:masc
 *xoira :*xoira/s:s_dos:fem:stem_acc
 *xoire :*xoi/reai:hs_ou:masc:pl :*xoire/ai:h_hs:fem:pl
+*xoirhn :*xoirhnoi/:os_ou:masc:pl:suff_acc
 *xoiri :*xoi/rios:os_ou:masc
 *xoiril :*xoi/rilos:os_ou:masc :*xoiri/los:os_ou:masc:stem_acc
 *xok :*xo/kh:h_hs:fem
@@ -16595,6 +16676,7 @@
 *xrusorq :*xruso/rqh:h_hs:fem
 *xrusostom :*xruso/stomos:os_ou:masc:sg:pers_name
 *xrusoxo :*xruso/xoos:os_ou:masc:sg:pers_name
+*xrwbat :*xrwba/tos:os_ou:masc:stem_acc
 *xuqerei :*xuqe/reia:a_hs:fem
 *xuqr :*xu/qroi:os_ou:masc:pl
 *xureti :*xureti/ai:h_hs:fem:pl
@@ -16817,6 +16899,7 @@
 2*(rwmaisti *(rwmai+sti/:*(rwmaisti/:adverb
 2*(uperhsihnde *(uperhsi/hnde:*(uperhsi/h:adverb:geog_name
 2*)abba *)abba=:a)bba=:indecl_noun:masc:sg
+2*)abdiou *)abdiou/:*)abdiou=:indecl_noun:masc *)abdiou=:*)abdiou=:indecl_noun:masc
 2*)abesalwm *)abesalw/m:*)aya/lwmos:indecl_noun:masc:pers_name
 2*)abessalwm *)abessalw/m:*)aya/lwmos:indecl_noun:masc:pers_name
 2*)abiaqar *)abia/qar:*)abiaqa/r:indecl_noun:masc:sg *)abiaqa/r:*)abiaqa/r:indecl_noun:masc:sg
@@ -16835,6 +16918,7 @@
 2*)alwpekhqen *)alwpekh=qen:*)alw/pekos:adverb
 2*)amalhk *)amalh/k:*)amalh/k:indecl_noun:masc:sg
 2*)ambrwn *)/ambrwn:*)/ambrwn:indecl_noun:masc:sg
+2*)amfimusiwn *)amfimusi/wn:*)amfimusi/wn:indecl_noun
 2*)amfisshqen *)amfi/sshqen:*)/amfissa:adverb *)amfissh=qen:*)/amfissa:adverb
 2*)amfitrophnde *)amfitroph/nde:*)amfitroph/:adverb
 2*)amfitrophqen *)amfitroph=qen:*)amfitroph/:adverb
@@ -16846,6 +16930,8 @@
 2*)anagurountade *)anagurou=nta/de:*)anagurou=s:adverb
 2*)anagurountoqen *)anagurounto/qen:*)anagurou=s:adverb
 2*)apeirhqen *)apei/rhqen:*)apei/rhqen:adverb
+2*)apihqen *)api/hqen:*)api/h:adverb
+2*)apoxay *)apo/xay:*)apo/xay:indecl_noun:masc:sg
 2*)aqanasi *)aqa/nasi:*)aqh=nai:adverb:doric:geog_name
 2*)aqanasin *)aqa/nasin:*)aqh=nai:adverb:doric:nu_movable:geog_name
 2*)aqhnaze *)aqh/naze:*)aqh=nai:adverb:geog_name
@@ -16899,6 +16985,7 @@
 2*)erebosde *)/erebo/sde:*)/erebo/sde:adverb *)/erebo/sde:*)/erebos:adverb:geog_name
 2*)erws *)/erws:*)/erws:irreg_decl3:masc:voc:sg
 2*)esdram *)esdra/m:*)/esdras:indecl_noun:masc:sg:pers_name
+2*)hl *)/hl:*)/hl:indecl_noun:masc *)=hl:*)/hl:indecl_noun:masc
 2*)hlei *)hlei/:*)hli/:indecl_noun:masc:sg:pers_name
 2*)hli *)hli/:*)hli/:indecl_noun:masc:sg:pers_name
 2*)hliou *)hliou/:*)hli/as:indecl_noun:masc:sg:pers_name *)hliou=:*)hli/as:hs_ou:masc:gen:sg:suff_acc:pers_name
@@ -16924,6 +17011,7 @@
 2*)indisti *)indisti/:*)indisti/:adverb
 2*)iqakhnde *)iqa/khnde:*)iqa/khnde:adverb
 2*)isaak *)isaa/k:*)isaa/k:irreg_decl3:masc:sg:pers_name
+2*)isaxar *)isa/xar:*)isa/xar:indecl_noun:masc:sg
 2*)ismahl *)ismah/l:*)ismah/l:indecl_noun:masc:sg
 2*)isqmoi *)isqmoi=:*)isqmoi=:adverb:geog_name
 2*)isqmoqen *)isqmo/qen:*)isqmo/qen:adverb:geog_name
@@ -16983,6 +17071,7 @@
 2*dhw *dhw/:*dhw/:irreg_decl3:fem:nom:sg
 2*di *di_/:*zeu/s:irreg_decl3:masc:dat:sg:pers_name
 2*dia :*zeu/s:irreg_decl3:masc:acc:sg:pers_name:needs_acc
+2*dihsou *dihsou=:*)ihsou=s:oos_oou:masc:gen:sg:pers_name
 2*dii :*zeu/s:irreg_decl3:masc:dat:sg:pers_name:needs_acc
 2*dioqen *dio/qen:*zeu/s:adverb:epic
 2*dios *dio/s:*zeu/s:irreg_decl3:masc:gen:sg:pers_name
@@ -17049,6 +17138,11 @@
 2*lamnoqen *lamno/qen:*lamno/qen:adverb
 2*laskari *la/skari:*la/skaris:is_ews:masc:dat:sg
 2*lesboqen *lesbo/qen:*le/sbos:adverb:geog_name
+2*leuei *leuei/:*leui/:indecl_noun:masc:sg *leuei=:*leui/:indecl_noun:masc:sg
+2*leuhs *leuh/s:*leui/:indecl_noun:masc:sg
+2*leui *leui/:*leui/:indecl_noun:masc:sg
+2*leuin *leui/n:*leui/:indecl_noun:masc:acc:sg
+2*leuis *leui/s:*leui/:indecl_noun:masc:sg
 2*leukata *leuka/ta:*leuka/tas:irreg_decl3:gen:sg:geog_name
 2*lhmnoqen *lhmno/qen:*lhmno/qen:adverb
 2*libuaqe *libua_qe:*libu/hqe:adverb:doric
@@ -17112,6 +17206,7 @@
 2*nabouqe *nabouqe/:*nabouqai/:indecl_noun:masc:sg
 2*nabouxodonosor *nabouxodono/sor:*nabouxodono/soros:indecl_noun:masc:pers_name
 2*nabouxodonoswr *nabouxodono/swr:*nabouxodono/soros:indecl_noun:masc:pers_name
+2*nadab *nada/b:*nada/b:indecl_noun:masc:sg
 2*naqan *na/qan:*naqa/n:indecl_noun:masc *naqa/n:*naqa/n:indecl_noun:masc
 2*naqanahl *naqanah/l:*naqanah/l:indecl_noun:masc
 2*naxwr *naxw/r:*naxw/r:indecl:neut:sg:pers_name
@@ -17208,6 +17303,9 @@
 2*serafeim *serafei/m:*serafei/m:indecl_noun:masc
 2*serafim *serafi/m:*serafei/m:indecl_noun:neut
 2*serapi *sera/pi:*sa/rapis:is_ews:masc:dat:sg
+2*sfendalhnde *sfendalh/nde:*sfendalh/:adverb
+2*sfendalhqen *sfendalh=qen:*sfendalh/:adverb
+2*sfendalhsin *sfendalh=sin:*sfendalh/:adverb
 2*sfhttoi *sfhttoi=:*sfhttoi=:adverb
 2*sfhttoqen *sfhtto/qen:*sfhttoi=:adverb
 2*shq *sh/q:*sh/q:irreg_decl3:neut:nom/voc/acc:sg
@@ -17221,8 +17319,10 @@
 2*sparthqen *spa/rthqen:*spa/rthqen:adverb
 2*sumewn *sumew/n:*sumew/n:indecl_noun:masc:sg
 2*sumhqen *su/mhqen:*su/mh:adverb:geog_name
+2*surihqen *suri/hqen:*suri/a:adverb
 2*suristi *suristi/:*suristi/:adverb
 2*swfar *swfa/r:*swfa/r:indecl_noun:masc:sg
+2*taggre *taggre/:*taggre/:indecl_noun:masc:sg
 2*tempoqen *tempo/qen:*tempo/qen:adverb
 2*tigridi *ti/gridi:*ti/gris:irreg_decl3:masc:gen:sg
 2*tigridos *ti/gridos:*ti/gris:irreg_decl3:masc:gen:sg
@@ -17321,7 +17421,7 @@
 2a(n a(=n:o(/s:relative:masc/fem:gen:pl:doric a(_/n:o(/s:relative:fem:acc:sg:doric:aeolic
 2a(nika a(_ni/ka:h(ni/ka:adverb:doric
 2a(ntina a_(/ntina:o(/stis:relative:fem:acc:sg:doric
-2a(ntinoun a_(/ntinou=n:o(/stis:relative:fem:acc:sg:doric
+2a(ntinoun a_(ntinou=n:o(/stis:relative:fem:acc:sg:doric
 2a(pac a(/pac:a(/pac:adverb
 2a(pacaplws a(pacaplw=s:a(pacaplw=s:adverb
 2a(paloxroas a(palo/xroas:a(palo/xroos:irreg_adj3:masc/fem:acc:pl:epic
@@ -17539,6 +17639,7 @@
 2a)mfietei a)mfie/tei:a)mfietei/:adverb:late a)mfietei/:a)mfietei/:adverb
 2a)mfietes a)mfi/etes:a)mfi/etes:adverb
 2a)mfifws a)mfifw=s:a)mfifw=s:indecl_noun:masc:nom:sg
+2a)mfilawn a)mfila/wn:a)mfila/wn:indecl_noun:gen:pl
 2a)mfiperic a)mfipe/ric:a)mfipe/ric:adverb
 2a)mfiperiplegdhn a)mfiperiple/gdhn:a)mfiperiple/gdhn:adverb
 2a)mfiperiplhgdhn a)mfiperiplh/gdhn:a)mfiperiple/gdhn:adverb:late
@@ -17625,6 +17726,7 @@
 2a)nanta a)/nanta:a)/nanta:adverb
 2a)naos a)/na_os:a)/naus:irreg_adj3:masc/fem:gen:sg
 2a)napalin a)na/palin:a)na/palin:adverb
+2a)napeptamenws a)napeptame/nws:a)napeptame/nos:adverb
 2a)napeptwkotws a)napeptwko/tws:a)napeptwko/tws:adverb
 2a)naphrtismenws a)naphrtisme/nws:a)naphrtisme/nws:adverb
 2a)narpagdhn a)narpa/gdhn:a)narpa/gdhn:adverb
@@ -17673,7 +17775,6 @@
 2a)nekas :a)neka/s:adverb
 2a)nekkopws a)nekko/pws:a)nekko/pws:adverb
 2a)nentafiastws a)nentafia/stws:a)nentafia/stws:adverb
-2a)nepikaluptws a)nepikalu/ptws:a)nepikalu/ptws:adverb
 2a)nepirrhtws a)nepirrh/tws:a)nepirrh/tws:adverb
 2a)nepiskeptei a)nepiskeptei/:a)nepiskeptei/:adverb
 2a)nepitreptws a)nepitre/ptws:a)nepitre/ptws:adverb
@@ -17713,6 +17814,7 @@
 2a)nper a)/nper:e)a/n:conj:contr
 2a)nqhmeron a)nqh/meron:a)nqh/meron:adverb
 2a)nqrwpofagikws a)nqrwpofagikw=s:a)nqrwpofagikw=s:adverb
+2a)nqupostrofws a)nqupostro/fws:a)nqupostro/fws:adverb
 2a)nta a)/nta:a)/nta:adverb
 2a)ntama a)nta/ma:a(/ma:adverb:late
 2a)nthdhn a)nth/dhn:a)nth/dhn:adverb
@@ -17739,6 +17841,7 @@
 2a)ntroqe a)ntro/qe:a)ntro/qe:adverb
 2a)nubristi a)nubristi/:a)nubristi/:adverb
 2a)nupecairetws a)nupecaire/tws:a)nupecaire/tws:adverb
+2a)nupestalmenws a)nupestalme/nws:a)nupestalme/nws:adverb
 2a)nupostaltws a)nuposta/ltws:a)nuposta/ltws:adverb
 2a)nw a)/nw:a)/nw2:adverb
 2a)nwisti a)nwi+_sti/:a)nwisti/:adverb
@@ -17797,6 +17900,7 @@
 2a)penantiws a)penantiw=s:a)penantiw=s:adverb
 2a)penteuqen a)penteu=qen:a)penteu=qen:adverb
 2a)peoikotws a)peoiko/tws:a)peoiko/tws:adverb
+2a)pepithdeiws a)pepithdei/ws:a)pepithdei/ws
 2a)perifronhtws a)perifronh/tws:a)perifronh/tws:adverb
 2a)periqlastws a)periqla/stws:a)periqla/stws:adverb
 2a)perrimmenws a)perrimme/nws:a)perrimme/nws:adverb
@@ -17811,6 +17915,7 @@
 2a)phrthmenws a)phrthme/nws:a)phrthme/nws:adverb
 2a)phrtismenws a)phrtisme/nws:a)phrtisme/nws:adverb
 2a)phxqhmenws a)phxqhme/nws:a)phxqhme/nws:adverb
+2a)pinhs a)pi/nhs:e)capi/nhs:adverb:late
 2a)pinutws a)pinu/tws:a)pinu/tws:adverb
 2a)pistountws a)pistou/ntws:a)pistou/ntws:adverb
 2a)pisxuristikws a)pisxuristikw=s:a)pisxuristikw=s:adverb
@@ -18133,6 +18238,7 @@
 2brugdhn bru/gdhn:bru/gdhn:adverb
 2brun bru=n:bru=n:irreg_decl3:neut:acc:sg
 2bruxhdon bru_xhdo/n:bruxhdo/n:adverb
+2buqoi buqoi=:buqo/s:adverb
 2bussoqen busso/qen:busso/qen:adverb
 2buzhn bu/zhn:bu/zhn:adverb
 2bwlhdon bwlhdo/n:bwlhdo/n:adverb
@@ -18273,6 +18379,8 @@
 2dieilhmmenws dieilhmme/nws:dieilhmme/nws:adverb
 2dieirgasmenws dieirgasme/nws:dieirgasme/nws:adverb
 2diek die/k:die/k:prep
+2dielleinan die/lleinan:die/lleinan:a_hs:fem:acc:sg
+2dienantias dienanti/as:dienanti/as:adverb
 2dierrimmenws dierrimme/nws:dierrimme/nws:adverb
 2diesfalmenws diesfalme/nws:diesfalme/nws:adverb
 2dieskemmenws dieskemme/nws:dieskemme/nws:adverb
@@ -18564,6 +18672,7 @@
 2e)chmmenws e)chmme/nws:e)chmme/nws:adverb
 2e)chplwmenws e)chplwme/nws:e)chplwme/nws:adverb
 2e)chtasmenws e)chtasme/nws:e)chtasme/nws:adverb
+2e)combrwn e)co/mbrwn:o/)mbros:adverb
 2e)conomaklhdhn e)conomaklh/dhn:e)conomaklh/dhn:adverb
 2e)copin e)/copin:e)/copin:adverb e)co/pin:e)co/pin:adverb
 2e)copiqe e)co/piqe:e)co/piqen:adverb:epic
@@ -18724,6 +18833,7 @@
 2e)mpan e)/mpa_n:e)/mphn:adverb:doric
 2e)mpas e)/mpa_s:e)/mpas:adverb
 2e)mpeda e)/mpeda:e)/mpeda:adverb
+2e)mpedwn e)mpedw/n:e)mpodw/n:adverb
 2e)mpefukotws e)mpefuko/tws:e)mpefuko/tws:adverb
 2e)mpefurmenws e)mpefurme/nws:e)mpefurme/nws:adverb
 2e)mpeladhn e)mpela/dhn:e)mpelado/n:adverb
@@ -18784,6 +18894,7 @@
 2e)nenhkonta e)nenh/konta:e)nenh/konta:numeral
 2e)nerqe e)/nerqe:e)/nerqe:prep
 2e)nerqen e)/nerqen:e)/nerqe:prep:nu_movable
+2e)nerwqen e)ne/rwqen:e)/nerqe:late
 2e)newra e)ne/wra:e)ne/wra:adverb
 2e)nexurws e)nexu/rws:e)nexu/rws:adverb
 2e)nhfi e)/nhfi:e)/nos2:adverb:epic
@@ -18902,8 +19013,10 @@
 2e)pilegdhn e)pile/gdhn:e)pile/gdhn:adverb
 2e)pilelogismenws e)pilelogisme/nws:e)pilelogisme/nws:adverb
 2e)piligdhn e)pili/gdhn:e)pili/gdhn:adverb
+2e)pimetriws e)pimetri/ws:e)pimetri/ws:adverb
 2e)pimhqikws e)pimhqikw=s:e)pimhqikw=s:adverb
 2e)pimic e)pimi/c:e)pimi/c:adverb:epic
+2e)pinws e)pinw=s:e)pinw=s:adverb
 2e)pioudis e)pioudi/s:e)pioudi/s:adverb
 2e)pipagxu e)pi/pagxu:e)pi/pagxu:adverb
 2e)pipan e)pi/pan:e)pi/pan:adverb
@@ -19206,6 +19319,7 @@
 2gnuc gnu/c:gnu/c:adverb
 2gnwmhdon gnwmhdo/n:gnwmhdo/n:adverb
 2goi goi=:goi=:exclam
+2gomor go/mor:gomo/r:indecl_noun:neut gomo/r:gomo/r:indecl_noun:neut
 2gonasi go/nasi:go/nu:irreg_decl3:neut:dat:pl
 2gonasin go/nasin:go/nu:irreg_decl3:neut:dat:pl:nu_movable
 2gonassi go/nassi:go/nu:irreg_decl3:neut:dat:pl:epic
@@ -19365,6 +19479,7 @@
 2h)|rmenws h)|rme/nws:h)|rme/nws:adverb
 2h)ka h)=ka:h)=ka:adverb
 2h)kribwmenws h)kribwme/nws:h)kribwme/nws:adverb
+2h)l h)/l:*)/hl:indecl_noun:masc h)=l:*)/hl:indecl_noun:masc
 2h)le h)le/:h)leo/s:os_h_on:masc:voc:sg:epic
 2h)liqa h)/liqa:h)/liqa:adverb
 2h)llhgorhmenws h)llhgorhme/nws:h)llhgorhme/nws:adverb
@@ -19962,6 +20077,7 @@
 2metaurion metau/rion:metau/rion:adverb
 2metautika metauti/ka:metauti/ka:adverb
 2metautis metau=tis:metau=qis:adverb:ionic
+2metaxrhstikws metaxrhstikw=s:metaxrhstikw=s:adverb
 2metaze me/taze:me/taze:adverb
 2metenhnegmenws metenhnegme/nws:metenhnegme/nws:adverb
 2metepeita mete/peita:mete/peita:adverb
@@ -20075,6 +20191,7 @@
 2mhtros mhtro/s:mh/thr:irreg_decl3:fem:gen:sg
 2mia mi/a:ei(=s:os_h_on:fem:nom/voc:sg:epic
 2mia| mi/a|:ei(=s:os_h_on:fem:dat:sg:late
+2mias mi/as:ei(=s:os_h_on:fem:gen:sg:late
 2mic mi/c:mi/c:adverb
 2micoludisti micolu_disti/:micoludisti/:adverb
 2miga mi/ga:mi/ga:adverb
@@ -20289,10 +20406,12 @@
 2o(phnika o(phni/ka:o(phni/ka:adverb
 2o(phpote o(ph/pote:o(ph/pote:adverb
 2o(poi o(/poi:o(/poi:adverb
+2o(poia|oun o(poia|ou=n:o(poi=os:os_h_on:fem:dat:sg
 2o(poiaisoun o(poiaisou=n:o(poi=os:os_h_on:fem:dat:pl
 2o(poiandhpote o(poiandh/pote:o(poi=os:os_h_on:fem:acc:sg
 2o(poianoun o(poianou=n:o(poi=os:os_h_on:fem:acc:sg
 2o(poiantinoun o(poiantinou=n:o(poi=os:os_h_on:fem:sg
+2o(poiaoun o(poiaou=n:o(poi=os:os_h_on:fem:nom:sg o(poiaou=n:o(poi=os:os_h_on:neut:nom/acc:pl
 2o(poiasoun o(poiasou=n:o(poi=os:os_h_on:fem:acc:pl o(poiasou=n:o(poi=os:os_h_on:fem:gen:sg
 2o(poidan o(poida/n:o(/poi:adverb
 2o(poidh o(poidh/:o(/poi:adverb
@@ -20333,10 +20452,11 @@
 2o(poswnoun o(poswnou=n:o(po/sos:os_h_on:masc/fem/neut:gen:pl
 2o(potan o(po/tan:o(po/tan:adverb
 2o(pote o(po/te:o(po/te:adverb
+2o(poterasoun o(poterasou=n:o(po/teros:os_h_on:fem:acc:pl o(poterasou=n:o(po/teros:os_h_on:fem:gen:sg
 2o(poteroioun o(poteroiou=n:o(po/teros:os_h_on:masc:nom:pl
 2o(poteroisoun o(poteroisou=n:o(po/teros:os_h_on:masc/neut:dat:pl
-2o(poteronoun o(poteronou=n:o(po/teros:os_h_on:masc:acc:sg o(poteronou=n:o(po/teros:os_h_on:neut:nom/voc/acc:sg
-2o(poterosoun o(poterosou=n:o(po/teros:adverb
+2o(poteronoun o(poteronou=n:o(po/teros:os_h_on:masc:acc:sg o(poteronou=n:o(po/teros:os_h_on:neut:nom/acc:sg
+2o(poterosoun o(poterosou=n:o(po/teros:os_h_on:masc:nom:sg
 2o(poterwqe o(pote/rwqe:o(pote/rwqe:adverb
 2o(poterwqi o(pote/rwqi:o(pote/rwqi:adverb
 2o(poterwse o(pote/rwse:o(pote/rwse:adverb
@@ -20360,6 +20480,9 @@
 2o(pwsdh o(pwsdh/:o(/pws:adverb
 2o(pwsdhpote o(pwsdh/pote:o(/pws:adverb
 2o(pwsoun o(pwsou=n:o(pwsou=n:conj
+2o(pwspote o(pw/spote:o(/pws:adverb
+2o(pwspoteoun o(pwspoteou=n:o(/pws:adverb
+2o(pwspotoun o(pwspotou=n:o(/pws:adverb
 2o(pwstioun o(pwstiou=n:o(pwsou=n:conj
 2o(qen o(/qen:o(/qen:adverb
 2o(qendh o(qendh/:o(qendh/:adverb
@@ -20859,6 +20982,7 @@
 2parastadon parastado/n:parastado/n:adverb
 2parasunhqws parasunh/qws:parasunh/qws:adverb
 2parasxedon parasxedo/n:parasxedo/n:adverb
+2paratelei parate/lei:parate/leutos:adverb
 2paratetagmenws paratetagme/nws:paratetagme/nws:adverb
 2paratetamenws paratetame/nws:paratetame/nws:adverb
 2paratethrhmenws paratethrhme/nws:paratethrhme/nws:adverb
@@ -20870,8 +20994,10 @@
 2parautikws parauti/kws:parauti/ka:adverb:late
 2parautofi parauto/fi:au)to/fi:adverb
 2parautoqen parauto/qen:parauto/qen:adverb
+2parautwn parautw=n:pa/rauta:adverb
 2paraxrhma paraxrh=ma:paraxrh=ma:adverb
 2paraxrhstikws paraxrhstikw=s:paraxrhstikw=s:adverb
+2paraxris para/xris:a)/xri:adverb
 2parec pa/rec:pare/c:prep pare/c:pare/c:prep
 2paredrikws paredrikw=s:paredrikw=s:adverb
 2parefqarmenws parefqarme/nws:parefqarme/nws:adverb
@@ -21645,7 +21771,6 @@
 2suessin su/essin:u(=s:irreg_decl3:masc/fem:dat:pl:epic:aeolic:nu_movable
 2sufeonde sufeo/nde:sufeo/s:adverb
 2suge su/ge:su/:pron1:nom:2nd:sg
-2suggenes su/ggenes:suggenh/s:hs_es:nom/voc:sg
 2sugkatateqeimenws sugkatateqeime/nws:sugkatateqeime/nws:adverb
 2sugkeimenws sugkeime/nws:sugkeime/nws:adverb
 2sugkekommenws sugkekomme/nws:sugkekomme/nws:adverb
@@ -21731,7 +21856,6 @@
 2sussin sussi/n:u(=s:irreg_decl3:masc/fem:dat:pl:epic:nu_movable
 2sustadhn susta/dhn:susta/dhn:adverb
 2sustadon sustado/n:sustado/n:adverb
-2sustrofws sustro/fws:sustro/fws:adverb
 2suwn suw=n:u(=s:irreg_decl3:masc/fem:gen:pl
 2suxnakis suxna/kis:suxna/kis:adverb
 2swn sw=n:sw=s:irreg_adj1:masc/fem:acc:sg
@@ -22480,7 +22604,6 @@
 2w(te w(/te:w(/ste:conj:doric w(=te:w(/ste:adverb:doric
 2w) w)/:w)=:exclam w)=:w)=:exclam
 2w)as w)=as:ou)=s:irreg_decl3:neut:nom/voc/acc:sg:doric
-2w)din w)/di_n:w)di/s:n_nos:fem:acc:sg:late
 2w)h w)h/:w)h/:exclam
 2w)ka w)=ka:w)=ka:adverb:poetic
 2w)kews w)ke/ws:w)ke/ws:adverb
@@ -22708,8 +22831,14 @@ a(gi :a(/gios:os_h_on
 a(giafor :a(giafo/ros:os_on:stem_acc
 a(gias :a(gi/asma:ma_matos:neut
 a(giasm :a(giasmo/s:os_ou:masc:suff_acc
+a(giast a(gia/st:a(gia/sths:hs_ou:masc:stem_acc
+a(giastei :a(giastei/a:h_hs:fem:stem_acc
 a(giasthri :a(giasth/rion:os_ou:neut
-a(giasti :a(giasti/a:h_hs:fem:stem_acc
+a(giasti :a(giastei/a:h_hs:fem:stem_acc
+a(giastik :a(giastiko/s:os_h_on:suff_acc
+a(giobat :a(gio/batos:os_on
+a(gioblast :a(gio/blastos:os_on
+a(giograf :a(gio/grafos:os_on
 a(giolog :a(giolo/gos:os_on:stem_acc
 a(gioprep :a(giopreph/s:hs_es:suff_acc
 a(giosun :a(giwsu/nh:h_hs:fem:stem_acc:late
@@ -24362,6 +24491,7 @@ a)ghsil a_)ghsil:a)ghsi/laos:hs_ou:masc:doric
 a)ghsila a_)ghsila_:a)ghsi/laos:os_ou:masc
 a)ghsixor a_)ghsixor:a)ghsi/xoros:os_on
 a)ght :a)ghto/s:os_h_on:suff_acc
+a)gi :a(/gios:os_h_on:late
 a)gigart :a)gi/gartos:os_on
 a)gk :a)/gkos:hs_eos:neut :a)gkh/:h_hs:fem:suff_acc
 a)gkal :a)/gkalos:os_ou:masc :a)gka/lh:h_hs:fem:stem_acc :a)gka/lh:is_idos:fem:suff_acc
@@ -24473,7 +24603,7 @@ a)gluk :a)glukh/s:hs_es:suff_acc
 a)glwss :a)/glwssos:os_on
 a)glwtt :a)/glwssos:os_on:attic
 a)gm :a)gmo/s:os_ou:masc:suff_acc
-a)gn :a)/gnos:os_ou:fem :a)/gnos:os_ou:masc:attic
+a)gn :a(gno/s:os_h_on:aeolic :a)/gnos:os_ou:fem :a)/gnos:os_ou:masc:attic
 a)gnaf :a)/gnafos:os_on
 a)gnampt :a)/gnamptos:os_on
 a)gnamptopolem :a)gnamptopo/lemos:os_on
@@ -25801,6 +25931,7 @@ a)llac :a)/llacis:is_ews:fem
 a)llaci :a)lla/cima:ma_matos:neut:late
 a)llacim :a)lla/cima:os_ou:neut:pl
 a)llag :a)/llagma:ma_matos:neut :a)llagh/:h_hs:fem:suff_acc
+a)llagi :a)lla/gion:os_ou:neut:late :a)llagi/h:h_hs:fem:stem_acc:late
 a)llagm :a)llagmo/s:os_ou:masc:suff_acc
 a)llakt :a)llakte/on:verb_adj2:suff_acc :a)llakto/s:os_h_on:suff_acc
 a)llaktik :a)llaktiko/s:os_h_on:suff_acc
@@ -26227,6 +26358,7 @@ a)metropot :a)metropo/ths:hs_ou:masc:stem_acc
 a)meusiep :a)meusieph/s:hs_es:suff_acc
 a)meusim :a)meu/simos:os_on
 a)meusipor :a)meusi/poros:os_on
+a)mf :a)/mfhn:hn_enos:masc
 a)mfad :a)/mfados:os_on :a)mfado/s:os_h_on:suff_acc
 a)mfadi :a)mfa/dios:os_h_on
 a)mfak a)mfa_k:a)mfh/khs:hs_es:doric
@@ -26404,7 +26536,7 @@ a)mfiplhkt :a)mfi/plhktos:os_on
 a)mfipok :a)mfi/pokos:os_on
 a)mfipol :a)mfi/polis:is_ews:fem :a)mfi/polos:os_on
 a)mfipolei :a)mfipolei/a:h_hs:fem:stem_acc :a)mfipolei=on:os_ou:neut:stem_acc
-a)mfiporfur a)mfipo/rfur:a)mfiporfu/reos:os_on
+a)mfiporfur :a)mfiporfu/reos:os_on
 a)mfiporfure :a)mfiporfu/reos:os_h_on
 a)mfippotocot :a)mfippotoco/tai:hs_ou:masc:pl:stem_acc
 a)mfiprostul :a)mfipro/stulos:os_on
@@ -27192,7 +27324,7 @@ a)nampu :a)na/mpuc:c_kos:masc/fem:ant_acc
 a)nanagkast :a)nana/gkastos:os_on
 a)nandr :a)/nandros:os_on:a_priv
 a)nandrei :a)nandri/a:h_hs:fem:stem_acc:a_priv
-a)nandri :a)nandri/a:h_hs:fem:stem_acc:a_priv
+a)nandri :a)nandri/a:h_hs:fem:stem_acc:a_priv :a)nandriei=s:eus_ews:masc
 a)nandrwt :a)na/ndrwtos:os_on:a_priv
 a)nanet :a)na/netos:os_on
 a)naneus :a)na/neusis:is_ews:fem
@@ -27204,6 +27336,7 @@ a)nani :a)na/nios:os_on
 a)nanom :a)nanomh/:h_hs:fem:suff_acc
 a)nanq :a)nanqh/s:hs_es:suff_acc:a_priv
 a)nanqrwp :a)na/nqrwpos:os_on
+a)nanqrwphs :a)nanqrw/phsis:is_ews:fem
 a)nant :a)/nantos:os_on :a)na/nths:hs_es
 a)nantagwnist :a)nantagw/nistos:os_on:a_priv
 a)nantallakt :a)nanta/llaktos:os_on
@@ -27215,8 +27348,11 @@ a)nantifwnht :a)nantifw/nhtos:os_on
 a)nantilekt :a)nanti/lektos:os_on:a_priv
 a)nantilhpt :a)nanti/lhptos:os_on
 a)nantiqet :a)nanti/qetos:os_on
+a)nantirht :a)nanti/rrhtos:os_on:late
 a)nantirrht :a)nanti/rrhtos:os_on
 a)nantitup :a)nanti/tupos:os_on
+a)nantwd :a)nantw/dhs:hs_es
+a)nanut :a)nh/nutos:os_on:doric:a_priv
 a)nap :a)na/pas:as_asa_an:stem_acc
 a)napaist :a)na/paistos:os_on
 a)napaistik :a)napaistiko/s:os_h_on:suff_acc
@@ -27238,10 +27374,11 @@ a)napaust :a)napau/w:verb_adj2:suff_acc
 a)napausthri :a)napausth/rios:os_on
 a)napauthri :a)napausth/rios:os_on :a)napauth/rios:os_on
 a)napautik :a)napautiko/s:os_h_on:suff_acc
-a)napeir :a)na/peira:a_hs:fem
+a)napeiq :a)napeiqh/s:hs_es:suff_acc
+a)napeir :a)na/peira:a_hs:fem :a)na/phros:os_on:late
 a)napeisthri :a)napeisth/rios:os_h_on
 a)napempt :a)nape/mpw:verb_adj2:suff_acc
-a)napeptamen :a)napeptame/nos:os_h_on
+a)napemy :a)na/pemyis:is_ews:fem
 a)napet :a)napeth/s:hs_es:suff_acc
 a)napetei :a)nape/teia:a_hs:fem
 a)napeus :a)na/peusis:is_ews:fem
@@ -27409,6 +27546,7 @@ a)narus :a)na/rusis:is_ews:fem
 a)narx :a)/narxos:os_on:a_priv
 a)narxi :a)narxi/a:h_hs:fem:stem_acc:a_priv
 a)nasacim :a)nasa/cimon:os_ou:neut
+a)nasar :a)na/sarc:c_kos:masc:ant_acc
 a)naseirast :a)naseira/zw:verb_adj2:suff_acc
 a)naseis :a)na/seisis:is_ews:fem :a)na/seisma:ma_matos:neut
 a)naseisifall :a)naseisi/fallos:os_on
@@ -27775,6 +27913,7 @@ a)negklhsi :a)negklhsi/a:h_hs:fem:stem_acc
 a)negklht :a)ne/gklhtos:os_on:a_priv
 a)negklit :a)ne/gklitos:os_on
 a)negkwmiast :a)negkwmi/astos:os_h_on
+a)negret :a)ne/gertos:os_on
 a)negxwrht :a)negxw/rhtos:os_on
 a)neide :a)nei/deos:os_on
 a)neidwloplhkt :a)neidwlo/plhktos:os_on
@@ -27807,6 +27946,7 @@ a)nekdot :a)ne/kdotos:os_on:a_priv
 a)nekdrom :a)ne/kdromos:os_on:a_priv
 a)nekdut :a)ne/kdutos:os_on
 a)nekfant :a)ne/kfantos:os_on
+a)nekfat :a)ne/kfatos:os_on
 a)nekfeukt :a)ne/kfeuktos:os_on
 a)nekfoitht :a)nekfoi/thtos:os_on
 a)nekfor :a)ne/kforos:os_on
@@ -27833,7 +27973,7 @@ a)nekpust :a)ne/kpustos:os_on
 a)nekqermant :a)nekqe/rmantos:os_on
 a)nekqut :a)ne/kqutos:os_on
 a)neksart :a)ne/ksartos:os_on
-a)nekt :a)nekte/on:verb_adj2:suff_acc :a)nekte/os:verb_adj1 :a)nekto/s:os_on:suff_acc
+a)nekt :a)nekte/on:verb_adj2:suff_acc :a)nekte/os:verb_adj1 :a)nekto/s:os_h_on:suff_acc:late :a)nekto/s:os_on:suff_acc
 a)nektik :a)nektiko/s:os_h_on:suff_acc
 a)nektit :a)ne/ktitos:os_on
 a)nektom :a)ne/ktomos:os_on
@@ -27915,7 +28055,9 @@ a)nenerg :a)ne/nergos:os_on :a)nenergh/s:hs_es:suff_acc
 a)nenerghsi :a)nenerghsi/a:h_hs:fem:stem_acc
 a)nenerght :a)nene/rghtos:os_on
 a)nenexurast :a)nenexu/rastos:os_on
+a)nenlip :a)nelliph/s:hs_es:suff_acc
 a)nennoht :a)nenno/htos:os_on
+a)nenox :a)ne/noxos:os_on
 a)nenoxlht :a)neno/xlhtos:os_on
 a)nenqousiast :a)nenqousi/astos:os_on
 a)nenqumht :a)nenqu/mhtos:os_on
@@ -27943,7 +28085,8 @@ a)nepaucht :a)nepau/chtos:os_on
 a)nepaxq :a)nepaxqh/s:hs_es:suff_acc:a_priv
 a)nepecergast :a)nepece/rgastos:os_on
 a)nepechght :a)nepech/ghtos:os_on
-a)nepeisakt :a)nepei/saktos:os_on
+a)nepegklht :a)nepe/gklhtos:os_on
+a)nepeisakt :a)nepei/saktos:os_on :a)nepei/saktos:os_on:suff_acc
 a)nepektat :a)nepe/ktatos:os_on
 a)nepeleust :a)nepe/leustos:os_on
 a)nepereist :a)nepe/reistos:os_on
@@ -27966,6 +28109,7 @@ a)nepidhl :a)nepi/dhlos:os_on
 a)nepidik :a)nepi/dikos:os_on:a_priv
 a)nepidokht :a)nepido/khtos:os_on
 a)nepidot :a)nepi/dotos:os_on
+a)nepidut :a)nepi/dutos:os_on
 a)nepieik :a)nepieikh/s:hs_es:suff_acc:a_priv
 a)nepieikei :a)nepiei/keia:a_hs:fem:a_priv
 a)nepifan :a)nepifanh/s:hs_es:suff_acc
@@ -27977,6 +28121,7 @@ a)nepifrast :a)nepi/frastos:os_on
 a)nepignwm :a)nepignw/mwn:wn_on
 a)nepignwst :a)nepi/gnwstos:os_on
 a)nepigraf :a)nepi/grafos:os_on:a_priv
+a)nepikalupt :a)nepika/luptos:os_on
 a)nepikaut :a)nepi/kautos:os_on
 a)nepikeleust :a)nepike/leustos:os_on
 a)nepikhrukeut a)nepikhru_keut:a)nepikhru/keutos:os_on
@@ -28143,6 +28288,7 @@ a)nhkidwt :a)nhki/dwtos:os_on
 a)nhkoi :a)nhkoi/a:h_hs:fem:stem_acc
 a)nhkoust :a)nh/koustos:os_on:a_priv
 a)nhkousti :a)nhkousti/a:h_hs:fem:stem_acc
+a)nhl :a)nhleh/s:hs_es:sg:suff_acc:poetic
 a)nhlakat :a)nhla/katos:os_on
 a)nhlat :a)nh/latos:os_on
 a)nhle :a)nhleh/s:hs_es:suff_acc:a_priv
@@ -28179,7 +28325,7 @@ a)nhqikeut :a)nhqi/keutos:os_on
 a)nhqin :a)nh/qinos:os_h_on
 a)nhqoeid :a)nhqoeidh/s:hs_es:suff_acc
 a)nhqopoiht :a)nhqopoi/htos:os_on
-a)nhr :a)nhro/s:os_h_on:suff_acc
+a)nhr :a)nh/rhs:hs_es:stem_acc :a)nhro/s:os_h_on:suff_acc
 a)nhre :a)nhreoi/:os_ou:masc:pl:suff_acc
 a)nhref :a)nhrefh/s:hs_es:suff_acc
 a)nhremht :a)nhre/mhtos:os_on
@@ -28189,13 +28335,15 @@ a)nhriqm :a)na/riqmos:os_on:poetic:a_priv
 a)nhrot :a)nh/rotos:os_on:a_priv
 a)nhs :a)/nhqon:os_ou:neut:ionic
 a)nhsidwr :a)nhsidw/ra:h_hs:fem
-a)nhss :a)/nhsson:os_ou:neut
+a)nhss :a)/nnhson:os_ou:neut
 a)nhssht :a)nh/sshtos:os_on
 a)nhst :a)/nhstos:os_on a)/nhst:a)/nhstis:is_ews
 a)nht :a)/nhqon:os_ou:neut:aeolic
 a)nhtin :a)nh/qinos:os_h_on
 a)ni :a)/nios:os_on :a)ni/a:h_hs:fem:stem_acc
 a)niar a)nia_r:a)niaro/s:os_h_on:suff_acc
+a)niarwtat :a)niaro/s:os_h_on:irreg_superl:late
+a)niarwter :a)niaro/s:os_h_on:irreg_comp:late
 a)niat a)nia_t:a)ni/atos:os_on:a_priv
 a)niatr :a)ni/atros:os_ou:masc
 a)niatreut :a)nia/treutos:os_on
@@ -28256,12 +28404,14 @@ a)nisotax :a)nisotaxh/s:hs_es:suff_acc
 a)nisoth :a)niso/ths:s_tos:fem:ant_acc:a_priv
 a)nisouy :a)nisouyh/s:hs_es:suff_acc
 a)nisoxron :a)niso/xronos:os_on
+a)niss :a)/nnhson:os_ou:neut:late
 a)nist :a)ni/stwr:wr_oros:masc
 a)nistorhsi :a)nistorhsi/a:h_hs:fem:stem_acc
 a)nistorht :a)nisto/rhtos:os_on:a_priv
 a)nisw :a)ni/swma:ma_matos:neut
 a)nisws :a)ni/swsis:is_ews:fem
 a)niswt :a)niswte/on:verb_adj2:suff_acc
+a)nisx :a)/nisxus:us_uos:masc/fem
 a)nisxi :a)ni/sxios:os_on
 a)nisxur :a)ni/sxuros:os_on
 a)nisxuroth :a)nisxuro/ths:s_tos:fem
@@ -28273,15 +28423,16 @@ a)niyal :a)ni/yalos:os_on
 a)nnefel :a)ne/felos:os_on:epic:a_priv
 a)nnhq :a)/nhqon:os_ou:neut :a)/nnhqon:os_ou:neut
 a)nnhqi :a)nnh/qion:os_ou:neut
-a)nnhs :a)/nhqon:os_ou:neut:ionic
+a)nnhs :a)/nhqon:os_ou:neut:ionic :a)/nnhson:os_ou:neut
 a)nnhsoeid :a)nnhsoeidh/s:hs_es:suff_acc
 a)nnht :a)/nhqon:os_ou:neut:aeolic
+a)nnis :a)/nnhson:os_ou:neut:late
 a)nnwn :a)nnw/nh:h_hs:fem
 a)nnwneparx :a)nnwne/parxos:os_ou:masc
 a)nnwniak :a)nnwniako/s:os_h_on:suff_acc
 a)nnwnik :a)nnwniko/s:os_h_on:suff_acc
 a)nocunt :a)no/cuntos:os_on
-a)nod :a)/nodos1:os_on:a_priv :a)/nodos2:os_ou:fem :a)no/dwn:wn_ontos:masc
+a)nod :a)/nodos1:os_on:a_priv :a)/nodos2:os_ou:fem :a)no/dwn:oos_oon:contr :a)no/dwn:wn_ontos:masc
 a)nodeut :a)no/deutos:os_on
 a)nodi :a)nodi/a:h_hs:fem:stem_acc
 a)nodm :a)/nodmos:os_on
@@ -28300,9 +28451,10 @@ a)noidans :a)noi/dansis:is_ews:fem
 a)noidhs :a)noi/dhsis:is_ews:fem
 a)noig :a)/noigma:ma_matos:neut :a)noigeu/s:eus_ews:masc:suff_acc
 a)noik :a)/noikos:os_on:a_priv
-a)noikei :a)noi/keios:os_on
+a)noikei :a)noi/keios:os_on :a)noi/keios:os_on:stem_acc:late
 a)noikeioth :a)noikeio/ths:s_tos:fem
 a)noikeiwt :a)noikei/wtos:os_on
+a)noikhs :a)noi/khsis:is_ews:fem
 a)noikht :a)noi/khtos:os_on :a)oi/khtos:os_on
 a)noikis :a)noi/kisis:is_ews:fem
 a)noikism :a)noikismo/s:os_ou:masc:suff_acc
@@ -28312,6 +28464,7 @@ a)noikodomhs :a)noikodo/mhsis:is_ews:fem
 a)noikodomi :a)noikodomi/a:h_hs:fem:stem_acc
 a)noikonomht :a)noikono/mhtos:os_on
 a)noikt :a)/noiktos:os_on:a_priv :a)noi/kths:hs_ou:masc:stem_acc :a)noikte/on:verb_adj2:suff_acc :a)noikte/os:verb_adj1 :a)noikto/s:os_h_on:suff_acc:a_priv
+a)noikteir :a)noikti/rmwn:os_on:late:a_priv
 a)noiktik :a)noiktiko/s:os_h_on:suff_acc
 a)noiktirm :a)noikti/rmwn:wn_on:stem_acc:a_priv
 a)noiktist :a)noi/ktistos:os_on:a_priv
@@ -28319,6 +28472,7 @@ a)noimwkt :a)noi/mwktos:os_on:a_priv
 a)noin :a)/noinos:os_on
 a)nois :a)/noisis:is_ews:fem
 a)noist :a)/noistos:os_h_on :a)noiste/os:verb_adj1 :a)noisto/s:os_h_on:suff_acc
+a)noitt a)/noitt:a)/noitton:os_ou:neut
 a)nokwx :a)nokwxh/:h_hs:fem:suff_acc
 a)nokwxhs :a)nokw/xhsis:is_ews:fem
 a)nolb :a)/nolbos:os_on
@@ -28612,6 +28766,7 @@ a)nqupofor :a)nqupofora/:h_hs:fem:suff_acc
 a)nqupologism :a)nqupologismo/s:os_ou:masc:suff_acc
 a)nquporuc :a)nqupo/rucis:is_ews:fem
 a)nqupostas :a)nqupo/stasis:is_ews:fem
+a)nqupostat :a)nqupo/statos:os_on
 a)nqupostrof :a)nqupostrofh/:h_hs:fem:suff_acc
 a)nqupotimhs a)nqupoti_mhs:a)nqupoti/mhsis:is_ews:fem
 a)nqupourghs :a)nqupou/rghsis:is_ews:fem
@@ -28671,7 +28826,8 @@ a)ntariqmht :a)ntariqmhte/on:verb_adj2:suff_acc
 a)ntarktik :a)ntarktiko/s:os_h_on:suff_acc
 a)ntars :a)/ntarsis:is_ews:fem
 a)ntarsi :a)ntarsi/a:h_hs:fem:stem_acc
-a)ntarx :a)/ntarxos:os_ou:masc :a)nta/rxwn:wn_ontos:masc
+a)ntart :a)nta/rths:hs_ou:masc:stem_acc
+a)ntarx :a)/ntarxos:os_ou:masc:late :a)nta/rxwn:wn_ontos:masc
 a)ntaug :a)ntaugh/s:hs_es:suff_acc
 a)ntaugasi :a)ntaugasi/a:h_hs:fem:stem_acc
 a)ntaugei :a)ntau/geia:a_hs:fem :a)ntau/geia:h_hs:fem :a)ntaugei/a:h_hs:fem:stem_acc
@@ -28712,7 +28868,7 @@ a)ntenedr :a)ntene/dra:h_hs:fem
 a)ntenexur :a)ntene/xuron:os_ou:neut
 a)ntenqes :a)nte/nqesis:is_ews:fem
 a)ntenwpi :a)ntenw/pios:os_on:late
-a)ntepakt :a)ntepakte/on:verb_adj2:suff_acc
+a)ntepakt :a)ntepakte/on:verb_adj2:suff_acc :a)ntepakto/s:os_on:suff_acc
 a)nteparx :a)nte/parxos:os_ou:masc
 a)ntepecod :a)ntepe/codos:os_ou:fem
 a)ntepeisagwg :a)ntepeisagwgh/:h_hs:fem:suff_acc
@@ -28793,6 +28949,7 @@ a)ntidikhs :a)ntidi/khsis:is_ews:fem
 a)ntidiki :a)ntidiki/a:h_hs:fem:stem_acc
 a)ntidiktat :a)ntidikta/twr:wr_oros:masc
 a)ntidiskws :a)ntidi/skwsis:is_ews:fem
+a)ntidiwc :a)ntidi/wcis:is_ews:fem
 a)ntidoc :a)nti/docos:os_on
 a)ntidoki :a)ntido/kion:os_ou:neut
 a)ntidom :a)ntidomh/:h_hs:fem:suff_acc
@@ -28803,6 +28960,7 @@ a)ntidoti :a)ntido/tion:os_ou:neut
 a)ntidoul :a)nti/doulos:os_on
 a)ntidoup :a)nti/doupos:os_on
 a)ntidras :a)nti/drasis:is_ews:fem
+a)ntidrom :a)nti/dromos:os_on
 a)ntidunam :a)ntidu/namos:os_on
 a)ntidwr :a)nti/dwron:os_ou:neut
 a)ntidwre :a)ntidwrea/:h_hs:fem:suff_acc
@@ -28875,10 +29033,16 @@ a)ntikrous :a)nti/krousis:is_ews:fem
 a)ntikrousti :a)ntikrousti/a:h_hs:fem:stem_acc
 a)ntikths :a)nti/kthsis:is_ews:fem
 a)ntikton :a)ntikto/nos:os_on:stem_acc
+a)ntiku :a)ntiku/wn:wn_nos:masc/fem:stem_acc
+a)ntikuklhs :a)ntiku/klhsis:is_ews:fem
 a)ntikuri :a)ntikuri/a:h_hs:fem:stem_acc
+a)ntikwlut :a)ntikwlute/on:verb_adj2:suff_acc
 a)ntikwphlat :a)ntikwphla/ths:hs_ou:masc:stem_acc
+a)ntila :a)ntilaoi/:os_ou:masc:suff_acc
 a)ntilab :a)ntilabeu/s:eus_ews:masc:suff_acc :a)ntilabh/:h_hs:fem:suff_acc
+a)ntilal :a)nti/lalos:os_on
 a)ntilamy :a)nti/lamyis:is_ews:fem
+a)ntilay a)ntila_y:a)nti/lhyis:is_ews:fem:doric
 a)ntile :a)ntile/wn:wn_onos:masc:stem_acc
 a)ntilec :a)nti/lecis:is_ews:fem
 a)ntilekt :a)nti/lektos:os_on :a)ntilekte/on:verb_adj2:suff_acc :a)ntilekte/os:verb_adj1
@@ -28945,7 +29109,9 @@ a)ntiotom :a)ntioto/mon:os_ou:neut:stem_acc
 a)ntipai :a)nti/pais:s_dos:masc/fem:ant_acc
 a)ntipaidonom :a)ntipaidono/mos:os_ou:masc:stem_acc
 a)ntipal :a)nti/palos:os_on
+a)ntipalais :a)ntipa/laisis:is_ews:fem :a)ntipa/laisma:ma_matos:neut
 a)ntipalaist :a)ntipalaisth/s:hs_ou:masc:suff_acc
+a)ntipalamn :a)ntipa/lamnos:os_ou:masc
 a)ntipaq :a)ntipaqh/s:hs_es:suff_acc
 a)ntipaqei :a)ntipa/qeia:a_hs:fem
 a)ntipaqhtik :a)ntipaqhtiko/s:os_h_on:suff_acc
@@ -29054,6 +29220,7 @@ a)ntishkw :a)ntish/kwma:ma_matos:neut
 a)ntishkws :a)ntish/kwsis:is_ews:fem
 a)ntisig :a)nti/sigma:ma_matos:neut
 a)ntiskhn :a)nti/skhnos:os_on
+a)ntiskhnws :a)ntiskh/nwsis:is_ews:fem
 a)ntiski :a)nti/skios:os_on
 a)ntiskorod :a)ntisko/rodon:os_ou:neut
 a)ntiskoths :a)ntisko/thsis:is_ews:fem
@@ -29090,8 +29257,11 @@ a)ntistratopedeus :a)ntistratope/deusis:is_ews:fem
 a)ntistrept :a)nti/streptos:os_on :a)ntistrepte/os:verb_adj2:suff_acc
 a)ntistrof :a)nti/strofos:os_on :a)ntistrofh/:h_hs:fem:suff_acc
 a)ntistrofi :a)ntistro/fios:os_on
+a)ntisuggraf :a)ntisu/ggrafos:os_on
 a)ntisugklht :a)ntisu/gklhtos:os_ou:fem
+a)ntisunac :a)ntisu/nacis:is_ews:fem
 a)ntisuriggiak :a)ntisuriggiako/s:os_h_on:suff_acc
+a)ntisustrof :a)ntisu/strofos:os_on
 a)ntisuzugi :a)ntisuzugi/a:h_hs:fem:stem_acc
 a)ntisws :a)nti/swsis:is_ews:fem
 a)ntisxhmatism :a)ntisxhmatismo/s:os_ou:masc:suff_acc
@@ -29104,6 +29274,7 @@ a)ntitaktik :a)ntitaktiko/s:os_h_on:suff_acc
 a)ntitami :a)ntitami/as:hs_ou:masc:stem_acc
 a)ntitas :a)nti/tasis:is_ews:fem
 a)ntiteixis :a)ntitei/xisma:ma_matos:neut
+a)ntitekn :a)nti/teknos:os_on
 a)ntitexn :a)nti/texnos:os_on
 a)ntitexnhs :a)ntite/xnhsis:is_ews:fem
 a)ntitexnit :a)ntitexni/ths:hs_ou:masc:stem_acc
@@ -29123,7 +29294,6 @@ a)ntitup :a)nti/tupos:os_h_on :a)nti/tupos:os_on :a)ntituph/s:hs_es:suff_acc
 a)ntituphs :a)ntitu/phsis:is_ews:fem
 a)ntitupi :a)ntitupi/a:h_hs:fem:stem_acc
 a)ntitupws :a)ntitu/pwsis:is_ews:fem
-a)ntiut :a)ntiute/on:verb_adj2:suff_acc
 a)ntixei :a)nti/xeir:r_ros:masc
 a)ntixeir :a)nti/xeiron:os_ou:neut
 a)ntixeirotoni :a)ntixeirotoni/a:h_hs:fem:stem_acc
@@ -29214,6 +29384,7 @@ a)nuperart :a)nupe/rartos:os_on
 a)nuperbat :a)nupe/rbatos:os_on
 a)nuperblht :a)nupe/rblhtos:os_on:a_priv
 a)nuperekt :a)nupe/rektos:os_on
+a)nuperhfan :a)nuperh/fanos:os_on
 a)nuperox :a)nupe/roxos:os_on
 a)nuperqesi :a)nuperqesi/a:h_hs:fem:stem_acc
 a)nuperqet :a)nupe/rqetos:os_on
@@ -29224,11 +29395,13 @@ a)nuphlif :a)nuph/lifos:os_on :a)nuphlifh/s:hs_es:suff_acc
 a)nuphn :a)nu/phnos:os_on
 a)nuphresi :a)nuphresi/a:h_hs:fem:stem_acc
 a)nuphretat :a)nuphre/tatos:os_on
+a)nupoblht :a)nupo/blhtos:os_on
 a)nupodet :a)nupo/detos:os_on
 a)nupodhmat :a)nupodh/matos:os_on
 a)nupodhsi :a)nupodhsi/a:h_hs:fem:stem_acc:a_priv
 a)nupodht :a)nupo/dhtos:os_on:a_priv
 a)nupodik :a)nupo/dikos:os_on:a_priv
+a)nupofor :a)nupo/foros:os_on
 a)nupoforht :a)nupofo/rhtos:os_on
 a)nupograf :a)nupo/grafos:os_on
 a)nupoist :a)nu/poistos:os_on
@@ -29249,8 +29422,9 @@ a)nupostasi :a)nupostasi/a:h_hs:fem:stem_acc
 a)nupostat :a)nupo/statos:os_on:a_priv
 a)nupostol :a)nupo/stolos:os_on
 a)nupostrept :a)nupo/streptos:os_on
-a)nupostrof :a)nupo/strofos:os_on
+a)nupostrof :a)nupo/strofos:os_on :a)nupostrofh/:h_hs:fem:suff_acc
 a)nupotaci :a)nupotaci/a:h_hs:fem:stem_acc
+a)nupotag :a)nupotagh/:h_hs:fem:suff_acc
 a)nupotakt :a)nupo/taktos:os_on:a_priv
 a)nupotimht a)nupoti_mht:a)nupoti/mhtos:os_on
 a)nupotlht :a)nupo/tlhtos:os_on
@@ -29647,6 +29821,7 @@ a)pekdus :a)pe/kdusis:is_ews:fem
 a)pekgon :a)pe/kgonos:os_ou:masc
 a)peklektik :a)peklektiko/s:os_h_on:suff_acc
 a)peklog :a)peklogh/:h_hs:fem:suff_acc
+a)pekpurws :a)pekpu/rwsis:is_ews:fem
 a)pekt :a)/pektos:os_on
 a)pektas :a)pe/ktasis:is_ews:fem
 a)pektht :a)pe/kthtos:os_on
@@ -29678,7 +29853,7 @@ a)pemfer :a)pemferh/s:hs_es:suff_acc
 a)pempol :a)pempolh/:h_hs:fem:suff_acc
 a)pempolhs :a)pempo/lhsis:is_ews:fem
 a)pempolht :a)pempolhth/s:hs_ou:masc:suff_acc
-a)penanti :a)penanti/os:os_on:stem_acc
+a)penanti :a)penanti/os:os_h_on:stem_acc
 a)penekt :a)pofe/rw:verb_adj2:suff_acc
 a)peniauths :a)peniau/thsis:is_ews:fem
 a)peniautism :a)peniautismo/s:os_ou:masc:suff_acc
@@ -29802,6 +29977,7 @@ a)phmosun :a)phmosu/nh:h_hs:fem:stem_acc
 a)phn :a)ph/nh:h_hs:fem:stem_acc :a)phnh/s:hs_es:suff_acc
 a)phnei :a)ph/neia:a_hs:fem
 a)phnem :a)ph/nemos:os_on
+a)phni :a)ph/neia:h_hs:fem:stem_acc:late
 a)phnofr :a)phno/frwn:wn_on:stem_acc
 a)phor :a)ph/oros:os_on
 a)phori :a)ph/oros:os_on:*anth. :a)pho/rios:os_h_on
@@ -29846,6 +30022,7 @@ a)piteut :a)pi/teutos:os_on
 a)pitht :a)pithte/on:verb_adj2:suff_acc
 a)pl :a)/ploos:oos_oon
 a)plakh :a)mpla/khma:ma_matos:neut
+a)plakht a)pla/kht:a)nampla/khtos:os_on
 a)plaki :a)plaki/a:h_hs:fem:stem_acc
 a)plakount :a)pla/kountos:os_on
 a)plan :a)planh/s:hs_es:suff_acc
@@ -30434,6 +30611,7 @@ a)popuhtik :a)popuhtiko/s:os_h_on:suff_acc
 a)popur :a)popuri/s:is_idos:fem:suff_acc
 a)popuri :a)popuri/as:hs_ou:masc:stem_acc
 a)popuriat :a)popuriate/on:verb_adj2:suff_acc
+a)poqamen :a)poqnh/|skw:os_h_on:stem_acc:late
 a)poqanet :a)poqanete/on:verb_adj2:suff_acc
 a)poqanht :a)poqanete/on:verb_adj2:suff_acc
 a)poqe :a)po/qeos:os_on
@@ -30843,6 +31021,7 @@ a)profwnht :a)profw/nhtos:os_on
 a)prograf :a)pro/grafos:os_on
 a)proid a)proi+d:a)proidh/s:hs_es:suff_acc
 a)proik :a)/proikos:os_on
+a)proit a)proi+t:a)pro/i+tos:os_on
 a)prokalupt :a)proka/luptos:os_on
 a)prokataskeuast :a)prokataskeu/astos:os_on
 a)prokop :a)pro/kopos:os_on
@@ -31167,6 +31346,7 @@ a)qwpeut :a)qw/peutos:os_on
 a)qwrakist :a)qwra/kistos:os_on
 a)qwrhkt :a)qw/rhktos:os_on
 a)r :a)/rma:ma_matos:neut :a)/ron:os_ou:neut :a)/ros:hs_eos:neut :a)ra/:h_hs:fem:ionic:suff_acc :a)ra/:h_hs:fem:suff_acc :a)rh/:h_hs:fem:suff_acc :a)ri/s:is_idos:fem:suff_acc
+a)r)r(abw :a)rrabw/n:n_nos:masc:stem_acc
 a)ra :a)/rac:c_kos:masc
 a)rab :a)/rabos:os_ou:masc :a)rabi/s:is_idos:fem:suff_acc
 a)rabotocot :a)rabotoco/ths:hs_ou:masc:stem_acc
@@ -32759,6 +32939,8 @@ a)timws a)ti_mws:a)ti/mwsis:is_ews:fem
 a)tinakt :a)ti/naktos:os_on
 a)tiqas :a)ti/qasos:os_on
 a)tiqaseut :a)tiqa/seutos:os_on
+a)tiqass :a)ti/qasos:os_on
+a)tiqasseut :a)tiqa/seutos:os_on
 a)tiqhn :a)ti/qhnos:os_on
 a)tit :a)/titos:os_on :a)ti/ths:hs_ou:masc:stem_acc
 a)tlat a)tla_t:a)/tlhtos:os_on:doric
@@ -33646,6 +33828,7 @@ au)gi :au)/gion:os_ou:neut
 au)git :au)gi/ths:hs_ou:masc:stem_acc
 au)goeid :au)goeidh/s:hs_es:suff_acc
 au)gou :au)/gour:r_ros:masc
+au)goust :*au)/goustos:os_ou:masc
 au)hr :au)hro/s:os_h_on:suff_acc
 au)iax :au)i/axos:os_on
 au)idet :au)i/detos:os_on
@@ -34970,6 +35153,7 @@ boe :boe/h:h_hs:fem:stem_acc
 boei :bo/eios:os_h_on :boei/h:h_hs:fem:stem_acc
 boeiak :boeiako/s:os_h_on:suff_acc
 boeik :boeiko/s:os_h_on:suff_acc
+boh :bo/ac:c_kos:masc:ionic
 bohdrom :boh/dromos:os_on :bohdro/mos:os_on:stem_acc
 bohdromi :bohdro/mios:os_on :bohdromi/h:h_hs:fem
 bohdromiw :*bohdromiw/n:n_nos:masc:stem_acc :bohdromiw/n:n_nos:masc:stem_acc
@@ -35157,7 +35341,7 @@ botruwd :botruw/dhs:hs_es:stem_acc
 botrux :bo/struxos:os_ou:masc :bo/truxos:os_ou:masc
 botruxwd :botruxw/dhs:hs_es:stem_acc
 bou :bou=a:h_hs:fem
-boubal :bou/balis:is_ews:fem :bou/balos:os_ou:masc
+boubal :bou/balis:is_ews:fem :bou/balis:is_idos:fem:suff_acc :bou/balos:os_ou:masc
 boubalei :bouba/leios:os_h_on
 boubali :bouba/lion:os_ou:neut :bouba/lios:os_ou:masc
 boubastei :boubastei=on:os_ou:neut:stem_acc
@@ -35629,8 +35813,9 @@ bukanist :bukanisth/s:hs_ou:masc:suff_acc
 bukt :bu/kths:hs_ou:masc:stem_acc
 bun :bu/nh:h_hs:fem :bu/nis:is_ews:fem
 bunokopi :bunokopi/a:h_hs:fem:stem_acc
-buq :buqo/s:os_ou:masc:suff_acc
+buq :buqo/s:os_ou:late :buqo/s:os_ou:masc:suff_acc
 buqi :bu/qios:os_h_on
+buqin :bu/qios:os_h_on:late
 buqism :buqismo/s:os_ou:masc:suff_acc
 buqit buqi_t:buqi=tis:is_idos:fem:stem_acc
 buqokumatodrom :buqokumatodro/mos:os_on:stem_acc
@@ -35666,6 +35851,7 @@ busta :bu/stac:c_kos:masc
 bustr :bu/stra:h_hs:fem
 butin :buti/nh:h_hs:fem
 buz bu_z:bu=za:h_hs:fem
+bw :bo/ac:c_kos:masc:contr :bo/ac:c_kos:masc:suff_acc:late
 bwb :bwbo/s:os_h_on:suff_acc
 bw|di :bw/|dion:os_ou:neut
 bwk :bou=kos:os_ou:masc:doric :boukai=os:os_ou:masc:doric :bw=kos:os_ou:masc
@@ -35897,9 +36083,11 @@ couq :couqo/s:os_h_on:suff_acc
 couqopter :couqo/pteros:os_on
 couqr :cou=qros:os_ou:masc
 cuf :cu/fos:hs_eos:neut
+cuggenei :sugge/neia:a_hs:fem :sugge/neia:h_hs:fem:stem_acc:late
 cuggnwm :suggnw/mh:h_hs:fem:stem_acc :suggnw/mwn:wn_on
 cugkeleusm :sugkeleusmo/s:os_ou:masc:suff_acc
 cugklh|s :su/gkleisis:is_ews:fem:attic
+cugklu :su/gklus:s_dos:masc/fem
 cuhl :cuh/lh:h_hs:fem:stem_acc
 cul :cu/lon:os_ou:neut :culeu/s:eus_ews:masc:suff_acc
 culabi :cula/bion:os_ou:neut
@@ -35921,6 +36109,7 @@ culin :cu/linos:os_h_on
 culism :culismo/s:os_ou:masc:suff_acc
 culist :culisth/s:hs_ou:masc:suff_acc
 culit culi_t:culi/ths:hs_ou:masc:stem_acc
+cullog :su/llogos:os_ou:masc
 culobalsam :culoba/lsamon:os_ou:neut
 culobol :culo/bolon:os_ou:neut
 culoces :culo/cesis:is_ews:fem
@@ -35990,21 +36179,39 @@ culwmati :culwma/tion:os_ou:neut
 culwni :culwni/a:h_hs:fem:stem_acc
 culwrof :culw/rofon:os_ou:neut
 culws :cu/lwsis:is_ews:fem
+cummaxi :summaxi/a:h_hs:fem:stem_acc
 cummeristri :summeri/stria:a_hs:fem
+cummetr :su/mmetros:os_on
+cummetri :summetri/a:h_hs:fem:stem_acc
+cummorf :summorfh/:h_hs:fem:suff_acc
 cump :su/mpas:as_asa_an
 cumparaul :sumpa/raulos:os_on
 cun cu_n:cuno/s:os_h_on:suff_acc
 cuna cu_na_:cunh/wn:n_nos:masc:doric:stem_acc cu_na_:cunh/wn:wn_onos:masc:doric:stem_acc
+cunagkei :suna/gkeia:a_hs:fem
+cunaim :su/naimos:os_on
 cunaixmalwt :sunaixma/lwtis:is_idos:fem
 cunap :suna/pas:as_asa_an:stem_acc
+cunarmost :sunarmoste/on:verb_adj2:suff_acc
+cundik :su/ndikos:os_ou:masc/fem
+cundrom :sundromh/:h_hs:fem:suff_acc
+cunefhb :sune/fhbos:os_ou:masc
+cunembol :sunembolh/:h_hs:fem:suff_acc
+cunempor :sune/mporos:os_ou:masc/fem
 cunes :su/nesis:is_ews:fem:attic
+cunesti :sune/stios:os_on
 cunet :suneto/s:os_h_on:attic:suff_acc
 cunh :cu/nhma:ma_matos:neut cu_nh:cunh/wn:wn_onos:masc:stem_acc
 cunhi cu_nhi:cunh/ios:os_h_on
 cunhli cunh_li:sunh=lic:c_kos:ant_acc
 cunhq :sunh/qhs:hs_es
+cunod :su/nodos2:os_ou:fem :su/nodos:os_ou:masc/fem
 cunodoth cu_nodoth:cunodoth/r:r_ros:masc:stem_acc
 cunofr cu_nofr:cuno/frwn:wn_on:stem_acc
+cunoikh :sunoi/khma:ma_matos:neut
+cunoikhs :sunoi/khsis:is_ews:fem
+cunoikht :sunoikh/twr:wr_oros:masc:stem_acc
+cunoiki :sunoiki/a:h_hs:fem:stem_acc
 cunour :su/noros:os_on
 cunox :sunoxh/:h_hs:fem:attic:suff_acc
 cunoxar cu_noxar:cunoxarh/s:hs_es:suff_acc
@@ -36048,12 +36255,14 @@ custr :cu/stra:h_hs:fem cu_str:cu=stron:os_ou:neut
 custrei :custrei/a:h_hs:fem:stem_acc
 custri :custri/on:os_ou:neut:stem_acc
 custroeid :custroeidh/s:hs_es:suff_acc
+custrof :sustrofh/:h_hs:fem:suff_acc
 custrofula :custrofu/lac:c_kos:masc:ant_acc
 custrolhkuq :custrolh/kuqos:os_ou:masc
 custropoi :custropoio/s:os_on:suff_acc
 custrwt :custrwto/s:os_on:suff_acc
 da :da/os:hs_eos:neut :dai/+s:is_idos:fem:epic:suff_acc da_:dah/r:hr_eros:masc:suff_acc
 dacasm :dacasmo/s:os_ou:masc:suff_acc
+daeiriths daeiri_ths:daeiri/ths:masc:attic:stem_acc
 dafn :da/fnh:h_hs:fem :dafni/s:is_idos:fem:suff_acc
 dafnafor dafna_for:dafnhfo/ros:os_on:doric:stem_acc
 dafnai :dafnai/a:h_hs:fem:stem_acc dafnai_:dafnai=os:os_h_on:stem_acc
@@ -36131,6 +36340,7 @@ daimonoplhci :daimonioplhci/a:h_hs:fem
 daimonotakt :daimonota/kths:hs_ou:masc:stem_acc
 daiofr dai+ofr:daio/frwn:wn_on:stem_acc
 daiqm :daiqmo/s:os_ou:masc:suff_acc
+dair :dai=ros:os_h_on
 dais :dai=sis:is_ews:fem
 daisfalt :dai/sfaltos:os_on
 dait :dai/th:h_hs:fem :dai/ths:hs_ou:masc:stem_acc :daitu/s:us_uos:fem:suff_acc
@@ -37109,6 +37319,7 @@ diakwx :diakwxh/:h_hs:fem:suff_acc :diokwxh/:h_hs:fem:suff_acc
 dial :di/alma:ma_matos:neut
 dialab :dialabh/:h_hs:fem:suff_acc
 dialalhs :diala/lhsis:is_ews:fem
+dialalht :diala/lhtos:os_on
 dialali :dialali/a:h_hs:fem:stem_acc
 dialamp :dialamph/s:hs_es:suff_acc
 dialampr :dia/lampros:os_on
@@ -37269,6 +37480,7 @@ diaperaiws :diaperai/wsis:is_ews:fem
 diaperant :diaperante/on:verb_adj2:suff_acc
 diaperasim diapera_sim:diapera/simos:os_on
 diapet :diapeth/s:hs_es:suff_acc
+diapetas :diape/tasma:ma_matos:neut
 diapetei :diape/teia:a_hs:fem
 diapez :dia/pezos:os_on
 diaph :dia/phc:c_gos:masc:ant_acc
@@ -37277,6 +37489,7 @@ diaphdhs :diaph/dhsis:is_ews:fem
 diaphg :dia/phga:os_ou:neut:pl :dia/phgma:ma_matos:neut
 diaphgi :diaph/gion:os_ou:neut
 diaphgmati :diaphgma/tion:os_ou:neut
+diaphrws :diaph/rwsis:is_ews:fem
 diapidus :diapi/dusis:is_ews:fem
 diapikr :dia/pikros:os_on
 diapimel diapi_mel:diapi/melos:os_on
@@ -37291,6 +37504,7 @@ diaplhktis :diaplh/ktisis:is_ews:fem
 diaplhktism :diaplhktismo/s:os_ou:masc:suff_acc
 diaplok :dia/plokos:os_on :diaplokh/:h_hs:fem:suff_acc
 diaplokin :diaplo/kinos:os_on
+diaplwis diaplwi+s:diaplw/i+sis:is_ews:fem
 diapneu :dia/pneuma:ma_matos:neut
 diapneus :dia/pneusis:is_ews:fem
 diapneust :diapneusto/s:os_on:suff_acc
@@ -37311,6 +37525,7 @@ diaponh :diapo/nhma:ma_matos:neut
 diaponhs :diapo/nhsis:is_ews:fem
 diaponht :diapone/w:verb_adj2:suff_acc :diaponhte/on:verb_adj2:suff_acc
 diaponti :diapo/ntios:os_on
+diapor :dia/poros:os_on
 diaporei :diaporei/a:h_hs:fem:stem_acc
 diaporeus :diapo/reusis:is_ews:fem
 diaporeut :diaporeuto/s:os_on:suff_acc
@@ -37336,7 +37551,7 @@ diaprusi :diapru/sios:os_h_on
 diapterws :diapte/rwsis:is_ews:fem
 diaptohs :diapto/hsis:is_ews:fem
 diaptuc :dia/ptucis:is_ews:fem
-diaptux :diaptuxh/:h_hs:fem:suff_acc
+diaptux :diaptuxh/:h_hs:fem:suff_acc :diaptuxh/s:hs_es :diaptuxh/s:hs_es:suff_acc
 diaptw :dia/ptwma:ma_matos:neut
 diaptws :dia/ptwsis:is_ews:fem
 diapu :dia/puos:os_on
@@ -37364,11 +37579,13 @@ diaqhk :diaqh/kh:h_hs:fem:stem_acc
 diaqhkograf :diaqhkogra/fos:os_on:stem_acc
 diaqig :diaqigh/:h_hs:fem:suff_acc
 diaqlht :diaqlhte/on:verb_adj2:suff_acc
+diaqliy :dia/qliyis:is_ews:fem
 diaqraust :dia/qraustos:os_on
 diaqrey :dia/qreyis:is_ews:fem
 diaqrhs :dia/qrhsis:is_ews:fem
 diaqrht :diaqre/w:verb_adj2:suff_acc
 diaqrummat :diaqrummati/s:is_idos:fem:suff_acc
+diaqruy :dia/qruyis:is_ews:fem
 diar :di/arma:ma_matos:neut
 diarai :dia/raios:os_on
 diarapism :diarapismo/s:os_ou:masc:suff_acc
@@ -37415,6 +37632,7 @@ diarths :dia/rthsis:is_ews:fem
 diarti :dia/rtios:os_on
 diartis :dia/rtisis:is_ews:fem
 diartism :diartismo/s:os_ou:masc:suff_acc
+diarus :dia/rrusis:is_ews:fem:late
 dias :di/asma:ma_matos:neut
 diasafhs :diasa/fhsis:is_ews:fem
 diasafht :diasafhte/on:verb_adj2:suff_acc
@@ -37465,7 +37683,7 @@ diastalt :diastalte/on:verb_adj2:suff_acc
 diastaltik :diastaltiko/s:os_h_on:suff_acc
 diastaqmhs :diasta/qmhsis:is_ews:fem
 diastas :dia/stasis:is_ews:fem
-diastat :diastato/s:os_on:suff_acc
+diastat :dia/statos:os_h_on :dia/statos:os_on :diastato/s:os_h_on:suff_acc :dii/sthmi:verb_adj2:suff_acc
 diastatik :diastatiko/s:os_h_on:suff_acc
 diasten :dia/stenos:os_on
 diaster :dia/steros:os_on
@@ -37681,13 +37899,13 @@ didumotoki :didumotoki/a:h_hs:fem:stem_acc
 didumoxr :didumo/xroos:oos_oon:stem_acc
 didumozu :didu/mozuc:c_gos:masc:ant_acc
 didumozug :didumo/zugos:os_on
-diecagwg :diecagwgh/:h_hs:fem:suff_acc :diecagwgo/s:os_ou:masc:suff_acc
+diecagwg :diecagwgeu/s:eus_ews:masc:suff_acc :diecagwgh/:h_hs:fem:suff_acc :diecagwgo/s:os_ou:masc:suff_acc
 diecanqh :dieca/nqhma:ma_matos:neut
 diecelas :diece/lasis:is_ews:fem
 dieceleus :diece/leusis:is_ews:fem
 diecerughs :dieceru/ghsis:is_ews:fem
 diecit :diecite/on:verb_adj2:suff_acc
-diecitht :die/ceimi:verb_adj2:suff_acc
+diecitht :die/ceimi:verb_adj2:suff_acc :dieci/thtos:os_h_on:suff_acc :dieci/thtos:os_on
 diecod :die/codos:os_ou:fem
 diecodeutik :diecodeutiko/s:os_h_on:suff_acc
 diecodik :diecodiko/s:os_h_on:suff_acc
@@ -37705,6 +37923,7 @@ dieid :dieidh/s:hs_es:suff_acc
 dieir :di/eiron:os_ou:neut
 dieirwnocen :dieirwno/cenos:os_on
 dieisdus :diei/sdusis:is_ews:fem
+diekbas :die/kbasis:is_ews:fem
 diekblht :diekblhte/on:verb_adj2:suff_acc
 diekbol :diekbolh/:h_hs:fem:suff_acc
 diekboli :diekbo/lion:os_ou:neut
@@ -37718,15 +37937,20 @@ diekptws :die/kptwsis:is_ews:fem
 diekro :die/kroos:os_ou:masc
 diektrhs :die/ktrhsis:is_ews:fem
 diektulws :diektu/lwsis:is_ews:fem
+dielai :die/laios:os_on
 dielas :die/lasis:is_ews:fem
 dielegkt :dielegkte/on:verb_adj2:suff_acc
 dieleus :die/leusis:is_ews:fem
 dielkusm :dielkusmo/s:os_ou:masc:suff_acc
 diempil :die/mpilos:os_on
 dien :di/enos:os_on :di/enos:os_on:stem_acc
+dienanti :dienanti/as:os_on:stem_acc
+dienec :die/necis:is_ews:fem
 dienekt :dienekte/on:verb_adj2:suff_acc :dienekte/os:verb_adj1:suff_acc
 dienerghtik :dienerghtiko/s:os_h_on:suff_acc
+dienqerm :die/nqermos:os_on
 dientereu :diente/reuma:ma_matos:neut
+dientom :die/ntomos:os_on
 dier :diero/s:os_h_on:suff_acc
 diera :die/rama:ma_matos:neut
 dieramatit :dieramati/ths:hs_ou:masc:stem_acc
@@ -40316,6 +40540,7 @@ e(lepol :e(le/polis:is_ews:fem
 e(leptol :e(le/polis:is_ews:fem:poetic
 e(lesp :e(lespi/s:is_idos:fem:suff_acc
 e(let :e(leto/s:os_h_on:suff_acc
+e(lhqer :ei(lhqerh/s:hs_es:suff_acc
 e(li :e(/lic1:c_kos:masc/fem :e(/lic2:c_kos:fem
 e(licoker :e(lico/kerws:ws_wn:masc/fem
 e(licopor :e(lico/poros:os_on
@@ -40538,6 +40763,7 @@ e(ptet :e(pte/ths:hs_es:stem_acc :e(pte/tis:is_idos:fem:stem_acc
 e(ptethr :e(ptethri/s:is_idos:fem:suff_acc
 e(pthmer :e(pth/meros:os_on
 e(ptorogui :e(ptoro/guios:os_on
+e(ptusxl :e(/ptusxlos:os_ou:masc
 e(ptwrof :e(ptw/rofos:os_on
 e(pwp :e(pwpi/s:is_idos:fem:suff_acc
 e(r :e(/rma1:ma_matos:neut :e(/rma2:ma_matos:neut
@@ -41475,6 +41701,7 @@ e)gkaqormis :e)gkaqo/rmisis:is_ews:fem
 e)gkar :e)/gkaros:os_ou:masc
 e)gkardi :e)gka/rdios:os_on
 e)gkardiai e)gkardiai_:e)gkardiai=os:os_h_on:stem_acc
+e)gkardiak :e)gkardiai=os:os_h_on:suff_acc
 e)gkarp :e)/gkarpos:os_on
 e)gkarpi :e)gka/rpios:os_on :e)gkarpi/a:h_hs:fem:stem_acc
 e)gkarpws :e)gka/rpwsis:is_ews:fem
@@ -41540,8 +41767,9 @@ e)gklhr :e)/gklhros:os_on
 e)gklhs :e)/gklhsis:is_ews:fem
 e)gklhsi :e)gklhsi/a:h_hs:fem:stem_acc
 e)gklht :e)/gklhtos:os_on :e)gklhte/os:verb_adj2:suff_acc
+e)gklhteus :e)gklh/teusis:is_ews:fem
 e)gkli :e)/gklima:ma_matos:neut
-e)gklis :e)/gklisis:is_ews:fem
+e)gklis e)/gklis:e)/gklisis:is_ews:fem
 e)gklit :e)gklite/on:verb_adj2:suff_acc
 e)gklitik :e)gklitiko/s:os_h_on:suff_acc
 e)gkludac :e)gklu/dacis:is_ews:fem
@@ -41589,6 +41817,7 @@ e)gkrateu :e)gkra/teuma:ma_matos:neut
 e)gkrateut :e)gkrateuth/s:hs_ou:masc:suff_acc
 e)gkraths :e)gkra/thsis:is_ews:fem
 e)gkratit :e)gkrati/ths:hs_ou:masc:stem_acc
+e)gkrem :e)gkremh/s:hs_es:suff_acc
 e)gkremas :e)gkre/masis:is_ews:fem
 e)gkridopwl :e)gkridopw/lhs:hs_ou:masc:stem_acc
 e)gkris :e)/gkrisis:is_ews:fem
@@ -41996,6 +42225,7 @@ e)kmetrhs :e)kme/trhsis:is_ews:fem
 e)kmetrht :e)kmetrhth/s:hs_ou:masc:suff_acc
 e)kmimhs :e)kmi/mhsis:is_ews:fem
 e)kmisq :e)/kmisqos:os_on
+e)kmisqws :e)kmi/sqwsis:is_ews:fem
 e)kmoxlei :e)kmoxlei/a:h_hs:fem:stem_acc
 e)kmoxleus :e)kmo/xleusis:is_ews:fem
 e)kmukthrism :e)kmukthrismo/s:os_ou:masc:suff_acc
@@ -42032,6 +42262,7 @@ e)kpaqei :e)kpa/qeia:a_hs:fem
 e)kpat :e)/kpatos:os_ou:masc
 e)kpati e)kpa_ti:e)kpa/tios:os_h_on
 e)kpau :e)/kpauma:ma_matos:neut
+e)kpeis :e)/kpeisma:ma_matos:neut
 e)kpempt :e)kpempte/os:verb_adj2:suff_acc
 e)kpemy :e)/kpemyis:is_ews:fem
 e)kpera e)kpera_:e)kpe/rama:ma_matos:neut
@@ -42369,6 +42600,7 @@ e)laioxrist :e)laioxri/sths:hs_ou:masc:stem_acc
 e)laioxristi :e)laioxristi/a:h_hs:fem:stem_acc
 e)laioxut :e)laio/xutos:os_on :e)laioxu/ths:hs_ou:masc:stem_acc
 e)laioxuths :e)laioxu/thsis:is_ews:fem
+e)laiqer :ei(lhqerh/s:hs_es:suff_acc
 e)lair :e)lairo/n:os_ou:neut:suff_acc :e)lairo/s:os_ou:masc:suff_acc
 e)laisth :e)laisth/r:r_ros:masc:stem_acc
 e)laisthri :e)laisth/rion:os_ou:neut
@@ -42518,6 +42750,7 @@ e)leust :e)leuste/on:verb_adj2:suff_acc
 e)lewtr :e)le/wtris:is_idos:fem
 e)lf :e)/lfos:hs_eos:neut
 e)lhg :e)lhgo/s:os_ou:masc:suff_acc
+e)lhqer :ei(lhqerh/s:hs_es:suff_acc
 e)lixwn :e)lixw/nh:h_hs:fem
 e)ll :e(llo/s:os_ou:masc:suff_acc :e)llo/s:os_h_on:suff_acc
 e)llamy :e)/llamyis:is_ews:fem
@@ -42808,6 +43041,7 @@ e)mperistat :e)mperi/statos:os_on
 e)mperisxes :e)mperi/sxesis:is_ews:fem
 e)mperitmht :e)mperi/tmhtos:os_on
 e)mperitom :e)mperi/tomos:os_on
+e)mperixar :e)mperixarh/s:hs_es:suff_acc
 e)mperiyukt :e)mperi/yuktos:os_on
 e)mperona e)mperona_:e)mpero/nhma:ma_matos:neut:doric
 e)mperonatr :e)mperonatri/s:is_idos:fem:suff_acc
@@ -42908,6 +43142,7 @@ e)mprhs :e)/mprhsis:is_ews:fem :e)/mprhsis:is_ews:fem:ionic
 e)mprhsm :e)mprhsmo/s:os_ou:masc:suff_acc
 e)mprhst :e)mprhsth/s:hs_ou:masc:suff_acc
 e)mpristik :e)mpristiko/s:os_h_on:suff_acc
+e)mproairet :e)mproai/retos:os_on
 e)mproiki :e)mproi/kios:os_on
 e)mproqesm :e)mpro/qesmos:os_on
 e)mprosod :e)mpro/sodos:os_on
@@ -42961,6 +43196,7 @@ e)myuxr :e)/myuxros:os_on
 e)myuxri :e)myuxri/a:h_hs:fem:stem_acc
 e)myuxws :e)myu/xwsis:is_ews:fem
 e)n :e)/nos2:os_h_on:fem:acc:sg:epic
+e)na :e)nnea/s:s_dos:fem:stem_acc:late
 e)naer e)na_er:e)na/eros:os_on
 e)naeri e)na_eri:e)nae/rios:os_on
 e)naeti :e)naeti/a:h_hs:fem:stem_acc
@@ -43048,6 +43284,8 @@ e)naplws :e)na/plwsis:is_ews:fem
 e)napobas :e)napo/basis:is_ews:fem
 e)napograf :e)napo/grafos:os_on
 e)napokleist :e)napo/kleistos:os_on
+e)napokruf :e)napo/krufos:os_on
+e)napolaust :e)napo/laustos:os_on
 e)napoleiy :e)napo/leiyis:is_ews:fem
 e)napolhmy :e)napo/lhyis:is_ews:fem
 e)napolhy :e)napo/lhyis:is_ews:fem
@@ -43245,6 +43483,7 @@ e)nerght :e)nerghte/os:verb_adj2:suff_acc
 e)nerghtik :e)nerghtiko/s:os_h_on:suff_acc
 e)nerghtri :e)nergh/tria:a_hs:fem
 e)nergm :e)nergmo/s:os_ou:masc:suff_acc
+e)neroxrw :e)nero/xrws:s_tos:masc/fem
 e)ners :e)/nersis:is_ews:fem
 e)nerter :e)ne/rteros:os_h_on
 e)neruqr :e)ne/ruqros:os_on
@@ -43302,19 +43541,52 @@ e)nip e)ni_p:e)niph/:h_hs:fem:suff_acc
 e)niplei :e)/mpleos:os_h_on:epic
 e)nisti :e)ni/stios:os_on
 e)nisxn :e)/nisxnos:os_on
+e)nisxus :e)ni/sxusis:is_ews:fem
 e)nixni :e)ni/xnion:os_ou:neut
 e)nizhs :e)ni/zhsis:is_ews:fem
+e)nkaqet :e)gka/qetos:os_on:late
+e)nkardi :e)gka/rdios:os_on:late
+e)nkat :e)/gkata:os_ou:neut:pl
+e)nkataleim :e)gkata/leimma:ma_matos:neut:late
+e)nkataleiy :e)gkata/leiyis:is_ews:late
+e)nkaus :e)/gkausis:is_ews:fem:late
+e)nkaust :e)/gkaustos:os_on:late
+e)nkefal :e)gke/falos:os_ou:masc:late
+e)nkentrism :e)gkentrismo/s:os_ou:masc:suff_acc:late
+e)nklh :e)/gklhma:ma_matos:neut:late
+e)nklhs :e)/gklhsis:is_ews:fem:late
+e)nklis e)/nklis:e)/gklisis:is_ews:fem:late
+e)nkoili :e)gkoi/lios:os_on:late
+e)nkombw :e)gko/mbwma:ma_matos:neut:late
+e)nkop :e)/gkopos:os_on:late :e)gkoph/:h_hs:fem:suff_acc:late
+e)nkosmi :e)gko/smios:os_on:late
+e)nkoura :e)gkoura/s:s_dos:fem:stem_acc:late
+e)nkrat :e)gkrath/s:hs_es:suff_acc:late
+e)nkratei :e)gkra/teia:a_hs:fem:late
+e)nktht :e)/gkthtos:os_h_on:late
 e)nkukli :e)gku/klios:os_on:late
+e)nkum :e)gku/mwn:wn_on:stem_acc:late
+e)nkwmi :e)gkw/mios:os_on:late
+e)nleiy :e)/lleiyis:is_ews:fem:late
+e)nlimeni :e)llime/nios:os_h_on:late
+e)nlimenist :e)llimenisth/s:hs_ou:masc:suff_acc:late
+e)nlip :e)lliph/s:hs_es:suff_acc:late
 e)nliq :e)/nliqos:os_on
+e)nluxni :e)llu/xnion:os_ou:neut:late
+e)nmel :e)mmelh/s:hs_es:suff_acc:late
+e)nmetr :e)/mmetros:os_on:late
 e)nmhni :e)mmh/nios:os_on
+e)nmorf :e)/mmorfos:os_on:late
 e)nmous :e)/mmousos:os_on
 e)nn :e)/nnoos:oos_oon
+e)nna :e)nnea/s:s_dos:fem:stem_acc:late
 e)nnaet :e)nnae/ths2:hs_ou:masc:stem_acc :e)nnae/ths:hs_es :e)nnae/ths:hs_es:suff_acc :e)nnae/ths:is_idos:fem:stem_acc :e)nnae/tis:is_idos:fem:stem_acc
 e)nnaeteir :e)nnaeth/r:a_hs:fem
 e)nnaeth :e)nnaeth/r:r_ros:fem:stem_acc
 e)nnaethr :e)nnae/thros:os_on :e)nnaethri/s:is_idos:fem:suff_acc
 e)nnaeti :e)nnaeti/a:h_hs:fem:stem_acc
 e)nnagwn :e)nna/gwnon:os_ou:neut
+e)nnahmer :e)nnah/meros:os_on
 e)nnai :e)/nnaion:os_ou:neut
 e)nnakosi :e)nnako/sios:os_h_on
 e)nnali :e)na/lios:os_h_on:poetic
@@ -43635,9 +43907,10 @@ e)ntript :e)ntri/bw:verb_adj2:suff_acc
 e)ntrit :e)/ntritos:os_on
 e)ntrix :e)/ntrixos:os_on
 e)ntrixw :e)ntri/xwma:ma_matos:neut
+e)ntrixws :e)ntrixw/seis:is_ews:fem
 e)ntriy :e)/ntriyis:is_ews:fem
 e)ntrof :e)/ntrofos:os_on
-e)ntrom :e)/ntromos:os_on
+e)ntrom :e)/ntromos:os_on :e)ntromh/:h_hs:fem:suff_acc
 e)ntrop :e)/ntropon:os_ou:neut :e)ntroph/:h_hs:fem:suff_acc
 e)ntropalism :e)ntropalismo/s:os_ou:masc:suff_acc
 e)ntrophmatik :e)ntrophmatiko/s:os_h_on:suff_acc
@@ -43693,6 +43966,7 @@ e)nustr :e)/nustron:os_ou:neut
 e)nwdi :e)nw/|dion:os_ou:neut
 e)nw|d :e)/nw|dos:os_on
 e)nw|di :e)nw/|dion:os_ou:neut
+e)nwl :e)nw/las:masc:stem_acc
 e)nwm :e)/nwmos:os_on
 e)nwmot :e)nw/motos:os_on :e)nwmoti/s:is_idos:fem:suff_acc
 e)nwmotarx :e)nwmota/rxhs:hs_ou:masc:stem_acc :e)nwmota/rxhs:os_ou:stem_acc
@@ -43955,7 +44229,7 @@ e)parustr :e)parustri/s:is_idos:fem:suff_acc
 e)parwg :e)parwgh/:h_hs:fem:suff_acc :e)parwgh/s:hs_es:suff_acc :e)parwgo/s:os_ou:masc:suff_acc
 e)parx :e)/parxos:os_on :e)parxh/:h_hs:fem:suff_acc
 e)parxei :e)pa/rxeios:os_ou:fem :e)parxei=on:os_ou:neut:stem_acc
-e)parxi :e)parxi/a:h_hs:fem:stem_acc
+e)parxi :e)parxei=on:os_ou:neut:stem_acc:late :e)parxi/a:h_hs:fem:stem_acc
 e)parxik :e)parxiko/s:os_h_on:suff_acc
 e)parxiwt :e)parxiw/ths:hs_ou:masc:stem_acc
 e)parxoth :e)parxo/ths:s_tos:fem
@@ -44027,6 +44301,7 @@ e)peisodiwd :e)peisodiw/dhs:hs_es:stem_acc
 e)peisphdht :e)peisphdhth/s:hs_ou:masc:suff_acc
 e)peisqes :e)pei/sqesis:is_ews:fem
 e)peisro :e)peisroh/:h_hs:fem:suff_acc
+e)pekbol :e)pekbolh/:h_hs:fem:suff_acc
 e)pekdidax :e)pekdidaxh/:h_hs:fem:suff_acc
 e)pekdrom :e)pekdromh/:h_hs:fem:suff_acc
 e)pekfwnhs :e)pekfw/nhsis:is_ews:fem
@@ -44666,6 +44941,7 @@ e)pilip :e)piliph/s:hs_es:suff_acc
 e)pill :e)/pillos:os_on
 e)pilob :e)pilobi/s:is_idos:fem:suff_acc
 e)pilog :e)pi/logos:os_ou:masc :e)pilogh/:h_hs:fem:suff_acc
+e)piloge :e)pilo/geon:os_ou:neut
 e)pilogeus :e)pilo/geusis:is_ews:fem
 e)pilogi :e)pilo/gion:os_ou:neut
 e)pilogik :e)pilogiko/s:os_h_on:suff_acc
@@ -44687,6 +44963,7 @@ e)pilutr :e)pi/lutros:os_on
 e)piluxn :e)pi/luxnos:os_ou:masc
 e)pilwb :e)pilwbh/s:hs_es:suff_acc
 e)pilwbht :e)pilw/bhtos:os_on
+e)pilwge :e)pilo/geon:os_ou:neut
 e)pimakr :e)pi/makros:os_on
 e)piman :e)pimanh/s:hs_es:suff_acc
 e)pimandalwt :e)pimandalwto/n:os_ou:neut:suff_acc
@@ -44736,7 +45013,7 @@ e)pimesouranh :e)pimesoura/nhma:ma_matos:neut
 e)pimest :e)pi/mestos:os_on
 e)pimetr :e)pi/metron:os_ou:neut
 e)pimetrhs :e)pime/trhsis:is_ews:fem
-e)pimetwpi :e)pimetw/pios:os_on
+e)pimetwpi :e)pimetw/pios:os_h_on:late
 e)pimhdi :e)pimh/dion:os_ou:neut
 e)pimhk :e)pimh/khs:hs_es
 e)pimhl :e)pimhli/s:is_idos:fem:suff_acc
@@ -44837,6 +45114,7 @@ e)pipakt :e)pipakti/s:is_idos:fem:suff_acc
 e)pipamat :e)pipamati/s:is_idos:fem:suff_acc
 e)pipapp :e)pi/pappos:os_ou:masc
 e)pipaq :e)pipaqh/s:hs_es:suff_acc
+e)piparallac :e)pipara/llacis:is_ews:fem
 e)piparod :e)pipa/rodos:os_ou:fem
 e)piparousi :e)piparousi/a:h_hs:fem:stem_acc
 e)pipas :e)pi/pasma:ma_matos:neut
@@ -44895,6 +45173,7 @@ e)pipneustik :e)pipneustiko/s:os_h_on:suff_acc
 e)pipnoi :e)pi/pnoia:a_hs:fem
 e)pipodi :e)pipo/dios:os_h_on
 e)pipoihs :e)pipoi/hsis:is_ews:fem
+e)pipoiht :e)pipoi/htos:os_on
 e)pipoim :e)pipoimh/n:hn_enos:masc/fem:suff_acc
 e)pipok :e)pi/pokos:os_on
 e)pipol :e)pi/pola:os_ou:neut:pl :e)pi/polos:os_ou:masc :e)pipolh/:h_hs:fem:suff_acc
@@ -44903,6 +45182,7 @@ e)pipolaiorriz :e)pipolaio/rrizos:os_on
 e)pipolas :e)pipo/lasis:is_ews:fem
 e)pipolasm :e)pipolasmo/s:os_ou:masc:suff_acc
 e)pipolastik :e)pipolastiko/s:os_h_on:suff_acc
+e)pipole :e)pipo/laios:os_on:late
 e)pipolhs :e)pipo/lhsis:is_ews:fem
 e)pipoli :e)pipo/lios:os_on
 e)pipomp :e)pipomph/:h_hs:fem:suff_acc :e)pipompo/s:os_ou:masc:suff_acc
@@ -44932,6 +45212,7 @@ e)piproswp :e)pipro/swpos:os_on
 e)piprw|r :e)pi/prw|ros:os_on
 e)piptais :e)pi/ptaisma:ma_matos:neut
 e)pipter :e)pi/pteron:os_ou:neut
+e)pipteruc :e)pipte/rucis:is_ews:fem
 e)pipths :e)pi/pthsis:is_ews:fem
 e)piptuc :e)pi/ptucis:is_ews:fem
 e)piptug :e)pi/ptugma:ma_matos:neut
@@ -44986,6 +45267,7 @@ e)piqhrarxi :e)piqhrarxi/a:h_hs:fem:stem_acc
 e)piqlas :e)pi/qlasis:is_ews:fem
 e)piqliy :e)pi/qliyis:is_ews:fem
 e)piqol :e)pi/qolos:os_on
+e)piqolws :e)piqo/lwsis:is_ews:fem
 e)piqran :e)pi/qranoi:os_ou:masc:pl
 e)piqrept :e)pi/qreptos:os_on
 e)piqrhnhs :e)piqrh/nhsis:is_ews:fem
@@ -45051,6 +45333,7 @@ e)pisal :e)pi/salos:os_on
 e)pisam :e)pi/samos:os_on
 e)pisandal :e)pisandali/s:is_idos:fem:suff_acc
 e)pisapr :e)pi/sapros:os_on
+e)pisaqr :e)pi/saqros:os_on
 e)pisark :e)pi/sarkos:os_on
 e)pisarkidi :e)pisarki/dion:os_ou:neut
 e)pisei :e)pi/sion:os_ou:neut :e)pisei/wn:wn_ontos:masc
@@ -45257,6 +45540,7 @@ e)pisxis :e)pi/sxisma:ma_matos:neut
 e)pit :e)pite/on:verb_adj2:suff_acc
 e)pita :e)pi/tama:ma_matos:neut
 e)pitac :e)pi/tacis:is_ews:fem
+e)pitadeotrwkt e)pita_deotrwkt:e)pitadeotrw/ktas:hs_ou:masc:doric:stem_acc
 e)pitadou :e)pita/douma:ma_matos:neut
 e)pitafi :e)pita/fios:os_on
 e)pitag :e)pi/tagma:ma_matos:neut :e)pitagh/:h_hs:fem:suff_acc
@@ -45548,6 +45832,7 @@ e)poyhs :e)po/yhsis:is_ews:fem
 e)poyi :e)po/yios:os_on :e)poyi/a:h_hs:fem:stem_acc
 e)poyidi :e)poyi/dios:os_on
 e)poyim :e)po/yimos:os_on
+e)ptusxl :e(/ptusxlos:os_ou:masc
 e)pudr :e)/fudros:os_on:ionic :e)/pudros:os_on
 e)pulli :e)pu/llion:os_ou:neut:diminutive
 e)pwbeli :e)pwbeli/a:h_hs:fem:stem_acc
@@ -46478,6 +46763,7 @@ ei)le :ei)leo/s:os_ou:masc:suff_acc
 ei)leti :ei)leti/as:hs_ou:masc:stem_acc
 ei)lewd :ei)lew/dhs:hs_es:stem_acc
 ei)lh :ei)/lhma:ma_matos:neut
+ei)lhqer :ei(lhqerh/s:hs_es:suff_acc
 ei)lhqm :ei)lhqmo/s:os_ou:masc:suff_acc
 ei)lhs :ei)/lhsis:is_ews:fem
 ei)lht :ei)lhto/s:os_h_on:suff_acc
@@ -46495,7 +46781,7 @@ ei)lui :ei)lu/ios:os_ou:masc
 ei)luqm :ei)luqmo/s:os_ou:masc:suff_acc
 ei)lus :ei)/lusis:is_ews:fem
 ei)luspw :ei)lu/spwma:ma_matos:neut
-ei)na :ei)na/s:s_dos:fem:stem_acc
+ei)na :e)nnea/s:s_dos:fem:ionic:stem_acc:poetic
 ei)naet :ei)naeth/s:hs_es :ei)naeth/s:hs_es:suff_acc
 ei)nafwss :ei)nafw/sswn:wn_on
 ei)nakisxili :e)nakisxi/lioi:os_h_on:pl:ionic
@@ -46572,6 +46858,8 @@ ei)selas :ei)se/lasis:is_ews:fem
 ei)selastik :ei)selastiko/s:os_h_on:suff_acc
 ei)seleus :ei)se/leusis:is_ews:fem
 ei)seleusi :ei)seleu/sion:os_ou:neut
+ei)senec :ei)se/negcis:is_ews:fem
+ei)senegc :ei)se/negcis:is_ews:fem
 ei)senekt :ei)sfe/rw:verb_adj2:suff_acc
 ei)sers :ei)/sersis:is_ews:fem
 ei)sfoiths :ei)sfoi/thsis:is_ews:fem
@@ -49036,6 +49324,7 @@ filhliast :filhliasth/s:hs_ou:masc:suff_acc
 filhm :filh/mh:h_hs:fem :filh/mwn:wn_on
 filhmati :filhma/tion:os_ou:neut
 filhmosun :filhmosu/nh:h_hs:fem:stem_acc
+filhn :fila/nwr:wr_oros:masc/fem:stem_acc
 filhnem :filh/nemos:os_on
 filhni :filh/nios:os_on
 filhraist :filhraisth/s:hs_ou:masc:suff_acc
@@ -49648,7 +49937,7 @@ flhnaf :flh/nafos:os_ou:masc
 flhnafh :flhna/fhma:ma_matos:neut
 flhnafi :flhnafi/a:h_hs:fem:stem_acc
 flhnafwd :flhnafw/dhs:hs_es:stem_acc
-fli fli_:flia/:h_hs:fem:suff_acc
+fli :flia/:h_hs:fem:late fli_:flia/:h_hs:fem:suff_acc
 fliar :fliaro/s:os_h_on:suff_acc
 flimeli :flime/lion:os_ou:neut
 fliy fli_y:qli=yis:is_ews:fem
@@ -50357,7 +50646,7 @@ futoskaf :futoska/fos:os_on:stem_acc
 futoskafi :futoskafi/a:h_hs:fem:stem_acc
 futospor :futo/sporos:os_on :futospo/ros:os_on:stem_acc
 futospori :futospori/a:h_hs:fem:stem_acc
-futotrof :futo/trofos:os_on
+futotrof :futotro/fos:os_on:stem_acc
 futotrofi :futotrofi/a:h_hs:fem:stem_acc
 futourg :futourgo/s:os_on:suff_acc
 futourgei :futourgei=on:os_ou:neut:stem_acc
@@ -51284,6 +51573,8 @@ gonupet :gonupeth/s:hs_es:suff_acc
 gonwd :gonw/dhs:hs_es:stem_acc
 gorfi :gorfi/a:os_ou:neut:pl:stem_acc
 gorg :gorgo/s:os_h_on:suff_acc
+gorgei :gorgei=on:os_ou:neut:doric :gorgei=on:os_ou:neut:doric:stem_acc
+gorgi :gorgei=on:os_ou:neut:doric
 gorgofqalm :gorgo/fqalmos:os_on
 gorgoth :gorgo/ths:s_tos:fem
 gorgur :go/rgura:a_hs:fem
@@ -52752,7 +53043,7 @@ i(ppotocei :i(ppotocei/a:h_hs:fem:stem_acc
 i(ppotocot :i(ppotoco/ths:hs_ou:masc:stem_acc
 i(ppotok :i(ppoto/kos:os_on:stem_acc
 i(ppotragelaf :i(ppotrage/lafos:os_ou:masc
-i(ppotrof :i(ppo/trofos:os_on :i(ppotro/fos:os_on:stem_acc
+i(ppotrof :i(ppotro/fos:os_on:stem_acc
 i(ppotrofei :i(ppotrofei=on:os_ou:neut:stem_acc
 i(ppotrofi :i(ppotrofi/a:h_hs:fem:stem_acc
 i(ppotrofik :i(ppotrofiko/s:os_h_on:suff_acc
@@ -53756,6 +54047,7 @@ kakodaimonik :kakodaimoniko/s:os_h_on:suff_acc
 kakodaimonist :kakodaimonisth/s:hs_ou:masc:suff_acc
 kakodaimosun :kakodaimosu/nh:h_hs:fem
 kakodakrut :kakoda/krutos:os_on
+kakodapan :kakoda/panos:os_on
 kakoderm :kako/dermos:os_on
 kakodi :kakodi/a:h_hs:fem:stem_acc
 kakodiaithsi :kakodiaithsi/a:h_hs:fem:stem_acc
@@ -54409,10 +54701,11 @@ kampulosalpist :kampulosalpisth/s:hs_ou:masc:suff_acc
 kampuloth :kampulo/ths:s_tos:fem
 kampulox :kampu/loxos:os_on
 kamw :ka/mwn:n_nos:masc
-kamy :ka/myh:h_hs:fem :ka/myis:is_ews:fem :kamyo/s:os_h_on:suff_acc
+kamy :ka/mya:a_hs:fem :ka/myh:h_hs:fem :ka/myis:is_ews:fem :kamyo/s:os_h_on:suff_acc
+kamyak :kamya/khs:hs_ou:masc:stem_acc
 kamyaki :kamya/kion:os_ou:neut
 kamyari :kamya/rios:os_ou:masc
-kamyi :kamyi/on:os_ou:neut:stem_acc :kamyi/pous:pous_podos:stem_acc
+kamyi :kamyi/on:os_ou:neut:stem_acc :kamyi/on:os_ou:neut:stem_acc:diminutive :kamyi/pous:pous_podos:stem_acc
 kamyidiaul :kamyidi/aulos:os_on
 kan :ka/neon:eos_eou:neut:attic :ka/neon:eos_eou:neut:pl:attic:suff_acc :kanw/n:wn_onos:masc:suff_acc
 kanab :ka/nabos:os_ou:masc
@@ -55719,7 +56012,7 @@ kateag :ka/tagma2:ma_matos:neut:late :kate/agma:ma_matos:neut
 katecanastas :katecana/stasis:is_ews:fem
 katecanastatik :katecanastatiko/s:os_h_on:suff_acc
 katecousi :katecousi/a:h_hs:fem:stem_acc
-katefq :katefqo/s:os_on:suff_acc
+katefq :katefqo/s:os_on :katefqo/s:os_on:suff_acc
 kateggu :kateggu/h:h_hs:fem:stem_acc
 kategguhs :kateggu/hsis:is_ews:fem
 kategklh :kate/gklhma:ma_matos:neut
@@ -55986,8 +56279,9 @@ kaxuponoht :kaxupono/htos:os_on
 kaxupopt :kaxu/poptos:os_on
 kaxupotop :kaxupo/topos:os_on
 kaxwq :ka/xwqos:os_ou:masc
-kay :ka/yis:is_ews:fem
-kayak :kaya/khs:hs_ou:masc:stem_acc
+kay :ka/mya:a_hs:fem :ka/yis:is_ews:fem
+kayak :kamya/khs:hs_ou:masc:stem_acc :kaya/khs:hs_ou:masc:stem_acc
+kayaki :kamya/kion:os_ou:neut
 kayari :kaya/rios:os_ou:masc
 kayidrwti :kayidrw/tion:os_ou:neut
 kayik :kayiko/s:os_h_on:suff_acc
@@ -56922,7 +57216,7 @@ kleptik :kleptiko/s:os_h_on:suff_acc
 kleptisk :klepti/skos:os_ou:masc:stem_acc
 kleptistat :klepti/statos:os_h_on
 kleptosun :kleptosu/nh:h_hs:fem
-kleptotrof :klepto/trofos:os_ou:masc
+kleptotrof :kleptotro/fos:os_ou:masc:stem_acc
 kleptri :kle/ptria:a_hs:fem
 klewnai :klewnai/a:h_hs:fem:stem_acc
 klewni :klew/nion:os_ou:neut
@@ -56963,6 +57257,8 @@ klhr :klh=ros:os_ou:masc
 klhri :klh/rios:os_on :klhri/on:os_ou:neut:stem_acc:diminutive
 klhrik :klhriko/s:os_h_on:suff_acc
 klhrodosi :klhrodosi/a:h_hs:fem:stem_acc
+klhrodot :klhrodo/ths:hs_ou:masc:stem_acc
+klhrodoths :klhrodo/thsis:is_ews:fem
 klhronom :klhro/nomos:os_ou:masc :klhrono/mos:os_ou:masc:stem_acc
 klhronomh :klhrono/mhma:ma_matos:neut
 klhronomi :klhronomi/a:h_hs:fem:stem_acc
@@ -56998,16 +57294,18 @@ klimakodes :klimako/desis:is_ews:fem
 klimakoeid :klimakoeidh/s:hs_es:suff_acc
 klimakofor :klimakofo/ros:os_on:stem_acc
 klimakth kli_makth:klimakth/r:r_ros:masc:stem_acc
-klimakthrik :klimakthriko/s:os_on:suff_acc
+klimakthrik :klimakthriko/s:os_h_on:suff_acc
 klimakwd :klimakw/dhs:hs_es:stem_acc
 klimakwt :klimakwto/s:os_h_on:suff_acc
 klimatarx :klimata/rxhs:hs_ou:masc:stem_acc
 klimati :klimati/as:hs_ou:masc:stem_acc
 klimatik :klimatiko/s:os_h_on:suff_acc
 klin :klini/s:is_idos:fem:suff_acc kli_n:kli/nh:h_hs:fem
+klina :klina/s:s_dos:fem:stem_acc
 klinari :klina/rion:os_ou:neut
 klinarx :kli/narxos:os_ou:masc :klina/rxhs:hs_ou:masc:stem_acc
 klinei :kli/neios:os_h_on
+klinhfor :klinhfo/ros:os_on:stem_acc
 klinhr kli_nhr:klinh/rhs:hs_es:stem_acc
 klini :klini/on:os_ou:neut:stem_acc
 klinidi kli_nidi:klini/dion:os_ou:neut:diminutive
@@ -57478,12 +57776,12 @@ koloiwd :koloiw/dhs:hs_es:stem_acc
 kolokan :koloka/nos:os_ou:masc:stem_acc
 kolokasi :koloka/sion:os_ou:neut :kolokasi/a:h_hs:fem:stem_acc
 koloku koloku_:kolo/kuma:ma_matos:neut
-kolokunq :kolo/kunqos:os_ou:masc :koloku/nqh:h_hs:fem:stem_acc :kolokunqi/s:is_idos:fem:suff_acc
+kolokunq :kolo/kunqos:os_ou:masc :koloku/nqh:a_hs:fem :koloku/nqh:h_hs:fem:stem_acc :kolokunqi/s:is_idos:fem:suff_acc
 kolokunqi :kolokunqia/s:hs_ou:masc:suff_acc
 kolokunqin :koloku/nqinos:os_h_on
 kolokunqopeirat :kolokunqopeiratai/:hs_ou:masc:pl:suff_acc
 kolokunqw :kolokunqw/n:n_nos:masc:stem_acc
-kolokunt :koloku/nqh:h_hs:fem:stem_acc
+kolokunt :koloku/nqh:a_hs:fem :koloku/nqh:h_hs:fem:stem_acc
 kolokunti :koloku/ntion:os_ou:neut
 koloss :kolosso/s:os_ou:masc:suff_acc
 kolossiai kolossiai_:kolossiai=os:os_h_on:stem_acc
@@ -57741,6 +58039,7 @@ korh :ko/rhma:ma_matos:neut
 korhqr :ko/rhqron:os_ou:neut
 kori :ko/rion:os_ou:neut:*theocr.:diminutive
 koriac :kori/acos:os_ou:masc
+korian :kori/annon:os_ou:neut
 koriann :kori/annon:os_ou:neut
 koridi :kori/dion:os_ou:neut
 korik :koriko/s:os_h_on:suff_acc
@@ -58146,7 +58445,7 @@ kraugaz :krau/gazos:os_ou:masc
 kraugi :kraugi/as:hs_ou:masc:stem_acc
 kraur :krau=ra:h_hs:fem :krau=ros:os_h_on
 krauroth :krauro/ths:s_tos:fem
-kre :kre/as:as_aos:neut:gen:sg:attic :kre/as:s_os:neut:gen:pl :kre/as:s_os:neut:nom/voc/acc:pl :kre/c:c_kos:fem :kre/wn:wn_ontos:masc:stem_acc :krei/wn:wn_ontos:masc:doric:stem_acc
+kre :kre/as:as_aos:neut:gen:sg:attic :kre/as:hs_eos:neut:nom/voc/acc:pl:late :kre/as:s_os:neut:gen:pl :kre/as:s_os:neut:nom/voc/acc:pl :kre/c:c_kos:fem :kre/wn:wn_ontos:masc:stem_acc :krei/wn:wn_ontos:masc:doric:stem_acc
 krea :kre/as:s_tos:neut
 kreadi krea_di:krea/dion:os_ou:neut:diminutive
 kreadosi :kreadosi/a:h_hs:fem:stem_acc
@@ -58158,6 +58457,8 @@ kreanom krea_nom:kreano/mos:os_ou:masc:stem_acc
 kreanomi krea_nomi:kreanomi/a:h_hs:fem:stem_acc
 kregm :kregmo/s:os_ou:masc:suff_acc
 krehdok :krehdo/kos:os_on:stem_acc
+krehfag :kreofa/gos:os_on:stem_acc
+krehfagi :kreofagi/a:h_hs:fem
 krei :krei/wn:wn_ontos:masc:stem_acc krei_:krei=on:os_ou:neut
 kreiodok :krehdo/kos:os_on:stem_acc :kreiodo/kos:os_on:stem_acc
 kreious :krei/ousa:a_hs:fem :krei/wn:a_hs:fem
@@ -58443,7 +58744,7 @@ krubakt :kru/baktos:os_ou:masc
 krubhl :kru/bhlos:os_on
 krubht :krubh/ths:hs_ou:masc:stem_acc
 kruer :kruero/s:os_h_on:suff_acc :kruero/s:os_on:suff_acc
-kruf :krufo/s:os_ou:masc:suff_acc
+kruf :krufo/s:os_ou:masc :krufo/s:os_ou:masc:suff_acc
 krufai krufai_:krufai=os:os_h_on:stem_acc krufai_:krufai=os:os_on:stem_acc
 krufas :kru/fasos:os_ou:masc
 krufi :kru/fios:os_h_on :kru/fios:os_on :krufi/a:h_hs:fem:stem_acc
@@ -58579,7 +58880,7 @@ kuamofagi :kuamofagi/a:h_hs:fem:stem_acc
 kuamotrw kuamotrw_:kuamotrw/c:c_gos:masc:stem_acc
 kuamw :kuamw/n:n_nos:masc:stem_acc
 kuamwnit :kuamwni/ths:hs_ou:masc:stem_acc
-kuan :ku/anos:os_h_on :ku/anos:os_ou:masc :kua/neos:eos_eh_eon:suff_acc
+kuan :ku/anos:os_h_on :ku/anos:os_h_on:suff_acc :ku/anos:os_ou:masc :ku/anos:os_ou:masc:suff_acc :kua/neos:eos_eh_eon:suff_acc
 kuanaig :kua/naigis:is_idos:fem :kuanaigi/s:is_idos:fem:suff_acc
 kuanampu kuanampu_:kuana/mpuc:c_kos:masc/fem:ant_acc
 kuananq :kuananqh/s:hs_es:suff_acc
@@ -58609,7 +58910,7 @@ kuanoxait :kuanoxai/ths:hs_ou:masc:stem_acc :kuanoxai/ths:hs_ou:masc:voc:sg:stem
 kuanoxitw :kuanoxi/twn:n_nos:ant_acc
 kuanoxr :kuano/xroos:oos_oon:stem_acc
 kuanoxrw :kuano/xroos:s_tos:ant_acc
-kuanwp :kuanw/phs:hs_ou:masc:stem_acc :kuanwpo/s:os_on:suff_acc kuanw_p:kuanw=pis:is_idos:fem:stem_acc
+kuanwp :kuanw/phs:hs_es:masc:stem_acc :kuanwpo/s:os_on:suff_acc kuanw_p:kuanw=pis:is_idos:fem:stem_acc
 kuanws :kua/nwsis:is_ews:fem
 kuaq :ku/aqos:os_ou:masc :kuaqi/s:is_idos:fem:suff_acc
 kuaqei :kua/qeion:os_ou:neut
@@ -59951,7 +60252,7 @@ lesxologi :lesxologi/a:h_hs:fem:stem_acc
 lesxwd :lesxw/dhs:hs_es:stem_acc
 leug :leu/gh:h_hs:fem
 leugale :leugale/os:os_h_on:stem_acc
-leuit :*leui/ths:hs_ou:masc:pl:stem_acc
+leuit leui_t:*leui/ths:hs_ou:masc:stem_acc
 leuk :leu/kh:h_hs:fem :leu=kos:os_ou:masc :leuko/n:os_ou:neut:suff_acc :leuko/s:os_h_on:suff_acc
 leuka :leuka/s:s_dos:fem:stem_acc
 leukai :leukai/a:h_hs:fem:stem_acc
@@ -59969,6 +60270,7 @@ leukasm :leukasmo/s:os_ou:masc:suff_acc
 leukasp :leu/kaspis:is_idos:masc/fem
 leukaug :leukaugh/s:hs_es:suff_acc
 leukaxat :leukaxa/ths:hs_ou:masc:stem_acc
+leuke :leukai/a:h_hs:fem:stem_acc
 leukerine :leukerineo/s:os_ou:masc:suff_acc
 leukeruqr :leuke/ruqros:os_on
 leukerw|di :leukerw|dio/s:os_ou:masc:suff_acc
@@ -62653,10 +62955,11 @@ metafras :meta/frasis:is_ews:fem
 metafrast :metafrasth/s:hs_ou:masc:suff_acc
 metafrastik :metafrastiko/s:os_h_on:suff_acc
 metafren :meta/frenon:os_ou:neut
+metafrourhs :metafrou/rhsis:is_ews:fem
 metafutei :metafutei/a:h_hs:fem:stem_acc
 metafuteus :metafu/teusis:is_ews:fem
 metafuteut :metafuteute/on:verb_adj2:suff_acc
-metageitniw :metageitniw/n:n_nos:masc:stem_acc
+metageitniw :*metageitniw/n:n_nos:masc:stem_acc :metageitniw/n:n_nos:masc:stem_acc
 metagen :metagenh/s:hs_es:suff_acc
 metagenester :metagene/steros:os_h_on
 metaggel :meta/ggelos:os_ou:masc/fem
@@ -62733,6 +63036,7 @@ metamel :meta/melos:os_ou:masc
 metamelei :metame/leia:a_hs:fem
 metamelhtik :metamelhtiko/s:os_h_on:suff_acc
 metamellhsm :metamellhsmo/s:os_ou:masc:suff_acc
+metamfias :metamfi/asis:is_ews:fem
 metamhqei :metamh/qeia:a_hs:fem
 metamorfws :metamo/rfwsis:is_ews:fem
 metamosxeus :metamo/sxeusis:is_ews:fem
@@ -62778,6 +63082,7 @@ metaptwtik :metaptwtiko/s:os_h_on:suff_acc
 metapurg :metapurgi/s:is_idos:fem:suff_acc
 metapurgi :metapu/rgion:os_ou:neut
 metaqes :meta/qesis:is_ews:fem
+metaqet :metaqete/on:verb_adj2:suff_acc
 metariqmi :metari/qmios:os_on
 metarreumatism :metarreumatismo/s:os_ou:masc:suff_acc
 metarreus :meta/rreusis:is_ews:fem
@@ -62796,6 +63101,7 @@ metarxi :meta/rxios:os_ou:masc
 metasfairism :metasfairismo/s:os_ou:masc:suff_acc
 metaskeu :metaskeuh/:h_hs:fem:suff_acc
 metaskeuastik :metaskeuastiko/s:os_h_on:suff_acc
+metaskey :meta/skeyis:is_ews:fem
 metass :me/tassa:h_hs:masc/fem:pl :me/tassa:os_ou:neut:pl
 metastals :meta/stalsis:is_ews:fem
 metastas :meta/stasis:is_ews:fem
@@ -62815,6 +63121,7 @@ metasxhmatism :metasxhmatismo/s:os_ou:masc:suff_acc
 metasxhmatist :metasxhmatiste/on:verb_adj2:suff_acc
 metasxist :metasxisth/s:hs_ou:masc:suff_acc
 metatac :meta/tacis:is_ews:fem
+metatakt :metata/ssw:verb_adj2:suff_acc
 metatoixi :metatoi/xion:os_ou:neut
 metatragw|di :metatragw|di/a:h_hs:fem:stem_acc
 metatrept :metatre/fw:verb_adj2:suff_acc
@@ -62823,6 +63130,7 @@ metatropi :metatropi/a:h_hs:fem:stem_acc
 metatupws :metatu/pwsis:is_ews:fem
 metaul :me/taulos:os_on
 metauxeni :metauxe/nios:os_on
+metaxalkeus :metaxa/lkeusis:is_ews:fem
 metaxarakthrism :metaxarakthrismo/s:os_ou:masc:suff_acc
 metaxeirh :metaxei/rhma:ma_matos:neut
 metaxeiri :metaxei/rios:os_on
@@ -62841,7 +63149,8 @@ metaxwrht :metaxwre/w:verb_adj2:suff_acc
 metayuc :meta/yucis:is_ews:fem
 metazhths :metazh/thsis:is_ews:fem
 metecartus :meteca/rtusis:is_ews:fem
-meteceter :metece/teroi:os_h_on:pl
+meteceter :metece/teroi:os_h_on
+meteggon :mete/kgonoi:os_ou:masc:pl
 meteggu :mete/gguos:os_ou:masc
 metekbas :mete/kbasis:is_ews:fem
 metekdu :mete/kduma:ma_matos:neut
@@ -62913,6 +63222,7 @@ metoxeteus :metoxe/teusis:is_ews:fem
 metoxi :meto/xion:os_ou:neut:late
 metoxik :metoxiko/s:os_h_on:suff_acc
 metoxitai :metoxitai=os:os_h_on:stem_acc:late
+metoxlhs :meto/xlhsis:is_ews:fem
 metr :me/tron:os_ou:neut
 metrh :me/trhma:ma_matos:neut
 metrhmati :metrhma/tion:os_ou:neut
@@ -63051,7 +63361,7 @@ mhnagurt :mhnagu/rths:hs_ou:masc:stem_acc
 mhnai mhnai_:mhnai=os:os_h_on:stem_acc
 mhnanq :mhna/nqos:os_ou:masc:stem_acc
 mhnarx :mh/narxos:os_ou:masc
-mhni :mh/nion:os_ou:neut :mh=nigc:gc_gos:fem mhni_:mh/nima:ma_matos:neut
+mhni :mh/nion:os_ou:neut :mh=nigc:gc_gos:fem mhni_:mh/nima:ma_matos:neut mhni_:mh=nigc:gc_gos:fem
 mhnia :mhni/ama:ma_matos:neut
 mhniai mhniai_:mhniai=os:os_h_on:stem_acc
 mhniarx :mhnia/rxhs:hs_ou:masc:stem_acc
@@ -63345,8 +63655,9 @@ mimolog mi_molog:mimolo/gos:os_on:stem_acc
 mimw|d :mimw|do/s:os_ou:masc:suff_acc
 minda :mi/ndac:c_kos:fem
 mini :mi/nion:os_ou:neut
-minq :mi/nqos:os_ou:masc
+minq :mi/nqa:a_hs:fem :mi/nqa:h_hs:fem :mi/nqos:os_ou:masc
 minqari :minqa/rion:os_ou:neut
+minqi :mi/nqa:os_ou:neut:stem_acc
 minuanq :minuanqh/s:hs_es:suff_acc
 minunqadi :minunqa/dios:os_h_on
 minuqh :minu/qhma:ma_matos:neut
@@ -64988,6 +65299,8 @@ neofu :neofuh/s:hs_es:suff_acc
 neofurat neofu_rat:neofu/ratos:os_on
 neofut :neo/futos:os_on
 neofutei :neofutei=on:os_ou:neut:stem_acc
+neofwtism :neofwtismo/s:os_ou:masc:suff_acc
+neofwtist :neofw/tistos:os_on
 neogam :neo/gamos:os_on :neogamh/s:hs_es:suff_acc
 neogamht :neogamhth/:h_hs:fem:suff_acc
 neogen :neogenh/s:hs_es:suff_acc
@@ -67712,7 +68025,7 @@ o)rniqoqhr :o)rniqoqh/ras:hs_ou:masc:stem_acc o)rni_qoqhr:o)rniqoqh/rhs:hs_ou:ma
 o)rniqoqhreut :o)rniqoqhreuth/s:hs_ou:masc:suff_acc
 o)rniqoskop :o)rniqosko/pos:os_on:stem_acc o)rni_qoskop:o)rniqosko/pos:os_on:stem_acc
 o)rniqoskopi :o)rniqoskopi/a:h_hs:fem:stem_acc
-o)rniqotrof :o)rniqo/trofos:os_ou:masc o)rni_qotrof:o)rniqotro/fos:os_on:stem_acc
+o)rniqotrof :o)rniqotro/fos:os_ou:masc:stem_acc o)rni_qotrof:o)rniqotro/fos:os_on:stem_acc
 o)rniqotrofei :o)rniqotrofei=on:os_ou:neut:stem_acc
 o)rniqotrofi o)rni_qotrofi:o)rniqotrofi/a:h_hs:fem:stem_acc
 o)rniqw :o)rniqw/n:n_nos:masc:stem_acc
@@ -68707,6 +69020,7 @@ paget :pa/getos:os_ou:masc :pageto/s:os_ou:masc:suff_acc
 pagetwd :pagetw/dhs:hs_es:stem_acc
 pagge :pa/ggeos:os_on
 paggeloi :pagge/loios:os_on
+paggen :paggenei/:hs_es:suff_acc
 paggenet :paggene/ths:hs_ou:masc:stem_acc :paggene/twr:wr_oros:masc
 paggeneteir :paggene/teira:a_hs:fem
 paggewrg :pagge/wrgos:os_on
@@ -68866,7 +69180,7 @@ paidotok :paidoto/kos:os_on:stem_acc
 paidotrib :paidotri/bhs:hs_ou:masc:stem_acc
 paidotribi :paidotribi/a:h_hs:fem:stem_acc
 paidotribik :paidotribiko/s:os_h_on:suff_acc
-paidotrof :paido/trofos:os_on :paidotro/fos:os_on:stem_acc
+paidotrof :paidotro/fos:os_on:stem_acc
 paidotrofi :paidotro/fion:os_ou:neut :paidotrofi/a:h_hs:fem:stem_acc
 paidotrwt :paido/trwtos:os_on
 paidourg :paidourgo/s:os_on:suff_acc
@@ -69056,6 +69370,7 @@ palindromht :palindrome/w:verb_adj2:suff_acc
 palindromi :palindromi/a:h_hs:fem:stem_acc
 palindromik :palindromiko/s:os_h_on:suff_acc
 palinedr :pali/nedros:os_on
+palinekxumenit :palinekxumeni/tas:hs_ou:masc:stem_acc
 palinempor :paline/mporos:os_ou:masc
 palinhnemi :palinhnemi/a:h_hs:fem:stem_acc
 palinidrus :palini/drusis:is_ews:fem
@@ -69689,6 +70004,7 @@ parabasi :para/basis:h_hs:fem:epic:*hes.:stem_acc :parabasi/a:h_hs:fem:stem_acc
 parabat :paraba/ths:hs_ou:masc:stem_acc :paraba/tis:is_idos:fem:stem_acc :parabate/on:verb_adj2:suff_acc :parabato/s:os_on:suff_acc
 parabatik :parabatiko/s:os_h_on:suff_acc
 parabi :parabi/as:hs_ou:masc:stem_acc :parabi/h:h_hs:fem
+parabias :parabi/asis:is_ews:fem
 parabiasm :parabiasmo/s:os_ou:masc:suff_acc
 parablast :parabla/sth:h_hs:fem
 parablasth :parabla/sthma:ma_matos:neut
@@ -70307,6 +70623,7 @@ paraxhl :para/xhlos:os_on
 paraxorhgh :paraxorh/ghma:ma_matos:neut
 paraxr :para/xroos:oos_oon:stem_acc
 paraxrhs :para/xrhsis:is_ews:fem
+paraxris :para/xrisis:is_ews:fem
 paraxrist :para/xrista:os_ou:neut:pl
 paraxrwm :para/xrwmos:os_on
 paraxrws :para/xrwsis:is_ews:fem
@@ -70396,6 +70713,7 @@ parekbol :parekbolh/:h_hs:fem:suff_acc
 parekbolik :parekboliko/s:os_h_on:suff_acc
 parekdekt :parekde/xomai:verb_adj2:suff_acc
 parekdox :parekdoxh/:h_hs:fem:suff_acc
+parekdrom :parekdromh/:h_hs:fem:suff_acc
 parekfus :pare/kfusis:is_ews:fem
 parekpurws :parekpu/rwsis:is_ews:fem
 parekqes :pare/kqesis:is_ews:fem
@@ -70404,6 +70722,7 @@ parekt :pare/ktwr:wr_oros:masc :parekte/on:verb_adj2:suff_acc :parekte/os:verb_a
 parektas :pare/ktasis:is_ews:fem
 parektat :parektate/on:verb_adj2:suff_acc
 parektik :parektiko/s:os_h_on:suff_acc
+parektom :parektomh/:h_hs:fem:suff_acc
 parektop :pare/ktopos:os_on
 parektrop :parektroph/:h_hs:fem:suff_acc
 parekxu :pare/kxuma:ma_matos:neut
@@ -70457,7 +70776,7 @@ parergat :parerga/ths:hs_ou:masc:stem_acc
 parergi :pare/rgion:os_ou:neut
 pares :pa/resis:is_ews:fem
 paresti :pare/stios:os_on
-paresxat :pare/sxatos:os_on
+paresxat :pare/sxatos:h_hs:fem :pare/sxatos:os_on
 paret :pa/retos:os_on :parete/on:verb_adj2:suff_acc
 paretoimasi :paretoimasi/a:h_hs:fem:stem_acc
 pareudiast :pareudiasth/s:hs_ou:masc:suff_acc
@@ -70882,7 +71201,7 @@ pe :pe/os:hs_eos:neut
 pec :pe/cis:is_ews:fem
 ped :pe/dh:h_hs:fem :pe/don:os_ou:neut
 pedagret :peda/gretos:os_on
-pedaixmi :metai/xmios:os_on:aeolic :pedai/xmios:os_on
+pedaixmi :metai/xmios:os_on:aeolic
 pedan :pedano/s:os_h_on:suff_acc
 pedane :peda/neos:os_ou:masc
 pedaor peda_or:mete/wros:os_on:aeolic peda_or:peda/oros:os_on
@@ -71066,6 +71385,7 @@ penestik :penestiko/s:os_h_on:suff_acc
 penh :pe/nhs:s_tos:masc
 penhss :pe/nhssa:a_hs:fem
 penhtokom :penhtoko/mos:os_on:stem_acc
+penhtulid :penhtuli/das:hs_ou:masc:doric:stem_acc
 peni :peni/a:h_hs:fem:stem_acc
 penixr :penixro/s:os_h_on:suff_acc
 penixral :penixrale/os:verb_adj2:suff_acc
@@ -71819,7 +72139,7 @@ peripl :peri/ploos:oos_oon:stem_acc
 periplan :periplanh/s:hs_es:suff_acc
 periplanhs :peripla/nhsis:is_ews:fem
 periplani :peripla/nios:os_on :periplani/h:h_hs:fem
-periplas :peri/plasis:is_ews:fem
+periplas :peri/plasis:is_ews:fem :peri/plasma:ma_matos:neut
 periplast :peripla/ssw:verb_adj2:suff_acc
 periple :peri/plews:os_on :peri/plews:ws_wn :peri/plews:ws_wn:masc/fem:nom:pl :peri/plews:ws_wn:neut:nom/acc:pl
 periplec :peri/plecis:is_ews:fem
@@ -72030,7 +72350,7 @@ peristeridi :peristeri/dion:os_ou:neut
 peristero :peristero/eis:eis_essa:stem_acc
 peristeroeid :peristeroeidh/s:hs_es:suff_acc
 peristeropwl :peristeropw/lhs:hs_ou:masc:stem_acc
-peristerotrof :peristero/trofos:os_ou:masc
+peristerotrof :peristerotro/fos:os_ou:masc:stem_acc
 peristerotrofei :peristerotrofei=on:os_ou:neut:stem_acc
 peristerw :peristerw/n:n_nos:masc:stem_acc peristerw_:peristerew/n:n_nos:masc:stem_acc:contr
 peristerwd :peristerw/dhs:hs_es:stem_acc
@@ -74649,6 +74969,7 @@ pragmatorraf :pragmatorra/fos:os_ou:masc:stem_acc
 pragmatwd :pragmatw/dhs:hs_es:stem_acc
 pragorit :pragori/ths:hs_ou:masc:stem_acc
 pra| :pra=os:os_on pra_|:pra=os:us_eia_u:suff_acc
+praid :prai=da:a_hs:fem
 praikw :prai/kwn:n_nos:masc
 pra|oth :prao/ths:s_tos:fem:ant_acc
 praiposit :praipo/sitos:os_ou:masc
@@ -75250,6 +75571,7 @@ prokaus :pro/kausis:is_ews:fem
 prokefal :proke/falos:os_on
 prokeleuq :proke/leuqos:os_on
 prokeleusmatik :prokeleusmatiko/s:os_ou:masc:suff_acc
+prokens :pro/kensos:os_ou:masc :pro/kensos:os_ou:neut:late
 prokenth :proke/nthma:ma_matos:neut
 prokenwt :prokenwte/on:verb_adj2:suff_acc
 prokera :proke/ras:s_tos:masc
@@ -75587,7 +75909,7 @@ proqum proqu_m:pro/qumos:os_on
 proqumht :proqumhte/on:verb_adj2:suff_acc proqu_mht:proqumhte/os:verb_adj1:suff_acc
 proqumi proqu_mi:proqumi/a:h_hs:fem:stem_acc
 proqumopoihs :proqumopoi/hsis:is_ews:fem
-proqur :pro/quron:os_ou:neut
+proqur :pro/quron:os_ou:neut :pro/quron:os_ou:neut:suff_acc:late
 proqurai :proqu/raios:os_h_on :proqu/raios:os_on
 proqurw :proqu/rwma:ma_matos:neut :proqurw/a:h_hs:fem :proqurw/n:n_nos:masc:stem_acc
 proqus :pro/qusis:is_ews:fem
@@ -76363,6 +76685,7 @@ prwqeuret :prwqeureth/s:hs_ou:masc:suff_acc
 prwqhb :prw/qhbos:os_on :prwqh/bhs:hs_ou:masc:stem_acc
 prwquster :prwqu/steros:os_on
 prwr :prw=|ra:a_hs:fem :prw=|ra:h_hs:fem :prwreu/s:eus_ews:masc:suff_acc
+prws :pro/wsis:is_ews:fem
 prwt :pro/teros:os_h_on:irreg_superl :prw=tos:os_h_on :prwteu/s:eus_ews:masc:suff_acc :prwto/s:os_h_on:suff_acc
 prwtaggel :prwta/ggelos:os_on
 prwtagri :prwta/grion:os_ou:neut
@@ -76448,6 +76771,7 @@ prwtomoir prwto/moir:prwto/moiros:os_on
 prwtomor :prwto/moros:os_on
 prwtomus :prwtomush/s:hs_es:suff_acc
 prwtomust :prwtomu/sths:hs_ou:masc:stem_acc
+prwtonotari :prwtonota/rios:os_ou:masc
 prwtonumfeut :prwtonu/mfeutos:os_on
 prwtopag :prwtopagh/s:hs_es:suff_acc
 prwtopal :prwto/palos:os_ou:masc
@@ -76488,7 +76812,7 @@ prwtotmht :prwto/tmhtos:os_on
 prwtotok :prwto/tokos:os_on :prwtoto/kos:os_on:stem_acc
 prwtotoki :prwtoto/kia:os_ou:neut:pl :prwtotoki/a:h_hs:fem:stem_acc
 prwtotom :prwto/tomos:os_on
-prwtotrof :prwto/trofos:os_on
+prwtotrof :prwto/trofos:os_on :prwto/trofos:os_on:stem_acc
 prwtotup :prwto/tupos:os_on
 prwtotupi :prwtotupi/a:h_hs:fem:stem_acc
 prwtoufant :prwtou/fantos:os_on
@@ -76645,8 +76969,9 @@ ptwxofan :ptwxofanh/s:hs_es:suff_acc
 ptwxomous :ptwxo/mousos:os_ou:masc
 ptwxopoi :ptwxopoio/s:os_on:suff_acc
 ptwxoth :ptwxo/ths:s_tos:fem
-ptwxotrof :ptwxo/trofos:os_on
+ptwxotrof :ptwxotro/fos:os_on:stem_acc
 ptwxotrofei :ptwxotrofei=on:os_ou:neut:stem_acc
+ptwxotrofi :ptwxotrofi/a:h_hs:stem_acc
 pu :pu/h:h_hs:fem :pu/on:os_ou:neut :pu/os:hs_eos:neut :pu=r:r_ros:neut:dat:sg :pu=r:r_ros:neut:gen:sg pu_:pu/on:os_ou:neut pu_:puo/s:os_ou:masc:suff_acc
 pual :pu/alos:os_ou:fem
 pualit :puali/ths:hs_ou:masc:stem_acc
@@ -77074,7 +77399,7 @@ pwlodamn :pwloda/mnhs:hs_ou:masc:stem_acc
 pwlodamni :pwlodamni/a:h_hs:fem:stem_acc
 pwlodamnik :pwlodamniko/s:os_h_on:suff_acc
 pwlomax :pwloma/xos:os_on:stem_acc
-pwlotrof :pwlo/trofos:os_on :pwlotro/fos:os_on:stem_acc
+pwlotrof :pwlotro/fos:os_on:stem_acc
 pwlotrofi :pwlotrofi/a:h_hs:fem:stem_acc
 pwlotrofik :pwlotrofiko/s:os_h_on:suff_acc
 pwlupi :pwlu/pion:os_ou:neut
@@ -77864,8 +78189,9 @@ qhriomig :qhriomigh/s:hs_es:suff_acc
 qhriomorf :qhrio/morfos:os_on
 qhrionark :qhriona/rkh:h_hs:fem
 qhrioplhkt :qhrio/plhktos:os_on
+qhrioprep :qhriopreph/s:hs_es:suff_acc
 qhrioth :qhrio/ths:s_tos:fem:ant_acc
-qhriotrof :qhrio/trofos:os_on
+qhriotrof :qhrio/trofos:os_on :qhrio/trofos:os_on:stem_acc
 qhriotrofei :qhriotrofei=on:os_ou:neut:stem_acc
 qhriw :qhri/wma:ma_matos:neut
 qhriwd :qhriw/dhs:hs_es:stem_acc
@@ -79000,6 +79326,7 @@ r)ar :r)a/ros:os_ou:masc
 r)ari :r)a/rion:os_ou:neut
 s :sh/s:hs_eos:masc :sh/s:hs_eos:masc:suff_acc :so/s:os_h_on:suff_acc
 sa :sa/os:adverb:comp :sa/os:os_h_on:comp :sw=s:os_h_on:doric:*pind.:poetic sa_:sh=ma:ma_matos:neut:doric
+saa(m :sh/samon:os_ou:neut
 sabak :sabako/s:os_h_on:suff_acc
 sabakaqi :sabaka/qion:os_ou:neut
 sabakt :saba/kths:hs_ou:masc:stem_acc
@@ -79284,6 +79611,9 @@ sarwn :sarwni/s:is_idos:fem:suff_acc
 sarws :sa/rwsis:is_ews:fem
 sarwt :sarw/ths:hs_ou:masc:stem_acc
 sarwtr :sa/rwtron:os_ou:neut
+sasam :sh/samon:os_ou:neut
+sasamofwkt :shsamo/fwktos:os_on
+sasamopast :shsamo/pastos:os_on
 sasth :sasth/r:r_ros:masc:stem_acc
 sat :sa/ton:os_ou:neut
 satar :satari/s:is_idos:fem:suff_acc
@@ -79588,11 +79918,14 @@ sfigkth :sfigkth/r:r_ros:masc:stem_acc
 sfodel :sfodelo/s:os_ou:masc:suff_acc
 sfodr :sfodro/s:os_h_on:suff_acc :sfodro/s:os_on:suff_acc
 sfodroth :sfodro/ths:s_tos:fem:ant_acc
+sfodrwtat :sfodro/s:os_h_on:irreg_superl
+sfodrwter :sfodro/s:os_h_on:irreg_comp
 sfogg :sfoggi/on:os_ou:neut:attic :spo/ggos:os_ou:masc
 sfoggi :sfoggi/on:os_ou:neut:attic:stem_acc :sfoggia/:h_hs:fem:suff_acc
 sfondul :sfo/ndulos:os_ou:masc :sfonduli/s:is_idos:fem:suff_acc sfondu_l:sfondu/lh:h_hs:fem:stem_acc
 sfondulei :sfondu/lion:os_ou:neut
 sfonduli :sfondu/lion:os_ou:neut
+sfonduliw :sfonduli/wn:n_nos:masc
 sfondulo :sfondulo/eis:eis_essa:stem_acc
 sfondulodinht sfondulodi_nht:sfondulodi/nhtos:os_on
 sfondulomant :sfondulo/mantis:is_ews:fem
@@ -79704,7 +80037,7 @@ shrikari :shrika/rios:os_ou:masc
 shrikodiast :shrikodiasth/s:hs_ou:masc:suff_acc
 shrokton :shrokto/nos:os_on:stem_acc
 shs :sh=sis:is_ews:fem
-shsam :sh/samon:os_ou:neut :sh/samos:os_ou:masc :shsa/mh:h_hs:fem:stem_acc :shsamh=:eh_ehs:fem:suff_acc :shsami/s:is_idos:fem:suff_acc :shsamo/eis:oeis_oessa:suff_acc
+shsam :sh/samon:os_ou:neut :sh/samos:os_ou:masc :shsa/mh:h_hs:fem:stem_acc :shsamh=:eh_ehs:fem:suff_acc :shsami/s:is_idos:fem:suff_acc :shsamo/eis:oeis_oentos:masc:contr :shsamo/eis:oeis_oessa:suff_acc
 shsamai shsamai_:shsamai=os:os_h_on:stem_acc
 shsamei :shsamei/a:h_hs:fem:stem_acc
 shsami :shsa/mion:os_ou:neut
@@ -80628,7 +80961,7 @@ skulakeutik :skulakeutiko/s:os_h_on:suff_acc
 skulaki :skula/kion:os_ou:neut:diminutive
 skulakit skulaki_t:skulaki=tis:is_idos:fem:stem_acc
 skulakokton :skulakokto/nos:os_on:stem_acc
-skulakotrof :skulako/trofos:os_on
+skulakotrof :skulakotro/fos:os_on:stem_acc
 skulakotrofi :skulakotrofi/a:h_hs:fem:stem_acc
 skulakotrofik :skulakotrofiko/s:os_h_on:suff_acc
 skulakwd :skulakw/dhs:hs_es:stem_acc
@@ -82042,7 +82375,7 @@ suggamet :suggame/ths:hs_ou:masc:stem_acc
 suggamhs :sugga/mhsis:is_ews:fem:late
 suggeit :suggei/twn:wn_onos:masc/fem:stem_acc
 suggeitni :suggei/tnios:os_on
-suggen :suggeneu/s:eus_ews:masc:suff_acc:late :suggenh/s:hs_es:suff_acc :suggeni/s:is_idos:fem:suff_acc
+suggen :suggeneu/s:eus_ews:masc:suff_acc:late :suggenh/s:hs_es:rare :suggenh/s:hs_es:suff_acc :suggeni/s:is_idos:fem:suff_acc
 suggenei :sugge/neia:a_hs:fem :sugge/neia:h_hs:fem:stem_acc:late :sugge/neios:os_on
 suggeneteir :suggene/teira:a_hs:fem
 suggenh :sugge/nhma:ma_matos:neut
@@ -82509,6 +82842,7 @@ sumpanhgurist :sumpanhguristai/:hs_ou:masc:pl:suff_acc
 sumpaq :sumpaqh/s:hs_es:suff_acc
 sumpaqei :sumpa/qeia:a_hs:fem
 sumpaqhs :sumpa/qhsis:is_ews:fem
+sumpaqhtik :sumpaqhtiko/s:os_h_on:suff_acc
 sumpaqi :sumpa/qeia:h_hs:fem:stem_acc
 sumparalhmy :sumpara/lhyis:is_ews:fem
 sumparalhpt :sumparalhpte/on:verb_adj2:suff_acc
@@ -82549,6 +82883,7 @@ sumperifer :sumperiferh/s:hs_es:suff_acc
 sumperifor :sumperifora/:h_hs:fem:suff_acc
 sumperiforht :sumperiforhto/s:os_h_on:suff_acc
 sumperilhpt :sumperilhpte/on:verb_adj2:suff_acc
+sumperilhptik :sumperilhptiko/s:os_h_on:suff_acc
 sumperiplok :sumperiplokh/:h_hs:fem:suff_acc
 sumperipol :sumperi/polos:os_ou:masc
 sumperipolhs :sumperipo/lhsis:is_ews:fem
@@ -82588,10 +82923,14 @@ sumpnig :sumpnigh/s:hs_es:suff_acc
 sumpno :sumpnoh/:h_hs:fem:suff_acc
 sumpnoi :su/mpnoia:a_hs:fem
 sumpodism :sumpodismo/s:os_ou:masc:suff_acc
-sumpolit sumpoli_t:sumpoli/ths:hs_ou:masc:stem_acc
+sumpoim :sumpoi/mhn:hn_enos:masc
+sumpolemist :sumpolemisth/s:hs_ou:masc:suff_acc
+sumpolit sumpoli_t:sumpoli/ths:hs_ou:masc:stem_acc sumpoli_t:sumpoli=tis:is_idos:fem:stem_acc
 sumpolitei sumpoli_tei:sumpolitei/a:h_hs:fem:stem_acc
+sumpoliteus :sumpoli/teusis:is_ews:fem
 sumpoll :su/mpolloi:os_h_on:pl
 sumpomp :sumpomph/:h_hs:fem:suff_acc
+sumpon :su/mponos:os_ou:masc
 sumponi :sumponi/a:h_hs:fem:stem_acc
 sumpor :su/mporos:os_on
 sumporism :sumporismo/s:os_ou:masc:suff_acc
@@ -82601,6 +82940,8 @@ sumposiai sumposiai_:sumposiai=os:os_h_on:stem_acc
 sumposiak :sumposiako/s:os_h_on:suff_acc
 sumposiarx :sumposi/arxos:os_ou:masc :sumposia/rxhs:hs_ou:masc:stem_acc
 sumposiarxi :sumposiarxi/a:h_hs:fem:stem_acc
+sumposiast :sumposiasth/s:hs_ou:masc:suff_acc
+sumposiastik :sumposiastiko/s:os_h_on:suff_acc
 sumpot :sumpo/ths:hs_ou:masc:stem_acc
 sumpotik :sumpotiko/s:os_h_on:suff_acc
 sumprac :su/mpracis:is_ews:fem
@@ -82698,6 +83039,7 @@ sunaixm :su/naixmos:os_on
 sunaixmalwt :sunaixma/lwtis:is_idos:fem :sunaixma/lwtos:os_on
 sunako :suna/koos:os_ou:masc
 sunakolouq :sunako/louqos:os_on
+sunakolouqhs :sunakolou/qhsis:is_ews:fem
 sunakolouqht :sunakolouqe/w:verb_adj2:suff_acc
 sunakolouqi :sunakolouqi/a:h_hs:fem:stem_acc
 sunakoust :sunakou/w:verb_adj2:suff_acc
@@ -82711,6 +83053,7 @@ sunaleim :suna/leimma:ma_matos:neut
 sunaleipt :sunalei/fw:verb_adj2:suff_acc :sunaleipto/s:os_on:suff_acc
 sunaleiptik :sunaleiptiko/s:os_h_on:suff_acc
 sunalghd :sunalghdw/n:wn_onos:fem:suff_acc
+sunali suna_li:sunh=lic:c_kos:ant_acc
 sunalif :sunalifh/:h_hs:fem:suff_acc
 sunallac :suna/llacis:is_ews:fem
 sunallag :suna/llagma:ma_matos:neut :sunallagh/:h_hs:fem:suff_acc
@@ -82776,6 +83119,9 @@ sunapostat :sunaposta/ths:hs_ou:masc:stem_acc
 sunapt :sunapte/on:verb_adj2:suff_acc :sunapto/s:os_on:suff_acc
 sunapthri :sunapth/rion:os_ou:neut
 sunaptik :sunaptiko/s:os_h_on:suff_acc
+sunaql :suna/eqlos:os_ou:masc
+sunaqlhs :suna/qlhsis:is_ews:fem
+sunaqlht :sunaqlhth/s:hs_ou:masc:suff_acc
 sunaqrois :suna/qroisis:is_ews:fem :suna/qroisma:ma_matos:neut
 sunaqroism :sunaqroismo/s:os_ou:masc:suff_acc
 sunaqroist :sunaqroisth/s:hs_ou:masc:suff_acc
@@ -82875,9 +83221,10 @@ sundroma :sundroma/s:s_dos:fem:stem_acc
 sundua :sundua/s:s_dos:fem:stem_acc
 sunduasm :sunduasmo/s:os_ou:masc:suff_acc
 sunduastik :sunduastiko/s:os_h_on:suff_acc
+sunecakolouqhs :sunecakolou/qhsis:is_ews:fem
 suneceleuqer :suneceleu/qeros:os_ou:masc
+sunecetas :sunece/tasis:is_ews:fem
 sunecetast :suneceta/zw:verb_adj2:suff_acc :sunecetasth/s:hs_ou:masc:suff_acc
-sunechs :sune/chsis:is_ews:fem
 sunecomoiws :sunecomoi/wsis:is_ews:fem
 sunecousi :sunecou/sios:os_ou:masc
 sunedr :su/nedros:os_on :sune/dra:h_hs:fem
@@ -82935,6 +83282,7 @@ sunembol :sunembolh/:h_hs:fem:suff_acc
 sunemfas :sune/mfasis:is_ews:fem
 sunempor :sune/mporos:os_ou:masc/fem
 sunemptws :sune/mptwsis:is_ews:fem
+sunendeic :sune/ndeicis:is_ews:fem
 sunendhs :sune/ndhsis:is_ews:fem
 sunendos :sune/ndosis:is_ews:fem
 sunenerg :sunenergh/s:hs_es:suff_acc
@@ -83037,9 +83385,11 @@ sunhgori :sunhgori/a:h_hs:fem:stem_acc
 sunhgorik :sunhgoriko/s:os_h_on:suff_acc
 sunhko :sunh/koos:os_on
 sunhli sunh_li:sunh=lic:c_kos:ant_acc
+sunhlik :sunh=lic:os_h_on:late
 sunhliki :sunhliki/a:h_hs:fem:stem_acc
-sunhlikiwt :sunhlikiw/ths:hs_ou:masc:stem_acc
-sunhlus :sunhlusi/h:is_ews:fem
+sunhlikiwt :sunhlikiw/ths:hs_ou:masc:stem_acc :sunhlikiw/ths:is_idos:fem:stem_acc
+sunhlu :su/nhlus:s_dos:masc/fem
+sunhlus :sunh/lusis:is_ews:fem :sunhlusi/h:is_ews:fem
 sunhlusi :sunhlusi/h:h_hs:fem:stem_acc
 sunhlws :sunh/lwsis:is_ews:fem
 sunhm :sunh/mwn:wn_on:stem_acc
@@ -83090,7 +83440,7 @@ sunnoi :su/nnoia:a_hs:fem :su/nnoia:h_hs:fem:ionic:stem_acc
 sunnom :su/nnomos:os_on :sunnomeu/s:eus_ews:masc:suff_acc :sunnomh/:h_hs:fem:suff_acc
 sunnumf :su/nnumfos:os_ou:fem
 sunnumfokom :sunnumfoko/mos:os_on:stem_acc
-sunod :su/nodos1:os_ou:masc/fem :su/nodos2:os_ou:fem
+sunod :su/nodos2:os_ou:fem :su/nodos:os_ou:masc/fem
 sunodeus :suno/deusis:is_ews:fem
 sunodeut :sunodeuth/s:hs_ou:masc:suff_acc
 sunodhg :sunodhgo/s:os_ou:masc:suff_acc
@@ -83351,6 +83701,7 @@ suoforbi :suofo/rbion:os_ou:neut
 suoktasi :suoktasi/a:h_hs:fem:stem_acc
 suokton :suokto/nos:os_on:stem_acc
 suoktoni :suoktoni/a:h_hs:fem:stem_acc
+suoploutosun :suoploutosu/nh:h_hs:doric:stem_acc
 suoqhr :suoqh/ras:hs_ou:masc:stem_acc
 suotrof :suotro/fos:os_on:stem_acc
 supu :supu/h:h_hs:fem
@@ -83480,7 +83831,7 @@ sustremmatarx :sustremmata/rxhs:hs_ou:masc:stem_acc
 sustremmati :sustremma/tion:os_ou:neut
 sustrept :sustrepte/on:verb_adj2:suff_acc
 sustreptik :sustreptiko/s:os_h_on:suff_acc
-sustrof :sustrofh/:h_hs:fem:suff_acc
+sustrof :su/strofos:os_on :sustrofh/:h_hs:fem:suff_acc
 sustrofi :sustrofi/a:h_hs:fem:stem_acc
 sustrw :su/strwma:ma_matos:neut
 sustul :su/stulos:os_on
@@ -84350,6 +84701,7 @@ tenqrhni :tenqrh/nion:os_ou:neut
 tenqrhniwd :tenqrhniw/dhs:hs_es:stem_acc
 teqm :qesmo/s:os_ou:masc:doric:suff_acc :teqmo/s:os_ou:masc:suff_acc
 teqmi :qe/smios:os_on:doric :te/qmios:os_h_on:doric :te/qmios:os_on:doric
+teqnakoxalkid :teqnakoxalki/das:hs_ou:masc:stem_acc
 teqripp :te/qrippos:os_on
 teqrippobam teqrippoba_m:teqrippoba/mwn:wn_on:stem_acc
 teqrippobat :teqrippoba/ths:hs_ou:masc:stem_acc
@@ -85431,6 +85783,7 @@ tribel :tribelh/s:hs_es:suff_acc
 tribik :tri/bikos:os_ou:masc :tribiko/s:os_h_on:suff_acc
 tribol :tri/bolos:os_on
 tribolektrapel :tribolektra/pelos:os_on
+tribounali :tribouna/lion:os_ou:neut
 tribrax :tri/braxus:us_u
 tribrox :tri/broxos:os_on
 tribunari :tribuna/rion:os_ou:neut
@@ -87414,8 +87767,10 @@ u(poblais :u(po/blaisos:os_on
 u(poblatt :u(pobla/tta:h_hs:fem
 u(poblefar :u(poble/fara:os_ou:neut:pl
 u(poblh :u(po/blhma:ma_matos:neut
-u(poblht :u(po/blhtos:os_on :u(poblhte/os:verb_adj2:suff_acc
+u(poblht :u(po/blhtos:os_on :u(po/blhtos:os_on:suff_acc :u(poblhte/os:verb_adj2:suff_acc
+u(poblw :u(poblw/y:y_pos:masc/fem:stem_acc
 u(pobohq :u(pobohqo/s:os_ou:masc:suff_acc
+u(pobohqei :u(poboh/qeia:a_hs:fem
 u(pobol :u(poboleu/s:eus_ews:masc:suff_acc :u(pobolh/:h_hs:fem:suff_acc
 u(pobolimai u(pobolimai_:u(pobolimai=os:os_h_on:stem_acc
 u(poborbori :u(poborbo/rion:os_ou:neut
@@ -87593,6 +87948,8 @@ u(poik :u(/poikos:os_ou:masc
 u(poikouri :u(poikouri/a:h_hs:fem:stem_acc
 u(poin :u(/poinos:os_on
 u(poist :u(poiste/on:verb_adj2:suff_acc :u(poisto/s:os_h_on:suff_acc
+u(pokakohq :u(pokakoh/qhs:hs_es
+u(pokamis :u(poka/mison:os_ou:neut
 u(pokamisi :u(pokami/sion:os_ou:neut
 u(pokamp :u(pokamph/:h_hs:fem:suff_acc
 u(pokaphl :u(poka/phlos:os_ou:masc
@@ -87625,13 +87982,16 @@ u(pokeram :u(poke/ramos:os_on
 u(pokhr :u(po/khros:os_on
 u(pokhrug :u(pokh/rugma:ma_matos:neut
 u(pokindun :u(poki/ndunos:os_on :u(pokindu/nos:os_on
+u(pokinhs :u(poki/nhsis:is_ews:fem:late
 u(pokirr :u(po/kirros:os_on
-u(pokist :u(pokisti/s:is_idos:fem:suff_acc
+u(pokisq :u(pokisti/s:is_idos:fem:suff_acc
+u(pokist :u(pokisti/s:is_ews:fem :u(pokisti/s:is_idos:fem:suff_acc
 u(pokkin :u(po/kkinos:os_on
 u(poklast :u(po/klastos:os_on
 u(poklh :u(po/klhma:ma_matos:neut
 u(poklin :u(poklinh/s:hs_es:suff_acc
-u(poklop :u(po/klopos:os_on
+u(poklis :u(po/klisis:is_ews:fem
+u(poklop :u(po/klopos:os_on :u(pokloph/:h_hs:fem:suff_acc
 u(poklus :u(po/klusis:is_ews:fem
 u(poklusm :u(poklusmo/s:os_ou:masc:suff_acc
 u(poko :u(pakoh/:h_hs:fem:suff_acc:late
@@ -87675,6 +88035,7 @@ u(pokukl :u(po/kuklos:os_on
 u(pokukli :u(poku/klios:os_ou:masc
 u(pokul :u(po/kulos:os_on
 u(pokurt :u(po/kurtos:os_on
+u(pokusq :u(pokisti/s:is_idos:fem:suff_acc
 u(pokust :u(pokisti/s:is_idos:fem:suff_acc
 u(pokwf :u(po/kwfos:os_on
 u(pokwli :u(pokw/lion:os_ou:neut
@@ -87694,6 +88055,7 @@ u(polept :u(po/leptos:os_on
 u(poleptolog :u(poleptolo/gos:os_on:stem_acc
 u(poleqri :u(pole/qrios:os_on
 u(poleuk :u(po/leukos:os_on :u(po/leukos:os_on:suff_acc:late
+u(poleukans :u(poleu/kansis:is_ews:fem
 u(polhc :u(po/lhcis:is_ews:fem
 u(polhm :u(po/lhmma:ma_matos:neut
 u(polhmpt :u(polhpte/on:verb_adj2:suff_acc :u(polhpte/os:verb_adj1:suff_acc
@@ -88466,7 +88828,7 @@ w) :o)/ar:r_ros:fem:dat:pl:contr :w)/y:y_pos:fem :w)|o/n:os_ou:neut:suff_acc
 w)at :w)/aton:os_ou:neut
 w)b :w)=bos:os_ou:masc :w)ba/:h_hs:fem:suff_acc
 w)be :w)/beon:os_ou:neut
-w)di w)di_:w)di/s:s_nos:fem:dat:pl:epic w)di_:w)di/s:s_nos:fem:stem_acc
+w)di w)di_:w)di/s:n_nos:fem:nom:sg:stem_acc:late w)di_:w)di/s:s_nos:fem:dat:pl:epic w)di_:w)di/s:s_nos:fem:stem_acc
 w)dinolut :w)dinolu/ths:hs_ou:masc:stem_acc
 w)dus :w)dusi/h:is_ews:fem
 w)dusi :w)dusi/h:h_hs:fem:stem_acc
@@ -90385,6 +90747,7 @@ yafaro :yafaro/qric:qric_trixos:masc/fem:stem_acc
 yafaroxait :yafaroxai/ths:hs_ou:masc:stem_acc
 yafaroxr :yafaro/xroos:oos_oon:stem_acc
 yafi ya_fi:ya=figc:fem
+yafig ya_fig:yh/fisma:ma_matos:neut:doric
 yagd :ya/gdan:hs_ou:masc:stem_acc :ya/gdan:hs_ou:masc:suff_acc
 yagda yagda_:ya/gdan:n_nos:masc:stem_acc
 yagi :ya/gios:os_h_on
@@ -90958,7 +91321,7 @@ zeugl :zeu/glh:h_hs:fem zeu_gl:zeu=gla:a_hs:fem
 zeuglodesm :zeuglo/desmon:os_ou:neut
 zeugmatik :zeugmatiko/n:os_ou:neut:suff_acc
 zeugopoii :zeugopoii/a:h_hs:fem:stem_acc
-zeugotrof :zeugo/trofos:os_on :zeugotro/fos:os_on:stem_acc
+zeugotrof :zeugotro/fos:os_on:stem_acc
 zeugwx :zeugw=xos:os_ou:masc:stem_acc
 zeukt :zeukto/s:os_h_on:suff_acc
 zeukteir :zeu/kteira:a_hs:fem

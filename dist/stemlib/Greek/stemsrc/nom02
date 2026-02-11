@@ -3709,6 +3709,7 @@
 :le:e)/gkata
 :no:e)gka^t os_ou neut pl
 :no:e)gka^ s_tos,neut,pl dat
+:no:e)nka^t os_ou neut pl
 
 :le:e)gkata/lhyis
 :no:e)g-katalhy is_ews fem
@@ -3728,9 +3729,11 @@
 
 :le:e)gke/falos
 :no:e)g-kefa^l os_ou masc
+:no:e)n-kefa^l os_ou masc late
 
 :le:e)/gklhma
 :no:e)gklh ma_matos neut
+:no:e)nklh ma_matos neut late
 
 :le:e)gklhmatiko/s
 :aj:e)gklhmatik os_h_on suff_acc
@@ -3752,18 +3755,22 @@
 
 :le:e)gkoph/
 :no:e)gkop h_hs suff_acc fem
+:no:e)nkop h_hs suff_acc fem late
 
 :le:e)/gkopos
 :aj:e)gkop os_on
+:aj:e)nkop os_on late
 
 :le:e)/gkotos
 :aj:e)g-kot os_on
 
 :le:e)gkra/teia
 :no:e)gkratei a_hs fem
+:no:e)nkratei a_hs fem late
 
 :le:e)gkrath/s
 :aj:e)g-kra^t hs_es suff_acc
+:aj:e)n-kra^t hs_es suff_acc late
 
 :le:e)/gkrisis
 :no:e)gkri^s is_ews fem
@@ -3790,12 +3797,14 @@
 
 :le:e)gku/mwn
 :no:e)g-kum wn_on stem_acc
+:no:e)n-kum wn_on stem_acc late
 
 :le:e)/gkuos
 :aj:e)g-ku os_on
 
 :le:e)gkw/mios
 :aj:e)g-kwmi os_on
+:aj:e)n-kwmi os_on late
 
 :le:e)greku/doimos
 :aj:e)gre-kudoim os_on
@@ -4275,6 +4284,10 @@
 
 :le:ei(lhqerh/s
 :aj:ei(lh-qer hs_es suff_acc
+:aj:e(lh-qer hs_es suff_acc
+:aj:ei)lh-qer hs_es suff_acc
+:aj:e)lh-qer hs_es suff_acc
+:aj:e)laiqer hs_es suff_acc
 
 :le:ei(/lhsis
 :no:ei(lhs is_ews fem
@@ -4325,9 +4338,6 @@
 
 :le:ei)na/nuxes
 :wd:ei)na/^-nu^xes adverb
-
-:le:ei)na/s
-:no:ei)na s_dos stem_acc   fem
 
 :le:ei)na/teres
 :wd:ei)na/^teres hr_eros pl fem nom
@@ -5711,10 +5721,12 @@
 
 :le:e)llimenisth/s
 :no:e)lli^menist hs_ou suff_acc   masc
+:no:e)nli^menist hs_ou suff_acc   masc late
 
 :le:e)lliph/s
 :aj:e)lli^p hs_es suff_acc
 :aj:e)lleip hs_es suff_acc
+:aj:e)nli^p hs_es suff_acc late
 
 :le:e)llo/bion
 :no:e)llobi os_ou neut
@@ -5734,6 +5746,7 @@
 
 :le:e)llu/xnion
 :no:e)l-luxni os_ou neut
+:no:e)n-luxni os_ou neut late
 
 :le:e(/lcis
 :no:e(lc is_ews fem
@@ -5856,6 +5869,7 @@
 
 :le:e)mmelh/s
 :aj:e)m-mel hs_es suff_acc
+:aj:e)n-mel hs_es suff_acc late
 
 :le:e)mmenh/s
 :aj:e)mmen hs_es suff_acc
@@ -5865,6 +5879,7 @@
 
 :le:e)/mmetros
 :aj:e)m-metr os_on
+:aj:e)n-metr os_on late
 
 :le:e)mmetro/ths
 :no:e)mmetroth s_tos   fem 	ant_acc
@@ -5889,6 +5904,7 @@
 
 :le:e)/mmorfos
 :aj:e)m-morf os_on
+:aj:e)n-morf os_on late
 
 :le:e)/mmotos
 :aj:e)m-mot os_on
@@ -5996,6 +6012,7 @@
 
 :le:e)mpodw/n
 :wd:e)m-podw/n	adverb
+:wd:e)m-pedw/n  adverb
 
 :le:e)mpolai=os
 :aj:e)mpolai_ os_h_on stem_acc
@@ -6445,6 +6462,7 @@
 :wd:e)/nerqen prep nu_movable
 :wd:ne/rqe prep poetic
 :wd:ne/rqen prep poetic nu_movable
+:wd:e)ne/rwqen late
 
 :le:e)/neroi
 :no:e)ner os_ou	masc
@@ -6639,6 +6657,9 @@
 
 :le:e)nnea/s
 :no:e)nnea s_dos stem_acc   fem
+:no:e)nna s_dos stem_acc   fem late
+:no:e)na s_dos stem_acc   fem late
+:no:ei)na s_dos stem_acc   fem ionic poetic
 
 :le:e)nnea/fwnos
 :aj:e)nnea-fwn os_on
@@ -7052,6 +7073,8 @@
 :wd:e)ca^pi/^nhs	adverb
 :wd:e)ca^pi/^na_s        adverb
 :wd:e)ca^pi/^nws        adverb
+:wd:a)pi/^nhs        adverb late
+#AnthGrApp
 
 :le:e(capla/sios
 :aj:e(ca^-plasi os_h_on
@@ -8601,11 +8624,15 @@
 :le:e)pipo/qhtos
 :aj:e)pi-poqht os_on
 
+:le:e)pipoi/htos
+:aj:e)pi-poiht os_on
+
 :le:e)pipoimh/n
 :no:e)pi-poim hn_enos suff_acc masc fem
 
 :le:e)pipo/laios
 :aj:e)pipolai os_on
+:aj:e)pipole os_on late
 
 :le:e)pipolh/
 :no:e)pipol h_hs suff_acc fem

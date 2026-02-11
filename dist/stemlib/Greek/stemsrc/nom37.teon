@@ -80,6 +80,9 @@
 :le:die/ceimi
 :aj:diecitht verb_adj2 suff_acc
 
+:le:dii/sthmi
+:aj:diastat verb_adj2 suff_acc
+
 :le:diloge/w
 :aj:diloght verb_adj2 suff_acc
 
@@ -277,6 +280,12 @@
 
 :le:metarruqmiste/on
 :aj:metaruqmist verb_adj2 suff_acc
+
+:le:metata/ssw
+:aj:metatakt verb_adj2 suff_acc
+
+:le:metaqete/on
+:aj:metaqet verb_adj2 suff_acc
 
 :le:metatre/fw
 :aj:metatrept verb_adj2 suff_acc

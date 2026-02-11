@@ -6920,6 +6920,7 @@
 :no:*)ihs oos_oou,masc,suff_acc pers_name
 @ end:oi dat sg
 :wd:*)ihsou= oos_oou masc dat sg pers_name
+:wd:*dihsou= oos_oou masc gen sg pers_name hebr
 
 :le:i)qagenh/s
 :aj:i)qa_-gen hs_es suff_acc
@@ -8101,6 +8102,9 @@
 
 :le:*ka/beiroi
 :no:*kabeir os_ou masc  pl
+
+:le:*ka/beiros
+:no:*kabeir os_ou masc sg
 
 :le:ka/gkanos
 :aj:kagka^n os_on
@@ -12270,6 +12274,8 @@
 :le:koloku/nqh
 :no:kolokunq h_hs fem	stem_acc
 :no:kolokunt h_hs fem	stem_acc
+:no:kolokunq a_hs fem   
+:no:kolokunt a_hs fem   
 
 :le:kolokunqia/s
 :no:kolokunqi hs_ou,masc,suff_acc

@@ -10,28 +10,41 @@
 1a)gato a)ga=to:a)gai/omai:aw_pr:imperf:ind:mp:3rd:sg
 1a)gaw a)ga/w:a)ga/w:aw_pr:pres:ind:act:1st:sg
 1a)ginemenai a)gi_ne/menai:a)gine/w:ew_pr:pres:inf:act:epic
+1a)gnei a)gnei=:a)gne/w:ew_pr:pres:ind:act:3rd:sg
+1a)gnhkames a)gnh/kames:a)gne/w:perf_act:perf:ind:act:1st:pl
+1a)gnw a)gnw=:a)gne/w:ew_pr:pres:ind:act:1st:sg
 1a)goraesqai a)gora/esqai:a)gora/omai:aw_pr:pres:inf:mp:late:uncontr
 1a)gxranasqai a)gxra/nasqai:a)gxra/nasqai:ath_primary:pres:inf:mid
 1a)hnai a)h=nai:a)/hmi:ath_primary:pres:inf:act:epic
 1a)leu a)/leu:a)leu/w:w_stem:pres:imperat:act:2nd:sg:poetic
 1a)lto a)=lto:a(/llomai:ath_secondary:aor:ind:mp:3rd:sg:epic
 1a)menai a)/menai:a)/w3:ath_primary:pres:inf:act:epic
+1a)mfemmenoi a)mfemme/noi:a)mfie/nnumi:perfp_vow:perf:part:mp:masc:nom:pl:late
 1a)mfiasai a)mfia=sai:a)mfia/zw:aor1:aor:inf:act:late
-1a)mfiemmenoi a)mfie/mmenoi:a)mfie/nnumi:perfp_vow:perf:part:mp:masc:nom:pl:late a)mfiemme/noi:a)mfie/nnumi:perfp_vow:perf:part:mp:masc:nom:pl:late
+1a)mfiemmenoi a)mfie/mmenoi:a)mfie/nnumi:perfp_vow:perf:part:mp:masc:nom:pl:aeolic:late a)mfiemme/noi:a)mfie/nnumi:perfp_vow:perf:part:mp:masc:nom:pl:late
+1a)mfihmi a)mfi/hmi:a)mfie/nnumi:emi_pr:pres:ind:act:1st:sg:late
 1a)mmw a)mmw=:a)mmo/w:ow_pr:o_stem:pres:ind:act:1st:sg
 1a)mpisxein a)mpisxei=n:a)mpe/xw:aor2:aor:inf:act
 1a)mpisxwn a)mpisxw/n:a)mpe/xw:aor2:aor:part:act:masc:nom:sg
 1a)nadruyei a)nadru/yei:a)nadru/yei:reg_fut:fut:ind:act:3rd:sg:late
+1a)nafoibasas a)nafoiba/sas:a)nafoiba/sas:aor1:aor:part:act:masc:nom:sg
 1a)nainw a)nai/nw:a)nai/nomai:w_stem:pres:ind:act:1st:sg:late
 1a)nakhsai a)nakh=sai:a)nakh=sai:aor1:aor:inf:act
+1a)napelasas a)napela/sas:a)napela/sas:aor1:aor:part:act:masc:nom:sg
 1a)naplakein a)naplakei=n:a)mplakei=n:aor2:aor:inf:act:late
 1a)nein a)nei=n:a)ne/w:ew_pr:pres:inf:act
+1a)nhnaka a)nh/naka:a)nai/nomai:perf_act:perf:ind:act:1st:sg:late
 1a)nhnuen a)nh/nuen:a)nh/nuen:w_stem:imperf:ind:act:3rd:sg
+1a)nqhnai a)nqh=nai:a)nqe/w:aor_pass:aor:inf:comp_only
+1a)nteso a)/nteso:a)nte/so:aor2:aor:mid:2nd:sg a)nte/so:a)nte/so:aor2:aor:mid:2nd:sg
 1a)nwgein a)nw/gein:a)/nwga:perf_act:plup:ind:act:3rd:sg
 1a)nwgmen a)/nwgmen:a)/nwga:perf_act:perf:ind:act:1st:pl
 1a)nwxqe a)/nwxqe:a)/nwga:perf_act:perf:imperat:act:2nd:pl
 1a)nwxqi a)/nwxqi:a)/nwga:perf_act:perf:imperat:act:2nd:sg
 1a)nwxqw a)nw/xqw:a)/nwga:perf_act:perf:imperat:act:3rd:sg
+1a)phura a)phu=ra:a)pou/ras:aor1:aor:ind:act:3rd:sg:late
+1a)phuras a)phu=ras:a)pou/ras:aor1:aor:ind:act:2nd:sg:late
+1a)phuron a)phu=ron:a)pou/ras:aor2:aor:ind:act:3rd:pl:late
 1a)poquskein a)poqu/skein:a)poqu/skein:w_stem:pres:inf:act
 1a)poqussh| a)poqu/ssh|:a)poqu/ssei:w_stem:pres:ind:mp:2nd:sg
 1a)poxrh a)po/xrh:a)poxra/w:aw_pr:pres:ind:act:3rd:sg
@@ -46,11 +59,13 @@
 1bacw ba/cw:ba/zw:reg_fut:fut:ind:act:1st:sg
 1ba| ba=|:bai/nw:ath_h_aor:aor:subj:act:3rd:sg:doric
 1banti ba=nti:bai/nw:ath_h_aor:aor:subj:act:3rd:pl:doric
+1basontas ba/sontas:bai/nw:reg_fut:fut:part:act:masc:acc:pl:doric:causal
 1bate ba=te:bai/nw:ath_h_aor:aor:imperat:act:2nd:pl:late ba=te:bai/nw:ath_h_aor:aor:subj:act:2nd:pl:late
 1bebleatai beble/atai:ba/llw:perfp_vow:perf:ind:mp:3rd:pl:ionic
 1beblh|sqe beblh=|sqe:ba/llw:perfp_vow:perf:subj:mp:2nd:pl
 1bhseo bh/seo:bai/nw:aor1:aor:imperat:mid:2nd:sg:epic:ionic
 1bhseto bh/seto:bai/nw:aor1:aor:ind:mid:3rd:sg:epic:unaugmented
+1biwntai biw=ntai:bia/w:aw_pr:pres:ind:mp:3rd:pl biw=ntai:bia/w:aw_pr:pres:subj:mp:3rd:pl biw=ntai:bia/zw:aw_fut:fut:ind:mid:3rd:pl
 1bleio blei=o:ba/llw:aor2:aor:opt:2nd:sg:epic
 1blhetai blh/etai:ba/llw:ath_secondary:aor:subj:mid:3rd:sg:epic:short_subj
 1blh|o blh=|o:ba/llw:aor2:aor:opt:2nd:sg:epic
@@ -244,6 +259,9 @@
 1e)n :ei)mi/:irreg_mi:imperf:ind:act:3rd:pl:epic
 1e)nai e)/nai:ei)mi/:irreg_mi:pres:ind:act:3rd:sg:late e)/nai:ei)mi/:irreg_mi:pres:inf:act:late
 1e)nedomuxei e)nedomu/xei:e)ndomuxe/w:ew_pr:ew_denom:imperf:ind:act:3rd:sg:has_augment:late
+1e)negcei e)ne/gcei:fe/rw:reg_fut:fut:ind:act:3rd:sg:late:rare
+1e)negcoi e)ne/gcoi:fe/rw:reg_fut:fut:opt:act:3rd:sg:late:rare
+1e)negcw e)ne/gcw:fe/rw:reg_fut:fut:ind:act:1st:sg:late:rare
 1e)nihlai e)nih=lai:e)nih=lai:aor1:aor:inf:act
 1e)nihlizein e)nihli/zein:e)nihli/zein:w_stem:pres:inf:act
 1e)nispes e)ni/spes:e)ne/pw:aor2:aor:imperat:act:2nd:sg:epic
@@ -324,6 +342,8 @@
 1e)rw|o e)rw=|o:e)ra/w:aw_pr:pres:opt:pass:2nd:sg
 1e)safhse e)sa/fhse:safe/w:aor1:aor:ind:act:3rd:sg
 1e)safhsen e)sa/fhsen:safe/w:aor1:aor:ind:act:3rd:sg:nu_movable
+1e)samen e)/samen:qae/omai:aw_pr:imperf:ind:act:1st:pl
+1e)sameqa e)sa/meqa:qae/omai:aw_pr:imperf:ind:mp:1st:pl
 1e)san :ei)mi/:irreg_mi:imperf:ind:act:3rd:pl:epic:ionic
 1e)ske :ei)mi/:irreg_mi:imperf:ind:act:3rd:sg:epic:ionic:iterative:unaugmented
 1e)sken :ei)mi/:irreg_mi:imperf:ind:act:3rd:sg:epic:ionic:iterative:unaugmented:nu_movable e)sken:ei)mi/:irreg_mi:imperf:ind:act:3rd:sg:epic:ionic:iterative:unaugmented:nu_movable
@@ -550,6 +570,7 @@
 1faton :fhmi/:ath_primary:pres:imperat:act:2nd:dual :fhmi/:ath_primary:pres:ind:act:2nd:dual:enclitic :fhmi/:ath_primary:pres:ind:act:3rd:dual:enclitic
 1fatw fa/tw:fhmi/:ath_primary:pres:imperat:act:3rd:sg
 1fatwn fa/twn:fhmi/:ath_primary:pres:imperat:act:3rd:dual
+1fazw fa/zw:fa/zw:w_stem:pres:ind:act:1st:sg
 1fhh| fh/h|:fhmi/:ath_primary:pres:subj:act:3rd:sg:epic
 1fh| fh=|:fhmi/:ath_primary:subj:act:3rd:sg
 1fh|s :fhmi/:ath_primary:pres:ind:act:2nd:sg:no_circumflex fh=|s:fhmi/:ath_primary:subj:act:2nd:sg
@@ -691,6 +712,7 @@
 1h)nwgea h)nw/gea:a)/nwga:perf_act:plup:ind:act:1st:sg
 1h)nwgei h)nw/gei:a)/nwga:perf_act:plup:ind:act:3rd:sg
 1h)nwgein h)nw/gein:a)/nwga:perf_act:plup:ind:act:3rd:sg
+1h)pomen h)/pomen:e(/pw:w_stem:imperf:ind:act:1st:pl:aeolic:poetic
 1h)s h)=s:ei)mi/:irreg_mi:imperf:ind:act:3rd:sg:doric
 1h)san h)=san:ei)mi/:irreg_mi:imperf:ind:act:3rd:pl:has_augment
 1h)sas h)/sas:h)qe/w:aor1:aor:part:act:masc:nom/voc:sg:ionic
@@ -974,6 +996,7 @@
 1i)oito i)/oito:ei)=mi:irreg_mi:pres:opt:mp:3rd:sg:attic:prose
 1i)oiton i)/oiton:ei)=mi:irreg_mi:pres:opt:act:2nd:dual
 1i)omen i)/omen:ei)=mi:irreg_mi:pres:subj:act:1st:pl:epic:short_subj
+1i)omes i)/omes:ei)=mi:irreg_mi:pres:subj:act:1st:pl:doric:short_subj
 1i)on i)o/n:ei)=mi:irreg_mi:pres:part:act:masc:voc:sg i)o/n:ei)=mi:irreg_mi:pres:part:act:neut:nom/voc/acc:sg i)o/n:ei)mi/:irreg_mi:pres:part:act:masc:voc:sg:doric i)o/n:ei)mi/:irreg_mi:pres:part:act:neut:nom/voc/acc:sg:doric
 1i)onta i)o/nta:ei)=mi:irreg_mi:pres:part:act:masc:acc:sg i)o/nta:ei)=mi:irreg_mi:pres:part:act:neut:nom/voc/acc:pl i)o/nta:ei)mi/:irreg_mi:pres:part:act:masc:acc:sg:doric i)o/nta:ei)mi/:irreg_mi:pres:part:act:neut:nom/voc/acc:pl:doric
 1i)ontas i)o/ntas:ei)=mi:irreg_mi:pres:part:act:masc:acc:pl i)o/ntas:ei)mi/:irreg_mi:pres:part:act:masc:acc:pl:doric
@@ -1043,7 +1066,7 @@
 1i)wmeqon i)w/meqon:ei)=mi:irreg_mi:pres:subj:act:1st:dual:epic
 1i)wmes i)/wmes:ei)=mi:irreg_mi:pres:subj:act:1st:pl:doric i)/wmes:ei)mi/:irreg_mi:pres:subj:act:1st:pl:doric:laconia
 1i)wmi i)/wmi:ei)=mi:irreg_mi:pres:subj:act:1st:sg:epic
-1i)wn i)w/n:ei)=mi:irreg_mi:pres:part:act:masc:nom:sg i)w/n:ei)mi/:irreg_mi:pres:part:act:masc:nom:sg:doric
+1i)wn i)/wn:ei)=mi:irreg_mi:pres:part:act:masc:nom:sg:comp_only:late i)w/n:ei)=mi:irreg_mi:pres:part:act:masc:nom:sg i)w/n:ei)mi/:irreg_mi:pres:part:act:masc:nom:sg:doric
 1i)wnti i)/wnti:ei)=mi:irreg_mi:pres:subj:act:3rd:pl:doric i)/wnti:ei)mi/:irreg_mi:pres:subj:act:3rd:pl:doric:laconia
 1i)wsi i)/wsi:ei)=mi:irreg_mi:pres:subj:act:3rd:pl i)/wsi:ei)mi/:irreg_mi:pres:subj:act:3rd:pl:doric:laconia
 1i)wsin i)/wsin:ei)=mi:irreg_mi:pres:subj:act:3rd:pl:nu_movable i)/wsin:ei)mi/:irreg_mi:pres:subj:act:3rd:pl:doric:laconia:nu_movable
@@ -1287,6 +1310,7 @@
 1ptarantes pta/rantes:ptai/rw:aor1:aor:part:act:masc:nom/voc:pl
 1ptasqai pta=sqai:pe/tomai:aw_pr:pres:inf:mid:comp_only:late
 1pththn pth/thn:pth/ssw:aor2:aor:ind:act:3rd:dual:epic:unaugmented
+1qaeo qa/eo:qae/omai:ew_pr:pres:imperat:mp:2nd:sg
 1qeesqai qe/esqai:ti/qhmi:emi_aor:aor:inf:mid:epic
 1qeiato qei/ato:ti/qhmi:ath_secondary:aor:opt:mid:3rd:pl:poetic
 1qemen :ti/qhmi:emi_aor:aor:ind:act:1st:pl:epic:ionic:unaugmented
@@ -1295,9 +1319,13 @@
 1qhh| qh/h|:ti/qhmi:ath_h_aor:aor:subj:act:3rd:sg:epic
 1qhh|s qh/h|s:ti/qhmi:ath_h_aor:aor:subj:act:2nd:sg:epic
 1qhnai qh=nai:ti/qhmi:emi_aor:aor:inf:act:late
+1qhsai qh=sai:qh=sai:aor1:aor:inf:act:late
+1qhsqai qh=sqai:qh=sai:ath_primary:pres:inf:mp
 1r(assate r(a/ssate:r(ai/nw:aor1:aor:imperat:act:2nd:pl:epic
 1r(azwsi r(a/zwsi:r(a/zw:w_stem:pres:subj:act:3rd:pl
 1r(azwsin r(a/zwsin:r(a/zw:w_stem:pres:subj:act:3rd:pl:nu_movable
+1r(uei r(u/ei:r(u/omai:w_stem:pres:ind:act:3rd:sg:comp_only
+1r(uein r(u/ein:r(u/omai:w_stem:pres:inf:act:comp_only
 1r(uh| r(u/h|:r(u/omai:w_stem:pres:subj:act:3rd:sg:comp_only
 1skopan skopa=n:skopa/w:aw_pr:pres:inf:act
 1speio spei=o:e(/pomai:aor2:aor:imperat:mid:2nd:sg:epic
@@ -1320,11 +1348,14 @@
 1sxwmen sxw=men:e)/xw:aor2:subj:act:1st:pl:comp_only:late
 1sxwsi sxw=si:e)/xw:aor2:subj:act:3rd:pl:comp_only:late
 1sxwsin sxw=sin:e)/xw:aor2:subj:act:3rd:pl:comp_only:nu_movable:late
-1teqnaien teqnai=en:qnh/skw:perf2_act:perf:opt:act:3rd:pl:epic
-1teqnaih teqnai/h:qnh/skw:perf2_act:perf:opt:act:3rd:sg:epic
-1teqnaihn teqnai/hn:qnh/skw:perf2_act:perf:opt:act:1st:sg:epic
-1teqnaihs teqnai/hs:qnh/skw:perf2_act:perf:opt:act:2nd:sg:epic
-1teqnhws teqnhw/s:qnh/skw:perf2_act:perf:part:epic:comp_only
+1teqnaasi teqna/asi:qnh/|skw:perf2_act:perf:ind:act:3rd:pl:late
+1teqnaasin teqna/asin:qnh/|skw:perf2_act:perf:ind:act:3rd:pl:nu_movable:late
+1teqnacoumai teqnacou=mai:qnh/|skw:fut_perf:ind:mid:1st:sg
+1teqnaien teqnai=en:qnh/|skw:perf2_act:perf:opt:act:3rd:pl:epic
+1teqnaih teqnai/h:qnh/|skw:perf2_act:perf:opt:act:3rd:sg:epic
+1teqnaihn teqnai/hn:qnh/|skw:perf2_act:perf:opt:act:1st:sg:epic
+1teqnaihs teqnai/hs:qnh/|skw:perf2_act:perf:opt:act:2nd:sg:epic
+1teqnhws teqnhw/s:qnh/|skw:perf2_act:perf:part:epic:comp_only
 1tetimeatai tetime/atai:tima/w:perfp_vow:perf:ind:mp:3rd:pl:ionic
 1tetlaih tetlai/h:tla/w:ath_secondary:perf:opt:act:3rd:sg:epic
 1tetlaihn tetlai/hn:tla/w:ath_secondary:perf:opt:act:1st:sg:epic
@@ -1337,6 +1368,7 @@
 1tiqeamen tiqe/amen:ti/qhmi:emi_pr:pres:ind:act:1st:pl:late
 1tiqeate tiqe/ate:ti/qhmi:emi_pr:pres:ind:act:2nd:pl:late
 1trapeiomen trapei/omen:te/rpw:aor2_pass:aor:subj:pass:1st:pl:epic
+1trapoimen trapoi=men:tre/pw:aor2_pass:aor:opt:pass:1st:pl:late
 1u(fowsi u(fo/wsi:u(fai/nw:ow_pr:pres:ind:act:3rd:pl:epic
 1u(fowsin u(fo/wsin:u(fai/nw:ow_pr:pres:ind:act:3rd:pl:epic:nu_movable
 1u(mneatai u(mne/atai:u(mne/w:perfp_vow:perf:ind:mp:3rd:pl:ionic
@@ -1449,7 +1481,6 @@
 3a(rmatopoi :a(rmatopoie/w:ew_denom
 3a(rmatotrof :a(rmatotrofe/w:ew_denom
 3a(rmelat :a(rmelate/w:ew_denom
-3a(rmo :a(rmo/zw:ss:attic
 3a(rmolog :a(rmologe/w:ew_denom
 3a(rmon :a(rmoni/zw:izw :a(rmonia/w:iaw_denom
 3a(rmost :a(rmoste/w:ew_denom
@@ -1932,6 +1963,7 @@
 3a)ntiostat :a)ntiostate/w:ew_denom
 3a)ntipelarg :a)ntipelarge/w:ew_denom
 3a)ntiplhkt :a)ntiplhkti/zw:izw
+3a)ntiproswp :a)ntiproswpe/w:ew_denom
 3a)ntistat :a)ntistate/w:ew_denom
 3a)ntisumposi :a)ntisumposia/zw:azw
 3a)ntl :a)ntle/w:aw_denom:late :a)ntle/w:ew_denom
@@ -2187,6 +2219,7 @@
 3a)sqen :a)sqene/w:ew_denom :a)sqeno/w:ow_denom
 3a)sqenopoi :a)sqenopoie/w:ew_denom
 3a)sqm :a)sqma/omai:aw_denom:mp
+3a)ss :a)tta/w:aw_denom:ionic:comp_only
 3a)stal :a)stalu/zw:uzw
 3a)stat :a)state/w:ew_denom
 3a)ste :a)stei/+zomai:izw
@@ -2253,7 +2286,7 @@
 3a)trix :a)trixe/w:ew_denom
 3a)trof :a)trofe/w:ew_denom
 3a)trom :a)trome/w:ew_denom
-3a)tt :a)tta/w:aw_denom
+3a)tt :a)tta/w:aw_denom:attic:comp_only
 3a)ttik :a)ttiki/zw:izw
 3a)tux :a)tuxe/w:ew_denom
 3a)upn :a)upne/w:ew_denom
@@ -2604,8 +2637,8 @@
 3bukin :boukini/zw:izw
 3bull :bullo/w:ow_denom
 3bun bu_n:bune/w:ew_denom
-3buq :buqa/w:aw_denom :buqi/zw:izw
-3burs :burseu/w:euw :burso/w:ow_denom:comp_only
+3buq :buqi/zw:izw
+3burs :burseu/w:euw :burso/w:ow_denom
 3bursodey :bursodeye/w:ew_denom
 3bursodom :bussodomeu/w:ew_denom
 3bursotom :bursotome/w:ew_denom
@@ -3086,7 +3119,7 @@
 3e(ktik :e(ktikeu/omai:euw:mp
 3e(ktolog :e(ktologe/omai:ew_denom:mp
 3e(kur :e(kureu/w:euw
-3e(lhqer :e(lhqere/w:ew_denom
+3e(lhqer :ei(lhqere/w:ew_denom
 3e(li :e(li/ssw:ss:syll_augment
 3e(likograf :e(likografe/w:ew_denom
 3e(lk :e(lke/w:ew_denom:syll_augment :e(lko/w:ow_denom
@@ -3151,6 +3184,7 @@
 3e)caer :e)caeri/zw:izw
 3e)cafedr :e)cafedro/omai:ow_denom:mp
 3e)cafr :e)cafedro/omai:ow_denom:mp
+3e)cagkur :e)cagkuro/w:ow_denom
 3e)caigeir :e)caigeiro/omai:ow_denom:mp
 3e)caiqer :e)caiqero/w:ow_denom
 3e)caiqrap :e)caiqrapeu/w:euw
@@ -3326,7 +3360,7 @@
 3e)ndoi :e)ndoia/zw:azw
 3e)ndomux :e)ndomuxe/w:ew_denom
 3e)ndu :e)ndoia/zw:azw
-3e)ne :e)nea/zw:azw
+3e)ne :e)nea/zw:azw :e)neo/w:ow_denom
 3e)neidofor :e)neidofore/w:ew_denom
 3e)nemat :e)nemati/zw:izw
 3e)nerg :e)nerge/w:ew_denom
@@ -3350,7 +3384,6 @@
 3e)ntafi :e)ntafieu/w:euw
 3e)ntelet :e)ntelete/w:ew_denom
 3e)nter :e)ntereu/w:euw :e)nteri/zw:izw:comp_only
-3e)ntran :e)ntrani/zw:izw
 3e)nuf :e)nufi/zw:izw
 3e)nupni :e)nupnia/zw:azw
 3e)nwt :e)nwti/zomai:izw
@@ -3509,6 +3542,7 @@
 3ei)kotolog :ei)kotologe/w:ew_denom
 3ei)l :ei)le/w:ew_denom
 3ei)lapin :ei)lapina/zw:azw
+3ei)lhqer :ei(lhqere/w:ew_denom
 3ei)ligg :ei)liggia/w:iaw_denom
 3ei)likrin :ei)likrine/w:ew_denom
 3ei)lind :a)linde/w:ew_denom:comp_only
@@ -3938,6 +3972,7 @@
 3fratr :fratri/zw:izw fra_tr:fratria/zw:izw
 3fratri fra_tri:fratria/zw:azw
 3fratriarx :fratriarxe/w:ew_denom
+3freat :freato/w:ow_denom:comp_only
 3fren :freno/w:ow_denom
 3frenapat :frenapata/w:aw_denom
 3frenit :freniti/zw:izw freni_t:frenitia/w:iaw_denom
@@ -4172,7 +4207,7 @@
 3gouno :gounoi/zw:izw
 3gr :gra/w:aw_denom :gru/zw:uzw
 3gra :grai/zw:izw
-3graf :gra/fw:ew_denom:perf:comp_only
+3graf :gra/fw:ew_denom:perf
 3grai :graio/omai:ow_denom:mp
 3gramm :grammi/zw:izw :grammi/zw:izw:comp_only
 3grammat :grammateu/w:euw :grammati/zw:izw
@@ -4250,9 +4285,9 @@
 3h(rakleit :*(hrakleiti/zw:izw
 3h(rw :h(rwi/zw:izw :h(rwi/zw:izw:comp_only
 3h(rwolog :h(rwologe/w:ew_denom
-3h(ss :h(ssa/omai:aw_denom :h(ssa/omai:aw_denom:act:comp_only
+3h(ss :h(ssa/omai:aw_denom :h(ssa/omai:aw_denom:act:late
 3h(sux :h(suxa/zw:azw :h(suxo/omai:ow_denom:mp
-3h(tt :h(ssa/omai:aw_denom:act:comp_only :h(ssa/omai:aw_denom:attic
+3h(tt :h(ssa/omai:aw_denom:act:late :h(ssa/omai:aw_denom:attic
 3h)bol :h)bole/w:ew_denom:comp_only
 3h)ert :h)erti/zw:izw
 3h)f :h)fe/w:ew_denom:comp_only
@@ -4841,7 +4876,7 @@
 3klhmat :klhmati/zw:izw :klhmato/omai:ow_denom:mp
 3klhmatograf :klhmatografe/w:ew_denom:comp_only
 3klhr :klhro/w:ow_denom
-3klhrodot :klhrodote/w:ew_denom:comp_only
+3klhrodot :klhrodote/w:ew_denom :klhrodote/w:ew_denom:comp_only
 3klhronom :klhronome/w:ew_denom
 3klhroux :klhrouxe/w:ew_denom
 3klhrouxarx :klhrouxarxe/w:ew_denom
@@ -4849,6 +4884,7 @@
 3klht :klhteu/w:euw
 3klim :klima/zw:azw
 3klimak :klimaki/zw:izw
+3klimakthr :klimakthri/zw:izw
 3klinokosm :klinokosme/w:ew_denom
 3klisi :klisia/zw:azw
 3klon :klone/w:ew_denom
@@ -4949,7 +4985,7 @@
 3kon :kone/w:ew_denom :koni/zw:izw :konia/w:iaw_denom
 3konab :konabe/w:ew_denom :konabi/zw:izw
 3konbentarx :konbentarxe/w:ew_denom
-3kondul :konduli/zw:izw:comp_only :kondulo/omai:ow_denom:mp
+3kondul :konduli/zw:izw :konduli/zw:izw:comp_only :kondulo/omai:ow_denom:mp
 3koni :konia/zw:azw
 3koniort :koniorto/w:ow_denom
 3konn :kone/w:ew_denom :konne/w:ew_denom
@@ -5026,6 +5062,7 @@
 3kraur :kraura/w:aw_denom :krauro/omai:ow_denom:mp
 3kreadot :kreadote/w:ew_denom
 3kreanom krea_nom:kreanome/w:ew_denom
+3krehfag :kreofage/w:ew_denom
 3kreiss :kreisso/w:ow_denom
 3kreisson :kreissoneu/w:euw
 3kreitt :kreitto/omai:ow_denom:mp
@@ -7038,6 +7075,7 @@
 3ptwmat :ptwmati/zw:izw
 3ptwsk :ptwska/zw:azw
 3ptwx :ptwxeu/w:euw :ptwxi/zw:izw
+3ptwxotrof :ptwxotrofe/w:ew_denom
 3pu :pue/w:ew_denom:comp_only :puo/w:ow_denom
 3puc :puci/zw:izw
 3pucograf :pucografe/w:ew_denom
@@ -7102,7 +7140,7 @@
 3pwropoi :pwropoie/omai:ew_denom:mp
 3pwt :pwta/omai:aw_denom:mp
 3q :qa/llw:allw
-3qa :qa/ptw:ptw :qa/ssw:ss qa_:qae/omai:ew_denom:mp:doric
+3qa :qa/ptw:ptw :qa/ssw:ss qa_:qae/omai:ew_denom:doric
 3qaa :qaa/ssw:ss
 3qak qa_k:qake/w:ew_denom qa_k:qakeu/w:euw
 3qal :qalu/nw:unw qa_l:qale/w:ew_denom qa_l:qhle/w:ew_denom:doric
@@ -7236,7 +7274,7 @@
 3qorubopoi :qorubopoie/w:ew_denom
 3qour :qoura/w:aw_denom
 3qr :qeri/zw:izw:poetic:syncope :qra/omai:aw_denom:mp :qra/zw:azw :qre/omai:ew_denom:mp :qria/omai:iaw_denom:mp
-3qra :qra/ssw:ss
+3qra :qra/ssw:ss qra_:qra/ssw:ss
 3qra|k :qra|ki/zw:izw
 3qran qra_n:qraneu/omai:euw:mp qra_n:qrano/omai:ow_denom:pass:comp_only
 3qranu :qranu/ssw:ss
@@ -7932,7 +7970,7 @@
 3strhn :strhnia/w:iaw_denom :strhnu/zw:uzw
 3strob :strobe/w:ew_denom :strobo/omai:ow_denom:mp
 3strobil :strobile/w:ew_denom :strobilo/w:ow_denom strobi_l:strobili/zw:izw
-3strof :strofa/w:aw_denom :strofe/w:ew_denom :strofo/omai:ow_denom:mp
+3strof :strofa/w:aw_denom :strofe/w:ew_denom :strofo/omai:ow_denom
 3strofal :strofali/zw:izw
 3strofodin strofodi_n:strofodine/omai:ew_denom:mp
 3strogg :stroggu/llw:ullw
@@ -9017,11 +9055,14 @@ a(rmatophg :a(rmatophge/w:ew_pr:ew_denom
 a(rmatopoi :a(rmatopoie/w:ew_pr:ew_denom
 a(rmatotrof :a(rmatotrofe/w:ew_pr:ew_denom
 a(rmelat :a(rmelate/w:ew_pr:ew_denom
+a(rmoc :a(rmo/zw:aor1:doric :a(rmo/zw:ew_fut:doric
+a(rmog :a(rmo/zw:aor2_pass:doric
 a(rmolog :a(rmologe/w:ew_pr:ew_denom
 a(rmoni :a(rmonia/w:aw_pr:iaw_denom
 a(rmoniz :a(rmoni/zw:w_stem:izw
-a(rmoss :a(rmo/zw:w_stem:ss:attic
+a(rmoss :a(rmo/zw:w_stem:epic:ionic
 a(rmost :a(rmoste/w:ew_pr:ew_denom
+a(rmott :a(rmo/zw:w_stem:attic
 a(rpag :a(rpa/zw:aor2_pass
 a(rpaliz :a(rpali/zw:w_stem:izw
 a(rpedoniz :a(rpedoni/zw:w_stem:izw
@@ -9046,7 +9087,7 @@ a)blept :a)blepte/w:ew_pr:ew_denom
 a)bol :a)bole/w:ew_pr:ew_denom
 a)boul :a)boule/w:ew_pr:ew_denom
 a)brox :a)broxe/w:ew_pr:ew_denom
-a)c :a)/gw:aor1:reg_conj:mid:3rd:pl:epic:unaugmented :a)/gw:aor1:reg_conj:rare :a)/gw:aor2:ind:epic :a)/gw:reg_fut:reg_conj a)_c:a)/gnumi:aor1:numi a)_c:a)/gnumi:aor1:numi:syll_augment a)_c:a)/gnumi:reg_fut:numi
+a)c :a)/gw:aor1:reg_conj:mid:3rd:pl:epic:unaugmented :a)/gw:aor1:reg_conj:rare :a)/gw:aor2:imperat:act:2nd:pl:epic :a)/gw:aor2:ind:mid:epic :a)/gw:aor2:inf:epic :a)/gw:reg_fut:reg_conj a)_c:a)/gnumi:aor1:numi a)_c:a)/gnumi:aor1:numi:syll_augment a)_c:a)/gnumi:reg_fut:numi
 a)ci :a)cia/w:aw_pr:iaw_denom :a)cio/w:ow_pr:ow_denom
 a)ciopisteu :a)ciopisteu/omai:w_stem:euw:mp
 a)coniz :a)coni/zw:w_stem:izw:comp_only
@@ -9426,6 +9467,7 @@ a)lhqiz :a)lhqeu/w:w_stem:izw :a)lhqi/zw:w_stem:izw
 a)lhqomuq :a)lhqomuqe/w:ew_pr:ew_denom
 a)lhqork :a)lhqorke/w:ew_pr:ew_denom
 a)lhteu :a)lhteu/w:w_stem:euw
+a)lif :a)lei/fw:aor2_pass
 a)lind :a)linde/w:ew_pr:ew_denom :a)linde/w:w_stem:ndw
 a)lis :a)linde/w:aor1:ndw
 a)lisg :a)lisge/w:ew_pr:ew_denom
@@ -9598,7 +9640,7 @@ a)muklaiz a)muklai+z:a)muklai/zw:w_stem:izw
 a)munaq a)mu_naq:a)muna/qw:aor2:imperat:3rd:sg a)mu_naq:a)muna/qw:aor2:imperat:mid:2nd:sg a)mu_naq:a)muna/qw:aor2:imperat:pl a)mu_naq:a)muna/qw:aor2:ind a)mu_naq:a)muna/qw:aor2:inf:act a)mu_naq:a)muna/qw:aor2:subj
 a)muniz :a)muni/zw:w_stem:izw
 a)mustiz :a)musti/zw:w_stem:izw
-a)n :a)/nw:w_stem
+a)n :a)/nw:w_stem :a)nu/w:umi_pr:numi
 a)nabluss :a)nablu/ssw:w_stem:ss
 a)naciopaq :a)naciopaqe/w:ew_pr:ew_denom
 a)nagkofag :a)nagkofage/w:ew_pr:ew_denom
@@ -9738,6 +9780,7 @@ a)ntiolog :a)ntiologe/w:ew_pr:ew_denom
 a)ntiostat :a)ntiostate/w:ew_pr:ew_denom
 a)ntipelarg :a)ntipelarge/w:ew_pr:ew_denom
 a)ntiplhktiz :a)ntiplhkti/zw:w_stem:izw
+a)ntiproswp :a)ntiproswpe/w:ew_pr:ew_denom
 a)ntistat :a)ntistate/w:ew_pr:ew_denom
 a)ntisumposiaz :a)ntisumposia/zw:w_stem:azw
 a)ntl :a)ntle/w:aw_pr:aw_denom:late :a)ntle/w:ew_pr:ew_denom
@@ -10162,7 +10205,7 @@ a)trist :a)tristo/w:ow_pr:ow_denom
 a)trix :a)trixe/w:ew_pr:ew_denom
 a)trof :a)trofe/w:ew_pr:ew_denom
 a)trom :a)trome/w:ew_pr:ew_denom
-a)tt :a)i/+ssw:w_stem:ss:attic :a)tta/w:aw_pr:aw_denom
+a)tt :a)i/+ssw:w_stem:ss:attic :a)tta/w:aw_pr:aw_denom:attic:comp_only
 a)ttikiz :a)ttiki/zw:w_stem:izw
 a)tux :a)tuxe/w:ew_pr:ew_denom
 a)tuz :a)tu/zomai:w_stem:uzw:mp :a)tu/zw:w_stem:uzw
@@ -10351,8 +10394,8 @@ au)qenteu :au)qenteu/w:w_stem:euw:late
 au)qentiz :au)qenti/zw:w_stem:izw
 au)qhmeriz :au)qhmeri/zw:w_stem:izw:comp_only
 au)qomolog :au)qomologe/omai:ew_pr:ew_denom:mp
-au)r :a)paura/w:aw_pr:a_stem:imperf:2nd:sg:pb:a)po/: :a)paura/w:aw_pr:a_stem:imperf:3rd:sg:pb:a)po/: :a)paura/w:aw_pr:a_stem:pb:a)po/: :au)re/w:aor1:comp_only:pb:e)pi/: :au)re/w:aor2:comp_only:pb:e)pi/: :au)re/w:aor2:syll_augment:poetic:pb:e)pi/: :au)re/w:ew_pr:e_stem:comp_only:pb:e)pi/:
-au)rhs :a)paura/w:reg_fut:a_stem:pb:a)po/: :au)re/w:reg_fut:e_stem:mid:comp_only:pb:e)pi/:
+au)r :a)pou/ras:aw_pr:a_stem:imperf:2nd:sg:pb:a)po/: :a)pou/ras:aw_pr:a_stem:imperf:3rd:sg:pb:a)po/: :a)pou/ras:aw_pr:a_stem:pb:a)po/: :au)re/w:aor1:comp_only:pb:e)pi/: :au)re/w:aor2:comp_only:pb:e)pi/: :au)re/w:aor2:syll_augment:poetic:pb:e)pi/: :au)re/w:ew_pr:e_stem:comp_only:pb:e)pi/:
+au)rhs :a)pou/ras:reg_fut:a_stem:pb:a)po/: :au)re/w:reg_fut:e_stem:mid:comp_only:pb:e)pi/:
 au)risk :au)re/w:w_stem:skw:comp_only:pb:e)pi/:
 au)riz :au)ri/zw:w_stem:izw
 au)s :au)/w2:aor1:reg_conj :au)/w2:reg_fut:reg_conj :au)/w:aor1:reg_conj:comp_only :au)/w:reg_fut:reg_conj:comp_only
@@ -10723,9 +10766,9 @@ bukaniz :boukini/zw:w_stem:izw
 bukiniz :boukini/zw:w_stem:izw
 bull :bullo/w:ow_pr:ow_denom
 bun :bune/w:w_stem
-buq :buqa/w:aw_pr:aw_denom
+buq :buqa/w:aw_denom bu_q:bu/w:aor_pass:reg_conj:late
 buqiz :buqi/zw:w_stem:izw
-burs :burso/w:ow_pr:ow_denom:comp_only
+burs :burso/w:ow_pr:ow_denom
 burseu :burseu/w:w_stem:euw
 bursodey :bursodeye/w:ew_pr:ew_denom
 bursodom :bussodomeu/w:ew_pr:ew_denom
@@ -10735,6 +10778,8 @@ busodomeu :bussodomeu/w:w_stem:euw
 busq bu_sq:bu/w:aor_pass:reg_conj
 buss :busso/w:ow_pr:ow_denom
 buz :bu/zw2:w_stem:uzw :bu/zw:w_stem:uzw
+buzan :buza/nw:w_stem
+buzas :buza/nw:aor1 :buza/nw:aor2:ind:2nd:late
 bwkol :boukole/w:ew_pr:ew_denom:doric
 bwkoliaz :boukolia/zomai:w_stem:azw:mp:doric
 bwlaz :bwla/zw:w_stem:azw
@@ -10839,7 +10884,7 @@ daimoni :daimonia/w:aw_pr:iaw_denom
 daimoniaz :daimonia/zomai:w_stem:azw:mp
 daimoniz :daimoni/zomai:w_stem:izw:mp
 dain :dai/numi:umi_pr:numi
-dair :de/rw:w_stem:airw:attic
+dair :de/rw:w_stem:airw:attic:rare
 dais :dai/numi:aor1:numi :dai/numi:reg_fut:numi
 daisq :dai/w:aor_pass:reg_conj:aor:part:sg
 daital :daitala/omai:aw_pr:aw_denom:mp
@@ -11499,7 +11544,7 @@ e(ktolog :e(ktologe/omai:ew_pr:ew_denom:mp
 e(kureu :e(kureu/w:w_stem:euw
 e(l :ai(re/w:aor1:syll_augment:late :ai(re/w:aor2:mid:syll_augment :ai(re/w:aor2:syll_augment :ai(re/w:ew_fut:act:comp_only:late :ai(re/w:ew_fut:mid:late
 e(lc :e(/lkw:aor1:reg_conj:syll_augment:later :e(/lkw:aor1:reg_conj:syll_augment:unaugmented:poetic :e(/lkw:reg_fut:reg_conj:syll_augment
-e(lhqer :e(lhqere/w:ew_pr:ew_denom
+e(lhqer :ei(lhqere/w:ew_pr:ew_denom
 e(likograf :e(likografe/w:ew_pr:ew_denom
 e(lk :e(/lkw:w_stem:reg_conj:late :e(/lkw:w_stem:reg_conj:syll_augment :e(lke/w:ew_pr:ew_denom:syll_augment :e(lko/w:ow_pr:ow_denom
 e(lkain :e(lkai/nw:w_stem:ainw
@@ -11612,6 +11657,7 @@ e)ca :cai/nw:perfp_n:ainw
 e)caeriz :e)caeri/zw:w_stem:izw
 e)cafedr :e)cafedro/omai:ow_pr:ow_denom:mp
 e)cafr :e)cafedro/omai:ow_pr:ow_denom:mp
+e)cagkur :e)cagkuro/w:ow_pr:ow_denom
 e)caigeir :e)caigeiro/omai:ow_pr:ow_denom:mp
 e)caiqer :e)caiqero/w:ow_pr:ow_denom
 e)caiqrapeu :e)caiqrapeu/w:w_stem:euw
@@ -11898,6 +11944,7 @@ e)ndocolog :e)ndocologe/w:ew_pr:ew_denom
 e)ndoiaz :e)ndoia/zw:w_stem:azw
 e)ndomux :e)ndomuxe/w:ew_pr:ew_denom
 e)nduaz :e)ndoia/zw:w_stem:azw
+e)ne :e)neo/w:ow_pr:ow_denom
 e)neaz :e)nea/zw:w_stem:azw
 e)negk :fe/rw:aor1 :fe/rw:aor2
 e)neic :fe/rw:aor1:rare
@@ -11945,7 +11992,6 @@ e)ntafieu :e)ntafieu/w:w_stem:euw
 e)ntelet :e)ntelete/w:ew_pr:ew_denom
 e)ntereu :e)ntereu/w:w_stem:euw
 e)nteriz :e)nteri/zw:w_stem:izw:comp_only
-e)ntraniz :e)ntrani/zw:w_stem:izw
 e)ntu :e)ntu/nw:w_stem:epic
 e)ntun e)ntu_n:e)ntu/nw:w_stem:unw
 e)nufizhs :e)nufi/zw:aor1
@@ -12031,6 +12077,7 @@ e)proskunhs :proskune/w:aor1:ind:has_augment:late
 e)ptai :ptai/w:perfp_s:reg_conj
 e)ptaik :ptai/w:perf_act:reg_conj
 e)pth :pth/ssw:perf2_act:a_stem:epic :pth/ssw:perf_act:late
+e)ptu :ptu/w:perfp_s:reg_conj
 e)ptuk :ptu/w:perf_act:reg_conj
 e)pwpaz :e)pwpa/zw:w_stem:azw
 e)pwriaz :e)pwria/zw:w_stem:azw
@@ -12092,9 +12139,9 @@ e)reuqi :e)reuqia/w:aw_pr:iaw_denom
 e)reus :e)reu/qw:aor1:reg_conj :e)reu/qw:aor1:reg_conj:inf:act
 e)rexq :e)re/xqw:w_stem
 e)rey :e)re/fw:aor1:reg_conj :e)re/fw:aor1:reg_conj:epic:unaugmented :e)re/fw:reg_fut:reg_conj
-e)rg :e)/rgnumi:aor2_pass:numi:epic :e)/rgnumi:w_stem:reg_conj:ind:mp :e)/rgnumi:w_stem:reg_conj:inf :e)/rgnumi:w_stem:reg_conj:part:epic :e)/rgnumi:w_stem:reg_conj:pres:ind:sg :e)/rgw:aor2_pass:numi:epic :e)/rgw:w_stem:reg_conj:ind:mp :e)/rgw:w_stem:reg_conj:inf :e)/rgw:w_stem:reg_conj:part:epic :e)/rgw:w_stem:reg_conj:pres:ind:sg :e)rge/w:ew_pr:ew_denom:comp_only
+e)rg :e)/rgnumi:aor2_pass:numi:epic :e)/rgnumi:w_stem:reg_conj:ind:mp :e)/rgnumi:w_stem:reg_conj:inf :e)/rgnumi:w_stem:reg_conj:part:epic :e)/rgnumi:w_stem:reg_conj:pres:ind:sg :e)/rgw:aor2_pass:numi:epic :e)/rgw:w_stem:reg_conj:ind:mp :e)/rgw:w_stem:reg_conj:inf :e)/rgw:w_stem:reg_conj:part:epic :e)/rgw:w_stem:reg_conj:pres:ind:sg :e)rga/zomai:aw_fut:mid:late :e)rge/w:ew_pr:ew_denom:comp_only
 e)rga :e)rga/zomai:perfp_d:azw:mp:ionic:syll_augment:no_redupl :e)rga/zomai:perfp_g:ionic
-e)rgac :e)rga/zomai:aor2:epic:syll_augment
+e)rgac :e)rga/zomai:aor2:mid:epic:syll_augment
 e)rgaq :e)rgaqei=n:aor2:epic:syll_augment:poetic
 e)rgasei :e)rga/zomai:w_stem:desiderative
 e)rgateu :e)rgateu/omai:w_stem:euw:mp
@@ -12212,6 +12259,7 @@ e)sxh :e)/xw:perfp_vow :i)sxne/omai:perfp_vow:comp_only
 e)sxhk :e)/xw:perf_act:e_stem
 e)taz :e)ta/zw:w_stem:azw
 e)tiz :e)ti/zw:w_stem:izw:comp_only
+e)tth :a)tta/w:perfp_vow
 e)tumhgor :e)tumhgore/w:ew_pr:ew_denom
 e)tumolog :e)tumologe/w:ew_pr:ew_denom
 e)ufrain e)u+frain:eu)frai/nw:w_stem:ainw
@@ -12321,6 +12369,7 @@ ei)lh :ei)/lw:perfp_vow:e_stem:syll_augment :lagxa/nw:perfp_g :lamba/nw:perfp_p
 ei)lhf :lamba/nw:perf_act
 ei)lhlouq :e)/rxomai:perf_act:epic:attic_redupl
 ei)lhq :ei)/lw:aor_pass:e_stem:syll_augment
+ei)lhqer :ei(lhqere/w:ew_pr:ew_denom
 ei)lhs :ei)/lw:aor1:e_stem:syll_augment :ei)/lw:reg_fut:e_stem:syll_augment
 ei)lhx :lagxa/nw:perf_act
 ei)liggi :ei)liggia/w:aw_pr:iaw_denom
@@ -12497,8 +12546,9 @@ eu)noiz eu)noi+z:eu)noi/zomai:w_stem:izw:mp
 eu)nom :eu)nome/omai:ew_pr:ew_denom
 eu)noux :eu)nouxe/w:ew_pr:ew_denom
 eu)nouxiz :eu)nouxi/zw:w_stem:izw
-eu)od :eu)ode/w:ew_pr:ew_denom :eu)odo/w:ow_pr:ow_denom
+eu)od :eu)ode/w:ew_pr:ew_denom
 eu)odiaz :eu)odia/zw:w_stem:azw
+eu)odwk :eu)odo/w:perf_act:ow_denom:late:no_redupl
 eu)oin :eu)oine/w:ew_pr:ew_denom
 eu)opl :eu)ople/w:ew_pr:ew_denom
 eu)ork :eu)orke/w:ew_pr:ew_denom
@@ -12595,9 +12645,13 @@ eu)tuxeudoc :eu)tuxeudoce/w:ew_pr:ew_denom
 eu)tuxhk :eu)tuxe/w:perf_act:ew_denom:plup:3rd:pl:syll_augment :eu)tuxe/w:perf_act:ew_denom:syll_augment
 eu)tuxhs :eu)tuxe/w:aor1:ew_denom:syll_augment
 eu)udr :eu)udre/w:ew_pr:ew_denom
-eu)wd :eu)wde/w:ew_pr:ew_denom
+eu)wd :eu)odo/w:ow_pr:has_augment:late :eu)wde/w:ew_pr:ew_denom
 eu)wdiaz :eu)wdia/zw:w_stem:azw
 eu)wdiz :eu)wdi/zomai:w_stem:izw:mp
+eu)wdw :eu)odo/w:perfp_vow:late
+eu)wdwk :eu)odo/w:perf_act:late
+eu)wdwq :eu)odo/w:aor_pass:ind:has_augment:late
+eu)wdws :eu)odo/w:aor1:ind:has_augment:late
 eu)wn :eu)wne/w:ew_pr:ew_denom
 eu)wniz :eu)wni/zw:w_stem:izw:comp_only
 eu)wr :eu)wre/w:ew_pr:ew_denom
@@ -12652,6 +12706,7 @@ faq :fhmi/:aor_pass
 far :fara/w:aw_pr:aw_denom :faro/w:ow_pr:ow_denom
 faragg :faraggo/w:ow_pr:ow_denom
 fargn :fra/ssw:umi_pr:numi:poetic :fra/ssw:umi_pr:numi:pres:mp:poetic
+fargnu :fra/ssw:w_stem:numi:poetic
 farkaz :farka/zw:w_stem:azw
 farkid :farkido/omai:ow_pr:ow_denom:mp
 farmak :farmaka/w:aw_pr:aw_denom :farmako/w:ow_pr:ow_denom
@@ -12698,7 +12753,7 @@ feromuq :feromuqe/w:ew_pr:ew_denom:comp_only
 fert :fe/rw:os_on:reg_conj
 fertaz :ferta/zw:w_stem:azw
 ferwnum :ferwnume/omai:ew_pr:ew_denom:mp
-feuc :feu/gw:aor1:late :feu/gw:ew_fut:attic:poetic :feu/gw:reg_fut:act:late :feu/gw:reg_fut:reg_conj:mid
+feuc :feu/gw:aor1:late :feu/gw:ew_fut:mid:attic:poetic :feu/gw:reg_fut:act:late :feu/gw:reg_fut:reg_conj:mid
 feucei :feu/gw:w_stem:desiderative
 feug :feu/gw:w_stem:reg_conj
 feukti :feuktia/w:aw_pr:iaw_denom
@@ -12799,7 +12854,7 @@ fim fi_m:fimo/w:ow_pr:ow_denom
 fitu fi_tu_:fitu/w:w_stem:reg_conj
 fitus fi_tu_s:fitu/w:aor1:reg_conj fi_tu_s:fitu/w:reg_fut:reg_conj
 fl :fla/w:aw_pr:a_stem :fla/w:aw_pr:a_stem:imperf:3rd:sg :fle/w:ew_pr:e_stem
-flad :fla/zw%2:aor2
+flad :fla/zw2:aor2
 fladi :fladia/w:aw_pr:iaw_denom
 flanuss :flanu/ssw:w_stem:ss
 flas :fla/w:aor1:a_stem :fla/w:reg_fut:a_stem
@@ -12904,6 +12959,7 @@ fqan :fqa/nw:w_stem:anw fqa_n:fqa/nw:w_stem:epic
 fqar :fqei/rw:aor2_pass
 fqart :fqei/rw:os_on:reg_conj
 fqas :fqa/nw:aor1:a_stem :fqa/nw:reg_fut:a_stem
+fqass :fqa/nw:aor1:doric
 fqat :fqate/omai:ew_pr:ew_denom:pres:mid:comp_only :fqate/w:ew_pr:ew_denom
 fqaz :fqa/zw:w_stem:azw
 fqegc :fqe/ggomai:aor1:reg_conj:mid :fqe/ggomai:reg_fut:reg_conj:mid
@@ -12939,12 +12995,14 @@ fradeu :fradeu/w:w_stem:euw
 frag :fra/ssw:aor2_pass
 fragell :fragello/w:ow_pr:ow_denom
 fragn :fra/ssw:umi_pr:numi
+fragnu :fra/ssw:w_stem:numi
 frakteu :frakteu/w:w_stem:euw
 franiz :frani/zw:w_stem:izw
 frass :fra/ssw:w_stem:ss
 fratriarx :fratriarxe/w:ew_pr:ew_denom
 fratriaz fra_triaz:fratria/zw:w_stem:azw
 fratriz :fratri/zw:w_stem:izw fra_triz:fratria/zw:w_stem:izw
+freat :freato/w:ow_pr:ow_denom:comp_only
 fren :freno/w:ow_pr:ow_denom
 frenapat :frenapata/w:aw_pr:aw_denom
 freniti freni_ti:frenitia/w:aw_pr:iaw_denom
@@ -13083,6 +13141,7 @@ gamoklop :gamoklope/w:ew_pr:ew_denom
 gamostol :gamostole/w:ew_pr:ew_denom
 gamy :gamyo/w:ow_pr:ow_denom
 gan :ga/numai:umi_pr:mid :gano/w:ow_pr:ow_denom
+gann :ga/numai:umi_pr:mid
 ganuss :ga/numai:reg_fut:mid:epic
 gaorg :gewrge/w:ew_pr:ew_denom
 gapon ga_pon:gewpone/w:ew_pr:ew_denom
@@ -13110,6 +13169,8 @@ gegak gega_k:gi/gnomai:perf_act:a_stem:perf:inf:act:epic:doric:aeolic
 gegam :game/w:perf_act
 gegamh :game/w:perfp_vow:e_stem
 gegamhk :game/w:perf_act:e_stem :game/w:perf_act:e_stem:plup
+gegannu :ga/numai:perfp_vow
+geganu :ga/numai:perfp_vow
 gegaq gega_q:ghqe/w:perf_act:doric
 gegenh :gi/gnomai:perfp_vow:e_stem
 gegenhs :gi/gnomai:fut_perf:e_stem:attic
@@ -13172,7 +13233,7 @@ gennhmatiz :gennhmati/zw:w_stem:izw
 geoux :geouxe/w:ew_pr:ew_denom
 gerair :gerai/rw:w_stem:airw :gerai/rw:w_stem:airw:imperf:epic:unaugmented
 geraniz :gerani/zw:w_stem:izw
-gerar :gerai/rw:ew_fut:airw
+gerar :gerai/rw:ew_fut:airw gera_r:gerai/rw:aor1:airw:doric
 gerast :gerai/rw:os_on:a_stem
 geraz :gera/zw:w_stem:azw
 gerhr :gerai/rw:aor1:airw
@@ -13314,7 +13375,7 @@ goun :gouno/omai:ow_pr:ow_denom:mp
 gounaz :gouna/zomai:w_stem:azw:mp
 gounoiz gounoi+z:gounoi/zw:w_stem:izw
 gr :gra/w:aw_pr:aw_denom
-graf :gra/fw:aor2_pass :gra/fw:ew_pr:ew_denom:perf:comp_only :gra/fw:hs_es:reg_conj:comp_only :gra/fw:os_on:comp_only :gra/fw:w_stem:reg_conj
+graf :gra/fw:aor2_pass :gra/fw:ew_pr:ew_denom:perf :gra/fw:hs_es:reg_conj:comp_only :gra/fw:os_on:comp_only :gra/fw:w_stem:reg_conj
 grafq :gra/fw:aor_pass:reg_conj:later
 grai :graio/omai:ow_pr:ow_denom:mp
 graiz grai+z:grai/zw:w_stem:izw
@@ -13424,10 +13485,10 @@ h(rwiz :h(rwi/zw:w_stem:izw :h(rwi/zw:w_stem:izw:comp_only
 h(rwolog :h(rwologe/w:ew_pr:ew_denom
 h(s :h(/domai:aor1:has_augment :h(/domai:aor1:reg_conj:mid :i(/hmi:aor1:late :i(/hmi:reg_fut
 h(sq :h(/domai:aor_pass:reg_conj:fut:pass :h(/domai:aor_pass:reg_conj:pass
-h(ss :h(ssa/omai:aw_pr:aw_denom:act:comp_only
+h(ss :h(ssa/omai:aw_pr:aw_denom:act:late
 h(sux :h(suxo/omai:ow_pr:ow_denom:mp
 h(suxaz :h(suxa/zw:w_stem:azw
-h(tt :h(ssa/omai:aw_pr:aw_denom:act:comp_only
+h(tt :h(ssa/omai:aw_pr:aw_denom:act:late
 h(ye :e(/yw:perfp_vow:e_stem
 h) :a)/gw:perfp_g:reg_conj :ai)/rw:perfp_r:airw
 h)bol :h)bole/w:ew_pr:ew_denom:comp_only
@@ -13513,6 +13574,7 @@ h)rx :a)/rxw:perf_act:reg_conj
 h)selgh :a)selgai/nw:perfp_vow:ainw
 h)sqh :e)sqe/w:perfp_vow:ew_denom:plup
 h)triaz :h)tria/zw:w_stem:azw:comp_only
+h)tthq :a)tta/w:aor_pass
 h)x :a)/gw:perf_act:reg_conj :h)xe/w:ew_pr:ew_denom h)=x:e)/xw:w_stem:ind:act:doric:has_augment
 h)xqh :e)/xqw:perfp_vow :e)xqa/nomai:perfp_vow:anw:comp_only
 h)xreiw :xreio/w:perfp_vow:poetic
@@ -14186,6 +14248,7 @@ kekrh :kera/nnumi:perfp_vow:a_stem:ionic:syncope
 kekrig kekri_g:kri/zw:perf_act
 kekrou :krou/w:perfp_s:reg_conj :krou/w:perfp_vow:reg_conj
 kekrouk :krou/w:perf_act:reg_conj
+kekruf :kru/ptw:perf_act
 kekth :kta/omai:perfp_vow:a_stem:mp
 kekths :kta/omai:fut_perf:a_stem:mp
 kekuf keku_f:ku/ptw:perf_act
@@ -14331,7 +14394,7 @@ ki :kei=mai:ath_primary:mp :ki/w:aor2:opt:act :ki/w:aor2:part:act :ki/w:w_stem
 kiaq ki_aq:kia/qw:w_stem:comp_only ki_aq:kia/qw:w_stem:imperf:comp_only
 kibdhleu :kibdhleu/w:w_stem:euw
 kibdhli :kibdhlia/w:aw_pr:iaw_denom
-kic :ki/kw%2:aor1:reg_conj:doric
+kic :ki/kw:aor1:reg_conj:doric
 kicalleu :kicalleu/w:w_stem:euw
 kidafeu :kidafeu/w:w_stem:euw
 kidar :kidaro/w:ow_pr:ow_denom:comp_only
@@ -14435,7 +14498,7 @@ klhmatiz :klhmati/zw:w_stem:izw
 klhmatograf :klhmatografe/w:ew_pr:ew_denom:comp_only
 klhq :kale/w:aor_pass:e_stem
 klhr :klhro/w:ow_pr:ow_denom
-klhrodot :klhrodote/w:ew_pr:ew_denom:comp_only
+klhrodot :klhrodote/w:ew_pr:ew_denom :klhrodote/w:ew_pr:ew_denom:comp_only
 klhronom :klhronome/w:ew_pr:ew_denom
 klhroux :klhrouxe/w:ew_pr:ew_denom
 klhrouxarx :klhrouxarxe/w:ew_pr:ew_denom
@@ -14443,6 +14506,7 @@ klhsiaz :e)kklhsia/zw:w_stem:azw:pb:e)k:
 klht :kale/w:os_on:e_stem
 klhteu :klhteu/w:w_stem:euw
 klimakiz :klimaki/zw:w_stem:izw
+klimakthriz :klimakthri/zw:w_stem:izw
 klimaz :klima/zw:w_stem:azw
 klinokosm :klinokosme/w:ew_pr:ew_denom
 klisiaz :klisia/zw:w_stem:azw
@@ -14590,7 +14654,7 @@ konab :konabe/w:ew_pr:ew_denom
 konabiz :konabi/zw:w_stem:izw
 konbentarx :konbentarxe/w:ew_pr:ew_denom
 kondul :kondulo/omai:ow_pr:ow_denom:mp
-konduliz :konduli/zw:w_stem:izw:comp_only
+konduliz :konduli/zw:w_stem:izw :konduli/zw:w_stem:izw:comp_only
 koni :koni/w:ew_fut:mid :konia/w:aw_pr:iaw_denom koni_:koni/w:w_stem:reg_conj
 koniaz :konia/zw:w_stem:azw
 koniort :koniorto/w:ow_pr:ow_denom
@@ -14720,6 +14784,7 @@ kraz :kra/zw:w_stem
 kreadot :kreadote/w:ew_pr:ew_denom
 kreanom krea_nom:kreanome/w:ew_pr:ew_denom
 krec :kre/kw:aor1:reg_conj :kre/kw:reg_fut:reg_conj
+krehfag :kreofage/w:ew_pr:ew_denom
 kreisoneu :kreissoneu/w:w_stem:euw
 kreiss :kreisso/w:ow_pr:ow_denom
 kreitt :kreitto/omai:ow_pr:ow_denom:mp
@@ -14791,7 +14856,7 @@ krousq :krou/w:aor_pass:reg_conj
 kru :kruo/omai:ow_pr:ow_denom:mp
 krub :kru/ptw:aor2_pass :kru/ptw:w_stem:late
 krubaz :kruba/zw:w_stem:azw
-kruf :kru/ptw:w_stem
+kruf :kru/ptw:aor2
 krufiaz :krufia/zw:w_stem:azw:comp_only
 krumwss :krumw/ssw:w_stem:ss
 kruptaz :kru/ptw:w_stem
@@ -15129,7 +15194,7 @@ lelabhk :lamba/nw:perf_act:anw:ionic
 lelaf :la/ptw:perf_act
 lelak :la/skw:aor2:mid:3rd:pl:redupl :la/skw:perf_act:a_stem:part lela_k:la/skw:perf_act:a_stem:epic:doric:aeolic
 lelamp :la/mpw:perf_act
-lelaq :lanqa/nw:aor2:redupl:causal :lanqa/nw:perf_act:part
+lelaq :lanqa/nw:aor2:redupl:causal :lanqa/nw:perf_act:part lela_q:lanqa/nw:perf_act:doric
 lelau :a)polau/w:perfp_s:reg_conj:pb:a)po/: :a)polau/w:perfp_vow:reg_conj:pb:a)po/:
 lelauk :a)polau/w:perf_act:reg_conj:pb:a)po/:
 lelax :lagxa/nw:aor2:poetic
@@ -15444,7 +15509,7 @@ maimass :maima/ssw:w_stem
 maimaz :maima/zw:w_stem:azw
 maimhs :maima/w:aor1:a_stem:epic
 maimwss :maimw/ssw:w_stem:ss
-main :mai/nomai:w_stem:ainw:mp
+main :mai/nomai:w_stem:ainw:act:comp_only :mai/nomai:w_stem:ainw:mp
 mairi :mairia/w:aw_pr:iaw_denom
 maitur :maiture/w:ew_pr:ew_denom
 mak :mhka/omai:aor2
@@ -15677,6 +15742,7 @@ memela :melai/nw:perfp_n:ainw
 memelh :me/lw:perfp_vow:e_suppl
 memelhk :me/lw:perf_act:e_suppl :me/lw:perf_act:e_suppl:plup
 memenhk :me/nw:perf_act:e_suppl
+memequ :mequ/skw:perfp_s:reg_conj
 memetei :meqi/hmi:perfp_vow:ionic
 memeti :meqi/hmi:perfp_vow:ionic
 memf :me/mfomai:hs_es:reg_conj:mp:comp_only :me/mfomai:w_stem:reg_conj:mp
@@ -15746,6 +15812,7 @@ metarruqm :metarruqme/w:ew_pr:ew_denom
 metarsi :metarsio/omai:ow_pr:ow_denom:mp :metarsio/w:ow_pr:ow_denom
 metarsiolesx :metarsiolesxe/w:ew_pr:ew_denom
 metaxeu :metaxeu/omai:w_stem:euw:mp
+metayef :metaye/fw:w_stem
 metewr :metewre/w:ew_pr:ew_denom
 metewriz :metewri/zw:w_stem:izw
 metewrofron :metewrofrone/w:ew_pr:ew_denom
@@ -15778,7 +15845,7 @@ mhlobol :mhlobole/w:ew_pr:ew_denom
 mhlobot :mhlobote/w:ew_pr:ew_denom
 mhlofor :mhlofore/w:ew_pr:ew_denom
 mhlosfag :mhlosfage/w:ew_pr:ew_denom
-mhn :mai/nomai:aor1:ainw:act:late :mai/nomai:aor1:ainw:mid
+mhn :mai/nomai:aor1:ainw:act:comp_only :mai/nomai:aor1:ainw:act:late :mai/nomai:aor1:ainw:mid
 mhnagurt :mhnagurte/w:ew_pr:ew_denom
 mhni :mhni/w:w_stem :mhnia/w:aw_pr:iaw_denom mhni_:mhni/w:w_stem:reg_conj
 mhnis mhni_s:mhni/w:aor1:reg_conj
@@ -15889,7 +15956,7 @@ mnhst :mimnh/skw:os_on:a_stem :mna/omai:os_on:a_stem:mp
 mnhsteu :mnhsteu/w:w_stem:euw
 mog :moge/w:ew_pr:ew_denom
 moimu :moimua/w:aw_pr:aw_denom
-moir :moira/w:aw_pr:aw_denom
+moir :moira/w:aw_pr:aw_denom:syll_augment
 moiraz :moira/zw:w_stem:azw
 moirolog :moirologe/w:ew_pr:ew_denom
 moirologx :moirologxe/w:ew_pr:ew_denom
@@ -16142,7 +16209,7 @@ nenemh :ne/mw:perfp_vow:e_suppl
 nenemhk :ne/mw:perf_act:e_suppl
 neneu :neu/w:perfp_vow:reg_conj
 neneuk :ne/w:perf_act:ev_stem:act :neu/w:perf_act:reg_conj
-nenh :ne/w3:perfp_s:e_stem :ne/w3:perfp_vow:e_stem
+nenh :ne/w3:perfp_s:e_stem :ne/w3:perfp_vow:e_stem :nh/qw:perfp_s
 nenw :noe/w:perfp_vow:reg_conj:ionic:contr
 nenwk :noe/w:perf_act:reg_conj:ionic:contr
 neopoi :neopoie/w:ew_pr:ew_denom
@@ -16897,7 +16964,7 @@ ou)n :o)/nomai:w_stem:pres:2nd:pl
 ou)nomaz :o)noma/zw:w_stem:azw:ionic :ou)noma/zw:w_stem:azw
 ou)qen :ou)deno/w:ew_pr:ew_denom:comp_only :ou)deno/w:ow_pr:ow_denom:comp_only
 ou)qeniz :ou)deni/zw:w_stem:izw:comp_only
-ou)r :a)paura/w:aor1:aor:part:act:pb:a)po/: :a)paura/w:aor1:aor:part:mid :ou)ro/w:ow_pr:ow_denom:comp_only
+ou)r :a)pou/ras:aor1:aor:part:act:pb:a)po/: :a)pou/ras:aor1:aor:part:mid :ou)ro/w:ow_pr:ow_denom:comp_only
 ou)rag :ou)rage/w:ew_pr:ew_denom
 ou)ran :ou)rano/w:ow_pr:ow_denom
 ou)raniaz :ou)rania/zw:w_stem:azw
@@ -17038,6 +17105,7 @@ pardhs :pe/rdomai:reg_fut:e_stem:mid
 pareunet :pareuneta/w:aw_pr:aw_denom
 parod :parode/omai:ew_pr:ew_denom:mp
 paroimiaz :paroimia/zw:w_stem:azw
+parq :pei/rw:aor_pass:airw:late
 parqeneu :parqeneu/w:w_stem:euw
 parqenotrof :parqenotrofe/w:ew_pr:ew_denom
 parrhsiaz :parrhsia/zomai:w_stem:azw:mp
@@ -17093,10 +17161,16 @@ pefhn :fai/nw:perf_act:ainw
 pefhs :fai/nw:fut_perf:pass :qei/nw:fut_perf:2nd:sg:epic
 pefid :fei/domai:aor2:mid:epic:redupl
 pefidhs :fei/domai:reg_fut:mid:epic:redupl
+pefla :fla/w:perfp_s:a_stem
+pefle :fle/gw:perfp_g:reg_conj
 pefn :qei/nw:aor2:epic:redupl :qei/nw:w_stem:part:epic:redupl
 pefoithk :foita/w:perf_act:a_stem
 peforb :fe/rbw:perf_act:plup
+pefqa :fqei/rw:perfp_r:late
+pefqark :fqei/rw:perf_act:late
 pefrad :fra/zw:aor2:epic
+pefrag :fra/ssw:perf_act
+pefrak :fra/ssw:perf_act
 pefrik pefri_k:fri/ssw:aor2:part:act pefri_k:fri/ssw:perf_act:reg_conj
 pefru pefru_:fru/gw:perfp_g:reg_conj
 pefu :feu/gw:perfp_g :fu/w:perf2_act:epic:syncope :fu/w:perf2_act:part:fem:nom:sg:epic:syncope :fu/w:perf2_act:part:masc:acc:pl:epic:syncope :fu/w:perf2_act:plup:epic:syncope :fu/w:perf2_act:plup:epic:unaugmented:syncope pefu_:fu/w:perf_act:3rd:pl:syncope pefu_:fu/w:perf_act:part:syncope
@@ -17256,6 +17330,7 @@ perhn :perai/nw:aor1:ainw:ionic
 periakoniz :periakoni/zw:w_stem:izw
 periautiz :periauti/zomai:w_stem:izw:mp
 peribolib :peribolibo/w:ow_pr:ow_denom
+periesseu :perisseu/w:w_stem:has_augment
 perieutiz :perieuti/zomai:w_stem:izw:mp
 periflid :periflida/w:aw_pr:aw_denom
 perigomf :perigomfa/omai:aw_pr:aw_denom:mp
@@ -17281,9 +17356,8 @@ perissopaq :perissopaqe/w:ew_pr:ew_denom
 perissosullab :perissosullabe/w:ew_pr:ew_denom
 perisswnum :perisswnume/w:ew_pr:ew_denom
 peristenax :peristenaxe/w:ew_pr:ew_denom
-peritteu :perisseu/w:w_stem:euw:attic
 perixoriz :perixori/zw:w_stem:izw
-perkain :perka/zw:w_stem:ainw
+perkain :perkai/nw:w_stem:ainw
 perkaz :perka/zw:w_stem:azw
 pern :pe/rnhmi:ami_pr:nhmi :pe/rnhmi:ami_pr:nhmi:imperf:3rd:sg:ionic:iterative:unaugmented :pe/rnhmi:ami_pr:nhmi:part :perna/w:aw_pr:aw_denom
 peron :perona/w:aw_pr:aw_denom
@@ -17394,7 +17468,7 @@ pipisk :pipi/skw:w_stem:skw:pres_redupl
 pipl :pi/mplhmi:ami_pr:a_stem:pres_redupl :pi/mplhmi:ami_short:a_stem:imperat:epic:pres_redupl :pi/mplhmi:aw_pr:a_stem:pres_redupl :pi/mplhmi:ew_pr:a_stem:ionic:pres_redupl
 piplh :pi/mplhmi:ath_primary:a_stem:imperat:act:pres_redupl
 pippiz :pippi/zw:w_stem:izw
-pipr :pi/mprhmi:ami_pr:a_stem:pres_redupl
+pipr :pi/mprhmi:ami_pr:a_stem:pres_redupl :pi/mprhmi:aw_pr:a_stem:imperf:attic:late:pres_redupl
 piprask pipra_sk:pipra/skw:w_stem:a_stem:attic:pres_redupl pipra_sk:pipra/skw:w_stem:a_stem:doric:pres_redupl
 piprhsk :pipra/skw:w_stem:a_stem:ionic:pres_redupl
 pipt :pi/ptw:w_stem:late:pres_redupl pi_pt:pi/ptw:w_stem:pres_redupl
@@ -17832,6 +17906,7 @@ prw|raz :prw|ra/zw:w_stem:azw
 prwispor :prwispore/omai:ew_pr:ew_denom:mp
 prwktiz :prwkti/zw:w_stem:izw
 prwktothr :prwktothre/w:ew_pr:ew_denom
+prws :prowqe/w:aor1
 prwtagwnist :prwtagwniste/w:ew_pr:ew_denom
 prwtarx :prwtarxe/w:ew_pr:ew_denom
 prwtarxonteu :prwtarxonteu/w:w_stem:euw
@@ -17897,6 +17972,7 @@ ptwskaz :ptwska/zw:w_stem:azw
 ptwss :ptw/ssw:w_stem:ss
 ptwxeu :ptwxeu/w:w_stem:euw
 ptwxiz :ptwxi/zw:w_stem:izw
+ptwxotrof :ptwxotrofe/w:ew_pr:ew_denom
 pu :pue/w:ew_pr:ew_denom:comp_only :puo/w:ow_pr:ow_denom
 puciz :puci/zw:w_stem:izw
 pucograf :pucografe/w:ew_pr:ew_denom
@@ -17979,8 +18055,8 @@ pwr :pwre/w:ew_pr:ew_denom :pwro/w:ow_pr:ow_denom
 pwropoi :pwropoie/omai:ew_pr:ew_denom:mp
 pwsfor :fwsfore/w:ew_pr:ew_denom
 pwt :pwta/omai:aw_pr:aw_denom:mp
-q :qa/omai:aw_pr:a_stem:mp:doric :qe/w:ew_pr:ev_stem:act :qe/w:ew_pr:ev_stem:mid:attic :ti/qhmi:aor2:opt :ti/qhmi:aor2:subj :ti/qhmi:emi_aor
-qa qa_:qae/omai:ew_pr:ew_denom:mp:doric
+q :qae/omai:aw_pr:a_stem:mp:doric :qe/w:ew_pr:ev_stem:act :qe/w:ew_pr:ev_stem:mid:attic :ti/qhmi:aor2:opt :ti/qhmi:aor2:subj :ti/qhmi:emi_aor
+qa qa_:qae/omai:ew_pr:ew_denom:doric
 qaass :qaa/ssw:w_stem:ss
 qak qa_k:qake/w:ew_pr:ew_denom
 qakeu qa_keu:qakeu/w:w_stem:euw
@@ -18016,7 +18092,7 @@ qambeu :qambeu/w:w_stem:euw
 qamiz :qami/zw:w_stem:izw
 qamniz :qamni/zw:w_stem:izw:comp_only
 qamuriz :qamuri/zw:w_stem:izw
-qan :qnh/skw:aor2 :qnh/skw:ew_fut:mid :qnh/skw:hs_es:reg_conj:comp_only
+qan :qnh/|skw:aor2 :qnh/|skw:ew_fut:mid :qnh/|skw:hs_es:reg_conj:comp_only
 qanat :qanata/w:aw_pr:aw_denom:desiderative :qanato/w:ow_pr:ow_denom
 qanati :qanatia/w:aw_pr:iaw_denom
 qanatiz :qanati/zw:w_stem:izw:comp_only
@@ -18025,7 +18101,7 @@ qarr :qarse/w:ew_pr:ew_denom:attic
 qarrun qarru_n:qarsu/nw:w_stem:unw:attic
 qars :qarse/w:ew_pr:ew_denom
 qarsun qarsu_n:qarsu/nw:w_stem:unw
-qas qa_s:qa/omai:aor1:a_stem:mid:doric qa_s:qa/omai:reg_fut:a_stem:mid:doric
+qas qa_s:qae/omai:aor1:a_stem:mid:doric qa_s:qae/omai:reg_fut:a_stem:mid:doric
 qass :qa/ssw:w_stem:ss
 qaumain :qaumai/nw:w_stem:ainw
 qauman :qaumai/nw:ew_fut:ainw
@@ -18118,7 +18194,6 @@ qeumoriaz :qeumoria/zw:w_stem:azw
 qeus :qe/w:reg_fut:ev_stem:mid
 qewr :qewre/w:ew_pr:ew_denom
 qewrodok :qewrodoke/w:ew_pr:ew_denom
-qh :qa/w:ath_primary
 qhc :qh/gw:aor1:reg_conj :qh/gw:reg_fut:reg_conj
 qhg :qh/gw:hs_es:reg_conj:comp_only :qh/gw:w_stem:reg_conj
 qhgan :qhga/nw:w_stem:anw
@@ -18148,7 +18223,7 @@ qhrofon :qhrofone/w:ew_pr:ew_denom
 qhrolet :qhrolete/w:ew_pr:ew_denom
 qhroplast :qhroplaste/w:ew_pr:ew_denom
 qhrotrof :qhrotrofe/w:ew_pr:ew_denom
-qhs :qa/w:aor1:a_stem:mid:3rd:sg:epic:unaugmented :qa/w:aor1:a_stem:part:mid:epic :ti/qhmi:reg_fut
+qhs :qh=sai:aor1:ind:2nd:sg :qh=sai:aor1:ind:3rd:sg:unaugmented :qh=sai:aor1:mid :qh=sai:aor1:part :ti/qhmi:aor1:late :ti/qhmi:reg_fut
 qhsauriz :qhsauri/zw:w_stem:izw
 qhsaurofulak :qhsaurofulake/w:ew_pr:ew_denom
 qhsauropoi :qhsauropoie/w:ew_pr:ew_denom
@@ -18169,11 +18244,11 @@ qlass :qla/w:aor1:a_stem:epic :qla/w:w_stem:comp_only
 qlib :qli/bw:aor2_pass qli_b:qli/bw:w_stem:reg_conj
 qlifq qli_fq:qli/bw:aor_pass:reg_conj
 qliy qli_y:qli/bw:aor1:reg_conj qli_y:qli/bw:reg_fut:reg_conj
-qna|sk qna_|sk:qnh/skw:w_stem:a_stem:doric:syncope
-qnask qna_sk:qnh/skw:w_stem:a_stem:doric:syncope
-qnh|sk :qnh/skw:w_stem:a_stem:syncope qnh/|sk:qnh/skw:w_stem
-qnhsim :qnh/skw:os_on:a_stem:syncope
-qnhsk :qnh/skw:w_stem:a_stem:syncope
+qna|sk qna_|sk:qnh/|skw:w_stem:a_stem:doric:syncope
+qnask qna_sk:qnh/|skw:w_stem:a_stem:doric:syncope
+qnh|sk :qnh/|skw:w_stem:a_stem:syncope qnh/isk:qnh/|skw:w_stem
+qnhsim :qnh/|skw:os_on:a_stem:syncope
+qnhsk :qnh/|skw:w_stem:a_stem:syncope
 qo :qoo/w:ow_pr:ow_denom
 qoaz :qoa/zw:w_stem:azw
 qoin :qoina/w:aw_pr:aw_denom
@@ -18192,7 +18267,7 @@ qra|kiz :qra|ki/zw:w_stem:izw
 qran qra_n:qrano/omai:ow_pr:ow_denom:pass:comp_only
 qraneu qra_neu:qraneu/omai:w_stem:euw:mp
 qranuss :qranu/ssw:w_stem:ss
-qrass :qra/ssw:w_stem:ss
+qrass :qra/ssw:w_stem:ss qra_ss:qra/ssw:w_stem:ss
 qrasulog :qrasuloge/w:ew_pr:ew_denom
 qrasun qrasu_n:qrasu/nw:w_stem:unw
 qrasustom :qrasustome/w:ew_pr:ew_denom
@@ -18462,6 +18537,7 @@ r(wnnu :r(w/nnumi:w_stem:numi:late
 r(wpeu :r(wpeu/w:w_stem:euw
 r(wpiz :r(wpi/zw:w_stem:izw
 r(wpopwl :r(wpopwle/w:ew_pr:ew_denom
+r(wq :r(w/nnumi:aor_pass:o_stem:late
 r(ws :r(w/nnumi:aor1:numi :r(w/nnumi:reg_fut:numi :r(w/omai:aor1:reg_conj:mid
 r(wsq :r(w/nnumi:aor_pass:o_stem
 r(wst :r(w/nnumi:os_on:o_stem
@@ -18872,10 +18948,9 @@ skubliz :skubali/zw:w_stem:izw :skubli/zw:w_stem:izw
 skudiz :skudi/zw:w_stem:izw
 skudmain :skudmai/nw:w_stem:ainw :skudmai/nw:w_stem:ainw:inf:act:epic
 skufiz :skufi/zw:w_stem:izw:comp_only
-skul :skula/w:aw_pr:aw_denom :skulo/w:ow_pr:ow_denom
+skul :sku/llw:aor2_pass :skula/w:aw_pr:aw_denom :skulo/w:ow_pr:ow_denom
 skulakeu :skulakeu/w:w_stem:euw
 skuleu sku_leu:skuleu/w:w_stem:euw
-skull :sku/llw:w_stem:ullw
 skulodey :skulodeye/w:ew_pr:ew_denom
 skumnagwg :skumnagwge/w:ew_pr:ew_denom
 skumneu :skumneu/w:w_stem:euw
@@ -19233,7 +19308,7 @@ strhnuz :strhnu/zw:w_stem:uzw
 strob :strobe/w:ew_pr:ew_denom :strobo/omai:ow_pr:ow_denom:mp
 strobil :strobile/w:ew_pr:ew_denom :strobilo/w:ow_pr:ow_denom
 strobiliz strobi_liz:strobili/zw:w_stem:izw
-strof :strofa/w:aw_pr:aw_denom :strofe/w:ew_pr:ew_denom :strofo/omai:ow_pr:ow_denom:mp
+strof :strofa/w:aw_pr:aw_denom :strofe/w:ew_pr:ew_denom :strofo/omai:ow_pr:ow_denom
 strofaliz :strofali/zw:w_stem:izw
 strofodin strofodi_n:strofodine/omai:ew_pr:ew_denom:mp
 stroggul :stroggulo/w:ow_pr:ow_denom
@@ -19573,22 +19648,24 @@ teqei :ti/qhmi:perfp_vow
 teqeik :ti/qhmi:perf_act
 teqerma :qermai/nw:perfp_n:ainw
 teqermagk :qermai/nw:perf_act:ainw
-teqh :qh/gw:perfp_g:reg_conj
+teqh :qh/gw:perfp_g:reg_conj :ti/qhmi:perfp_vow:late
 teqhk :ti/qhmi:perf_act
 teqhl :qa/llw:perf_act:epic:doric:ionic
 teqhlu :qhlu/nw:perfp_vow:late
 teqhp :te/qhpa:perf_act :te/qhpa:perf_act:plup:epic
 teqla :qla/w:perfp_s
 teqlak :qla/w:perf_act:a_stem
-teqli teqli_:qli/bw:perfp_p:reg_conj
-teqn :qnh/skw:perf2_act:perf:imperat:act:2nd:sg:syncope :qnh/skw:perf2_act:perf:imperat:act:3rd:sg:syncope :qnh/skw:perf2_act:perf:ind:act:1st:pl:syncope :qnh/skw:perf2_act:perf:ind:act:3rd:dual:syncope :qnh/skw:perf2_act:perf:ind:act:3rd:pl:syncope :qnh/skw:perf2_act:perf:ind:act:dual:syncope :qnh/skw:perf2_act:perf:inf:act:epic:syncope :qnh/skw:perf2_act:perf:inf:act:syncope :qnh/skw:perf2_act:perf:opt:act:syncope :qnh/skw:perf2_act:plup:ind:act:3rd:pl:syncope
-teqna :qnh/skw:perf_act:perf:part:act:doric
-teqnak teqna_k:qnh/skw:perf_act:a_stem:doric:syncope
-teqne :qnh/skw:perf2_act:perf:part:act
-teqnei :qnh/skw:perf_act:perf:part:act
-teqnh :qnh/skw:perf2_act:perf:part:act :qnh/skw:perf_act:perf:part:act
-teqnhc :qnh/skw:fut_perf :qnh/skw:fut_perf:a_stem:syncope
-teqnhk :qnh/skw:perf_act:a_stem:syncope
+teqli :qli/bw:perfp_p:reg_conj:late teqli_:qli/bw:perfp_p:reg_conj
+teqlif teqli_f:qli/bw:perf_act:reg_conj
+teqn :qnh/|skw:perf2_act:perf:imperat:act:2nd:sg:syncope :qnh/|skw:perf2_act:perf:imperat:act:3rd:sg:syncope :qnh/|skw:perf2_act:perf:ind:act:1st:pl:syncope :qnh/|skw:perf2_act:perf:ind:act:3rd:dual:syncope :qnh/|skw:perf2_act:perf:ind:act:3rd:pl:syncope :qnh/|skw:perf2_act:perf:ind:act:dual:syncope :qnh/|skw:perf2_act:perf:inf:act:epic:syncope :qnh/|skw:perf2_act:perf:inf:act:syncope :qnh/|skw:perf2_act:perf:opt:act:syncope :qnh/|skw:perf2_act:plup:ind:act:3rd:pl:syncope
+teqna :qnh/|skw:perf_act:perf:part:act:doric
+teqnac teqna_c:qnh/|skw:fut_perf:a_stem:doric:syncope
+teqnak teqna_k:qnh/|skw:perf_act:a_stem:doric:syncope
+teqne :qnh/|skw:perf2_act:perf:part:act
+teqnei :qnh/|skw:perf_act:perf:part:act
+teqnh :qnh/|skw:perf2_act:perf:part:act :qnh/|skw:perf_act:perf:part:act
+teqnhc :qnh/|skw:fut_perf :qnh/|skw:fut_perf:a_stem:syncope
+teqnhk :qnh/|skw:perf_act:a_stem:syncope
 teqra :tre/fw:perfp_p :tre/fw:perfp_p:reg_conj
 teqrau :qrau/w:perfp_s:reg_conj :qrau/w:perfp_vow:reg_conj
 teqrippeu :teqrippeu/w:w_stem:euw

@@ -1951,10 +1951,12 @@
 :le:sugge/neia
 :no:suggenei a_hs fem
 :no:suggenei h_hs fem stem_acc late
+:no:cuggenei a_hs fem
+:no:cuggenei h_hs fem stem_acc late
 
 :le:suggenh/s
 :aj:sug-gen hs_es suff_acc
-:wd:su/ggenes hs_es nom sg voc
+:aj:suggen hs_es rare
 
 :le:suggeniko/s
 :aj:suggenik os_h_on suff_acc
@@ -2061,6 +2063,7 @@
 
 :le:su/gklus
 :no:sug-klu^ s_dos masc fem
+:no:cug-klu^ s_dos masc fem
 
 :le:sugkoi/mhma
 :no:sugkoimh ma_matos neut
@@ -2280,6 +2283,7 @@
 
 :le:su/llogos
 :no:sul-log os_ou masc
+:no:cullog os_ou masc
 
 :le:sulloxi/ths
 :no:sul-loxi_t hs_ou stem_acc masc
@@ -2374,6 +2378,7 @@
 
 :le:summaxi/a
 :no:summa^xi h_hs stem_acc fem
+:no:cumma^xi h_hs stem_acc fem
 
 :le:summaxiko/s
 :aj:summa^xik os_h_on suff_acc
@@ -2395,9 +2400,11 @@
 
 :le:summetri/a
 :no:summetri h_hs stem_acc fem
+:no:cummetri h_hs stem_acc fem
 
 :le:su/mmetros
 :aj:sum-metr os_on
+:aj:cum-metr os_on
 
 :le:su/mmiga
 :wd:su/mmi^ga^	adverb
@@ -2637,6 +2644,7 @@
 
 :le:suna/gkeia
 :no:sunagkei a_hs fem
+:no:cunagkei a_hs fem
 :no:sunagki h_hs fem stem_acc
 
 :le:sunagwgeu/s
@@ -2662,6 +2670,7 @@
 
 :le:su/naimos
 :aj:sun-aim os_on
+:aj:cun-aim os_on
 
 :le:sunai/tios
 :aj:sun-aiti os_on
@@ -2782,6 +2791,7 @@
 
 :le:su/ndikos
 :no:sun-di^k os_ou masc fem
+:no:cun-di^k os_ou masc fem
 
 :le:sundiorqwth/s
 :no:sundiorqwt hs_ou masc suff_acc
@@ -2795,6 +2805,7 @@
 
 :le:sundromh/
 :no:sun-drom h_hs suff_acc fem
+:no:cun-drom h_hs suff_acc fem
 
 :le:su/ndromos
 :aj:sun-drom os_on
@@ -2862,9 +2873,11 @@
 
 :le:sunembolh/
 :no:sunem-bol h_hs suff_acc fem
+:no:cunem-bol h_hs suff_acc fem
 
 :le:sune/mporos
 :no:sun-empor os_ou masc fem
+:no:cun-empor os_ou masc fem
 
 :le:suneoxmo/s
 :no:sun-eoxm os_ou suff_acc masc
@@ -2927,6 +2940,7 @@
 
 :le:sune/stios
 :aj:sun-esti os_on
+:aj:cun-esti os_on
 
 :le:sunestramme/nws
 :wd:sunestramme/nws	adverb
@@ -2954,6 +2968,7 @@
 
 :le:sune/fhbos
 :no:sun-efhb os_ou masc
+:no:cun-efhb os_ou masc
 
 :le:sune/xeia
 :no:sunexei a_hs fem
@@ -2987,6 +3002,8 @@
 :le:sunh=lic
 :aj:sun-h_li^ c_kos ant_acc
 :aj:cun-h_li^ c_kos ant_acc
+:aj:sun-a_li^ c_kos ant_acc
+:aj:sunhlik os_h_on late
 
 :le:sunhlusi/h
 :no:sun-hlu^si h_hs fem  	stem_acc
@@ -3114,23 +3131,29 @@
 :le:sunodoi/poros
 :no:sun-odoipor os_ou masc
 
-:le:su/nodos1
+:le:su/nodos
 :no:sun-od os_ou masc fem
+:no:cun-od os_ou masc fem
 
 :le:su/nodos2
 :no:sun-od os_ou fem
+:no:cun-od os_ou fem
 
 :le:sunoi/khma
 :no:sunoikh ma_matos neut
+:no:cunoikh ma_matos neut
 
 :le:sunoi/khsis
 :no:sunoikhs is_ews fem
+:no:cunoikhs is_ews fem
 
 :le:sunoikh/twr
 :no:sunoikht wr_oros stem_acc masc
+:no:cunoikht wr_oros stem_acc masc
 
 :le:sunoiki/a
 :no:sunoiki h_hs stem_acc fem
+:no:cunoiki h_hs stem_acc fem
 
 :le:sunoi/kion
 :no:sunoiki os_ou neut
@@ -3344,6 +3367,7 @@
 
 :le:*suri/a
 :no:*suri h_hs,fem,stem_acc
+:wd:*suri/hqen adverb
 
 :le:su/rigma
 :no:su_rig ma_matos neut
@@ -3512,6 +3536,7 @@
 
 :le:sustrofh/
 :no:sustrof h_hs suff_acc fem
+:no:custrof h_hs suff_acc fem
 
 :le:sufeo/s
 :no:su^fe os_ou suff_acc masc
@@ -3679,6 +3704,8 @@
 :le:sfodro/s
 :aj:sfodr os_h_on suff_acc
 :aj:sfodr os_on suff_acc
+:aj:sfodrwter os_h_on irreg_comp 
+:aj:sfodrwtat os_h_on irreg_superl
 
 :le:sfodro/ths
 :no:sfodroth s_tos ant_acc fem
@@ -3689,6 +3716,10 @@
 #:le:sfondu/lios
 #:no:sfondu^li os_ou masc
 #LSJ makes this neut and adds spelling variants
+
+:le:sfonduli/wn
+:no:sfonduliw n_nos masc
+#Pollux misunderstanding but there we are
 
 :le:sfondulodi/nhtos
 :aj:sfondu^lo-di_nht os_on
@@ -8931,6 +8962,8 @@
 
 :le:u(po/blhtos
 :aj:u(po-blht os_on
+:aj:u(po-blht os_on suff_acc
+#accent varies
 
 :le:u(pobolh/
 :no:u(po-bol h_hs suff_acc fem
@@ -10499,6 +10532,7 @@
 
 :le:fila/nwr
 :no:fi^l-a_n wr_oros stem_acc masc fem
+:no:fi^l-hn wr_oros stem_acc masc fem
 
 :le:fila/oidos
 :aj:fi^laoid os_on
@@ -11359,6 +11393,7 @@
 
 :le:flia/
 :no:fli_ h_hs suff_acc fem
+:no:fli h_hs fem late
 
 :le:*flia/sios
 :aj:*fliasi os_h_on
@@ -12534,9 +12569,6 @@
 
 :le:xalkh/rhs
 :aj:xal-khr hs_es stem_acc
-
-:le:*xalkideu/s
-:no:*xalki^d eus_ews,suff_acc,masc pl is_ethnic
 
 :le:*xalkidiko/s
 :aj:*xalki^dik os_h_on suff_acc
@@ -14588,6 +14620,7 @@
 
 :le:yh/fisma
 :no:yhfis ma_matos neut
+:no:ya_fig ma_matos neut doric
 
 :le:yhfismatopw/lhs
 :no:yhfisma^to-pwl hs_ou stem_acc masc
@@ -14836,7 +14869,7 @@
 :le:w)di/s
 :no:w)di_ s_nos,fem  	stem_acc
 @ end:nessi epic dat pl
-:wd:w)/di_n n_nos,fem,late,new_test	acc sg
+:no:w)di_ n_nos,fem,late,new_test stem_acc nom sg
 
 :le:w)|dopoio/s
 :aj:w)|do-poi os_on suff_acc

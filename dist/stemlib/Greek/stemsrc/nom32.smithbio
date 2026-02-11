@@ -158,7 +158,7 @@
 :no:*(hmerhsi a_hs fem sg pers_name
 
 :le:*(hmiqe/wn
-:no:*(hmiqe wn_onos masc sg pers_name
+:no:*(hmiqew n_nos masc sg pers_name
 
 :le:*(hni/oxos
 :no:*(hniox os_ou masc sg pers_name
@@ -2004,6 +2004,9 @@ stemacc:*ai/gobo/los
 
 #noanalysis:*ai/qh/r
 
+:le:*au)/sones
+:no:*au)s wn_onos masc pl is_ethnic
+
 :le:*au)/swn
 :no:*au)s wn_onos masc sg pers_name
 
@@ -3615,6 +3618,7 @@ stemacc:*goggu/los
 
 :le:*kleo/dhmos
 :no:*kleodhm os_ou masc sg pers_name
+:no:*kleodam os_ou masc sg pers_name doric
 
 :le:*kleo/fantos
 :no:*kleofant os_ou masc sg pers_name
@@ -3625,8 +3629,11 @@ stemacc:*goggu/los
 :le:*kleo/nikos
 :no:*kleonik os_ou masc sg pers_name
 
+:le:*kleobou/lh
+:no:*kleoboul h_hs fem stem_acc
+
 :le:*kleobouli/nh
-:no:*kleoboulin h_hs fem sg pers_name
+:no:*kleobouli_n h_hs fem stem_acc
 
 :le:*kleomutta/dhs
 :no:*kleomuttad hs_ou masc sg pers_name
@@ -3926,7 +3933,7 @@ stemacc:*laodi/kos
 :le:*lape/rsios
 :no:*lapersi os_ou masc sg pers_name
 
-:le:*lasqe//neia
+:le:*lasqe/neia
 :no:*lasqenei a_hs fem sg pers_name
 
 :le:*lasqe/nhs
@@ -3965,8 +3972,6 @@ stemacc:*laodi/kos
 
 :le:*leukai=os
 :no:*leukai_ os_ou masc sg pers_name
-
-#noanalysis:*leukippi/dres
 
 :le:*leukofru/nh
 :no:*leukofrun h_hs fem sg pers_name
@@ -4943,9 +4948,6 @@ stemacc:*parqe/nos
 :le:*persw/
 :no:*pers ws_wos fem suff_acc suff_acc sg pers_name
 
-:le:*pessinounti/a
-:no:*pessinounti a_hs fem sg pers_name
-
 :le:*peti/nhs
 :no:*petin hs_ou masc sg pers_name
 
@@ -5194,7 +5196,7 @@ stemacc:*pompu/los
 :no:*qessal os_ou masc sg pers_name
 
 :le:*qe/wn
-:no:*qe wn_onos masc sg pers_name
+:no:*qew n_nos masc sg pers_name
 
 :le:*qea/ghs
 :no:*qeag hs_ou masc sg pers_name
@@ -5495,9 +5497,6 @@ stemacc:*pompu/los
 
 :le:*spo/dios
 :no:*spodi os_ou masc sg pers_name
-
-:le:*sqe/nelh
-:no:*sqenel h_hs fem sg pers_name
 
 :le:*sqe/nios
 :no:*sqeni os_ou masc sg pers_name

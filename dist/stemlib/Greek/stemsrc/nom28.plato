@@ -772,6 +772,7 @@
 
 :le:e)gka/qetos
 :aj:e)gkaqet os_on
+:aj:e)nkaqet os_on late
 
 :le:e)gkairi/a
 :no:e)gkairi h_hs fem stem_acc
@@ -782,9 +783,6 @@
 :le:e)/gkairos
 :aj:e)gkair os_on
 :aj:e)gkairi os_on
-
-:le:e)/gklisis
-:no:e)gklis is_ews fem
 
 :le:e)/gkritos
 :aj:e)gkrit os_on
@@ -861,6 +859,7 @@
 
 :le:e)/lleiyis
 :no:e)lleiy is_ews fem
+:no:e)nleiy is_ews fem late
 
 :le:e)llimeniko/s
 :aj:e)llimenik os_h_on suff_acc
@@ -2660,7 +2659,7 @@
 :no:*kefal os_ou masc pers_name
 
 :le:*kleitofw=n
-:no:*kleitofw n_ntos masc contr stem_acc pers_name 
+:no:*kleitof wCn_wCntos masc suff_acc
 
 :le:*lusi/as
 :no:*lusi hs_ou masc pers_name

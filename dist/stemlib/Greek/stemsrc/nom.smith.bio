@@ -96,6 +96,7 @@ stemacc:*)androni/kos
 
 :le:*)annai=os
 :no:*)annai_ os_ou masc pers_name stem_acc
+:no:*)anai_ os_ou masc pers_name sg stem_acc
 
 :le:*)anqai=os
 :no:*)anqai_ os_ou masc pers_name stem_acc
