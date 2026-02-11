@@ -1184,6 +1184,7 @@ lmeqa perfp_l
 lmesqa perfp_l
 lmhn perfp_l
 lqai perfp_l
+lqe perfp_l
 lsai perfp_l
 lso perfp_l
 lsqe perfp_l
@@ -1301,7 +1302,7 @@ nto ath_primary ath_secondary perfp_n perfp_vow
 ntwn ath_primary ath_secondary
 oasi omi_pr
 oasin omi_pr
-oi aor2 ew_fut ew_pr fut_perf omi_pr ow_pr perf2_act perf_act reg_fut w_stem ww_pr
+oi aor2 ath_w_aor ew_fut ew_pr fut_perf omi_pr ow_pr perf2_act perf_act reg_fut w_stem ww_pr
 oiato aor2 ath_w_aor ew_fut ew_pr fut_perf omi_aor ow_pr reg_fut w_stem
 oien aor2 ath_w_aor ew_fut ew_pr fut_perf omi_aor omi_pr ow_pr perf2_act perf_act reg_fut w_stem ww_pr
 oih aor2 ath_w_aor ew_fut ew_pr omi_aor omi_pr ow_pr perf2_act perf_act ww_pr
