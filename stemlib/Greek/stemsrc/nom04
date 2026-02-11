@@ -45,6 +45,7 @@
 
 :le:kori/annon
 :no:koriann os_ou neut
+:no:korian os_ou neut
 
 :le:*kori/nqios
 :aj:*korinqi os_h_on
@@ -544,6 +545,7 @@
 :no:kre as_aos,neut attic gen sg end:ws
 :no:kre s_os,neut nom voc acc pl end:a
 @ gen pl
+:no:kre hs_eos,neut nom voc acc pl end:h late
 :wd:kreiw=n irreg_decl3 neut gen pl epic
 :wd:krea/wn irreg_decl3 neut gen pl epic
 :wd:kre/asi irreg_decl3 neut dat pl epic
@@ -614,6 +616,7 @@
 
 :le:kreofa/gos
 :aj:kreo-fag os_on stem_acc
+:aj:kreh-fag os_on stem_acc
 
 :le:kre/wn
 :no:kre wn_ontos stem_acc masc
@@ -952,6 +955,7 @@
 
 :le:krufo/s
 :no:kru^f os_ou suff_acc    masc
+:no:kru^f os_ou  masc
 
 :le:kruyi/noos
 :no:kruyi-n oos_oon stem_acc
@@ -1139,6 +1143,9 @@
 :le:ku/anos
 :no:kuan os_ou masc
 :aj:kuan os_h_on
+:no:kuan os_ou masc suff_acc
+:aj:kuan os_h_on suff_acc
+#accent varies
 
 :le:kuano/stolos
 :aj:kua^no-stol os_on
@@ -1155,7 +1162,7 @@
 :aj:kuano-xrw s_tos ant_acc
 
 :le:kuanw/phs
-:no:kua^n-wp hs_ou stem_acc    masc
+:no:kua^n-wp hs_es stem_acc    masc
 
 :le:kuanw=pis
 :no:kua^nw_p is_idos stem_acc fem
@@ -2887,10 +2894,6 @@
 :le:leugale/os
 :aj:leuga^le os_h_on stem_acc
 
-:le:*leui/ths
-:no:*leuit hs_ou stem_acc masc  pl
-:no:leuit hs_ou stem_acc masc  pl
-
 :le:leukanqh/s
 :aj:leuk-anq hs_es suff_acc
 
@@ -2913,7 +2916,7 @@
 :aj:leuk-hr hs_es stem_acc
 
 :le:*leukippi/des
-:no:*leukipp is_idos,fem,suff_acc,pl group_name
+:no:*leukipp is_idos,fem,suff_acc
 
 :le:*le/sxhs
 :no:*lesx hs_ou masc pers_name
@@ -6780,7 +6783,8 @@
 :aj:met-emfu^t os_on 
 
 :le:metece/teroi
-:aj:met-eceter os_h_on pl
+:aj:met-eceter os_h_on
+#sg shows up
 
 :le:mete/peita
 :wd:met-e/peita	adverb
@@ -12593,6 +12597,7 @@
 
 :le:o/)mbros
 :no:o)mbr os_ou,masc
+:wd:e)co/mbrwn adverb
 
 :le:o)mbrofo/ros
 :aj:o)mbro-for os_on stem_acc
@@ -13535,6 +13540,9 @@
 :wd:o(poiousdh/pote os_h_on masc acc pl
 :wd:o(poiw|dh/pote os_h_on dat sg masc neut
 :wd:o(poiaisou=n os_h_on dat pl fem
+:wd:o(poiaou=n os_h_on nom sg fem
+:wd:o(poiaou=n os_h_on nom acc pl neut
+:wd:o(poia|ou=n os_h_on dat sg fem
 :wd:o(poianou=n os_h_on acc sg fem
 :wd:o(poiasou=n os_h_on gen fem sg 
 :wd:o(poiasou=n os_h_on acc fem pl 
@@ -13599,8 +13607,10 @@
 :aj:o(poter os_h_on
 :aj:o(ppoter os_h_on   epic
 :aj:o(koter os_h_on   ionic
-:wd:o(poterosou=n	adverb
-:wd:o(poteronou=n os_h_on neut nom voc acc sg
+:wd:o(poterosou=n os_h_on masc nom sg
+:wd:o(poterasou=n os_h_on fem gen sg
+:wd:o(poterasou=n os_h_on fem acc pl
+:wd:o(poteronou=n os_h_on neut nom acc sg
 :wd:o(poteronou=n os_h_on masc acc sg
 :wd:o(poteroiou=n os_h_on nom pl masc
 :wd:o(poteroisou=n os_h_on dat pl masc neut
@@ -13679,6 +13689,9 @@
 :wd:o(/kws conj ionic
 :wd:o(pwsdh/pote adverb
 :wd:o(pwsdh/ adverb
+:wd:o(pw/spote adverb
+:wd:o(pwspoteou=n adverb
+:wd:o(pwspotou=n adverb
 
 :le:o(pwsou=n
 :wd:o(pwsou=n conj
@@ -14534,7 +14547,7 @@
 :wd:h(/ntina relative fem sg acc
 :wd:h(ntinadh/pote relative fem sg acc
 :wd:a_(/ntina relative fem sg acc doric
-:wd:a_(/ntinou=n relative fem sg acc doric
+:wd:a_(ntinou=n relative fem sg acc doric
 #
 :wd:ai(/tines relative fem pl nom
 :wd:ai(=stisi relative fem pl dat

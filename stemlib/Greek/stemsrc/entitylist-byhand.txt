@@ -296,7 +296,6 @@
 *sata/n	person
 *trifuli/h	place
 *)/altis	place
-*leui/ths	group
 *ligustiko/s	place
 *dwriko/s	ethnic
 *ti=tos	person
@@ -581,8 +580,6 @@
 *)asw/pixos	person
 *)ate/as	person
 *)ath/ios	person
-*)ati/lios	person
-*)ati/llios	person
 *)atlanti/s	person
 *)atlantiko/s	person
 *)atlantiko/s	place
@@ -716,7 +713,6 @@
 *ai)sw/peios	person
 *ai)twliko/s	person
 *au)/gour	group
-*au)/goustos	person
 *au)/sic	person
 *au)fi/dios	person
 *au)ge/as	person
@@ -893,7 +889,6 @@
 *fonth/ios	person
 *fou/rnios	person
 *fqi=os	person
-*fqiw/ths	person
 *fraa/ths	person
 *frea/rrios	group
 *frea/rrios	person
@@ -1118,7 +1113,6 @@
 *leu/koullos	person
 *leu=kos	person
 *leu=ktros	person
-*leui/ths	person
 *leuka/tas	person
 *leukani/s	person
 *leukonoeu/s	person

@@ -497,6 +497,7 @@
 
 :le:a(/gios
 :aj:a(gi os_h_on
+:aj:a)gi os_h_on late
 
 :le:a(gistei/a
 :no:a(gistei h_hs stem_acc fem
@@ -666,6 +667,8 @@
 
 :le:a(gno/s
 :aj:a(gn os_h_on suff_acc
+:aj:a)gn os_h_on aeolic
+#lesbian really but not a recognized term
 
 :le:a)/gnos
 :no:a)gn os_ou masc attic
@@ -6285,6 +6288,8 @@
 :le:a)nampla/khtos
 :aj:a)n-amplakht os_on a_priv
 :aj:a)n-aplakht os_on a_priv
+:aj:a)pla/kht os_on 
+#gloss
 
 :le:a)namfi/bolos
 :aj:a)n-amfibol os_on a_priv
@@ -6364,6 +6369,7 @@
 
 :le:a)na/phros
 :aj:a)na-phr os_on
+:aj:a)na-peir os_on late
 
 :le:a)na/pleos
 :aj:a)na-ple os_h_on
@@ -6864,6 +6870,7 @@
 
 :le:a)nekto/s
 :aj:a)n-ekt os_on suff_acc
+:aj:a)n-ekt os_h_on suff_acc late
 
 :le:a)ne/legktos
 :aj:a)n-elegkt os_on a_priv
@@ -7149,6 +7156,7 @@
 :le:a)nhleh/s
 :aj:a)n-hle hs_es suff_acc a_priv
 :aj:a)n-hleht os_on *aesch. a_priv
+:aj:a)nhl hs_es suff_acc sg poetic
 
 :le:a)nh/lios
 :aj:a)n-a_li os_on  doric a_priv
@@ -7175,6 +7183,7 @@
 
 :le:a)nh/nutos
 :aj:a)n-hnu^t os_on a_priv
+:aj:a)n-anu^t os_on a_priv doric
 
 :le:a)nh/nwr
 :no:a)n-hn wr_oros stem_acc   masc a_priv
@@ -7379,6 +7388,8 @@
 :aj:a)nia_r os_h_on suff_acc
 :aj:a)nihr hs_es suff_acc comp
 :aj:a)nihr os_h_on suff_acc epic ionic
+:aj:a)niarwter os_h_on irreg_comp late
+:aj:a)niarwtat os_h_on irreg_superl late
 
 :le:a)nidrwti/
 :wd:a)n-i_drwti/ adverb a_priv
@@ -7457,6 +7468,8 @@
 
 :le:a)noikti/rmwn
 :aj:a)n-oiktirm wn_on stem_acc a_priv
+:aj:a)n-oikteir os_on a_priv late
+#RomMel; got verb parse
 
 :le:a)noi/ktistos
 :aj:a)n-oiktist os_on a_priv
@@ -7801,6 +7814,7 @@
 
 :le:a)nti/lhyis
 :no:a)ntilhy is_ews fem
+:no:a)ntila_y is_ews fem doric
 
 :le:a)ntilogi/a
 :no:a)nti-logi h_hs stem_acc fem
@@ -9187,6 +9201,9 @@
 
 :le:a)/poqen
 :wd:a)/poqen adverb
+
+:le:a)poqnh/|skw
+:aj:a)poqamen os_h_on late stem_acc
 
 :le:a)poqerapei/a
 :no:a)po-qerapei h_hs stem_acc fem
@@ -10794,6 +10811,7 @@
 
 :le:a)rrabw/n
 :no:a)rra^bw n_nos stem_acc   masc
+:no:a)r)r(abw n_nos stem_acc masc
 
 :le:a)/rratos
 :aj:a)-rrat os_on
@@ -12155,6 +12173,7 @@
 
 :le:a)tiqa/seutos
 :aj:a)-ti^qaseut os_on
+:aj:a)-ti^qasseut os_on
 
 :le:a)timage/lhs
 :no:a)ti_m-a^gel hs_ou stem_acc   masc
@@ -13570,6 +13589,8 @@
 :le:a)/xri
 :wd:a)/xri adverb
 :wd:a)/xris adverb  epic
+:wd:para/xris adverb
+#archil
 
 :le:a)xrw/matos
 :aj:a)-xrwmat os_on
@@ -15026,6 +15047,8 @@
 
 :le:bou/balis
 :no:bouba^l is_ews fem
+:no:boubal is_idos fem suff_acc
+#accent varies
 
 :le:bou/botos
 :aj:bou-bot os_on
@@ -15561,12 +15584,15 @@
 
 :le:bu/qios
 :aj:buqi os_h_on
+:aj:buqin os_h_on late
 
 :le:buqi=tis
 :no:bu^qi_t is_idos stem_acc  	fem
 
 :le:buqo/s
 :no:bu^q os_ou suff_acc masc
+:wd:buqoi= adverb
+:no:buq os_ou late
 
 :le:bu/kths
 :no:bukt hs_ou stem_acc   masc

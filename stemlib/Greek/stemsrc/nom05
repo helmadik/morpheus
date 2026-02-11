@@ -1897,6 +1897,7 @@
 :le:pa/rauta
 :wd:pa/rauta^	adverb
 :wd:parauta/	adverb
+:wd:parautw=n    adverb
 
 :le:parauti/ka
 :wd:par-auti/ka^	adverb
@@ -8193,6 +8194,8 @@
 
 :le:pro/quron
 :no:pro-qu^r os_ou neut
+:no:pro-qu^r os_ou neut suff_acc late
+#Chrys
 
 :le:proi/kios
 :aj:proiki os_on
@@ -11786,9 +11789,12 @@
 
 :le:shsamo/eis
 :aj:shsa^m oeis_oessa suff_acc
+:no:shsa^m oeis_oentos masc contr
 
 :le:sh/samon
 :no:shsa^m os_ou neut
+:no:sasam os_ou neut 
+:no:saa(m os_ou neut
 
 :le:shsamo/turon
 :no:shsa^mo-tu_r os_ou neut

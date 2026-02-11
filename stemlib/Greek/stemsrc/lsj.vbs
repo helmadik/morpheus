@@ -922,6 +922,9 @@
 :de:a)napari azw
 #no aug. 
 
+:le:a)napela/sas
+:vb:a)napela/sas aor1 aor act part masc nom sg
+
 :le:a)naphle/w
 :de:a)naphl ew_denom
 #no aug. 
@@ -961,6 +964,9 @@
 :le:a)natrixofue/w
 :de:a)natrixofu ew_denom
 #no aug
+
+:le:a)nafoiba/sas
+:vb:a)nafoiba/sas aor1 aor act part masc nom sg
 
 :le:a)naxelu/ssomai
 :de:a)naxelu ss mp
@@ -1123,6 +1129,11 @@
 #:le:a)ntapore/w
 #:de:a)ntapor ew_denom
 #
+:le:a)nte/so
+:vb:a)/nteso aor2 2nd sg aor imper mid 
+:vb:a)nte/so aor2 2nd sg aor imper mid
+#gloss; compound cleanup
+
 :le:a)ntigoni/zw
 :de:a)ntigon izw
 #no augm
@@ -1142,6 +1153,10 @@
 :le:a)ntiplhkti/zw
 :de:a)ntiplhkt izw
 #no augm
+
+:le:a)ntiproswpe/w
+:de:a)ntiproswp ew_denom
+#pples only
 
 :le:a)ntisumposia/zw
 :de:a)ntisumposi azw
@@ -2534,7 +2549,7 @@ moved bc ana- only shows up in tmesis
 :de:b uzw
 
 :le:buqa/w
-:de:buq aw_denom
+:vs:buq aw_denom
 
 :le:bullo/w
 :de:bull ow_denom
@@ -3866,6 +3881,8 @@ moved bc ana- only shows up in tmesis
 
 :le:ei(lhqere/w
 :de:ei(lhqer ew_denom
+:de:e(lhqer ew_denom
+:de:ei)lhqer ew_denom
 
 :le:ei)likrine/w
 :de:ei)likrin ew_denom
@@ -4116,8 +4133,8 @@ moved bc ana- only shows up in tmesis
 :le:e)lefanto/w
 :de:e)lefant ow_denom
 
-:le:e(lhqere/w
-:de:e(lhqer ew_denom
+#:le:e(lhqere/w
+#:de:e(lhqer ew_denom
 
 :le:e(likografe/w
 :de:e(likograf ew_denom
@@ -4373,6 +4390,10 @@ check if this works for entelew
 :le:e)nufi/zw
 :de:e)nuf izw
 :vs:e)nufizhs aor1
+
+:le:e)cagkuro/w
+:de:e)cagkur ow_denom
+#gloss, no simplex
 
 :le:e(cagwni/zw
 :de:e(cagwn izw
@@ -7381,8 +7402,14 @@ check if this works for entelew
 :le:kleyipote/w
 :de:kleyipot ew_denom
 
+:le:klhrodote/w
+:de:klhrodot ew_denom
+
 :le:klhrouxarxe/w
 :de:klhrouxarx ew_denom
+
+:le:klimakthri/zw
+:de:klimakthr izw
 
 :le:klinokosme/w
 :de:klinokosm ew_denom
@@ -7575,6 +7602,9 @@ check if this works for entelew
 
 :le:konbentarxe/w
 :de:konbentarx ew_denom
+
+:le:konduli/zw
+:de:kondul izw
 
 :le:konia/zw
 :de:koni azw
@@ -7793,6 +7823,7 @@ check if this works for entelew
 
 :le:kreofage/w
 :de:kreofag ew_denom
+:de:krehfag ew_denom
 
 #:le:krhmna/w
 #:de:krhmn aw_denom
@@ -9017,6 +9048,10 @@ check if this works for entelew
 :le:metaxeu/omai
 :de:metax euw mp
 #ugh no augm sep entry LSJ
+
+:le:metaye/fw
+:vs:metayef w_stem
+#gloss only 
 
 :le:metewre/w
 :de:metewr ew_denom
@@ -11962,6 +11997,9 @@ merge with w)le
 :le:ptwxi/zw
 :de:ptwx izw
 
+:le:ptwxotrofe/w
+:de:ptwxotrof ew_denom
+
 :le:puqai/zw
 :de:puqa izw
 
@@ -14618,6 +14656,10 @@ merge with w)le
 
 :le:faesfore/w
 :de:faesfor ew_denom
+
+:le:fa/zw
+:vb:fa/zw w_stem 1st sg pres ind act 
+#grammarians
 
 :le:fainoproswpe/w
 :de:fainoproswp ew_denom
