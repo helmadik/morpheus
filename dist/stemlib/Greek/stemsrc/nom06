@@ -3738,9 +3738,11 @@
 :no:sfra_g is_iCdos fem  		suff_acc
 :no:sfrhg is_iCdos fem  ionic 		suff_acc
 :no:sfra_g is_idos fem suff_acc late
+:no:sfrhg is_idos fem suff_acc late
 
 :le:sfra/gisma
 :no:sfragis ma_matos neut
+:no:sfrhgis ma_matos neut
 
 :le:sfugmo/s
 :no:sfugm os_ou suff_acc masc

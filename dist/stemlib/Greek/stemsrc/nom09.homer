@@ -142,7 +142,8 @@
 :no:*gorguqiw n_nos masc pers_name sg
 
 :le:*go/rtus
-:no:*gortu s_nos masc geog_name sg
+:no:*gortu s_nos masc pers_name sg
+:no:*gort us_uos masc pers_name sg late
 
 :le:*grai=a
 :no:*grai a_hs fem sg

@@ -1440,6 +1440,10 @@
 :de:a)pofqalmi ow_denom mp
 #see DGE
 
+:le:a)poxlwriai/nw
+:de:a)poxlwri ainw
+;pr
+
 :le:a)prage/w
 :de:a)prag ew_denom
 
@@ -2101,6 +2105,10 @@
 
 :le:a)froure/w
 :de:a)frour ew_denom
+
+:le:a)fu/w
+:vs:a)fu w_stem
+#other tenses should go to a)fussw
 
 :le:a)fwne/w
 :de:a)fwn ew_denom
@@ -4890,7 +4898,7 @@ check if this works for entelew
 :de:e)r euw
 
 :le:e)re/w
-:de:e)r ew_denom
+:vs:e)r ew_pr
 
 :le:e)rhmopole/w
 :de:e)rhmopol ew_denom
@@ -7344,9 +7352,6 @@ check if this works for entelew
 
 :le:kittabi/zw
 :de:kittab izw
-
-:le:kitta/w
-:de:kitt aw_denom
 
 :le:kixlidia/w
 :de:kixlid iaw_denom
@@ -13585,9 +13590,6 @@ merge with w)le
 :le:sfodru/nw
 :de:sfodr unw
 
-:le:sfrhgi/zw
-:de:sfrhg izw
-
 :le:sfugmologe/w
 :de:sfugmolog ew_denom
 
@@ -15278,8 +15280,8 @@ merge with w)le
 :le:fwtagwge/w
 :de:fwtagwg ew_denom
 
-:le:xa/zomai
-:de:x azw mp
+#:le:xa/zomai
+#:de:x azw mp
 
 :le:xalazia/w
 :de:xalaz iaw_denom
@@ -15943,9 +15945,6 @@ merge with w)le
 
 :le:w)liggia/w
 :de:w)ligg iaw_denom
-
-:le:w)mi/zomai
-:de:w)m izw mp
 
 :le:w)mokudia/w
 :de:w)mokud iaw_denom

@@ -2619,15 +2619,19 @@
 :de:a)^rai ow_denom
 
 :le:a)ra/omai
-:de:a)r a_stem mp
-;pr aw_pr
-;pr ew_pr ionic epic
-;fu,-a_s
-;fu,-hs ionic epic
-;ao
-;ao,-hs
+#:de:a)r aw_denom
+#;pr mp
+#;pr ew_pr mp ionic epic
+:de:a)r a_stem
+#
+;pr mp
+;fu,-a_s mid
+;fu,-hs mid ionic epic
+;ao mid
+;ao,-hs mid
+;ap comp_only
 ;pp comp_only
-:vs:a)rh ath_primary end:menai pres inf act epic
+:vb:a)rh/menai ath_primary pres inf act epic
 
 :le:a)rari/skw
 :de:a)ra^r iskw attic_redupl
@@ -2672,13 +2676,12 @@ moving to r(a/ssw
 
 :le:a)ra/w
 #:vs:a)rh ath_primary end:menai pres inf act epic
-
-:le:a)ra/w2
-:de:a)r aw_denom perf epic ionic
-;pp,-h part epic
-;ao,-hs
-:de:a)r aw_denom fut doric
-;fu,-a_s
+#:le:a)ra/w2
+#:de:a)r aw_denom perf epic ionic
+#;pp,-h part epic
+#;ao,-hs
+:de:a)r aw_denom fut ind doric
+#;fu,-a_s
 
 :le:a)rge/w
 :de:a)rg ew_denom
@@ -2859,9 +2862,14 @@ moving to r(a/ssw
 @ end:o/wsi 3rd pl pres ind act uncontr epic
 ;pr,-o,ath_primary
 ;fu,-os
+;fu,-oss
 ;ao,-os
+;ao,-oss
+;fu,-ws late
+;ao,-ws late
 ;ap,-oq
 :vb:a)ro/w|s ow_pr o_stem 2nd sg pres subj act epic
+:vb:a)rw/menai ath_primary pres inf act epic
 
 :le:a(rpa/zw
 :de:a(rp azw
@@ -4498,6 +4506,7 @@ moving to r(a/ssw
 ;pr
 ;fu
 ;ao
+;ap
 :de:brux reg_conj
 
 :le:bru/llw
@@ -8282,6 +8291,11 @@ moving to r(a/ssw
 ;ao epic unaugmented
 ;ap
 ;pp late
+:vs:h)reik perf_act
+:vs:e)rhreik perf_act attic_redupl
+:vs:e)rhreid perf_act attic_redupl late
+:vs:e)rhrei perfp_vow
+:vs:e)rhreis fut_perf 3rd sg
 
 :le:e)rei/kw
 :de:e)reik reg_conj
@@ -8301,6 +8315,7 @@ moving to r(a/ssw
 -:vs:h)reifq aor_pass
 :vs:e)ri^p aor2_pass
 :vs:e)rhri perfp_p attic_redupl
+:vs:e)rhrei perfp_p attic_redupl
 :vs:e)reri perfp_p plup ind 3rd sg epic unaugmented
 :de:e)reip reg_conj
 ;pr
@@ -8323,11 +8338,13 @@ moving to r(a/ssw
 :de:e)ret reg_conj
 ;ao
 ;ao,-ss epic
-:de:e)re ss
-;pr
-@ end:e/menai epic inf
-@ epic imperf unaugmented
-;pr,-tt
+#:de:e)re ss
+#;pr
+#@ end:e/menai epic inf
+#@ epic imperf unaugmented
+#;pr,-tt
+:vs:e)ress w_stem
+:vs:e)rett w_stem attic
 
 :le:e)resxhle/w
 :de:e)resxhl ew_denom
@@ -8461,6 +8478,7 @@ moving to r(a/ssw
 @ pres inf
 @ 1st sg
 :vs:e)eir w_stem epic pres part mp
+:vb:e)rh/somen reg_fut fut ind act 1st pl late
 
 :le:e(rpu/zw
 :de:e(rp uzw
@@ -9500,8 +9518,9 @@ moving to r(a/ssw
 :le:zwropote/w
 :de:zwropot ew_denom
 
-:le:zw/w
+:le:zw=
 :vs:zw w_stem
+#zw/w hereby merged with zhw.
 
 :le:zw|o/w
 :de:zw| ow_denom
@@ -12123,7 +12142,7 @@ moving to r(a/ssw
 @ imperf iterative ionic unaugmented
 @ imperf iterative ionic unaugmented mp 3rd sg
 :vs:ka_d w_stem doric
-:vs:kekadhs fut_perf mp
+:vs:kekadhs reg_fut mid
 :vs:kekhd perf_act
 :de:khd e_stem
 ;fu,-hs
@@ -12291,7 +12310,7 @@ moving to r(a/ssw
 
 :le:kissa/w
 :de:kiss aw_denom
-:de:kiss aw_denom attic
+:de:kitt aw_denom attic
 
 :le:kissofore/w
 :de:kissofor ew_denom
@@ -12299,6 +12318,7 @@ moving to r(a/ssw
 
 :le:kisso/w
 :de:kiss ow_denom
+:de:kitt ow_denom attic
 
 :le:kixa/nw
 :de:x a_stem pres_redupl
@@ -13907,6 +13927,7 @@ moving to r(a/ssw
 ;fu
 ;fu mid
 ;ao
+;ap
 ;va,hs_es
 
 :le:lanqa/nw
@@ -16717,6 +16738,7 @@ moving to r(a/ssw
 #apparently perfpass pple won't work w/o perfp_p which makes no sense
 :vs:e)chra perfp_vow part late
 #catching some late single m- participles. 
+:vs:e)chrak perf_act
 
 :le:chraloife/w
 :de:chr-a^loif ew_denom
@@ -17267,6 +17289,8 @@ moving to r(a/ssw
 ;fu
 ;ao,-hs
 ;pf
+:vb:o)lisqh=nai aor_pass aor pass inf late
+:vb:o)lisqw= aor_pass aor pass subj 1st sg late
 :de:o)lisq ainw
 ;pr
 
@@ -22873,11 +22897,11 @@ moving to r(a/ssw
 ;pr
 ;fu ew_fut
 ;ao
-:de:sfrhg izw ionic
+:de:sfrhg izw
 ;pr
 ;fu
 ;ao
-
+;ao,-iss poetic
 
 :le:sfriga/w
 :de:sfri^g aw_denom
@@ -25803,7 +25827,7 @@ s 3rd sg
 :le:fwti/zw
 :de:fwt izw
 
-:le:xa/zw
+:le:xa/zomai
 :de:xaz reg_conj
 ;pr
 @ mid end:eto imperf
@@ -25816,6 +25840,9 @@ s 3rd sg
 ;ao,-ss part mid epic
 :vs:kexad aor2 epic
 :vs:kekad aor2 epic
+:vs:kekadhs reg_fut act
+:vs:xasq aor_pass late
+:vs:kexa perfp_s
 
 :le:xairekake/w
 :de:xairekak ew_denom
@@ -26925,8 +26952,8 @@ s 3rd sg
 :le:w)mia/zw
 :de:w)mi azw comp_only
 
-:le:w)mi/zw
-:de:w)m izw comp_only
+:le:w)mi/zomai
+:de:w)m izw
 
 :le:w)moqete/w
 :de:w)mo-qet ew_denom

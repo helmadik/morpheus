@@ -5484,8 +5484,9 @@
 :no:*)amfiara_ os_ou  masc
 :no:*)amfiarh os_ou  masc
 :no:*)amfiare ws_w masc attic
-:no:*)amfiar eus_ews masc doric suff_acc
-:no:*)amfiar eus_ews masc doric stem_acc
+:no:*)amfiar hs_eos masc sg doric
+:no:*)amfiar eus_ews masc doric suff_acc sg
+:no:*)amfiar eus_ews masc doric stem_acc sg
 
 :le:a)mfi/asma
 :no:a)mfias ma_matos neut
@@ -10002,8 +10003,10 @@
 :le:a)/pustos
 :aj:a)-pust os_on
 
-:le:a)pfu/s
+:le:a)pfu=s
 :no:a)pf us_uos masc suff_acc
+:wd:a)pfu=s us_uos masc nom sg 
+:wd:a)pfu=n us_uos masc nom sg
 
 :le:a)pw|do/s
 :aj:a)p-w|d os_on suff_acc
@@ -10718,6 +10721,8 @@
 
 :le:a)/rosis
 :no:a)ros is_ews fem
+:no:a)rws is_ews late
+#pap only
 
 :le:a)roth/r
 :no:a)roth r_ros stem_acc   masc
@@ -10752,6 +10757,7 @@
 
 :le:a)rourai=os
 :aj:a)rourai_ os_h_on stem_acc
+:aj:a)rwrai_ os_h_on stem_acc doric
 
 :le:a)rourei/ths
 :no:a)roureit hs_ou masc	stem_acc
@@ -13366,7 +13372,8 @@
 
 :le:a)fu/h
 :no:a)fu h_hs stem_acc fem
-
+:wd:a)fu/wn h_hs gen pl fem
+ 
 :le:a)fuh/s
 :aj:a)-fu hs_es suff_acc
 

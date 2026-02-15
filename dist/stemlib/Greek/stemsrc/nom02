@@ -6231,9 +6231,11 @@
 :le:e)nargh/s
 :aj:e)n-arg hs_es suff_acc
 
-:le:*)enare/es
-:wd:*)enare/es irreg_decl3 nom pl	masc
-:wd:*)enari/es irreg_decl3 nom pl	masc
+:le:*)ena/rees
+:no:*)enar hs_es ionic	masc pl
+:no:*)enar hs_es ionic  masc pl suff_acc 
+:no:*)enar is_ews ionic masc pl
+:no:*)anari eus_ews masc pl suff_acc
 
 :le:e)narhfo/ros
 :aj:e)na^rh-for os_on stem_acc
