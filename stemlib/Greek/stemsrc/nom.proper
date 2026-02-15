@@ -1221,6 +1221,11 @@
 :le:*)emmeli/a
 :no:*)emmeli h_hs fem pers_name
 
+:le:*)/emmwros
+:no:*)emmwr os_ou masc pers_name
+:wd:*)emmw/r indecl_noun masc sg pers_name
+:wd:*)emw/r indecl_noun masc sg pers_name
+
 :le:*makri/na
 :no:*makrin h_hs fem pers_name
 
@@ -1948,6 +1953,9 @@
 
 :le:*)ana/bous
 :no:*)anab oos_oou masc pers_name
+
+:le:*)ana/rion
+:no:*)anari os_ou neut geog_name
 
 :le:*kora/tios
 :no:*korati os_h_on
@@ -4583,6 +4591,9 @@ aj:*koropai os_h_on stem_acc is_ethnic
 
 :le:*)apollo/dwros
 :no:*)apollodwr os_ou masc  
+
+:le:*)apo/motos
+:no:*)apomot os_ou masc
 
 :le:*)apo/xay
 :wd:*)apo/xay indecl_noun masc sg
@@ -8208,6 +8219,9 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*)/araros
 :no:*)arar os_ou masc  
 
+:le:*)ara/qhs
+:no:*)araq hs_ou masc stem_acc
+
 :le:*)ara/chs
 :no:*)arac hs_eos masc  
 
@@ -9197,17 +9211,27 @@ le:*bouli/s
 :le:*)elefanti/nh
 :no:*)elefantin h_hs fem  
 
-:le:*)ellopi/eus
-:no:*)ellopi eus_ews masc  
+:le:*)ellopi/a
+:no:*)ellopi h_hs fem stem_acc
 
-:le:*)ello/pios
-:aj:*)ellopi os_h_on   
+:le:*)ellopi/dhs
+:no:*)ellopid hs_ou masc stem_acc
+
+:le:*)ellopieu/s
+:no:*)ellopi eus_ews masc suff_acc  
+
+:le:*)ello/pion
+:no:*)ellopi os_ou neut geog_name
+
+:le:*)ellopi/wn
+:no:*)ellopiw n_nos masc pers_name
 
 :le:*)/elwros
 :no:*)elwr os_ou masc  
 
-:le:*)enare/as
-:no:*)enare hs_eos masc  
+:le:*)ena/rea
+:no:*)enare a_hs fem pers_name  
+#Sx Pind
 
 :le:*)ennea/krounos
 :no:*)enneakroun os_ou masc  
@@ -11865,11 +11889,20 @@ le:*bouli/s
 :le:*go/ggulos
 :no:*goggul os_ou masc  
 
-:le:*gortuni/h
+:le:*gortuni/a
 :no:*gortuni h_hs fem  
+
+:le:*gortunia/ths
+:no:*gortunia_t hs_ou masc stem_acc
 
 :le:*gortu/nios
 :aj:*gortuni os_h_on   
+
+:le:*gortuniko/s
+:aj:*gortunik os_h_on suff_acc
+
+:le:*gortuni/s
+:no:*gortun is_idos fem suff_acc
 
 :le:*grai+ko/s
 :aj:*grai+k os_h_on suff_acc  
@@ -13706,8 +13739,22 @@ le:*bouli/s
 :le:*)/apoikos
 :no:*)apoik os_ou masc  
 
+:le:*)apolla=s
+:no:*)apoll aCs_a
+:no:*)apell aCs_a
+:no:*)apoll as_a masc stem_acc late
+
 :le:*)apollwnia=tis
 :no:*)apollwnia_t is_idos fem stem_acc  
+
+:le:*)apfi/a
+:no:*)apfi h_hs stem_acc fem
+
+:le:*)apfiano/s
+:no:*)apfian os_ou masc suff_acc
+
+:le:*)apfu/
+:wd:*)apfu/ indecl_noun masc sg pers_name
 
 :le:*)apw/nios
 :no:*)apwni os_ou masc
@@ -13716,9 +13763,6 @@ le:*bouli/s
 :le:*)/appios
 :no:*)appi os_ou masc
 #Roman family names plural issue
-
-:le:*)apte/raios
-:aj:*)apterai os_h_on   
 
 :le:*)/aray
 :aj:*)ara y_bos masc fem
@@ -15828,8 +15872,10 @@ le:*bouli/s
 :le:*gorgi/as
 :no:*gorgi hs_ou masc stem_acc 
 
-:le:*go/rtuna
-:no:*gortun a_hs fem  
+:le:*go/rtun
+:no:*gortu n_nos fem geog_name
+:no:*gortun a_hs fem 
+:no:*gortun h_hs fem stem_acc
 
 :le:*graniano/s
 :no:*granian os_ou masc suff_acc 
@@ -19036,8 +19082,10 @@ le:*bouli/s
 :le:*)/ancwr
 :no:*)anc wr_oros masc  
 
-:le:*)apollw/
-:no:*)apoll w_oos fem suff_acc 
+:le:*)apollw=s 
+:no:*)apoll wCs_w masc suff_acc     
+:wd:*)apollw/n indecl_noun masc sg
+:wd:*)apollw/ indecl_noun masc sg
 
 :le:*)ayeu/dhs
 :no:*)ayeud hs_eos masc  

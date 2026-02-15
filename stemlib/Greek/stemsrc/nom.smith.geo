@@ -1192,7 +1192,11 @@ stemacc:*(ursaki/na
 :no:*)apoul os_ou neut
 
 :le:*)/aptera
-:no:*)apter a_hs fem
+:no:*)apter os_ou neut pl
+#following DGE, inspired by Plin
+
+:le:*)apte/ra
+:no:*)apter h_hs fem stem_acc
 
 :le:*)/aqlibis
 :no:*)aqlib is_idos fem
@@ -2566,6 +2570,9 @@ stemacc:*)anqa/na
 :le:*)antika/sion
 :no:*)antikasi os_ou neut
 
+:le:*)antiki/nwlis
+:no:*)antikinwl is_idos fem
+
 :le:*)anti/kirra
 :no:*)antikirr a_hs fem
 
@@ -2688,10 +2695,25 @@ stemacc:*)anqa/na
 :no:*)appi a_hs stem_acc fem
 
 :le:*)apterai=os
-:no:*)apterai_ os_ou masc
+:no:*)apterai_ os_h_on stem_acc
 
 :le:*)apteri/a
 :no:*)apteri a_hs stem_acc fem
+
+:le:*)/apfa
+:no:*)apf a_hs fem geog_name
+#gender unclear
+
+:le:*)apfada/na
+:no:*)apfadan h_hs fem geog_name stem_acc
+#gender unclear
+
+:le:*)apfa/na
+:no:*)apfan h_hs fem geog_name stem_acc
+#gender unclear
+
+:le:*)/apfar
+:no:*)apfar indecl_noun neut sg geog_name
 
 :le:*)aqa/rrabis
 :no:*)aqarrab is_idos fem
