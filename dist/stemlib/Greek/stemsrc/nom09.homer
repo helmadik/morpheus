@@ -86,6 +86,7 @@
 
 :le:*)ari/sbh
 :no:*)arisb h_hs fem geog_name sg
+:no:*)arisb a_hs fem geog_name sg late
 :wd:*)ari/sbhqen adverb
 
 :le:*)arka/s
@@ -121,7 +122,6 @@
 
 :le:*gai=a
 :no:*gai a_hs fem sg
-:no:*g eh_ehs fem sg
 
 :le:*gaih/ios
 :no:*gaihi+ os_h_on patron sg
@@ -131,9 +131,6 @@
 
 :le:*glafu/rai
 :no:*glafur h_hs fem stem_acc pl geog_name 
-
-:le:*glisa=s
-:no:*glis heis_hessa suff_acc masc geog_name sg
 
 :le:*gono/essa
 :no:*gonoess a_hs fem sg
@@ -211,6 +208,9 @@
 
 :le:*(/ektwr
 :no:*(ekt wr_oros masc sg
+:no:*)ekt wr_oros masc sg aeolic
+
+:le:*(ekto/reos
 :no:*(ektore os_h_on sg
 
 :le:*)elew/n
@@ -241,7 +241,10 @@
 :no:*)epei os_h_on suff_acc is_ethnic
 
 :le:*)epi/dauros
-:no:*)epidaur os_ou masc geog_name sg
+:no:*)epidaur os_ou fem geog_name sg
+
+:le:*)epi/dauros2
+:no:*)epidaur os_ou masc pers_name sg
 
 :le:*)/iqakos
 :no:*)iqak os_ou masc sg
@@ -445,9 +448,12 @@
 
 :le:*korw/neia
 :no:*korwnei a_hs fem sg
+:no:*korwnh a_hs fem sg aeolic
 
 :le:*kourh=tes
-:no:*kourh s_tos fem stem_acc is_group
+:no:*kourh s_tos masc stem_acc is_group
+:no:*kwrei s_tos masc is_group boeotian
+:no:*kwrh s_tos masc stem_acc is_group doric
 
 :le:*garou/nas
 :no:*garoun as_a masc geog_name
@@ -703,12 +709,14 @@
 
 :le:*pela/gwn
 :no:*pelag wn_ontos masc sg
+:no:*pelagw n_nos masc sg
 
 :le:*pellh/nh
 :no:*pellhn h_hs fem geog_name sg
 
 :le:*perih/rhs
 :no:*perihr hs_eos masc sg
+:wd:*peri/hrs r_ros masc nom sg doric poetic
 
 :le:*petew/n
 :no:*petew n_nos masc stem_acc sg

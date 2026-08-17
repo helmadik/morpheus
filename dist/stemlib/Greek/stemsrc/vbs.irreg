@@ -10,6 +10,7 @@
 :vb:e)nti irreg_mi pres ind act sg  3rd   doric enclitic
 :vb:e)smen irreg_mi pres ind act pl enclitic 1st 
 :vb:ei)men irreg_mi pres ind act pl enclitic 1st 
+:vb:ei)=men irreg_mi pres ind act pl enclitic 1st doric
 :vb:e)imen irreg_mi pres ind act pl enclitic 1st ionic
 :vb:e)imes irreg_mi pres ind act pl enclitic 1st doric
 :vb:e)ste irreg_mi pres ind act pl enclitic 2nd
@@ -17,10 +18,10 @@
 :vb:ei)si irreg_mi pres ind act pl enclitic 3rd
 :vb:e)a_si irreg_mi pres ind act pl enclitic 3rd epic
 :vb:e)nti irreg_mi pres ind act pl enclitic 3rd doric
-:vb:i)/sqi irreg_mi pres imperat 2nd sg  act
+:vb:i)sqi irreg_mi pres imperat 2nd sg  act
 :vb:e)/sso irreg_mi pres imperat 2nd sg  mid epic
 :vb:e)/stw irreg_mi pres imperat 3rd sg  act 
-:vb:e)/ste irreg_mi pres imperat 2nd pl  act 
+:vb:e)ste irreg_mi pres imperat 2nd pl  act 
 :vb:h)/tw irreg_mi pres imperat 3rd sg  act late ntest
 :vb:e)/stwsan irreg_mi pres imperat 3rd pl  act 
 :vb:e)/ston irreg_mi pres ind 2nd dual  act
@@ -30,9 +31,12 @@
 :vb:o)/ntwn irreg_mi pres imperat 3rd pl  act attic
 :vb:ei)=nai irreg_mi pres inf act 
 :vb:ei)/menai irreg_mi pres inf act doric
-:vb:ei)men irreg_mi pres inf act doric enclitic
+:vb:ei)men irreg_mi pres inf act doric
+:vb:ei)=men irreg_mi pres inf act doric 
 :vb:e)men irreg_mi pres inf act poetic enclitic
 :vb:eu)=nta irreg_mi pres part act  neut pl nom voc acc doric
+:vb:h)/men irreg_mi pres inf act doric
+:vb:h)=men irreg_mi pres inf act doric late
 :vb:h)=n irreg_mi imperf ind act sg 1st 
 :vb:h)= irreg_mi imperf ind act sg 1st attic
 :vb:h)=a irreg_mi imperf ind act sg 1st epic ionic
@@ -78,6 +82,7 @@
 :vb:h)=|   irreg_mi pres subj act 3rd sg contr
 :vb:h)=|sin   irreg_mi pres subj act 3rd sg epic contr nu_movable
 :vb:h)=|si   irreg_mi pres subj act 3rd sg epic contr
+:vb:h)=|n   irreg_mi pres subj act 3rd sg epic contr late nu_movable
 :vb:e)/h|sin   irreg_mi pres subj act 3rd sg epic nu_movable
 :vb:e)/h|si   irreg_mi pres subj act 3rd sg epic
 :vb:h)=sin   irreg_mi pres subj act 3rd sg epic contr nu_movable
@@ -130,6 +135,7 @@
 :vb:e)/menai   irreg_mi pres inf act epic
 :vb:e)/mmen   irreg_mi pres inf act epic
 :vb:e)/mmenai   irreg_mi pres inf act epic
+:vs:e) w_stem pres act part aeolic
 :vb:w)/n   irreg_mi pres part act masc nom sg
 :vb:i)w/n   irreg_mi pres part act masc nom sg doric
 :vb:e)w/n   irreg_mi pres part act masc nom sg epic doric ionic
@@ -471,12 +477,14 @@
 :vb:h)=|men   irreg_mi imperf ind act 1st pl
 :vb:h)=|mes   irreg_mi imperf ind act 1st pl doric
 :vb:h)/|omen   irreg_mi imperf ind act 1st pl epic
-:vb:h)/|eimen   irreg_mi imperf ind act 1st pl
+:vb:h)/|eimen   irreg_mi imperf ind act 1st pl late
 :vb:h)=|te   irreg_mi imperf ind act 2nd pl
+:vb:h)/|eite   irreg_mi imperf ind act 2nd pl late
 :vb:h)=|san   irreg_mi imperf ind act 3rd pl
 :vb:h)/|esan   irreg_mi imperf ind act 3rd pl
-:vb:h)=i+n   irreg_mi imperf ind act 3rd pl epic
-:vb:i)n   irreg_mi imperf ind act 3rd pl epic
+:vb:h)/|eisan   irreg_mi imperf ind act 3rd pl late
+#:vb:h)=i+n   irreg_mi imperf ind act 3rd pl epic
+#:vb:i)n   irreg_mi imperf ind act 3rd pl epic
 :vb:h)/i+san   irreg_mi imperf ind act 3rd pl epic ionic
 :vb:i)san   irreg_mi imperf ind act 3rd pl epic ionic
 :vb:h)/i+on   irreg_mi imperf ind act 3rd pl epic ionic
@@ -505,6 +513,7 @@
 :vs:h(k aor1 aor ind  sg attic
 :vs:h(k aor1 aor ind  pl late
 :vs:h(k aor1 aor mid  
+:vb:h(=kes aor2 aor ind act 2nd sg late needs_acc comp_only
 :vs:e(hk aor1 aor ind  epic has_augment
 :vs:i(hs aor1 aor ind  aor1 late 3rd sg aor ind act
 :vs:ei(k perf_act
@@ -522,7 +531,7 @@
 :vb:i(/hmi   irreg_mi pres ind act 1st sg
 :vb:i(/hs   irreg_mi pres ind act 2nd sg
 :vb:i(_ei=s   irreg_mi pres ind act 2nd sg
-:vb:i(/hsqa   irreg_mi pres ind act 2nd sg epic
+:vb:i(/hsqa   irreg_mi pres ind act 2nd sg epic aeolic
 :vb:i(/hsin   irreg_mi pres ind act 3rd sg nu_movable
 :vb:i(/hsi   irreg_mi pres ind act 3rd sg
 :vb:i(ei=   irreg_mi pres ind act 3rd sg
@@ -535,6 +544,7 @@
 :vb:i(a=si   irreg_mi pres ind act 3rd pl
 :vb:i(/asin   irreg_mi pres ind act 3rd pl nu_movable late
 :vb:i(/asi   irreg_mi pres ind act 3rd pl late
+:vb:i)/eisi   irreg_mi pres ind act 3rd pl aeolic
 :vb:i(nti/   irreg_mi pres ind act 3rd pl doric
 :vb:i(w=   irreg_mi pres subj act 1st sg suff_acc
 :vb:i(/w   irreg_mi pres subj act 1st sg suff_acc
@@ -889,6 +899,7 @@
 :vb:e(te   ath_secondary aor imperat act 2nd pl
 :vb:e(/ntwn   ath_secondary aor imperat act 3rd pl
 :vb:ei(/s   irreg_mi aor part act masc nom/voc sg
+:vb:ei(s   irreg_mi aor part act masc nom/voc sg aeolic
 :vb:ei(=sa   irreg_mi aor part act fem nom/voc sg
 :vb:e(/n   irreg_mi aor part act neut nom/voc/acc sg
 :vb:e(/ntos   irreg_mi aor part act masc/neut gen sg
@@ -905,6 +916,7 @@
 :vb:e(/ntoii+n   irreg_mi aor part act masc/neut gen/dat dual epic
 :vb:ei(/sain   irreg_mi aor part act fem gen/dat dual
 :vb:e(/ntes   irreg_mi aor part act masc nom/voc pl
+:vb:e(ntes   irreg_mi aor part act masc nom/voc pl aeolic
 :vb:ei(=sai   irreg_mi aor part act fem nom/voc pl
 :vb:e(/nta   irreg_mi aor part act neut nom/voc/acc pl
 :vb:e(/ntwn   irreg_mi aor part act masc/neut gen pl
@@ -1039,12 +1051,17 @@
 :vb:i(e/skete   ath_primary imperf ind act 2nd pl epic ionic iterative unaugmented
 :vb:i(/eskon   ath_primary imperf ind act 3rd pl epic ionic iterative unaugmented
 
+:le:suni/hmi
+:vb:su/neis irreg_mi aor act part masc nom voc sg aeolic 
+:vb:su/nentes irreg_mi aor act part masc nom voc pl aeolic
+
 :le:fhmi/
 :vb:fh|s ath_primary pres ind act sg  2nd sg no_circumflex
+:vb:fh/is ath_primary pres ind act sg  2nd sg no_circumflex
 :vb:fa_|s ath_primary pres ind act sg  2nd sg no_circumflex
 :vb:fhs ath_primary pres ind act sg 2nd sg enclitic
 :vb:fanti ath_primary pres ind act   3rd pl doric enclitic
-:vb:fh/h| ath_primary subj act ath_primary pres subj act 3rd sg epic
+:vb:fh/h| ath_primary pres subj act 3rd sg epic
 :vb:fa/nai ath_primary pres inf  act
 :vb:fa/sqai ath_primary pres inf    mid epic
 :vs:f   ami_pr opt act
@@ -1072,30 +1089,33 @@
 :vs:fa^ ath_primary imperf ind act  dual
 :vs:fa^ ath_primary imperf ind act pl
 :vs:faq aor_pass 
-:vb:fw=   ath_primary subj act 1st sg
-:vb:fw=mi   ath_primary subj act 1st sg epic
-:vb:fh=|s   ath_primary subj act 2nd sg
-:vb:ph=sqa   ath_primary subj act 2nd sg epic dissimilation
-:vb:fh=|sqa   ath_primary subj act 2nd sg epic
-:vb:fh=|   ath_primary subj act 3rd sg
-:vb:fh=|sin   ath_primary subj act 3rd sg epic nu_movable
-:vb:fh=|si   ath_primary subj act 3rd sg epic
-:vb:fh=sin   ath_primary subj act 3rd sg epic nu_movable
-:vb:fh=si   ath_primary subj act 3rd sg epic
-:vb:fw/meqon   ath_primary subj act 1st dual epic
-:vb:fh=ton   ath_primary subj act 2nd dual
-:vb:fh=ton   ath_primary subj act 3rd dual
-:vb:fw=men   ath_primary subj act 1st pl
-:vb:fw=mes   ath_primary subj act 1st pl doric
-:vb:fh=te   ath_primary subj act 2nd pl
-:vb:ph=sqe   ath_primary subj act 2nd pl epic dissimilation
-:vb:fw=sin   ath_primary subj act 3rd pl nu_movable
-:vb:fw=si   ath_primary subj act 3rd pl
-:vb:fw=nti   ath_primary subj act 3rd pl doric
+:vb:fw=   ath_primary pres subj act 1st sg
+:vb:fw=mi   ath_primary pres subj act 1st sg epic
+:vb:fh=|s   ath_primary pres subj act 2nd sg
+:vb:fh=is   ath_primary pres subj act 2nd sg
+:vb:ph=sqa   ath_primary pres subj act 2nd sg epic dissimilation
+:vb:fh=|sqa   ath_primary pres subj act 2nd sg epic
+:vb:fh=|   ath_primary pres subj act 3rd sg
+:vb:fh=|sin   ath_primary pres subj act 3rd sg epic nu_movable
+:vb:fh=|si   ath_primary pres subj act 3rd sg epic
+:vb:fh=sin   ath_primary pres subj act 3rd sg epic nu_movable
+:vb:fh=si   ath_primary pres subj act 3rd sg epic
+:vb:fw/meqon   ath_primary pres subj act 1st dual epic
+:vb:fh=ton   ath_primary pres subj act 2nd dual
+:vb:fh=ton   ath_primary pres subj act 3rd dual
+:vb:fw=men   ath_primary pres subj act 1st pl
+:vb:fw=mes   ath_primary pres subj act 1st pl doric
+:vb:fh=te   ath_primary pres subj act 2nd pl
+:vb:ph=sqe   ath_primary pres subj act 2nd pl epic dissimilation
+:vb:fw=sin   ath_primary pres subj act 3rd pl nu_movable
+:vb:fw=si   ath_primary pres subj act 3rd pl
+:vb:fw=nti   ath_primary pres subj act 3rd pl doric
 :vb:fhmi   ath_primary pres ind act 1st sg enclitic
 :vb:fa_mi   ath_primary pres ind act 1st sg doric enclitic
+:vb:faimi   ath_primary pres ind act 1st sg aeolic enclitic
 :vb:fhsin   ath_primary pres ind act 3rd sg enclitic nu_movable
 :vb:fhsi   ath_primary pres ind act 3rd sg enclitic
+:vb:faisi   ath_primary pres ind act 3rd sg enclitic aeolic
 :vb:fhti   ath_primary pres ind act 3rd sg doric enclitic
 :vb:fa_sin   ath_primary pres ind act 3rd sg doric enclitic nu_movable
 :vb:fa_si   ath_primary pres ind act 3rd sg doric enclitic
@@ -1174,6 +1194,10 @@
 :vb:fa/mesqa   ath_secondary aor ind mid 1st pl epic poetic
 :vb:pasqe   ath_secondary aor ind mid 2nd pl epic dissimilation
 :vb:fanto   ath_secondary aor ind mid 3rd pl epic
+:vb:fai=si ath_primary pres ind act 3rd sg aeolic
+:vb:fai=si ath_primary pres ind act 3rd pl aeolic
+:vb:fai=sqa ath_primary pres ind act 2nd sg aeolic
+:vb:fai=mi ath_primary pres ind act 1st sg aeolic
 
 :le:h(=mai
 :vb:ei(/a^tai ath_primary pres ind mid  3rd pl  epic
@@ -1191,6 +1215,7 @@
 :vb:h(sai   ath_primary pres ind mid 2nd sg
 :vb:h(stai   ath_primary pres ind mid 3rd sg
 :vb:h(tai   ath_primary pres ind mid 3rd sg
+:vb:h(=tai   ath_primary pres subj mid 3rd sg needs_acc
 :vb:h(sqon   ath_primary pres ind mid 2nd dual
 :vb:h(sqon   ath_primary pres ind mid 3rd dual
 :vb:h(/meqa   ath_primary pres ind mid 1st pl
@@ -1292,19 +1317,16 @@
 :vb:h)/|deisan perf_act plup ind act pl 3rd late
 :vb:i)san perf_act plup ind act pl 3rd  epic
 :vb:i)stwsan perf_act plup ind act pl 3rd  
-:vb:i)/sa_mi   irreg_mi pres ind act 1st sg
-:vb:i)/sa_s   irreg_mi pres ind act 2nd sg
+:vb:i)/sa_mi   irreg_mi pres ind act 1st sg doric
+:vb:i)/sa_s   irreg_mi pres ind act 2nd sg doric
 :vb:i)/sa_sqa   irreg_mi pres ind act 2nd sg epic
-:vb:i)/sa_sin   irreg_mi pres ind act 3rd sg nu_movable
-:vb:i)/sa_si   irreg_mi pres ind act 3rd sg
 :vb:i)/sa_ti   irreg_mi pres ind act 3rd sg doric
 :vb:i)/samen   irreg_mi pres ind act 1st pl doric
 :vb:i)/sate   irreg_mi pres ind act 2nd pl doric
-:vb:i)/sa_sin   irreg_mi pres ind act 3rd pl doric contr nu_movable
-:vb:i)/sa_si   irreg_mi pres ind act 3rd pl doric contr
 :vb:i)/santi   irreg_mi pres ind act 3rd pl doric
 :vb:oi)da   ath_primary perf ind act 1st sg
 :vb:o)/i_da   ath_primary perf ind act 1st sg aeolic
+:vb:voi=da   ath_primary perf ind act 1st sg aeolic
 :vb:oi)sqas   ath_primary perf ind act 2nd sg attic rare
 :vb:oi)sqa   ath_primary perf ind act 2nd sg
 :vb:oi)das   ath_primary perf ind act 2nd sg epic ionic

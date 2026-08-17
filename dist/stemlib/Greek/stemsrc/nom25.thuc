@@ -187,11 +187,6 @@
 :le:*cenofanti/das
 :no:*cenofantid hs_ou masc doric aeolic pers_name
 
-#noanalysis:*dai+ma/xou
-
-:le:*dai/+maxos
-:no:*dai+max os_ou masc pers_name
-
 :le:*damo/timos
 :no:*damotim os_ou masc pers_name
 
@@ -287,9 +282,6 @@ stemacc:*pusti/los
 
 :le:*qouklh=s
 :no:*qou klehs_kleous masc suff_acc suff_acc pers_name
-
-:le:*qra/sulos
-:no:*qrasul os_ou masc pers_name
 
 :le:*qrasukle/hs
 :no:*qrasukle hs_ou masc pers_name
@@ -447,6 +439,11 @@ stemacc:*pusti/los
 
 :le:*qri=a
 :wd:*qriw=ze adverb
+:wd:*qriw=qen adverb
+:wd:*qriw=si adverb
+:wd:*qria=si adverb
+:wd:*qria=qen adverb
+:wd:*qri/asi adverb late
 
 :le:*qusso/s
 :no:*quss os_ou fem suff_acc
