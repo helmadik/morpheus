@@ -80,6 +80,7 @@ Morph_args arg_morphflags[] = {
 	"uncontracted",	UNCONTR_END,	new_morphflags,
 	"uncontr_stem",		UNCONTR_STEM,	new_morphflags,
 	"pers_name",	PERS_NAME,	new_morphflags,
+	"is_group",	GROUP_NAME,	new_morphflags,
 	"prevb_aug",	PREVB_AUGMENT,	new_morphflags,
 	"prevb_augment",	PREVB_AUGMENT,	new_morphflags,
 	"double_aug",	DOUBLE_AUGMENT,	new_morphflags,
@@ -105,7 +106,9 @@ Morph_args arg_morphflags[] = {
 	"root_preverb",		ROOT_PREVERB,			new_morphflags,
 	"diminutive", 		DIMINUTIVE,				new_morphflags,
 	"early", 			EARLY,					new_morphflags,
-	"late", 			LATE,					new_morphflags,
+	"mediev", 			MEDIEV,					new_morphflags,
+	"medieval", 			MEDIEV,					new_morphflags,
+	"late",		LATE,	new_morphflags,
 	"rare", 			RARE,					new_morphflags,
 	"raw_preverb", 		RAW_PREVERB,			new_morphflags,
 	"short_subj", 		SHORT_SUBJ,				new_morphflags,
@@ -138,10 +141,11 @@ Morph_args arg_morphflags[] = {
 	"desiderative",			DESIDERATIVE,					new_morphflags,
 	"impers",			IMPERSONAL,					new_morphflags,
 	"later",			LATER,					new_morphflags,
+	"medieval",			MEDIEV,		new_morphflags,
 	"double_redupl",			DOUBLE_REDUPL,					new_morphflags,
 	"pres_redupl",			PRES_REDUPL,					new_morphflags,
 	"ends_in_dig",			ENDS_IN_DIGAMMA,					new_morphflags,
-	"ends_in_digamma",			ENDS_IN_DIGAMMA,					new_morphflags,
+	"ends_in_digamma",		ENDS_IN_DIGAMMA,					new_morphflags,
 	"geog_name",			GEOG_NAME,					new_morphflags,
 	"doubled_cons",			DOUBLED_CONS,					new_morphflags,
 	"iota_intens",			IOTA_INTENS,					new_morphflags,
@@ -149,9 +153,10 @@ Morph_args arg_morphflags[] = {
 	"short_eis",			SHORT_EIS,					new_morphflags,
 	"pros_to_poti",			PROS_TO_POTI,		new_morphflags,
 	"pros_to_proti",			PROS_TO_PROTI,		new_morphflags,
-	"meta_to_peda",			META_TO_PEDA,		new_morphflags,
+	"meta_to_peda",			META_TO_PEDA,			new_morphflags,
+	"apo_to_apu",			APO_TO_APU,		new_morphflags,
 	"upo_to_upai",			UPO_TO_UPAI,		new_morphflags,
-	"para_to_parai",		PARA_TO_PARAI,		new_morphflags,
+	"para_to_parai",			PARA_TO_PARAI,		new_morphflags,
 	"uper_to_upeir",		UPER_TO_UPEIR,		new_morphflags,
 	"en_to_eni",			EN_TO_ENI,		new_morphflags,
 	"a_priv",			A_PRIV,		new_morphflags,
@@ -196,7 +201,7 @@ Morph_args arg_case[] = {
 	"acc",		ACCUSATIVE,		new_case,
 	"accusative",	ACCUSATIVE,		new_case,
 	"voc",		VOCATIVE,		new_case,
-	"voctive",	VOCATIVE,		new_case,
+	"vocative",	VOCATIVE,		new_case,
 	0,
 };
 
@@ -281,7 +286,9 @@ Morph_args arg_dialect[] = {
 	"doric",		DORIC,		new_dialect,
 	"ionic",		IONIC,		new_dialect,
 	"aeolic",		AEOLIC,		new_dialect,
-	"parad_form",	PARADIGM,	new_dialect,
+	"laconian",		LACONIAN,		new_dialect,
+	"lesbian",		LESBIAN,		new_dialect,
+	"parad_form",		PARADIGM,		new_dialect,
 	"all_dial",		ALL_DIAL,		new_dialect,
 /*	"need_not_aug",		HOMERIC,		new_dialect,*/
 	"ionic/homeric",	IONIC|HOMERIC,		new_dialect,
@@ -298,7 +305,6 @@ Morph_args arg_dialect[] = {
 */
 	"prose",		PROSE,		new_dialect,
 /*
-	"laconian",		LACONIAN,		new_dialect,
 */
 	0,
 };
