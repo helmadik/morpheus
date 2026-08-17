@@ -109,8 +109,16 @@ stemacc:*)androni/kos
 :le:*)anti/pas
 :no:*)antip hs_ou masc doric aeolic pers_name
 
+:le:*)antwni/na
+:no:*)antwnin a_hs stem_acc fem
+:no:*)antwni_n a_hs stem_acc fem
+
 :le:*)antwni=nos
 :no:*)antwni_n os_ou masc stem_acc pers_name
+:no:*)antwnein os_ou masc stem_acc pers_name
+
+:le:*)antwniano/s
+:no:*)antwnian os_h_on suff_acc
 
 :le:*)aqw=os
 :no:*)aqw os_ou masc pers_name
@@ -181,7 +189,7 @@ stemacc:*)androni/kos
 :le:*)iou=stos
 :no:*)iou_st os_ou masc pers_name
 
-:le:*)iqw/matas
+:le:*)iqwma/tas
 :no:*)iqwmat hs_ou masc doric aeolic pers_name
 
 :le:*)isaa/kios
@@ -313,7 +321,7 @@ stemacc:*ai)gobo/los
 :no:*dam is_idos fem pers_name
 
 :le:*da/puc
-:no:*dapu c_kos masc ant_acc pers_name
+:no:*dapu c_gos masc  pers_name
 
 :le:*dafnai=os
 :no:*dafnai_ os_ou masc pers_name stem_acc
@@ -324,20 +332,8 @@ stemacc:*ai)gobo/los
 :le:*damw/
 :no:*dam ws_wos fem suff_acc suff_acc pers_name
 
-:le:*demh/trios
-:no:*demhtri os_ou masc pers_name
-
-:le:*demw/
-:no:*dem ws_wos fem suff_acc suff_acc pers_name
-
-:le:*dendri=ths
-:no:*dendri_t hs_ou masc pers_name
-
-:le:*dhm/aratos
-:no:*dhmarat os_ou masc pers_name
-
-:le:*dhm/htrios
-:no:*dhmhtri os_ou masc pers_name
+:le:*dendri/ths
+:no:*dendri_t hs_ou masc stem_acc
 
 :le:*dhmo/nikos
 :no:*dhmonik os_ou masc pers_name
@@ -347,9 +343,6 @@ stemacc:*ai)gobo/los
 
 :le:*diome/dwn
 :no:*diomed wn_ontos masc pers_name
-
-:le:*dio/mos
-:no:*diom os_ou masc pers_name
 
 :le:*dio/skorios
 :no:*dioskori os_ou masc pers_name
