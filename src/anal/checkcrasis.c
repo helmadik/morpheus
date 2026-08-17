@@ -29,14 +29,15 @@ typedef struct {
  	"ta/",	"ta/",	NEUTER,	ACCUSATIVE, PLURAL,			0,
  	"ta/",	"ta/",	0,		0, 			0,				0,
  	"to/",	"to/",	0,		0, 			0,				0,
-/*
+	"w)=",	"w)=", 	MASCULINE|FEMININE|NEUTER, VOCATIVE, SINGULAR|PLURAL
+	/*
  	"e)gw/", "e)gw/", 0,	0,			0,				0,
 */
  	
 /*
  	"tou=",	"o(",	NEUTER|MASCULINE,	GENITIVE, SINGULAR,	0,
  	"th=|",	"h(",	FEMININE,		DATIVE, SINGULAR,	0,
- 	"tou=",	"o(",	NEUTER|MASCULINE,	DATIVE, SINGULAR,	0,
+ 	"tw=|",	"o(",	NEUTER|MASCULINE,	DATIVE, SINGULAR,	0,
 */
  };
 
@@ -50,147 +51,213 @@ typedef struct {
  
  poss_crasis PossCras[] = {
 
-"*)=w",		"*)/a",	"w)=", (Dialect)0,		/* *)=wpollon << w)= *)/apollon */
-"*)=w",		"*)e",	"w)=", (Dialect)0,		/* *)wkba/atana << w)= *)ekba/tana */
-"ka)",		"*)a",	"kai/", (Dialect)0,		/* k)axerousi/ous << kai\ *)axerousi/ous */
-"a(=",		"a)/",	"o(", (Dialect)0,		/* a(=ndres << oi( a)/ndres */
-"a(",		"a)",	"o(", (Dialect)0,		/* a(nh/r << o( a)nh/r */
-"a(",		"e)",	"a(/", (Dialect)0,		/*  */
-"ei(",		"ei)",	"a(/", (Dialect)0,		/* ei(=don << a(\ ei)=don */
-"au(",		"au)",	"o(", (Dialect)0,		/* au(to/s << o( au)to/s */
-"dau)",		"au)",	"de/", (Dialect)0,		/* dau)=te << de\ au)=te */
+"*)=w",	"*)/a",	"w)=",	(Dialect)0,		/* *)=wpollon << w)= *)/apollon */
+"*)=w",	"*)e",	"w)=",	(Dialect)0,		 
+"*)w",	"*)a",	"w)=",	(Dialect)0,	/* *)wkba/atana << w)= *)ekba/tana */
+"*)w",	"*)a",	"w)=",	(Dialect)0,	/* *)wkba/atana << w)= *)ekba/tana */
+"ka)",	"*)a",	"kai/",	(Dialect)0,	/* k)axerousi/ous << kai\ *)axerousi/ous */
+"*(=w",	"a)/",	"oi(",	(Dialect)0,	/* *)wkba/atana << w)= *)ekba/tana */
+"*)/w",	"a)/",	"w)=",	(Dialect)0,	/* *)wkba/atana << w)= *)ekba/tana */
+"*(/w",	"a)/",	"o(",	(Dialect)0,	/* *)wkba/atana << w)= *)ekba/tana */
+"*(a",	"*)a",	"o(",	(Dialect)0,	/* *(apo/llwn << o( *)apo/llwn */
+"*(a",	"e)",	"a(/",	(Dialect)0,	/* *(apo/llwn << o( *)apo/llwn */
+"*proufa",	"proefa",	"",	(Dialect)0,	/* prou/legon << proe/legon */
+"*proufu",	"proefu",	"",	(Dialect)0,	/* prou/legon << proe/legon */
+"*prou)",	"proe",	"",	(Dialect)0,	/* prou)/legon << proe/legon */
+"*prou)",	"prou",	"",	(Dialect)0,	/* prou)/legon << proe/legon */
+"*prou)",	"proo",	"",	(Dialect)0,	/* prou)/legon << proe/legon */
+"*prou",	"proe",	"",	(Dialect)0,	/* prou/legon << proe/legon */
+"*prou",	"proe",	"",	(Dialect)0,	/* prou/legon << proe/legon */
+"*prou",	"proo",	"",	(Dialect)0,	/* proufeilome/nh << proofeilome/nh */
+"*prwu",	"proau",	"",	(Dialect)0,	/* prwuda=n << pro\ au)da=n */
+"ka)/|",	"e)/",	"kai/",	(Dialect)0,	/* ka)|sxrw=n << kai\ ai)sxrw=n  */
+"ka)/",	"a)/",	"kai/",	(Dialect)0,	/* ka)/pollon << kai\ *)/apollon  */		
+"ka)/",	"*)/a",	"kai/",	(Dialect)0,	/* ka)/pollon << kai\ *)/apollon  */
+"ka)=|",	"ei)=",	"kai/",	(Dialect)0,		/* ka)=|ta << kai\ ei)=ta  */
+"ka)=",	"a)/",	"kai/",	(Dialect)0,		/* ka)=llos << kai\ a)/llos  */
+"ka)|",	"ai)",	"kai/",	(Dialect)0,		/* ka)|sxrw=n << kai\ ai)sxrw=n  */
+"ka)|",	"a)",	"kai/",	(Dialect)0,	/* ka)|sxrw=n << kai\ ai)sxrw=n galen */
+"ka)|",	"e)", 	"kai/",	(Dialect)0,	/* ka)|pi/ << kai\ e)pi/ galen  */
+"ka)",	"*)a",	"kai/",	(Dialect)0,	/* k)axerousi/ous << kai\ *)axerousi/ous */
+"ka)",	"e)",	"kai/",	(Dialect)0,	/* ka)kei=non << kai\ e)kei=non */
+"ka)",	"a)",	"kai/",	(Dialect)0,	/* ka)gaqo/s << kai\ a)gaqo/s */
+"a(=",	"a)/",	"o(",	(Dialect)0,		/* a(=ndres << oi( a)/ndres */
+"a(",	"a)",	"o(",	(Dialect)0,		/* a(nh/r << o( a)nh/r */
+"a(",	"e)",	"a(/",	(Dialect)0,		/*  */
+"a)/i",	"a)/|",	"a(/",	(Dialect)0,	/*hall of shame  */
+"a/i",	"a/|",	"a(/",	(Dialect)0,	/*hall of shame  */
+"ei(",	"ei)",	"a(/",	(Dialect)0,		/* ei(=don << a(\ ei)=don */
+"au(",	"au)",	"o(",	(Dialect)0,		/* au(to/s << o( au)to/s */
+"dau)",	"au)",	"dh/",	(Dialect)0,		/* dau)=te << dh\ au)=te */
+"dhu)",	"au)",	"dh/",	(Dialect)0,	/* dau)=te << dh\ au)=te */
+"dh)",	"e)",	"dh/",	(Dialect)0,		/* dh)/peita << dh\ e)/peita */
+"da)",	"a)",	"dh/",	(Dialect)0,		/* da)/n << dh\ a)/n */
+"hu(",	"eu)",	"h(",	(Dialect)0,		/* hu(la/beia << h( eu)la/beia */
+"hu(",	"au)",	"h(",	(Dialect)0,		/* hu(lhtri/s << h( eu)lhtri/s */
+"qat",	"e(t",	"tou=",	(Dialect)0,		/* qate/rou << tou= e(te/rou */
+"qa)/",	"e(/",	"to/",	(Dialect)0,		/* qa(/teron << to\ e(/teron */
+"qoi)",	"i(",	"to/",	(Dialect)0,		/* qoi)ma/tion << to\ i(ma/tion */
+"qai)",	"i(",	"ta/",	(Dialect)0,		/* qai)ma/tia << ta\ i(ma/tia */
+"qou)",	"u(",	"to/",	(Dialect)0,		/* qou(/dwr << to\ u(/dwr */
+"qou(",	"e(",	"to/",	(Dialect)0,		/* qou(/rmaion << to\ e(/rmaion */
+"qou)",	"e(",	"to/",	(Dialect)0,		/* qou)/rmaion << to\ e(/rmaion */
+"qh)",	"h(",	"th=|",	(Dialect)0,		/* qh(me/ra| << th=| h(mera| */
+"qh)",	"h(",	"tou=",	(Dialect)0,		/* qh(mete/rou << tou= h(mete/rou */
+"qh)",	"h(",	"to/",	(Dialect)0,		/* qh(mete/rou << to\ h(rw=|on */
+"qa)",	"e(",	"th=|",	(Dialect)0,		/* qa(te/ra| << th=| e(te/ra| */
+"qa)",	"a(",	"ta/",	(Dialect)0,		/* qa(ma/rtia << ta\ a(ma/rtia */
+"qa)",	"e(",	"tou=",	(Dialect)0,		/* qa(te/rou << tou= e(te/rou */
+"qa/t",	"e(/t",	"to/",	(Dialect)0,		/* qa/teron << to\ e(/teron */
+"kai/tou)",	"ou)",	"kai/toi",	(Dialect)0,	/* kei) << kai\ ei)  */
+"kai/tou)",	"e)",	"kai/toi",	(Dialect)0,	/* kei) << kai\ ei)  */
+"kai)",	"ai)",	"kai/",	(Dialect)(DORIC|EPIC),		/* kai) << kai\ ai)  */
+"kei)",	"ei)",	"kai/",	(Dialect)0,		/* kei) << kai\ ei)  */
+"kei)",	"ei)",	"kai/",	(Dialect)0,		/* kei) << kai\ ei)  */
+"keu)",	"eu)",	"kai/",	(Dialect)0,		/* keu)qu/s << kai\ eu)qu/s  */
+"ta)|",	"ai)",	"ta/",	(Dialect)0,		/* ta)|sxrw=n << ta\ ai)sxrw=n  */
+"katta",	"ta",	"kata/",	(Dialect)DORIC,		/* katta/ << kata\ ta\ */
+"kadd",	"d",	"kata/",	(Dialect)EPIC,		/* kaddu/namin << kata\ du/namin */
+"kwu)",	"ou)",	"kai/",	(Dialect)(AEOLIC),	/* kw)uk << kai\ ou)k */
+"kw)",	"o)",	"kai/",	(Dialect)0,		/* kw)dunwme/nh << kai\ o)dunwme/nh */
+"kw)",	"w)",	"kai/",	(Dialect)0,		/* kw)=ze << kai\ w)=ze */
+"kou)",	"ou)",	"kai/",	(Dialect)0,		/* kou)/ << kai\ ou) */
+"kau)",	"au)",	"kai/",	(Dialect)0,		/* kau)=qis << kai\ au)=qis */
+"khu)",	"hu)",	"kai/",	(Dialect)0,		/* khu)/xonto << kai\ hu)/xonto */
+"khu)",	"eu)",	"kai/",	(Dialect)0,		/* khu)/tukton << kai\ eu)/tukton */
+"moi)",	"oi)",	"mou",	(Dialect)0,		/* moi)/xetai << mou oi)/xetai */
+"ma)",	"a)",	"mh/",	(Dialect)0,		/* ma)dikei=n << mh\ a)dikei=n */
+"mh)/",	"e)",	"mh/",	(Dialect)0,		/* mh)/sti << mh/ e)sti */
+"mou)",	"e)",	"mou",	(Dialect)0,		/* mou)/sti << mou e)sti */
+"ou(",	"e)",	"o(/",	(Dialect)0,		/* ou(/cerw= << o(\ e)cerw= */
+"ou(",	"o)",	"o(",	(Dialect)0,		/* ou(/fis << o( o)/fis */
+"ou(",	"e(",	"o(",	(Dialect)0,		/* ou(/teros << o( e(/teros */
+"ou(",	"u(",	"o(",	(Dialect)0,		/* ou(po/qeis << o( u(po/qeis */
+"qw)/",	"o(/",	"ta/",	(Dialect)0,		/* qw)/pl' << ta\ o(/pl' */
+"pottw/s",	"tw/s",	"poti/",	(Dialect)DORIC,		/* pottw/s << poti\ tw/s */
+"ta)/|",	"ai)/",	"to/",	(Dialect)0,		/* ta)/|tion << to\ ai)/tion */
+"tai)",	"ai)",	"ta/",	(Dialect)0,		/* ta)|sxrw=n << ta\ ai)sxrw=n  */
+"ta)i",	"ai)",	"ta/",	(Dialect)0,	/* ta)|sxrw=n << ta\ ai)sxrw=n  */
+"ta)=",	"a)/",	"ta/",	(Dialect)0,		/* ta)=lla << ta\ a)/lla */
+"ta)=",	"e)/",	"ta/",	(Dialect)0,		/* ta)=lla << ta\ a)/lla */
+"ta)",	"a)",	"ta/",	(Dialect)0,		/* ta)/lla << ta\ a)/lla */
+"ta)",	"a)",	"tou=",	(Dialect)0,		/* ta)ndro/s << tou= a)ndro/s */
+"ta)",	"a)",	"to/",	(Dialect)0,		/* ta)gaqo/n << to\ a)gaqo/n */
+"ta)/",	"*)/a",	"to/",	(Dialect)0,		/* ta)rgos << to\ *)/argos */
+"ta)",	"e)",	"ta/",	(Dialect)0,		/* ta)kei= << ta\ e)kei= */
+"th)",	"a)",	"th=|",	(Dialect)0,	/* th)straph=| << th=| a)straph=| */
+"th)",	"e)",	"th=|",	(Dialect)0,		/* th)mh=| << th=| e)mh=| */
+"tau)",	"au)",	"tou=",	(Dialect)0,		/* tau)toma/tou << tou= au)toma/tou */
+"tau)",	"au)",	"to/",	(Dialect)0,		/* tau)to/n << to\ au)to/n */
+"tau)",	"au)",	"to/",	(Dialect)0,		/* tau)ta/ << ta\ au)ta/ */
+"tu/xa)gaqh=|",	"a)gaqh=|",	"tu/xh|",	(Dialect)0,		/* tu/xa)gaqh=| << tu/xh| a)gaqh=| */
+"tu/xa)gaqh|",	"a)gaqh=|",	"tu/xh|",	(Dialect)0,		/* tu/xa)gaqh=| << tu/xh| a)gaqh=| */
+"tw)=",	"o)/",	"toi/",	(Dialect)AEOLIC,	/* tw)=ndres << toi\ a)/ndres */
+"tw)=",	"e)/",	"to/",	(Dialect)AEOLIC,	/* tw)=ndres << toi\ a)/ndres */
+"tw)=",	"a)/",	"to/",	(Dialect)DORIC,	/* tw)=ndres << toi\ a)/ndres */
+"tw)u",	"au)",	"ta/",	(Dialect)IONIC,		/* twu)ta/  << ta/ au)ta/ */
+"tw)u",	"au)",	"to/",	(Dialect)IONIC,		/* twu)to/  << to/ au)to/ */
+"tw)u",	"au)",	"tou=",	(Dialect)IONIC,		/* twu)tou=  << tou= au)tou= */
+"tw)|",	"oi)",	"tw=|",	(Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
+"tw)|",	"w)|",	"tw=|",	(Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
+"tw)",	"*)a",	"tou=",	(Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
+"tw)",	"a)",	"tou=",	(Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
+"tw)",	"a)",	"tou=",	(Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
+"tw)",	"w)",	"to/",	(Dialect)0,	/* tw)|dei=on << to\ w)|dei=on */
+"tw)",	"h(",	"to/",	(Dialect)0,	/* tw)/misu << to\ h(/misu */
+"tw)",	"o)",	"tw=|",	(Dialect)0,	/* tw)nei/rati << tw=| o)nei/rati */
+"tw)",	"e)",	"tw=|",	(Dialect)0,		/* tou)mw=| << tw=| e)mw=| */
+"tw)",	"a)",	"to/",	(Dialect)IONIC,		/* tw)/galma  << to\ a)/galma */
+"tw)",	"a)",	"toi/",	(Dialect)DORIC,		/* tw)/dres  << toi\ a)/ndres */
+"sou)",	"o(",	"sou",	(Dialect)0,	/* sou)ri/zei << sou o(ri/zei */
+"sou)",	"e(",	"sou",	(Dialect)0,	/* sou)/neka << sou e(/neka */
+"sou)",	"e)",	"sou",	(Dialect)0,	/* sou)/sti << sou e)/sti */
+"tou)=",	"e)/",	"tou=",	(Dialect)0,		/* tou)=rgon << tou= e)/rgou */
+"tou)=",	"o)/",	"to/",	(Dialect)0,		/* tou)=yon << to\ o)/yon */
+"tou)",	"o)",	"to/",	(Dialect)0,	/* tou)/noma << to\ o)/noma */
+"tou)",	"e)",	"to/",	(Dialect)0,		/* tou)nanti/on << to\ e)nanti/on */
+"tou)",	"e)",	"to/",	(Dialect)0,		/* tou)/mpalin << to\ e)/mpalin */
+"tou)",	"e)",	"tou=",	(Dialect)0,		/* tou)mou= << tou= e)mou= */
+"tou)",	"ou)",	"tou=",	(Dialect)0,		/* tou)ranou= << tou= ou)ranou= */
+"tou)",	"e(",	"to/",	(Dialect)0,		/* tou)/teron << to\ e(/teron */
+"twu)",	"au)",	"ta/",	(Dialect)IONIC,		/* twu)to/  << ta/ au)ta/ */
+"twu)",	"au)",	"to/",	(Dialect)IONIC,		/* twu)to/  << to/ au)to/ */
+"twu)",	"au)",	"tou=",	(Dialect)IONIC,		/* twu)tou=  << tou= au)tou= */
+"ou(",	"e)",	"o(",	(Dialect)0,		/* ou(mo/s << o( e)mo/s */
+"proufa",	"proefa",	"",	(Dialect)0,	/* prou/legon << proe/legon */
+"proufu",	"proefu",	"",	(Dialect)0,	/* prou/legon << proe/legon */
+"prou)m",	"o)m",	"pro/",	(Dialect)0,	/* prou)/legon << proe/legon */
+"prou)=",	"proe)/",	"",	(Dialect)0,	/* prou)=xon << proe/xon */
+"prou)/",	"proe)/",	"",	(Dialect)0,	/* prou)/xonta << proe/xonta */
+"prou)",	"proe",	"",	(Dialect)0,	/* prou)/legon << proe/legon */
+"prou)",	"prou",	"",	(Dialect)0,	/* prou)/legon << proe/legon */
+"prou)",	"proo",	"",	(Dialect)0,	/* prou)/legon << proe/legon */
+"prou/",	"proe/",	"",	(Dialect)0,	/* prou)/xonta << proe/xonta */
+"prou/",	"proe)/",	"",	(Dialect)0,	/* prou)/xonta << proe/xonta */
+"prou",	"proe",	"",	(Dialect)0,	/* prou/legon << proe/legon */
+"prou",	"proe",	"",	(Dialect)0,		/* prou/legon << proe/legon */
+"prou",	"proo",	"",	(Dialect)0,		/* proufeilome/nh << proofeilome/nh */
+"sumprou",	"sumproe",	"",	(Dialect)0,		/* sumprou/pempe << sumproe/pempe */
+"cumprou",	"cumproe",	"",	(Dialect)0,		/* sumprou/pempe << sumproe/pempe */
+"a)ntiprou",	"a)ntiproe",	"",	(Dialect)0,		/* a)ntiprou/teine << a)ntiproe/teine */
+"prwu",	"proau",	"",	(Dialect)0,		/* prwuda=n << pro\ au)da=n */
+"e)gw)=i",	"oi)=",	"e)gw/",	(Dialect)0,	/* e)gw)=|mai << e)gw/ + oi)=mai */
+"e)gw)=|",	"oi)=",	"e)gw/",	(Dialect)0,	/* e)gw)=|mai << e)gw/ + oi)=mai */
+"e)gw=|",	"oi)=",	"e)gw/",	(Dialect)0,	/* e)gw=|da << e)gw/ + oi)=da */
+"e)mou)",	"e)",	"e)moi", 	(Dialect)0,		/* e)mou)/sti << e)moi e)/sti */
+"kh)",	"*)e",	"kai/",	(Dialect)0,	/* kh)k  < kai/ + e)k */
+"kh)",	"e)",	"kai/",	(Dialect)0,	/* kh)leusu/nia  < kai/ + E)leusu/nia */
+"kh)",	"h)",	"kai/",	(Dialect)0,	/* kh)lei/feto  < kai/ + E)leusu/nia */
+"xh)",	"h(",	"kai/",	(Dialect)0,	/* xh)mei=s  < kai/ + h(mei=s */
+"xh(",	"h(",	"kai/",	(Dialect)0,	/* xh)mei=s  < kai/ + h(mei=s */
+"xei)",	"ei(",	"kai/",	(Dialect)DORIC,	/* xa)  < kai/ + ei( */
+"xa)",	"a(",	"kai/",	(Dialect)DORIC,	/* xa)  < kai/ + a( */
+"xa)",	"e(",	"kai/",	(Dialect)0,	/* xa)te/rwn  < kai/ + e(te/rwn */
+"xai)",	"ai(",	"kai/",	(Dialect)0,	/* xai)  < kai/ + ai( */
+"xoi)",	"oi(",	"kai/",	(Dialect)0,	/* xoi)  < kai/ + oi( */
+"xau)",	"au(",	"kai/",	(Dialect)0,	/* xau)/th  < kai/ + au(/th */
+"xou)",	"ou(",	"kai/",	(Dialect)0,	/* xou)=tos  < kai/ + ou(=tos */
+"xu)",	"u(",	"kai/",	(Dialect)0,	/* xu)mei=s  < kai/ + u(mei=s */
+"xw)",	"o(",	"kai/",	(Dialect)0,	/* xw)po/qen  < kai/ + o(po/qen */
+"xw)",	"w(",	"kai/",	(Dialect)0,	/* xw)=nper  < kai/ + w(=nper */
+"xw)",	"a)",	"kai/",	(Dialect)0,	/* kai o anhr issue */
+"xw(",	"o(",	"kai/",	(Dialect)0,	/* xw(po/qen  < kai/ + o(po/qen */
+"xw(",	"a)",	"kai/",	(Dialect)0,	/* kai o anhr issue */
+"w(n",	"a)n",	"o(",	(Dialect)0,	/* w(nh/r < o( + a)nh/r */
+"w(/n",	"a)/n",	"oi(",	(Dialect)0,	/* w(/nqrwpoi < oi( + a)/nqrwpoi */
+"w(u",	"au)",	"o(",	(Dialect)0,	/* w(uto/s < o( + au)to/s */
+"w(u",	"au)",	"oi(",	(Dialect)0,	/* w(uto/i < o( + au)to/i */
+"wu)",	"au)",	"o(",	(Dialect)0,	/* wu)to/s < o( + au)to/s */
+"w)|",	"oi)",	"w)=",	(Dialect)0,	/* w)|zu/r'  < w)= + oi)zu/r' */
+"w)=pi/",	"e)pi/",	"w)=",	(Dialect)0,	/* w)=gaqe  < w)= + a)gaqe/ */
+"w)=gaqe",	"a)gaqe/",	"w)=",	(Dialect)0,	/* w)=gaqe  < w)= + a)gaqe/ */
+"w)=",	"a)/",	"w)=",	(Dialect)0,	/* w)=nac  < w)= + a)/nac */
+"w)=",	"a)",	"w)=",	(Dialect)0,	/* w)=naide/s < w)= + o)/rniqes */
+"w)=",	"*)a",	"w)=",	(Dialect)0,	/* w)=pollon < w)= + o)/rniqes */
+"w)=",	"*)/a",	"w)=",	(Dialect)0,	/* w)=rniqes < w)= + o)/rniqes */
+"w)=",	"o)",	"w)=",	(Dialect)0,	/* w)=rniqes < w)= + o)/rniqes */
+"w)=",	"o)/",	"w)=",	(Dialect)0,	/* w)=rniqes < w)= + o)/rniqes */
+"w)=",	"e)/",	"w)=",	(Dialect)0,	/* w)=rniqes < w)= + o)/rniqes */
+"w)=",	"e)",	"w)=",	(Dialect)0,	/* w)=rniqes < w)= + o)/rniqes */
+"w)/",	"*)/a",	"w)=",	(Dialect)0,	/* w)/nassa  < w)= + a)/nassa */
+"w)/",	"a)/",	"w)=",	(Dialect)0,	/* w)/nassa  < w)= + a)/nassa */
+"w)/",	"a)/",	"o)",	(Dialect)AEOLIC,	/* w)/nhr  < w)= + a)/nassa */
+"w)",	"a)",	"w)=",	(Dialect)0,	/* w)gaqe/  < w)= + a)gaqe/ */
 
-"dh)",		"e)",	"dh/", (Dialect)0,		/* dh)/peita << dh\ e)/peita */
-"da)",		"a)",	"dh/", (Dialect)0,		/* da)/n << dh\ a)/n */
-"hu(",		"eu)",	"h(", (Dialect)0,		/* hu(la/beia << h( eu)la/beia */
-"qat",		"e(t",	"tou=", (Dialect)0,		/* qate/rou << tou= e(te/rou */
-"qa)/",		"e(/",	"to/", (Dialect)0,		/* qa(/teron << to\ e(/teron */
-"qoi)",		"i(",	"to/", (Dialect)0,		/* qoi)ma/tion << to\ i(ma/tion */
-"qai)",		"i(",	"ta/", (Dialect)0,		/* qai)ma/tia << ta\ i(ma/tia */
-"qou)",		"u(",	"to/", (Dialect)0,		/* qou(/dwr << to\ u(/dwr */
-"qou(",		"e(",	"to/", (Dialect)0,		/* qou(/rmaion << to\ e(/rmaion */
-"qou)",		"e(",	"to/", (Dialect)0,		/* qou)/rmaion << to\ e(/rmaion */
-"qh)",		"h(",	"th=|", (Dialect)0,		/* qh(me/ra| << th=| h(mera| */
-"qh)",		"h(",	"tou=", (Dialect)0,		/* qh(mete/rou << tou= h(mete/rou */
-"qh)",		"h(",	"to/", (Dialect)0,		/* qh(mete/rou << to\ h(rw=|on */
-"qa)",		"e(",	"th=|", (Dialect)0,		/* qa(te/ra| << th=| e(te/ra| */
-"qa)",		"a(",	"ta/", (Dialect)0,		/* qa(ma/rtia << ta\ a(ma/rtia */
-"qa)",		"e(",	"tou=", (Dialect)0,		/* qa(te/rou << tou= e(te/rou */
-"qa/t",		"e(/t",	"to/", (Dialect)0,		/* qa/teron << to\ e(/teron */
-"kai)",		"ai)",	"kai/", (Dialect)(DORIC|EPIC),		/* kai) << kai\ ai)  */
-"kei)",		"ei)",	"kai/", (Dialect)0,		/* kei) << kai\ ei)  */
-"kei)",		"ei)",	"kai/", (Dialect)0,		/* kei) << kai\ ei)  */
-"keu)",		"eu)",	"kai/", (Dialect)0,		/* keu)qu/s << kai\ eu)qu/s  */
-"ka)=|",	"ei)=",	"kai/", (Dialect)0,		/* ka)=|ta << kai\ ei)=ta  */
-"ka)|",		"ai)",	"kai/", (Dialect)0,		/* ka)|sxrw=n << kai\ ai)sxrw=n  */
-"ta)|",		"ai)",	"ta/", (Dialect)0,		/* ta)|sxrw=n << ta\ ai)sxrw=n  */
-"ka)=",		"a)/",	"kai/", (Dialect)0,		/* ka)=llos << kai\ a)/llos  */
-"ka)",		"a)",	"kai/", (Dialect)0,		/* ka)gaqo/s << kai\ a)gaqo/s */
-"katta",	"ta",	"kata/", (Dialect)DORIC,		/* katta/ << kata\ ta\ */
-"kadd",	"d",	"kata/", (Dialect)EPIC,		/* kaddu/namin << kata\ du/namin */
-"ka)",		"e)",	"kai/", (Dialect)0,		/* ka)kei=non << kai\ e)kei=non */
-"kw)",		"o)",	"kai/", (Dialect)0,		/* kw)dunwme/nh << kai\ o)dunwme/nh */
-"kw)",		"w)",	"kai/", (Dialect)0,		/* kw)=ze << kai\ w)=ze */
-"kou)",		"ou)",	"kai/", (Dialect)0,		/* kou)/ << kai\ ou) */
-"kau)",		"au)",	"kai/", (Dialect)0,		/* kau)=qis << kai\ au)=qis */
-"khu)",		"hu)",	"kai/", (Dialect)0,		/* khu)/xonto << kai\ hu)/xonto */
-"moi)",		"oi)",	"mou", (Dialect)0,		/* moi)/xetai << mou oi)/xetai */
-"ma)",		"a)",	"mh/", (Dialect)0,		/* ma)dikei=n << mh\ a)dikei=n */
-"mh)/",		"e)",	"mh/", (Dialect)0,		/* mh)/sti << mh/ e)sti */
-"mou)",		"e)",	"mou", (Dialect)0,		/* mou)/sti << mou e)sti */
-"ou(",		"e)",	"o(/", (Dialect)0,		/* ou(/cerw= << o(\ e)cerw= */
-"ou(",		"o)",	"o(", (Dialect)0,		/* ou(/fis << o( o)/fis */
-"ou(",		"e(",	"o(", (Dialect)0,		/* ou(/teros << o( e(/teros */
-"ou(",		"u(",	"o(", (Dialect)0,		/* ou(po/qeis << o( u(po/qeis */
-"qw)/",		"o(/",	"ta/", (Dialect)0,		/* qw)/pl' << ta\ o(/pl' */
-"pottw/s",	"tw/s",	"poti/", (Dialect)DORIC,		/* pottw/s << poti\ tw/s */
-"ta)/|",		"ai)/",	"to/", (Dialect)0,		/* ta)/|tion << to\ ai)/tion */
-"ta)=",		"a)/",	"ta/", (Dialect)0,		/* ta)=lla << ta\ a)/lla */
-"ta)",		"a)",	"ta/", (Dialect)0,		/* ta)/lla << ta\ a)/lla */
-"ta)",		"a)",	"tou=", (Dialect)0,		/* ta)ndro/s << tou= a)ndro/s */
-"ta)",		"a)",	"to/", (Dialect)0,		/* ta)gaqo/n << to\ a)gaqo/n */
-"ta)/",		"*)/a",	"to/", (Dialect)0,		/* ta)rgos << to\ *)/argos */
-"ta)",		"e)",	"ta/", (Dialect)0,		/* ta)kei= << ta\ e)kei= */
-"th)",		"e)",	"th=|", (Dialect)0,		/* th)mh=| << th=| e)kmh=| */
-"tau)",		"au)",	"tou=", (Dialect)0,		/* tau)toma/tou << tou= au)toma/tou */
-"tau)",		"au)",	"to/", (Dialect)0,		/* tau)to/n << to\ au)to/n */
-"tu/xa)gaqh=|",		"a)gaqh=|",	"tu/xh|", (Dialect)0,		/* tu/xa)gaqh=| << tu/xh| a)gaqh=| */
-"tu/xa)gaqh|",		"a)gaqh=|",	"tu/xh|", (Dialect)0,		/* tu/xa)gaqh=| << tu/xh| a)gaqh=| */
-"tw)",		"*)a",	"tou=",	 (Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
-"tw)",		"a)",	"tou=",	 (Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
-"tw)",		"a)",	"tou=",	 (Dialect)0,	/* tw)rgei/ou << tou= *)argei/ou */
-"tw)=",		"a)/",	"toi/",	 (Dialect)DORIC,	/* tw)=ndres << toi\ a)/ndres */
-"tw)",		"w)",	"to/",	 (Dialect)0,	/* tw)|dei=on << to\ w)|dei=on */
-"tw)",		"h(",	"to/",	 (Dialect)0,	/* tw)/misu << to\ h(/misu */
-"tw)",		"o)",	"tw=|",	 (Dialect)0,	/* tw)nei/rati << tw=| o)nei/rati */
-"sou)",		"o(",	"sou",	 (Dialect)0,	/* sou)ri/zei << sou o(ri/zei */
-"sou)",		"e(",	"sou",	 (Dialect)0,	/* sou)/neka << sou e(/neka */
-"sou)",		"e)",	"sou",	 (Dialect)0,	/* sou)/sti << sou e)/sti */
-"tou)",		"o)",	"to/",	 (Dialect)0,	/* tou)/noma << to\ o)/noma */
-"tou)",		"e)",	"to/", (Dialect)0,		/* tou)nanti/on << to\ e)nanti/on */
-"tou)",		"e)",	"to/", (Dialect)0,		/* tou)/mpalin << to\ e)/mpalin */
-"tou)",		"e)",	"tou=", (Dialect)0,		/* tou)mou= << tou= e)mou= */
-"tou)=",	"e)/",	"tou=", (Dialect)0,		/* tou)=rgon << tou= e)/rgou */
-"tou)=",	"o)/",	"to/", (Dialect)0,		/* tou)=yon << to\ o)/yon */
-"tw)",		"e)",	"tw=|", (Dialect)0,		/* tou)mw=| << tw=| e)mw=| */
-"tou)",		"ou)",	"tou=", (Dialect)0,		/* tou)ranou= << tou= ou)ranou= */
-"tou)",		"e(",	"to/", (Dialect)0,		/* tou)/teron << to\ e(/teron */
-"tw)u",		"au)",	"ta/", (Dialect)IONIC,		/* twu)ta/  << ta/ au)ta/ */
-"tw)u",		"au)",	"to/", (Dialect)IONIC,		/* twu)to/  << to/ au)to/ */
-"tw)u",		"au)",	"tou=", (Dialect)IONIC,		/* twu)tou=  << tou= au)tou= */
-"twu)",		"au)",	"ta/", (Dialect)IONIC,		/* twu)to/  << ta/ au)ta/ */
-"twu)",		"au)",	"to/", (Dialect)IONIC,		/* twu)to/  << to/ au)to/ */
-"twu)",		"au)",	"tou=", (Dialect)IONIC,		/* twu)tou=  << tou= au)tou= */
-"tw)",		"a)",	"to/", (Dialect)IONIC,		/* tw)/galma  << to\ a)/galma */
-"tw)",		"a)",	"toi/", (Dialect)DORIC,		/* tw)/dres  << toi\ a)/ndres */
-"tau)",		"au)",	"to/", (Dialect)0,		/* tau)ta/ << ta\ au)ta/ */
-"ou(",		"e)",	"o(",	 (Dialect)0,		/* ou(mo/s << o( e)mo/s */
-"prou)",	"proe",	"",	 (Dialect)0,		/* prou)/legon << proe/legon */
-"sumprou",		"sumproe",	"",	 (Dialect)0,		/* sumprou/pempe << sumproe/pempe */
-"cumprou",		"cumproe",	"",	 (Dialect)0,		/* sumprou/pempe << sumproe/pempe */
-"a)ntiprou",		"a)ntiproe",	"",	 (Dialect)0,		/* a)ntiprou/teine << a)ntiproe/teine */
-"prou",		"proe",	"",	 (Dialect)0,		/* prou/legon << proe/legon */
-"prou",		"proo",	"",	 (Dialect)0,		/* proufeilome/nh << proofeilome/nh */
-"prwu",		"proau",	"",	 (Dialect)0,		/* prwuda=n << pro\ au)da=n */
-"e)gw)=i",	"oi)=", "e)gw/", (Dialect)0,	/* e)gw)=|mai << e)gw/ + oi)=mai */
-"e)gw)=|",	"oi)=", "e)gw/", (Dialect)0,	/* e)gw)=|mai << e)gw/ + oi)=mai */
-"e)gw=|",	"oi)=", "e)gw/", (Dialect)0,	/* e)gw=|da << e)gw/ + oi)=da */
-"e)mou)",	"e)", "e)moi", 	(Dialect)0,		/* e)mou)/sti << e)moi e)/sti */
-"kh)",		"E)",	"kai/",	 (Dialect)0,	/* kh)k  < kai/ + e)k */
-"kh)",		"e)",	"kai/",	 (Dialect)0,	/* kh)leusu/nia  < kai/ + E)leusu/nia */
-"xh)",		"h(",	"kai/",	 (Dialect)0,	/* xh)mei=s  < kai/ + h(mei=s */
-"xh(",		"h(",	"kai/",	 (Dialect)0,	/* xh)mei=s  < kai/ + h(mei=s */
-"xa)",		"a(",	"kai/",	 (Dialect)DORIC,	/* xa)  < kai/ + a( */
-"xa)",		"e(",	"kai/",	 (Dialect)0,	/* xa)te/rwn  < kai/ + e(te/rwn */
-"xai)",		"ai(",	"kai/",	 (Dialect)0,	/* xai)  < kai/ + ai( */
-"xoi)",		"oi(",	"kai/",	 (Dialect)0,	/* xoi)  < kai/ + oi( */
-"xau)",		"au(",	"kai/",	 (Dialect)0,	/* xau)/th  < kai/ + au(/th */
-"xou)",		"ou(",	"kai/",	 (Dialect)0,	/* xou)=tos  < kai/ + ou(=tos */
-"xu)",		"u(",	"kai/",	 (Dialect)0,	/* xu)mei=s  < kai/ + u(mei=s */
-"xw)",		"o(",	"kai/",	 (Dialect)0,	/* xw)po/qen  < kai/ + o(po/qen */
-"xw(",		"o(",	"kai/",	 (Dialect)0,	/* xw(po/qen  < kai/ + o(po/qen */
-"xw)",		"w(",	"kai/",	 (Dialect)0,	/* xw)=nper  < kai/ + w(=nper */
-"w(n",		"a)n",	"o(",	 (Dialect)0,	/* w(nh/r < o( + a)nh/r */
-"w(/n",		"a)/n",	"oi(",	 (Dialect)0,	/* w(/nqrwpoi < oi( + a)/nqrwpoi */
-"w(u",		"au)",	"o(",	 (Dialect)0,	/* w(uto/s < o( + au)to/s */
-"wu)",		"au)",	"o(",	 (Dialect)0,	/* wu)to/s < o( + au)to/s */
-"w(u",		"au)",	"oi(",	 (Dialect)0,	/* w(uto/i < o( + au)to/i */
-"w)=gaqe",		"a)gaqe/",	"w)=",	 (Dialect)0,	/* w)=gaqe  < w)= + a)gaqe/ */
-"w)=",		"a)/",	"w)=",	 (Dialect)0,	/* w)=nac  < w)= + a)/nac */
-"w)|",		"oi)",	"w)=",	 (Dialect)0,	/* w)|zu/r'  < w)= + oi)zu/r' */
+"w)",	"e)",	"w)=",	(Dialect)0,	/* w)gaqe/  < w)= + a)gaqe/ */
+"w)",	"o)",	"w)=",	(Dialect)0,	/* w)gaqe/  < w)= + a)gaqe/ */
 
-"w)=",		"o)/",	"w)=",	 (Dialect)0,	/* w)=rniqes < w)= + o)/rniqes */
-"w)",		"a)",	"w)=",	 (Dialect)0,	/* w)gaqe/  < w)= + a)gaqe/ */
-"w(=",		"a)/",	"oi(",	 (Dialect)0,	/* w)=nac  < w)= + a)/nac */
-"w)/",		"a)/",	"w)=",	 (Dialect)0,	/* w)/nassa  < w)= + a)/nassa */
+
+"w)",	"*)a",	"w)=",	(Dialect)0,	/* w)xarn..  < w)= + *)axarn/ */
+"w(",	"*)a",	"o(",	(Dialect)0,	/* w)xarn..  < o( + *)axarn/ */
+"w(=",	"a)/",	"oi(",	(Dialect)0,	/* w)=nac  < w)= + a)/nac */
 
 };
 
  poss_crasis LatSync[] = {
-"cognor",		"cognover",	"",	 (Dialect)0,	
-"ignor",		"ignover",	"",	 (Dialect)0,	
-"cognoss",		"cognoviss",	"",	 (Dialect)0,	
-"nosse",		"novisse",	"",	 (Dialect)0,	
+"cognor",		"cognover",	"",	(Dialect)0,	
+"ignor",		"ignover",	"",	(Dialect)0,	
+"cognoss",		"cognoviss",	"",	(Dialect)0,	
+"nosse",		"novisse",	"",	(Dialect)0,	
 "copt",			"coopt",	"",	 (Dialect)0,	/* cooptari --> coptari  */
 "der",			"deer",	"",	 (Dialect)0,	/* deest --> dest  */
 "des",			"dees",	"",	 (Dialect)0,	/* deest --> dest  */
