@@ -1,4 +1,7 @@
 _s masc nom voc sg
+is masc nom sg aeolic
 n neut nom voc acc sg
 _s@decl1_sh fem
+is@decl1_sh fem aeolic
+
 nt@decl3 masc neut

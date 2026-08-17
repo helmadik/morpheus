@@ -16,9 +16,10 @@ oii+n gen dat dual masc fem neut epic
 oi nom voc pl masc fem 
 a nom voc acc pl neut 
 wn gen pl  masc fem neut 
-ois dat pl  masc fem neut 
+ois dat pl  masc fem neut
 oisi dat pl epic aeolic ionic masc fem neut
-ofi dat pl epic 
+ofi dat pl masc fem neut epic needs_acc
+ofin dat pl masc fem neut epic needs_acc
 ous acc pl masc fem 
 ws acc pl masc fem doric
 
