@@ -1,5 +1,5 @@
 * ath_primary ath_secondary
-a ajw_pr ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr perf2_act perf_act
+a ajw_pr ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr hCs_h perf2_act perf_act
 aa aw_pr
 aaai aw_fut aw_pr
 aa| aw_fut aw_pr
@@ -66,7 +66,7 @@ ahsqa ami_aor
 ahsqe ami_aor
 ahte ami_aor
 ahton ami_aor
-a| ami_short aor1 ath_primary aw_fut aw_pr perfp_vow
+a| ami_short aor1 ath_primary aw_fut aw_pr hCs_h perfp_vow
 aiato ami_pr ami_short aor1
 aien ajw_pr ami_aor ami_pr aor1 ath_h_aor aw_pr
 aih ajw_pr ami_aor ami_pr ath_h_aor aw_pr
@@ -172,7 +172,7 @@ ameqa ajw_pr ami_aor ami_pr ami_short aor1 aw_fut aw_pr
 ames ajw_pr ami_aor ami_pr aor1 ath_h_aor aw_fut aw_pr perf2_act perf_act
 amesqa ajw_pr ami_aor ami_pr ami_short aor1 aw_fut aw_pr
 amhn ajw_pr ami_aor ami_pr ami_short aor1 aw_pr
-an ajw_pr ami_aor ami_pr ami_short aor1 aor2 ath_h_aor aw_fut aw_pr ew_pr perf2_act w_stem
+an ajw_pr ami_aor ami_pr ami_short aor1 aor2 ath_h_aor aw_fut aw_pr ew_pr hCs_h perf2_act w_stem
 anai ami_pr ath_h_aor perf2_act
 anta ajw_pr ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr
 antai ajw_pr ami_pr ami_short aw_fut aw_pr
@@ -245,7 +245,7 @@ aoussi aw_fut aw_pr
 aoussin aw_fut aw_pr
 aouswn ajw_pr aw_fut aw_pr
 aqi ami_aor ath_h_aor perf2_act
-as ajw_pr ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr perf2_act perf_act
+as ajw_pr ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr hCs_h perf2_act perf_act
 asa ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr
 asa| ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr
 asain ami_aor ami_pr ami_short aor1 ath_h_aor aw_fut aw_pr
@@ -976,7 +976,7 @@ gxqon perfp_gg
 gxqw perfp_gg
 gxqwn perfp_gg
 gxqwsan perfp_gg
-h ajw_pr ami_aor ami_pr aor2_pass aor_pass ath_h_aor aw_pr emi_pr evw_pr ew_pr perf2_act perf_act
+h ajw_pr ami_aor ami_pr aor2_pass aor_pass ath_h_aor aw_pr emi_pr evw_pr ew_pr hCs_h perf2_act perf_act
 hai ajw_pr ami_aor ami_pr ami_short aor1 aor2 ath_secondary aw_pr emi_aor emi_pr ew_pr w_stem
 heai emi_aor
 hei ath_h_aor emi_aor ew_pr
@@ -995,7 +995,7 @@ hhsqa ami_aor aor2_pass ath_h_aor
 hhsqe ami_aor aor2_pass ath_h_aor
 hhte ami_aor aor2_pass ath_h_aor
 hhton ami_aor aor2_pass ath_h_aor
-h| ajw_pr ami_aor ami_pr ami_short aor1 aor2 aor2_pass aor_pass ath_h_aor ath_secondary aw_fut aw_pr emi_aor emi_pr ew_fut ew_pr fut_perf perf2_act perf_act reg_fut w_stem
+h| ajw_pr ami_aor ami_pr ami_short aor1 aor2 aor2_pass aor_pass ath_h_aor ath_secondary aw_fut aw_pr emi_aor emi_pr ew_fut ew_pr fut_perf hCs_h perf2_act perf_act reg_fut w_stem
 h|n ajw_pr aw_pr
 h|s ajw_pr ami_aor ami_pr aor1 aor2 aor2_pass aor_pass ath_h_aor ath_secondary aw_fut aw_pr emi_aor emi_pr ew_pr perf2_act perf_act w_stem
 h|si ajw_pr ami_aor ami_pr aor1 aor2 aor2_pass aor_pass ath_h_aor ath_secondary emi_aor emi_pr ew_pr perf2_act perf_act w_stem
@@ -1032,7 +1032,7 @@ hmesqa ath_h_aor
 hmhn ath_h_aor
 hmi ami_pr emi_pr
 hmmi emi_pr
-hn ajw_pr ami_aor ami_pr aor2 aor2_pass aor_pass ath_h_aor aw_pr emi_pr evw_pr ew_fut ew_pr fut_perf perf_act reg_fut w_stem
+hn ajw_pr ami_aor ami_pr aor2 aor2_pass aor_pass ath_h_aor aw_pr emi_pr evw_pr ew_fut ew_pr fut_perf hCs_h perf_act reg_fut w_stem
 hnai ami_aor aor2_pass aor_pass ath_h_aor
 hnto ath_h_aor
 hntwn ami_aor ath_h_aor
@@ -1046,7 +1046,7 @@ homesqa emi_aor
 housi ath_h_aor emi_aor
 housin ath_h_aor emi_aor
 hqi ami_aor aor2_pass ath_h_aor
-hs ajw_pr ami_aor ami_pr aor2_pass aor_pass ath_h_aor aw_fut aw_pr emi_pr evw_pr ew_fut ew_pr perf2_act perf_act reg_fut
+hs ajw_pr ami_aor ami_pr aor2_pass aor_pass ath_h_aor aw_fut aw_pr emi_pr evw_pr ew_fut ew_pr hCs_h perf2_act perf_act reg_fut
 hsan ami_aor aor2_pass aor_pass ath_h_aor
 hseai aor2_pass aor_pass
 hsei aor2_pass aor_pass
