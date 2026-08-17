@@ -21,6 +21,7 @@ h ami_pr pres act imperat 2nd sg
 a ami_pr 2nd sg pres imperat act
 a@ath_imp_a ami_pr pres imperat act  not 2nd sg
 a@s_sa_n ami_pr pres act part needs_acc
+a@s_sa_n ami_pr pres act part aeolic
 a@ath_mp_pr ami_pr pres mp ind
 e/-atai ami_pr 3rd pl pres ind mp ionic
 e/-ato ami_pr 3rd pl imperf ind mp ionic

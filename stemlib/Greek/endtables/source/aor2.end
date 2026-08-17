@@ -7,8 +7,9 @@ en aor2 aor inf act doric needs_acc
 hn aor2 aor inf act doric
 @pr_inf_ath aor2 aor inf act epic
 @pr_inf_mp aor2 aor mid inf needs_acc
+@pr_inf_mp aor2 aor mid inf aeolic
 @pr_sub_act aor2 aor subj act
-@pr_sub_mp aor2 aor subj mp
+@pr_sub_mp aor2 aor subj mid
 @pr_opt_act aor2 aor opt act
 @pr_opt_mp aor2 aor opt mid
 o@ihn_opt aor2 aor opt act poetic
@@ -17,5 +18,6 @@ o@ihn_opt aor2 aor opt act poetic
 eo aor2 aor mid imperat sing 2nd attic ionic   needs_acc  
 eo aor2 aor mid imperat sing 2nd     not attic
 @wn_ousa_on aor2 aor act part needs_acc
+@wn_ousa_on aor2 aor act part aeolic
 omen@adj1 aor2 aor mid part
 osan aor2 aor act ind pl 3rd late

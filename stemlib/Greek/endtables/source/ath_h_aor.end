@@ -24,5 +24,6 @@ a_@ath_imp_a ath_h_aor aor imperat act sg dual doric not 2nd sg
 h@ath_imp_a ath_h_aor aor imperat act pl  not 3rd
 a_@ath_imp_a ath_h_aor aor imperat act pl  not 3rd
 a@ath_imp_a ath_h_aor aor imperat act 3rd pl
-@as_asa_an ath_h_aor aor act part needs_acc
+@as_asa_an ath_h_aor aor act part needs_acc attic ionic epic doric
+@as_asa_an ath_h_aor aor act part aeolic
 amen@adj1 ath_h_aor aor part mid

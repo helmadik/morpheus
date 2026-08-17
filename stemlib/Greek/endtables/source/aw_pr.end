@@ -3,10 +3,10 @@ a/-omai pres ind mp 1st sg  parad_form
 a@pr_inf_act aw_pr pres act inf  
 a=|n aw_pr pres act inf late
 h=|n aw_pr pres act inf ionic late
-a/-w aw_pr pres ind act 1st sg parad_form
-a/-omai aw_pr pres ind mp 1st sg parad_form
+#h=n aw_pr pres act inf aeolic
 a@pr_inf_mp aw_pr pres mp inf
 a_/-asqai aw_pr pres inf mp epic
+asqai ami_pr pres inf mp aeolic
 a@pr_ind_act aw_pr pres ind act
 a/-a| aw_pr 3rd sg pres ind act epic
 a/-as aw_pr 2nd sg pres ind act epic
@@ -20,6 +20,7 @@ a@imp_ind_a aw_pr imperf ind act
 a@iterat_act aw_pr imperf ind act
 a@iterat_mp aw_pr imperf ind mp
 a@wn_ousa_on aw_pr pres act part needs_acc
+a@s_sa_n ami_pr pres act part aeolic
 a@pr_ind_mp aw_pr pres ind mp
 a=sai aw_pr 2nd sg pres ind mp late 
 h-ai aw_pr 2nd sg pres ind mp epic

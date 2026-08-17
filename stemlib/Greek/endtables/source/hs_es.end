@@ -7,12 +7,12 @@ ewn hs_es gen pl masc fem neut epic ionic
 wn hs_es contr gen pl masc fem neut
 esi hs_es dat pl masc fem neut
 essi hs_es dat pl masc fem neut poetic
-e+esi hs_es dat pl masc fem neut poetic
-e+essi hs_es dat pl masc fem neut poetic
+eesi hs_es dat pl masc fem neut poetic
+eessi hs_es dat pl masc fem neut poetic
 oin hs_es gen dat dual masc fem neut
 eis hs_es contr masc fem nom acc voc pl
-e+es hs_es masc fem nom voc pl epic ionic
-e+as hs_es masc fem acc pl epic ionic
+ees hs_es masc fem nom voc pl epic ionic
+eas hs_es masc fem acc pl epic ionic
 e-i+ hs_es masc fem neut dat sg epic poetic
 ea hs_es neut nom acc voc pl
 e/steron hs_es adverbial comp
@@ -22,4 +22,5 @@ e/stata hs_es adverbial superl
 estat@adj1 hs_es superl
 h=s hs_es masc fem nom sg late
 ei=si masc fem neut dat pl late
+hn hs_es masc fem acc sg aeolic
 #eliminated h=s as acc pl, eisi is rare analogy from nom pl
