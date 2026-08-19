@@ -2119,6 +2119,7 @@
 
 :le:ai)gialo/s
 :no:ai)gia^l os_ou suff_acc masc
+:wd:ai)gialo/nde adverb
 
 :le:ai)gi/bosis
 :no:ai)gi-bos is_ews   fem
@@ -13642,13 +13643,17 @@
 :no:*)axarn h_hs fem pl	suff_acc
 :wd:*)axarnh=si adverb
 :wd:*)axarnh=qen adverb
+:wd:w(xarnh=qen adverb
 
 :le:*)axarneu/s
 :no:*)axarn eus_ews suff_acc   masc
 :no:*)axarnhi+d hs_ou stem_acc masc pl
+:wd:w)=xarne/wn eus_ews suff_acc masc gen pl
+:wd:w)=xarnhi/dai hs_ou stem_acc masc voc pl
 
 :le:*)axarniko/s
 :aj:*)axarnik os_h_on	suff_acc
+:wd:w)=xarnikoi/ os_h_on masc voc pl
 
 :le:a)xei/mantos
 :aj:a)-xeimant os_on
@@ -13668,6 +13673,7 @@
 :le:*)axelw=|os
 :no:*)axelw| os_ou stem_acc masc
 :no:*)axelwi+ os_ou masc poetic
+:wd:w)=xelw=|e os_ou masc voc sg
 
 :le:a)/xerdos
 :no:a)xerd os_ou fem masc
@@ -18330,6 +18336,7 @@
 :aj:dhmi os_on
 :aj:dhmi os_h_on
 :aj:da_mi os_h_on doric
+:wd:dhmiwsti/ adverb
 
 :le:dhmiourgi/a
 :no:dhmiourgi h_hs stem_acc fem
