@@ -2484,7 +2484,7 @@
 :de:a)gxon izw
 
 :le:ai)geiro/omai
-:de:ai)geir ow_denom pass
+:de:ai)geir ow_denom comp_only
 
 :le:a)kanqi/zw
 :de:a)kanq izw
@@ -3164,9 +3164,6 @@ moving to r(a/ssw
 
 :le:a)spalieu/w
 :de:a)spali euw
-
-:le:a)spido/omai
-:de:a)spi^d ow_denom pass
 
 :le:a)spido/w
 :de:a)spi^d ow_denom comp_only
@@ -8235,6 +8232,7 @@ moving to r(a/ssw
 ;pf
 ;pp
 #hall of shame
+:de:ta_d euw comp_only
 
 :le:xeire/w
 :de:xeir ew_denom  comp_only
@@ -11143,6 +11141,13 @@ moving to r(a/ssw
 
 :le:i)kma/zw
 :de:i)km azw
+
+:le:i)kmai/nw
+:de:i)km ainw
+;pr
+;ao
+;ap
+:de:i(km ainw comp_only
 
 :le:i)kma/w
 :de:i)km aw_denom comp_only
@@ -17438,6 +17443,7 @@ moving to r(a/ssw
 :vs:e)w|c fut_perf
 :vs:o)eig w_stem aeolic
 :vs:o)i+g w_stem aeolic
+:vs:o)i+xq aor_pass poetic late
 
 :le:oi)da/nw
 :de:oi)d anw
@@ -17634,6 +17640,9 @@ moving to r(a/ssw
 :vb:w)/|mhn w_stem mp 1st sg imperf ind syncope
 :vb:oi)w= w_stem 1st sg pres ind act laconian doric
 :vb:w)/|meqa w_stem  mp  1st pl  imperf  ind syncope
+:vs:w)i+s aor1 late poetic
+:vs:oi)iss aor1 late poetic
+:vs:oi)is aor1 late poetic
 
 :le:oi)o/omai
 :vs:oi)wq aor_pass
@@ -18813,7 +18822,7 @@ vb:o)nnw/rinne w_stem imperf ind act 3sg aeolic
 :de:o)fru aw_denom
 
 :le:o)fruo/omai
-:de:o)fru ow_denom pass
+:de:o)fru ow_denom
 
 :le:o)xeteu/w
 :de:o)xet euw
@@ -21849,7 +21858,7 @@ vb:o)nnw/rinne w_stem imperf ind act 3sg aeolic
 ;pp
 
 :le:saulo/omai
-:de:saul ow_denom pass
+:de:saul ow_denom
 
 :le:sauloprwktia/w
 :de:saulo-prwkt iaw_denom
@@ -26255,7 +26264,7 @@ s 3rd sg
 :de:for azw comp_only
 
 :le:forbio/omai
-:de:forbi ow_denom pass comp_only
+:de:forbi ow_denom comp_only
 
 :le:fore/w
 :de:for ew_denom frequentative
@@ -27716,7 +27725,7 @@ s 3rd sg
 
 
 :le:w)/|zw
-:de:w) izw
+:vs:w)|z w_stem
 :vb:w)/izei w_stem pres ind act 3rd sg
 
 
@@ -27738,14 +27747,10 @@ s 3rd sg
 #not seeing the correct way today without ridiculous overgenerating
 
 :le:w)/zw
-:de:w)z  reg_conj
-;pr
+:vs:w)z  w_stem
 
 :le:w)/|zw
-:de:w)|z reg_conj
-;pr
-;fu
-;ao
+:vs:w)|z w_stem
 
 :le:w)qe/w
 :de:w)q reg_conj

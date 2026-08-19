@@ -2396,6 +2396,9 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*si/gnifer
 :no:*signife r_ros masc pers_name
 
+:le:*dhmoge/nhs
+:no:*dhmogen hs_eos masc pers_name
+
 :le:*dhmodi/kh
 :no:*dhmodik h_hs fem pers_name
 
@@ -10060,6 +10063,9 @@ le:*bouli/s
 :le:*)istri/h
 :no:*)istri h_hs fem  
 
+:le:*)iqage/nhs
+:no:*)igagen hs_eos masc stem_acc
+
 :le:*)iqami/tras
 :no:*)iqamitr hs_ou masc  
 
@@ -15718,7 +15724,8 @@ le:*bouli/s
 :no:*daeir h_hs fem  
 
 :le:*dama/ghtos
-:no:*damaght os_ou masc  
+:no:*da_maght os_ou masc  
+:no:*dhmaght os_ou masc
 
 :le:*da/marxos
 :no:*damarx os_ou masc  
@@ -15747,11 +15754,13 @@ le:*bouli/s
 :le:*damiqa/lhs
 :no:*damiqal hs_ou masc  
 
-:le:*damoklei/dhs
-:no:*damokleid hs_ou masc doric 
+:le:*dhmoklei/dhs
+:no:*da_mokleid hs_ou masc doric stem_acc
+:no:*dhmokleid hs_ou masc doric stem_acc
 
-:le:*damokrati/dhs
-:no:*damokratid hs_ou masc doric 
+:le:*dhmokrati/dhs
+:no:*damokratid hs_ou masc doric stem_acc
+:no:*dhmokratid hs_ou masc doric stem_acc
 
 :le:*damo/kritos
 :no:*damokrit os_ou masc  
@@ -15821,6 +15830,13 @@ le:*bouli/s
 
 :le:*dhma/dhs
 :no:*dhmad hs_ou masc  
+:no:*dhmad hs_eos masc late
+
+:le:*dhma/deios
+:no:*dhmadei os_on
+
+:le:*dhmaine/th
+:no:*dhmainet h_hs stem_acc fem
 
 :le:*dhmai/netos
 :no:*dhmainet os_ou masc  
@@ -16804,6 +16820,11 @@ le:*bouli/s
 
 :le:*)ia/sios
 :no:*)iasi os_ou masc  
+
+:le:*)iaso/nios
+:aj:*)iasoni os_h_on
+:aj:*)ihsoni os_h_on
+:no:*)ihson is_idos suff_acc fem
 
 :le:*)/ibhr
 :no:*)ibh r_ros masc  
@@ -20129,6 +20150,9 @@ le:*)ari/a
 
 :le:*)epipolai/
 :no:*)epipol h_hs fem suff_acc pl geog_name
+
+:le:*)epita/deus
+:no:*)epita_d eus_ews masc stem_acc
 
 :le:*)epita/lion
 :no:*)epitali os_ou neut  

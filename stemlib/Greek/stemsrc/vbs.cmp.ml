@@ -534,6 +534,7 @@ a)na/-i)a/omai a)nia/omai
 a)na/-i)a/xw a)nia/xw
 a)na/-i)atreu/w a)niatreu/w
 a)na/-i)kma/zw a)nikma/zw
+a)na/-i)kmai/nw a)nikmai/nw
 a)na/-i)luspa/omai a)niluspa/omai
 a)na/-i)sa/zw a)nisa/zw
 a)na/-i)so/w a)niso/w
@@ -1010,6 +1011,7 @@ a)na/-suri/zw a)nasuri/zw
 a)na/-sw/|zw a)nasw/|zw
 a)na/-swfroni/zw a)naswfroni/zw
 a)na/-swreu/w a)naswreu/w
+a)na/-sxhmati/zw a)nasxhmati/zw
 a)na/-sxi/zw a)nasxi/zw
 a)na/-sxinduleu/w a)nasxinduleu/w
 a)na/-ta/ssw a)nata/ssw
@@ -3059,6 +3061,7 @@ a)po/-o)cu/nw a)pocu/nw
 a)po/-o)du/romai a)podu/romai
 a)po/-o)fliska/nw a)pofliska/nw
 a)po/-o)fqalmia/w a)pofqalmio/omai
+a)po/-o)fruo/omai a)pofruo/w
 a)po/-o)gke/w a)pogke/w
 a)po/-o)gko/w a)pogko/w
 a)po/-o)i+steu/w a)poi+steu/w
@@ -6792,7 +6795,7 @@ e)n-a)sfali/zw e)nasfali/zomai
 e)n-a)ske/w e)naske/w
 e)n-a)smeni/zw e)nasmeni/zw
 e)n-a)spa/zomai e)naspa/zomai
-e)n-a)spido/omai e)naspido/omai
+e)n-a)spido/w e)naspido/omai
 e)n-a)sqene/w e)nasqene/w
 e)n-a)stei/+zomai e)nastei/+zomai
 e)n-a)stra/ptw e)nastra/ptw
@@ -10390,6 +10393,7 @@ kata/-i(za/nw kaqiza/nw
 kata/-i)/sxw kati/sxw
 kata/-i)a/ptw katia/ptw
 kata/-i)kma/zw katikma/zw
+kata/-i)kmai/nw katikmai/nw
 kata/-i)llw/ptw katillw/ptw
 kata/-i)lu/w katilu/w
 kata/-i)o/omai katio/omai
@@ -11403,7 +11407,6 @@ meta/-gra/fw metagra/fw
 meta/-grammati/zw metagrammati/zw
 meta/-h(/kw meqh/kw
 meta/-h(=mai me/qhmai
-meta/-h)xe/w metaxe/w
 meta/-i(/hmi meqi/hmi
 meta/-i(/sthmi meqi/sthmi
 meta/-i(/zw metai/zw

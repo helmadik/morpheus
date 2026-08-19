@@ -9094,12 +9094,14 @@
 
 :le:e)pitexnhto/s
 :aj:e)pitexnht os_on suff_acc
+:aj:e)pitexnht os_h_on suff_acc fem
 
 :le:e)pith/deios
 :aj:e)pithdei os_h_on
 :aj:e)pithde os_h_on  ionic no_comp
 :aj:e)pithdeoter os_h_on irreg_comp
 :aj:e)pithdeotat os_h_on irreg_superl
+:aj:e)pita_dei os_h_on doric
 
 :le:e)pithdeio/ths
 :no:e)pithdeioth s_tos   fem 	ant_acc
@@ -9113,9 +9115,11 @@
 
 :le:e)pith/deuma
 :no:e)pithdeu ma_matos neut
+:no:e)pita_deu ma_matos neut doric
 
 :le:e)pith/deusis
 :no:e)pithdeus is_ews fem
+:no:e)pita_deus is_ews fem doric
 
 :le:e)pithde/ws
 :wd:e)pithde/ws	adverb

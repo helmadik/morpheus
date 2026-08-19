@@ -34537,6 +34537,9 @@
 :le:dh=ma
 :no:dh ma_matos neut
 
+:le:dhmai/thtos
+:no:dhmaitht os_on
+
 :le:dhmele/htos
 :no:dhmeleht os_on
 
@@ -34554,6 +34557,11 @@
 
 :le:dhmhgersi/a
 :no:dhmhgersi h_hs fem stem_acc
+
+
+:le:dhmhge/rths
+:no:dhmhgert hs_ou masc stem_acc
+:no:dhmagert hs_ou masc stem_acc
 
 :le:dhmh/goros
 :no:dhmhgor os_ou masc
@@ -34588,6 +34596,9 @@
 :le:dhmiou/rghma
 :no:dhmiourgh ma_matos neut
 
+:le:dhmiourghtiko/s
+:no:dhmiourghtik os_h_on
+
 :le:dhmiou/rgion
 :no:dhmiourgi os_ou neut
 :no:dhmiourgei os_ou neut
@@ -34597,14 +34608,23 @@
 :le:dhmiourgi/s
 :no:dhmiourg is_idos fem suff_acc
 
-:le:dhmoegerth/s
-:no:dhmoegert hs_ou masc suff_acc
+:le:dhmoege/rths
+:no:dhmoegert hs_ou masc stem_acc
 
 :le:dhmoeidh/s
 :aj:dhmoeid hs_es suff_acc
 
+:le:dhmokata/ratos
+:no:dhmokatarat os_on
+
+:le:dhmokhdemw/n
+:no:dhmokhdem wn_onos masc suff_acc
+
 :le:dhmokhdh/s
-:no:dhmokhd hs_ou masc suff_acc
+:no:dhmokhd hs_es suff_acc
+
+:le:dhmokh=ruc
+:no:dhmokhru c_kos masc ant_acc masc
 
 :le:dhmokli/narxos
 :no:dhmokli_narx os_ou masc
@@ -34614,6 +34634,9 @@
 
 :le:dhmokopi/a
 :no:dhmokopi h_hs fem stem_acc
+
+:le:dhmoko/pion
+:no:dhmokopi os_ou neut
 
 :le:dhmo/kopos
 :no:dhmokop os_ou masc
@@ -34632,6 +34655,15 @@
 
 :le:*dhmosqeniko/s
 :aj:*dhmosqenik os_h_on suff_acc
+
+:le:dhmosiako/s
+:aj:dhmosiak os_h_on suff_acc
+
+:le:dhmosi/eusis
+:no:dhmosieus is_ews fem
+
+:le:dhmosieuth/s
+:no:dhmosieut hs_ou suff_acc masc
 
 :le:dhmosio/praktos
 :no:dhmosioprakt os_on
@@ -54067,6 +54099,7 @@
 
 :le:e)pirrugxi/s
 :no:e)pirrugx is_idos fem suff_acc
+:no:e)pirugx is_idos fem suff_acc
 
 :le:e)pi/rrusis
 :no:e)pirrus is_ews fem
@@ -54193,6 +54226,9 @@
 :le:e)piskh/nios
 :no:e)piskhni os_on
 
+:le:e)piski/asis
+:no:e)piskias is_ews fem
+
 :le:e)piski/asma
 :no:e)piskias ma_matos neut
 
@@ -54271,6 +54307,9 @@
 :le:e)pispora/
 :no:e)pispor h_hs fem suff_acc
 
+:le:e)pisporeu/s
+:no:e)pispor eus_ews suff_acc masc
+
 :le:e)pispoudasmo/s
 :no:e)pispoudasm os_ou suff_acc masc
 
@@ -54288,6 +54327,9 @@
 
 :le:e)pista/kths
 :no:e)pistakt hs_ou masc stem_acc
+
+:le:e)pi/stalsis
+:no:e)pistals is_ews fem
 
 :le:e)pistaltiko/s
 :aj:e)pistaltik os_h_on suff_acc
@@ -54348,6 +54390,12 @@
 
 :le:e)pisthqi/dios
 :no:e)pisthqidi os_on
+
+:le:e)pisth/qios
+:no:e)pisthqi os_on
+
+:le:e)pisthmona/rxhs
+:no:e)pisthmonarx hs_ou masc stem_acc
 
 :le:e)pisthmoniko/s
 :aj:e)pisthmonik os_h_on suff_acc
@@ -54726,6 +54774,9 @@
 :le:e)pitetame/nws
 :wd:e)pitetame/nws adverb
 
+:le:e)pite/tartos
+:aj:e)pitetart os_on
+
 :le:e)piteteugme/nws
 :wd:e)piteteugme/nws adverb
 
@@ -54881,6 +54932,9 @@
 
 :le:e)pitrimmo/s
 :no:e)pitrimm os_ou suff_acc masc
+
+:le:e)pi/trimma
+:no:e)pitrim ma_matos neut
 
 :le:e)pitriptiko/s
 :aj:e)pitriptik os_h_on suff_acc
@@ -59103,9 +59157,13 @@
 
 :le:eu)lei/antos
 :no:eu)leiant os_on
+:no:eu)leant os_on
 
 :le:eu)lei/wtos
 :no:eu)leiwt os_on
+
+:le:eu)/lecis
+:no:eu)lec is_ews masc fem
 
 :le:eu)le/pistos
 :no:eu)lepist os_on
@@ -67649,8 +67707,11 @@
 :le:i(e/rwsis
 :no:i(erws is_ews fem
 
-:le:i(erewsu/nh
+:le:i(erwsu/nh
 :no:i(erewsun h_hs fem
+
+:le:i(erwsti/
+:wd:i(erwsti/ adverb
 
 :le:i(erw/sunos
 :aj:i(erwsun os_h_on
@@ -67718,6 +67779,9 @@
 :le:i)qunth/s
 :no:i)qunt hs_ou masc suff_acc
 
+:le:i)qu/ntwr
+:no:i)qunt wr_oros masc
+
 :le:i)qu/rropos
 :no:i)qurrop os_on
 
@@ -67729,6 +67793,9 @@
 
 :le:i)qu/ths
 :no:i)quth s_tos fem
+
+:le:i)qutmh/s
+:no:i)qutmh s_tos stem_acc masc fem
 
 :le:i)qufalliko/s
 :aj:i)qufallik os_h_on suff_acc
@@ -67791,7 +67858,7 @@
 :no:i)kmai os_ou masc stem_acc
 
 :le:i)kmale/os
-:aj:i)kmale os_h_on
+:aj:i)kmale os_h_on stem_acc
 
 :le:i)kmasi/a
 :no:i)kmasi h_hs fem stem_acc
@@ -75493,6 +75560,12 @@
 
 :le:kath/xhsis
 :no:kathxhs is_ews fem
+
+:le:kathxhth/s
+:no:kathxht hs_ou suff_acc masc
+
+:le:kathxhtiko/s
+:no:kathxhtik os_h_on suff_acc
 
 :le:katia/dion
 :no:katiadi os_ou neut
