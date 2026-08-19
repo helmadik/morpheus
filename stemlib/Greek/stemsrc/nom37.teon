@@ -4,9 +4,76 @@
 
 :le:ai)ne/w
 :aj:ai)net verb_adj2 suff_acc
+:aj:ai)nht verb_adj2 suff_acc late
+
+:le:a)lloio/w
+:aj:a)lloiwt verb_adj2 suff_acc
+
+:le:a)llotrio/w
+:aj:a)llotriwt verb_adj2 suff_acc
+
+:le:a)mfekte/on
+:aj:a)mfekt verb_adj2 suff_acc
+
+:le:a)nachrai/nw
+:aj:a)nachrant verb_adj2 suff_acc
+
+:le:a)nasw/|zw
+:aj:a)naswst verb_adj2 suff_acc
+
+:le:a)nugrai/nw
+:aj:a)nugrant verb_adj2 suff_acc
+
+:le:a)peru/w
+:aj:a)perust verb_adj2 suff_acc
+
+:le:a)pokeno/w
+:aj:a)pokenwt verb_adj2 suff_acc
+
+:le:a)pokine/w
+:aj:a)pokinht verb_adj2 suff_acc
+
+:le:a)poktei/nw
+:aj:a)poktant verb_adj2 suff_acc
+
+:le:a)pomeri/zw
+:aj:a)pomerist verb_adj2 suff_acc
+
+:le:a)popau/w
+:aj:a)popaust verb_adj2 suff_acc
+
+:le:a)poplhro/w
+:aj:a)poplhrwt verb_adj2 suff_acc
+
+:le:a)poporeu/w
+:aj:a)poporeut verb_adj2 suff_acc
+
+:le:a)poskeua/zw
+:aj:a)poskeuast verb_adj2 suff_acc
+
+:le:a)poforti/zomai
+:aj:a)pofortist verb_adj2 suff_acc
+
+:le:a)site/w
+:aj:a)sitht verb_adj2 suff_acc
+
+:le:a)sfali/zw
+:aj:a)sfalist verb_adj2 suff_acc
+
+:le:a)teni/zw
+:aj:a)tenist verb_adj2 suff_acc
+
+:le:a)ti/zw
+:aj:a)tist verb_adj2 suff_acc
 
 :le:au)tomole/w
 :aj:au)tomolht verb_adj2 suff_acc
+
+:le:a)fagni/zw
+:aj:a)fagnist verb_adj2 suff_acc
+
+:le:a)fupno/w
+:aj:a)fupnwt verb_adj2 suff_acc
 
 :le:ba/ptw
 :aj:bapt verb_adj2 suff_acc
@@ -38,11 +105,17 @@
 :le:damaste/on
 :aj:damast verb_adj2 suff_acc
 
+:le:dapana/w
+:aj:dapanht verb_adj2 suff_acc
+
 :le:dhmhgore/w
 :aj:dhmhgorht verb_adj2 suff_acc
 
 :le:dhmosieu/w
 :aj:dhmosieut verb_adj2 suff_acc
+
+:le:diaqrau/w
+:aj:diaqraust verb_adj2 suff_acc
 
 :le:diaqre/w
 :aj:diaqrht verb_adj2 suff_acc
@@ -68,23 +141,56 @@
 :le:diarrapi/zw
 :aj:diarrapist verb_adj2 suff_acc
 
+:le:diasafhni/zw
+:aj:diasafhnist verb_adj2 suff_acc
+
+:le:diaskeua/zw
+:aj:diaskeuast verb_adj2 suff_acc
+
 :le:diaskope/w
 :aj:diaskopht verb_adj2 suff_acc
+
+:le:diastre/fw
+:aj:diastrept verb_adj2 suff_acc
+
+:le:diatele/w
+:aj:diatelest verb_adj2 suff_acc
 
 :le:diati/qhmi
 :aj:diaqet verb_adj2 suff_acc
 
-:le:diaxeiri/zw
-:aj:diaxeirist verb_adj2 suff_acc
+:le:diatre/pw
+:aj:diatrept verb_adj2 suff_acc
+
+:le:diafore/w
+:aj:diaforht verb_adj2 suff_acc
+
+:le:diaxra/omai
+:aj:diaxrhst verb_adj2 suff_acc
 
 :le:die/ceimi
 :aj:diecitht verb_adj2 suff_acc
+
+:le:diecodeu/w
+:aj:diecodeut verb_adj2 suff_acc
+
+:le:dieukrine/w
+:aj:dieukrinht verb_adj2 suff_acc
+
+:le:dii/sthmi
+:aj:diastat verb_adj2 suff_acc
 
 :le:diloge/w
 :aj:diloght verb_adj2 suff_acc
 
 :le:diodeu/w
 :aj:diodeut verb_adj2 suff_acc
+
+:le:dioike/w
+:aj:dioikht verb_adj2 suff_acc
+
+:le:dioikodome/w
+:aj:dioikodomht verb_adj2 suff_acc
 
 :le:diplasia/zw
 :aj:diplasiast verb_adj2 suff_acc
@@ -98,17 +204,83 @@
 :le:doulopoie/w
 :aj:doulopoiht verb_adj2 suff_acc
 
+:le:dusfhme/w
+:aj:dusfhmht verb_adj2 suff_acc
+
 :le:dwrodoke/w
 :aj:dwrodokht verb_adj2 suff_acc
+
+:le:e)ggua/w
+:aj:e)gguht verb_adj2 suff_acc
+
+:le:e)gxra/w
+:aj:e)gxrhst verb_adj2 suff_acc
 
 :le:ei)rhneu/w
 :aj:ei)rhneut verb_adj2 suff_acc
 
+:le:le/gw
+:aj:ei)rht verb_adj2 suff_acc
+
+:le:ei)se/rxomai
+:aj:ei)seleust verb_adj2 suff_acc
+
+:le:ei)skomi/zw
+:aj:ei)skomist verb_adj2 suff_acc
+
 :le:ei)sfe/rw
 :aj:ei)senekt verb_adj2 suff_acc
 
+:le:e)cila/skomai
+:aj:e)cilast verb_adj2 suff_acc
+
+:le:e)cwqe/w
+:aj:e)cwst verb_adj2 suff_acc
+
+:le:e)paitia/omai
+:aj:e)paitiat verb_adj2 suff_acc
+
+:le:e)panaka/mptw
+:aj:e)panakampt verb_adj2 suff_acc
+
+:le:e)papodu/w
+:aj:e)papodut verb_adj2 suff_acc
+
+:le:e)pariqme/w
+:aj:e)pariqmht verb_adj2 suff_acc
+
+:le:e)pe/ceimi
+:aj:e)pecit verb_adj2 suff_acc
+
+:le:e)pece/rxomai
+:aj:e)peceleust verb_adj2 suff_acc
+
+:le:e)pikoure/w
+:aj:e)pikourht verb_adj2 suff_acc
+
+:le:e)pimenete/on
+:aj:e)pimenht verb_adj2 suff_acc
+
+:le:e)pitre/xw
+:aj:e)pidramht verb_adj2 suff_acc
+
+:le:e)pifwne/w
+:aj:e)pifwnht verb_adj2 suff_acc
+
+:le:e)rani/zw
+:aj:e)ranist verb_adj2 suff_acc
+
+:le:e)ra/w
+:aj:e)rast verb_adj2 suff_acc late
+
+:le:e)tumologe/w
+:aj:e)tumologht verb_adj2 suff_acc
+
 :le:eu)daimoni/zw
 :aj:eu)daimonist verb_adj2 suff_acc
+
+:le:eu)qeti/zw
+:aj:eu)qetist verb_adj2 suff_acc
 
 :le:eu)krine/w
 :aj:eu)krinht verb_adj2 suff_acc
@@ -125,14 +297,29 @@
 :le:eu(rete/os
 :aj:eu(rht verb_adj2 suff_acc
 
+:le:e(toima/zw
+:aj:e(toimast verb_adj2 suff_acc
+
+:le:e)fete/on
+:aj:e)fet verb_adj2 suff_acc
+
+:le:e(yia/omai
+:aj:e(yiat verb_adj2 suff_acc
+
 :le:zhlotupe/w
 :aj:zhlotupht verb_adj2 suff_acc
 
 :le:qarshte/on
 :aj:qar)r(ht verb_adj2 suff_acc
 
+:le:qeosebe/w
+:aj:qeosebht verb_adj2 suff_acc
+
 :le:qli/bw
 :aj:qlipt verb_adj2 suff_acc
+
+:le:kaqelissw
+:aj:kateilikt verb_adj2 suff_acc
 
 :le:kaqe/lkw
 :aj:kaqelkust verb_adj2 suff_acc
@@ -152,6 +339,9 @@
 :le:kaqubri/zw
 :aj:kaqubrist verb_adj2 suff_acc
 
+:le:kakodaimoni/zw
+:aj:kakodaimonist verb_adj2 suff_acc
+
 :le:kakologe/w
 :aj:kakologht verb_adj2 suff_acc
 
@@ -161,8 +351,17 @@
 :le:kalu/ptw
 :aj:kalupt verb_adj2 suff_acc
 
+:le:karadoke/w
+:aj:karadokht verb_adj2 suff_acc
+
+:le:karpofore/w
+:aj:karpoforht verb_adj2 suff_acc
+
 :le:kartere/w
 :aj:karterht verb_adj2 suff_acc
+
+:le:kataboa/w
+:aj:kataboht verb_adj2 suff_acc
 
 :le:katagela/w
 :aj:katagelast verb_adj2 suff_acc
@@ -170,11 +369,20 @@
 :le:kataglukai/nw
 :aj:kataglukant verb_adj2 suff_acc
 
+:le:katagwni/zomai
+:aj:katagwnist verb_adj2 suff_acc
+
 :le:katadika/zw
 :aj:katadikast verb_adj2 suff_acc
 
 :le:kataklei/w
 :aj:katakleist verb_adj2 suff_acc
+
+:le:katakomi/zw
+:aj:katakomist verb_adj2 suff_acc
+
+:le:katakou/w
+:aj:katakoust verb_adj2 suff_acc
 
 :le:katakri/nw
 :aj:katakrit verb_adj2 suff_acc
@@ -199,6 +407,7 @@
 
 :le:katarraqume/w
 :aj:katarra|qumht verb_adj2 suff_acc
+:aj:katara|qumht verb_adj2 suff_acc
 
 :le:kata/rxw
 :aj:katarkt verb_adj2 suff_acc
@@ -206,29 +415,68 @@
 :le:katasiga/w
 :aj:katasigast verb_adj2 suff_acc
 
+:le:kataske/ptomai
+:aj:kataskept verb_adj2 suff_acc
+
 :le:kataste/llw
 :aj:katastalt verb_adj2 suff_acc
 
 :le:kataste/fw
 :aj:katastept verb_adj2 suff_acc
 
+:le:katastuge/w
+:aj:katastught verb_adj2 suff_acc
+
 :le:katafronhte/on
 :aj:katafronht verb_adj2 suff_acc
+
+:le:kataxeiri/zomai
+:aj:kataxeirist verb_adj2 suff_acc
 
 :le:kataxe/w
 :aj:kataxut verb_adj2 suff_acc
 
+:le:kataye/gw
+:aj:katayekt verb_adj2 suff_acc
+
+:le:katoligwre/w
+:aj:katoligwrht verb_adj2 suff_acc
+
 :le:katokne/w
 :aj:katoknht verb_adj2 suff_acc
+
+:le:keimhlio/w
+:aj:keimhliwt verb_adj2 suff_acc
+
+:le:kente/w
+:aj:kentht verb_adj2 suff_acc
 
 :le:kera/nnumi
 :aj:kerast verb_adj2 suff_acc
 
+:le:kefalaio/w
+:aj:kefalaiwt verb_adj2 suff_acc
+
+:le:klai/w
+:aj:klaust verb_adj2 suff_acc
+
 :le:kluste/on
 :aj:klust verb_adj2 suff_acc
 
+:le:koimi/zw
+:aj:koimist verb_adj2 suff_acc
+
 :le:kome/w
 :aj:komht verb_adj2 suff_acc
+
+:le:kra/zw
+:aj:krakt verb_adj2 suff_acc
+
+:le:kti/zw
+:aj:ktist verb_adj2 suff_acc
+
+:le:kurieu/w
+:aj:kurieut verb_adj2 suff_acc
 
 :le:kuro/w
 :aj:kurwt verb_adj2 suff_acc
@@ -245,11 +493,20 @@
 :le:loidorhte/on
 :aj:loidorht verb_adj2 suff_acc
 
+:le:makroqume/w
+:aj:makroqumht verb_adj2 suff_acc
+
 :le:makrologe/w
 :aj:makrologht verb_adj2 suff_acc
 
+:le:makru/nw
+:aj:makrunt verb_adj2 suff_acc
+
 :le:malakiste/on
 :aj:malakist verb_adj2 suff_acc
+
+:le:malhte/on
+:aj:malht verb_adj2 suff_acc
 
 :le:marai/nw
 :aj:marant verb_adj2 suff_acc
@@ -260,11 +517,17 @@
 :le:masti/zw
 :aj:mastikt verb_adj2 suff_acc
 
+:le:mequ/w
+:aj:mequst verb_adj2 suff_acc
+
 :le:merimna/w
 :aj:merimnht verb_adj2 suff_acc
 
 :le:meriste/on
 :aj:merist verb_adj2 suff_acc
+
+:le:meseu/w
+:aj:meseut verb_adj2 suff_acc
 
 :le:metabhte/on
 :aj:metabht verb_adj2 suff_acc
@@ -275,11 +538,26 @@
 :le:metadida/skw
 :aj:metadidakt verb_adj2 suff_acc
 
+:le:metalleu/w
+:aj:metalleut verb_adj2 suff_acc
+
 :le:metarruqmiste/on
 :aj:metaruqmist verb_adj2 suff_acc
 
+:le:metaskeua/zw
+:aj:metaskeuast verb_adj2 suff_acc
+
+:le:metata/ssw
+:aj:metatakt verb_adj2 suff_acc
+
+:le:metaqete/on
+:aj:metaqet verb_adj2 suff_acc
+
 :le:metatre/fw
 :aj:metatrept verb_adj2 suff_acc
+
+:le:metafra/zw
+:aj:metafrast verb_adj2 suff_acc
 
 :le:metaxrw/nnumi
 :aj:metaxrwst verb_adj2 suff_acc
@@ -287,14 +565,23 @@
 :le:metaxwre/w
 :aj:metaxwrht verb_adj2 suff_acc
 
+:le:mnhsikake/w
+:aj:mnhsikakht verb_adj2 suff_acc
+
 :le:molu/nw
 :aj:molunt verb_adj2 suff_acc
 
 :le:nauphge/w
 :aj:nauphght verb_adj2 suff_acc
 
+:le:nemesa/w
+:aj:nemesht verb_adj2 suff_acc
+
 :le:nhsteu/w
 :aj:nhsteut verb_adj2 suff_acc
+
+:le:ni/zw
+:aj:nipt verb_adj2 suff_acc
 
 :le:ceni/zw
 :aj:cenist verb_adj2 suff_acc
@@ -311,11 +598,17 @@
 :le:oi)konome/w
 :aj:oi)konomht verb_adj2 suff_acc
 
+:le:paihte/on
+:aj:paiht verb_adj2 suff_acc
+
 :le:palilloge/w
 :aj:palilloght verb_adj2 suff_acc
 
 :le:palindrome/w
 :aj:palindromht verb_adj2 suff_acc
+
+:le:panhguri/zw
+:aj:panhgurist verb_adj2 suff_acc
 
 :le:parame/nw
 :aj:paramenet verb_adj2 suff_acc
@@ -331,6 +624,15 @@
 
 :le:parati/llw
 :aj:paratilt verb_adj2 suff_acc
+
+:le:parafe/rw
+:aj:paroist verb_adj2 suff_acc
+
+:le:parafra/zw
+:aj:parafrast verb_adj2 suff_acc
+
+:le:pareggra/fw
+:aj:pareggrapt verb_adj2 suff_acc
 
 :le:pareisa/gw
 :aj:pareisakt verb_adj2 suff_acc
@@ -350,14 +652,23 @@
 :le:pate/w
 :aj:patht verb_adj2 suff_acc
 
+:le:perible/pw
+:aj:periblept verb_adj2 suff_acc
+
 :le:periblhte/on
 :aj:periblht verb_adj2 suff_acc
+
+:le:perie/xw
+:aj:periekt verb_adj2 suff_acc
 
 :le:perikei/rw
 :aj:perikart verb_adj2 suff_acc
 
 :le:perikopte/on
 :aj:perikopt verb_adj2 suff_acc
+
+:le:perilale/w
+:aj:perilalht verb_adj2 suff_acc
 
 :le:perilamba/nw
 :aj:perilhpt verb_adj2 suff_acc
@@ -380,14 +691,29 @@
 :le:perifula/ssw
 :aj:perifulakt verb_adj2 suff_acc
 
+:le:poimai/nw
+:aj:poimant verb_adj2 suff_acc
+
+:le:polemi/zw
+:aj:polemist verb_adj2 suff_acc
+
 :le:poluloge/w
 :aj:poluloght verb_adj2 suff_acc
+
+:le:porqe/w
+:aj:porqht verb_adj2 suff_acc
+
+:le:prau/+nw
+:aj:prau+nt verb_adj2 suff_acc
 
 :le:proafhge/omai
 :aj:proafhght verb_adj2 suff_acc
 
 :le:progignw/skw
 :aj:prognwst verb_adj2 suff_acc
+
+:le:progra/fw
+:aj:prograpt verb_adj2 suff_acc
 
 :le:progumna/zw
 :aj:progumnast verb_adj2 suff_acc
@@ -407,11 +733,20 @@
 :le:prodiori/zw
 :aj:prodiorist verb_adj2 suff_acc
 
+:le:proeisfe/rw
+:aj:proeisenekt verb_adj2 suff_acc
+
 :le:proekphda/w
 :aj:proekphdht verb_adj2 suff_acc
 
 :le:proenqume/w
 :aj:proenqumht verb_adj2 suff_acc
+
+:le:prokatagignw/skw
+:aj:prokatagnwst verb_adj2 suff_acc
+
+:le:prokataskeua/zw
+:aj:prokataskeuast verb_adj2 suff_acc
 
 :le:proklu/zw
 :aj:proklust verb_adj2 suff_acc
@@ -419,8 +754,14 @@
 :le:prokomi/zw
 :aj:prokomist verb_adj2 suff_acc
 
+:le:prole/gw
+:aj:prolekt verb_adj2 suff_acc
+
 :le:proora/w
 :aj:proorat verb_adj2 suff_acc
+
+:le:proparaite/omai
+:aj:proparaitht verb_adj2 suff_acc
 
 :le:prosapore/w
 :aj:prosaporht verb_adj2 suff_acc
@@ -436,6 +777,12 @@
 
 :le:prosdiatri/bw
 :aj:prosdiatript verb_adj2 suff_acc
+
+:le:prosdi/dwmi
+:aj:prosdot verb_adj2 suff_acc
+
+:le:prosedreu/w
+:aj:prosedreut verb_adj2 suff_acc
 
 :le:prose/rxomai
 :aj:proselqet verb_adj2 suff_acc
@@ -461,8 +808,17 @@
 :le:prosefarmo/zw
 :aj:prosefarmost verb_adj2 suff_acc
 
+:le:prosefermhneu/w
+:aj:prosefermhneut verb_adj2 suff_acc
+
+:le:proskolla/w
+:aj:proskollht verb_adj2 suff_acc
+
 :le:prosko/ptw
 :aj:proskopt verb_adj2 suff_acc
+
+:le:proskri/nw
+:aj:proskrit verb_adj2 suff_acc
 
 :le:prosle/gw
 :aj:proslekt verb_adj2 suff_acc
@@ -470,8 +826,20 @@
 :le:prosmei/gnumi
 :aj:prosmikt verb_adj2 suff_acc
 
+:le:prosnoe/w
+:aj:prosnoht verb_adj2 suff_acc
+
+:le:prosoikeio/w
+:aj:prosoikeiwt verb_adj2 suff_acc
+
+:le:prosomile/w
+:aj:prosomilht verb_adj2 suff_acc
+
 :le:prosomoio/w
 :aj:prosomoiwt verb_adj2 suff_acc
+
+:le:prospne/w
+:aj:prospneust verb_adj2 suff_acc
 
 :le:prostikte/on
 :aj:prostikt verb_adj2 suff_acc
@@ -488,17 +856,32 @@
 :le:proti/qhmi
 :aj:proqet verb_adj2 suff_acc
 
+:le:protre/pw
+:aj:protrept verb_adj2 suff_acc
+
 :le:prou+polamba/nw
 :aj:proupolhpt verb_adj2 suff_acc
 
 :le:prowne/omai
 :aj:prownht verb_adj2 suff_acc
 
+:le:ptoe/w
+:aj:ptoht verb_adj2 suff_acc
+
 :le:pwmaste/on
 :aj:pwmast verb_adj2 suff_acc
 
+:le:r(wste/on
+:aj:r(wst verb_adj2 suff_acc
+
+:le:seba/zomai
+:aj:sebast verb_adj2 suff_acc
+
 :le:se/bomai
 :aj:sept verb_adj2 suff_acc
+
+:le:skandali/zw
+:aj:skandalist verb_adj2 suff_acc
 
 :le:skeda/nnumi
 :aj:skedast verb_adj2 suff_acc
@@ -525,6 +908,12 @@
 :aj:sugkatariqmat verb_adj2 suff_acc doric
 :aj:sugkatariqmht verb_adj2 suff_acc
 
+:le:sugkinduneute/on
+:aj:sugkinduneut verb_adj2 suff_acc 
+
+:le:sugkoinwne/w
+:aj:sugkoinwnht verb_adj2 suff_acc 
+
 :le:sugxra/omai
 :aj:sugxrhst verb_adj2 suff_acc
 
@@ -537,11 +926,29 @@
 :le:summeikte/on
 :aj:summikt verb_adj2 suff_acc
 
+:le:summeri/zw
+:aj:summerist verb_adj2 suff_acc
+
+:le:sumpaqe/w
+:aj:sumpaqht verb_adj2 suff_acc
+
 :le:sumparape/mpw
 :aj:sumparapempt verb_adj2 suff_acc
 
+:le:sumpei/qw
+:aj:sumpeist verb_adj2 suff_acc
+
+:le:sumfore/w
+:aj:sumforht verb_adj2 suff_acc
+
+:le:sumfrone/w
+:aj:sumfronht verb_adj2 suff_acc
+
 :le:sumya/llw
 :aj:sumyalt verb_adj2 suff_acc
+
+:le:sunaqroizw
+:aj:sunaqroist verb_adj2 suff_acc
 
 :le:sunainete/on
 :aj:sunainet verb_adj2 suff_acc
@@ -554,6 +961,9 @@
 
 :le:sunalei/fw
 :aj:sunaleipt verb_adj2 suff_acc
+
+:le:sunarta/w
+:aj:sunartht verb_adj2 suff_acc
 
 :le:sundiaire/w
 :aj:sundiairet verb_adj2 suff_acc
@@ -570,6 +980,12 @@
 :le:sunekde/xomai
 :aj:sunekdekt verb_adj2 suff_acc
 
+:le:sunekpone/w
+:aj:sunekponht verb_adj2 suff_acc
+
+:le:sunecakou/w
+:aj:sunecakoust verb_adj2 suff_acc
+
 :le:suneceta/zw
 :aj:sunecetast verb_adj2 suff_acc
 
@@ -585,6 +1001,9 @@
 :le:suntri/bw
 :aj:suntript verb_adj2 suff_acc
 
+:le:sunupa/gw
+:aj:sunupakt verb_adj2 suff_acc
+
 :le:swmatopoie/w
 :aj:swmatopoiht verb_adj2 suff_acc
 
@@ -594,8 +1013,23 @@
 :le:tiqaseute/on
 :aj:tiqaseut verb_adj2 suff_acc
 
+:le:tropologe/w
+:aj:tropologht verb_adj2 suff_acc
+
+:le:troxa/zw
+:aj:troxast verb_adj2 suff_acc
+
+:le:truga/w
+:aj:trught verb_adj2 suff_acc
+
 :le:tupo/w
 :aj:tupwt verb_adj2 suff_acc
+
+:le:u(poxauno/w
+:aj:u(poxaunwt verb_adj2 suff_acc
+
+:le:u(ptio/w
+:aj:u(ptiwt verb_adj2 suff_acc
 
 :le:filologe/w
 :aj:filologht verb_adj2 suff_acc
@@ -605,6 +1039,7 @@
 
 :le:fulokrine/w
 :aj:fulokrinht verb_adj2 suff_acc
+:aj:filokrinht verb_adj2 suff_acc
 
 :le:fushte/on
 :aj:fusht verb_adj2 suff_acc
@@ -762,6 +1197,9 @@
 :le:a)pele/gxw
 :aj:a)pelegkt verb_adj2 suff_acc
 
+:le:a)peu/xomai
+:aj:a)peukt verb_adj2 suff_acc
+
 :le:a)pofe/rw
 :aj:a)penekt verb_adj2 suff_acc
 
@@ -870,14 +1308,26 @@
 :le:e)gxwre/w
 :aj:e)gxwrht verb_adj2 suff_acc
 
+:le:e)kbadiste/on
+:aj:e)kbadist verb_adj2 suff_acc
+
 :le:e)kbai/nw
 :aj:e)kbat verb_adj2 suff_acc
+
+:le:e)kbasani/zw
+:aj:e)kbasanist verb_adj2 suff_acc
+
+:le:e)kbli/sai
+:aj:e)kblist verb_adj2 suff_acc
 
 :le:e)kdei/knumi
 :aj:e)kdeikt verb_adj2 suff_acc
 
 :le:e)kzhte/w
 :aj:e)kzhtht verb_adj2 suff_acc
+
+:le:e)kqerapeu/w
+:aj:e)kqerapeut verb_adj2 suff_acc
 
 :le:e)kqlipte/on
 :aj:e)kqlipt verb_adj2 suff_acc
@@ -897,14 +1347,26 @@
 :le:e)ktopi/zw
 :aj:e)ktopist verb_adj2 suff_acc
 
+:le:e)kfwne/w
+:aj:e)kfwnht verb_adj2 suff_acc
+
 :le:e)leeinologe/omai
 :aj:e)leeinologht verb_adj2 suff_acc
 
 :le:e)lee/w
 :aj:e)leht verb_adj2 suff_acc
 
+:le:e)mpodi/zw
+:aj:e)mpodist verb_adj2 suff_acc
+
 :le:e)mpoihte/on
 :aj:e)mpoht verb_adj2 suff_acc
+
+:le:e)mpuri/zw
+:aj:e)mpurist verb_adj2 suff_acc
+
+:le:e)myu/xw
+:aj:e)myukt verb_adj2 suff_acc
 
 :le:e)nagwni/zomai
 :aj:e)nagwnist verb_adj2 suff_acc
@@ -921,6 +1383,9 @@
 :le:e)ndi/dwmi
 :aj:e)ndot verb_adj2 suff_acc
 
+:le:e)ndoia/zw
+:aj:e)ndoiast verb_adj2 suff_acc
+
 :le:fe/rw
 :aj:e)nekt verb_adj2 suff_acc
 
@@ -930,11 +1395,26 @@
 :le:e)ntri/bw
 :aj:e)ntript verb_adj2 suff_acc
 
-:le:e)cergaste/on
-:aj:e)ceirgast verb_adj2 suff_acc
+:le:e)camu/nomai
+:aj:e)camunt verb_adj2 suff_acc
+
+:le:e)canqi/zw
+:aj:e)canqist verb_adj2 suff_acc
+
+:le:e)ca/ptw
+:aj:e)capt verb_adj2 suff_acc
+
+:le:e)cariqme/w
+:aj:e)cariqmht verb_adj2 suff_acc
 
 :le:e)celate/os
 :aj:e)celast verb_adj2 suff_acc
+
+:le:e)cergaste/on
+:aj:e)ceirgast verb_adj2 suff_acc
+
+:le:e)cereuna/w
+:aj:e)cereunht verb_adj2 suff_acc
 
 :le:e)ceulabe/omai
 :aj:e)ceulabht verb_adj2 suff_acc
@@ -1099,3 +1579,9 @@
 
 :le:r(aqumhte/on
 :aj:r(a|qumht verb_adj2 suff_acc
+
+:le:fwti/zw
+:aj:fwtist verb_adj2 suff_acc
+
+:le:ya/llw
+:aj:yalt verb_adj2 suff_acc

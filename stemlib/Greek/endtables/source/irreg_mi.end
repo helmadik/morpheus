@@ -1,6 +1,7 @@
 men@adj1 ath_primary  pres mp part
 men@adj1 ath_primary perf part mp
 e@s_sa_n ath_primary pres part act needs_acc
+e@s_sa_n ath_primary pres part act aeolic
 nai ath_primary pres inf act stem_acc
 @ath_inf_act ath_primary pres inf act stem_acc
 sqai ath_primary pres inf mp

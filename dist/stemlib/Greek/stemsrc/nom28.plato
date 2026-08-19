@@ -48,6 +48,8 @@
 
 :le:a)eiki/nhtos
 :aj:a)eikinht os_on
+:aj:a)eikina_t os_on doric
+:aj:a)eikinht os_on suff_acc late
 
 :le:a)ei/reitos
 :aj:a)eireit os_h_on
@@ -103,6 +105,7 @@
 
 :le:a)llodhmi/a
 :no:a)llodhmi h_hs fem stem_acc
+:no:a)lloda_mi h_hs fem stem_acc doric
 
 :le:a)llodoci/a
 :no:a)llodoci h_hs fem
@@ -184,6 +187,7 @@
 
 :le:a)ne/kplutos
 :aj:a)nekplut os_on
+:aj:a)nekplunt os_on
 
 :le:a)nemiai=os
 :aj:a)nemiai os_on stem_acc
@@ -280,6 +284,7 @@
 
 :le:a)nwmalo/ths
 :no:a)nwmaloth s_tos fem
+:no:a)nomaloth s_tos fem
 
 #:le:a)panthte/os
 #:aj:a)pantht verb_adj1
@@ -740,9 +745,6 @@
 :le:du/speptos
 :aj:duspept os_on
 
-:le:dussu/mbolos
-:aj:dussumbol os_on
-
 :le:du/staktos
 :aj:dustakt os_on
 
@@ -772,6 +774,7 @@
 
 :le:e)gka/qetos
 :aj:e)gkaqet os_on
+:aj:e)nkaqet os_on late
 
 :le:e)gkairi/a
 :no:e)gkairi h_hs fem stem_acc
@@ -782,9 +785,6 @@
 :le:e)/gkairos
 :aj:e)gkair os_on
 :aj:e)gkairi os_on
-
-:le:e)/gklisis
-:no:e)gklis is_ews fem
 
 :le:e)/gkritos
 :aj:e)gkrit os_on
@@ -861,6 +861,7 @@
 
 :le:e)/lleiyis
 :no:e)lleiy is_ews fem
+:no:e)nleiy is_ews fem late
 
 :le:e)llimeniko/s
 :aj:e)llimenik os_h_on suff_acc
@@ -874,7 +875,8 @@
 :le:e(me/ra
 :no:e(mer h_hs fem stem_acc
 
-:le:e)mmenhtiko/s
+:le:e)mmenetiko/s
+:aj:e)mmenetik os_h_on suff_acc
 :aj:e)mmenhtik os_h_on suff_acc
 
 :le:e)/mmestos
@@ -955,6 +957,8 @@
 
 :le:e(caxh=|
 :wd:e(caxh=| adverb
+:wd:e(/caxa adverb
+:wd:e(caxh= adverb
 
 :le:e)cei/lhsis
 :no:e)ceilhs is_ews fem
@@ -1718,6 +1722,7 @@
 :le:o)ktae/ths
 :aj:o)ktaet hs_es stem_acc
 :aj:o)ktaet is_idos stem_acc fem
+:aj:o)ktaet hs_es suff_acc ionic late
 
 :le:o)ligo/misqos
 :aj:o)ligomisq os_on
@@ -1943,7 +1948,8 @@
 :le:peri/rransis
 :no:perirrans is_ews fem
 
-:le:peritta/kis
+:le:perissa/kis
+:wd:perissa/kis adverb
 :wd:peritta/kis adverb
 
 :le:perixa/reia
@@ -2235,9 +2241,6 @@
 
 :le:sugkritiko/s
 :aj:sugkritik os_h_on suff_acc
-
-:le:sugxw/rhsis
-:no:sugxwrhs is_ews fem
 
 :le:su/lhsis
 :no:sulhs is_ews fem
@@ -2660,7 +2663,7 @@
 :no:*kefal os_ou masc pers_name
 
 :le:*kleitofw=n
-:no:*kleitofw n_ntos masc contr stem_acc pers_name 
+:no:*kleitof wCn_wCntos masc suff_acc
 
 :le:*lusi/as
 :no:*lusi hs_ou masc pers_name
@@ -2685,9 +2688,11 @@
 
 :le:*pi/ndaros
 :no:*pindar os_ou masc
+:wd:*pinda/roi os_ou masc dat sg boeotian
 
 :le:*pittako/s
 :no:*pittak os_ou masc suff_acc
+:no:*fittak os_ou masc aeolic
 
 :le:*pole/marxos
 :no:*polemarx os_ou masc pers_name

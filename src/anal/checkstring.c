@@ -97,11 +97,23 @@ checkstring1(gk_word *Gkword)
 	if( workword_of(Gkword)[0] == '\'' ) { /* check for prodelision */
 		char savework[MAXWORDSIZE];
 		int n = 0;
-		
+	
+		/* Check rough breathing first -WMS */	
 		Xstrncpy(savework,workword_of(Gkword),MAXWORDSIZE);
-		set_workword(Gkword,"e)");
+		set_workword(Gkword,"e(");
 		Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
 		n = checkstring2(Gkword);
+
+                if ( ! n ) {
+			set_workword(Gkword,"e)");
+			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+			n = checkstring2(Gkword);
+		}
+                if ( ! n ) {
+			set_workword(Gkword,"*)e");
+			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+			n = checkstring2(Gkword);
+		}
 
 /*
  * grc 12/16/89
@@ -122,8 +134,41 @@ checkstring1(gk_word *Gkword)
 		Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
 		n = checkstring2(Gkword);
 
+                if ( ! n ) {
+			set_workword(Gkword,"*)a");
+			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+			n = checkstring2(Gkword);
+		}
+                if ( ! n ) {
+			set_workword(Gkword,"a(");
+			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+			n = checkstring2(Gkword);
+		}
+
 		if( ! n && ! hasaccent(savework) ) {
 			set_workword(Gkword,"a)/");
+			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+			n = checkstring2(Gkword);
+			
+		}
+		
+		
+		set_workword(Gkword,"o)");
+		Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+		n = checkstring2(Gkword);
+
+                if ( ! n ) {
+			set_workword(Gkword,"o(");
+			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+			n = checkstring2(Gkword);
+		}
+                if ( ! n ) {
+			set_workword(Gkword,"*)o");
+			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
+			n = checkstring2(Gkword);
+		}
+		if( ! n && ! hasaccent(savework) ) {
+			set_workword(Gkword,"o)/");
 			Xstrncat(workword_of(Gkword),savework+1,MAXWORDSIZE);
 			n = checkstring2(Gkword);
 			
@@ -228,6 +273,11 @@ typedef struct {
 
 enclitic_word GreekSuff[] = {
   "per", NOUNSTEM|ADJSTEM,
+  "ou=n", NOUNSTEM|ADJSTEM,
+  "oun", NOUNSTEM|ADJSTEM,
+  "pote", NOUNSTEM|ADJSTEM,
+  "dh/pote", NOUNSTEM|ADJSTEM,
+  "dhpote", NOUNSTEM|ADJSTEM,
   "", 0				/* sentinel */
 };
 
@@ -242,6 +292,7 @@ enclitic_word LatinSuff[] = {
   "vis", 0, /* quantusvis */
   "piam", 0, /* quempiam */
   "dem", 0,
+  "dum", 0,
   "met", PRONOUN|PERS_PRON,
   "", 0				/* sentinel */
 };
@@ -856,10 +907,20 @@ checkapostr(gk_word *Gkword)
    appear to be one syllable -- it's an elided disyllable.  But d' will appear 
    to have no syllables at all -- it is therefore an elided monosyllable and
    must be de.  */
+	num_sylls = nsylls(workword_of(Gkword));
+/*
+	if (num_sylls == 1) {
+		for(int i = 0; i < strlen(*p) - 1; i++) {
+                        char next_l = *(p+1);
+	       		if (*(p+i) == '/' && Is_cons(next_l) ) {
+//				memmove(*(p+i), *(p + i +1), *(p + i));
+			}
+		}
+	}
+*/
 /*
  * try an 'a'
  */
-	num_sylls = nsylls(workword_of(Gkword));
 	if (num_sylls >= 1)
 	{
  		add_apostrvowel(workword_of(Gkword),p,"a");
@@ -933,6 +994,7 @@ checkapostr(gk_word *Gkword)
 static
 add_apostrvowel(char *word, char *end, char *vow)
 {
+
 /*
  * if it has no accents (like a)ll' from a)lla/) stick one on
  */

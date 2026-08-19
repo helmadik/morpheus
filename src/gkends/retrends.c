@@ -79,12 +79,17 @@ printf("AvoidEnd:"); PrntAGstr(&AvoidEnd,stdout); printf("\n");
 		if( * prevbstr )
 			add_morphflag(morphflags_of(tmpgstr),HAS_PREVERB);
 	}
-
-	if( /*Is_geog_name(morphflags_of(&WantEnd)) || */Is_pers_name(morphflags_of(tmpgstr))) {
+/*
+	if( Is_pers_name(morphflags_of(&WantEnd)) || Is_geog_name(morphflags_of(tmpgstr))) {
 		if( ! number_of(forminfo_of(&WantEnd)) ) 
 			set_number(forminfo_of(&WantEnd),SINGULAR);
 	}
-
+*/
+	if( Is_group_name(morphflags_of(&WantEnd)) ) {
+		if( ! number_of(forminfo_of(&WantEnd)) ) 
+			set_number(forminfo_of(&WantEnd),PLURAL);
+	}
+//swapped out geog and pers here for experimenting but persname pl still not working? commented out. 
 /*
 	if( !(gstring = RetrCompEnds(&WantEnd,&AvoidEnd,nends,OrDialect))) {
 		return(NULL);

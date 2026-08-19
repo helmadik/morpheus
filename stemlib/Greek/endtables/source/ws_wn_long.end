@@ -1,2 +1,18 @@
-a@decl2 ws_wn_long
-@decl2 ws_wn long masc fem neut gen pl
+#a@decl2 ws_wn_long contr
+@decl2 ws_wn_long masc fem neut gen pl
+ws ws_wn_long adverbial
+ws ws_wn_long nom  sg masc fem
+wn ws_wn_long nom voc acc sg neut 
+w ws_wn_long gen sg masc fem neut
+w| ws_wn_long dat sg masc fem neut
+wn ws_wn_long acc sg masc fem
+w ws_wn_long acc sg masc fem
+w ws_wn_long nom voc acc dual masc neut fem
+w|n ws_wn_long gen dat dual masc neut fem
+w| ws_wn_long nom voc pl masc fem
+w  ws_wn_long nom voc acc pl neut fem
+wn ws_wn_long gen pl masc neut fem
+w|s ws_wn_long dat pl masc neut fem
+w|si ws_wn_long dat pl masc neut fem
+w^s ws_wn_long nom pl masc fem
+

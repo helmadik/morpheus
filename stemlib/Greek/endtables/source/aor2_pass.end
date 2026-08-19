@@ -21,4 +21,5 @@ hs@pr_inf_mp aor2_pass fut pass inf
 hs@pr_ind_mp aor2_pass fut pass ind
 hs@pr_opt_mp aor2_pass fut pass opt
 e@s_sa_n aor2_pass aor pass part needs_acc
+e@s_sa_n aor2_pass aor pass part aeolic
 hsomen@adj1 aor2_pass fut part pass

@@ -19,7 +19,7 @@
 :vs:e)rexq w_stem
 
 :le:oi)=da
-:vs:i)s ami_pr pres part act
+:vs:i)s ami_pr pres part act doric
 
 :le:fullorroe/w
 :de:fullo-ro ew_denom poetic
@@ -436,7 +436,7 @@
 :le:a)kuro/w
 :de:a)kur ow_denom
 
-:le:eu)hkohe/w
+:le:eu)hkoe/w
 :de:eu)hko ew_denom
 
 #thucydides
@@ -586,6 +586,8 @@
 
 :le:sxinduleu/w
 :de:sxindul euw
+:de:skindul euw
+:de:skindal euw
 
 :le:a)nikma/w
 :de:a)nikm aw_denom
@@ -653,6 +655,7 @@
 
 :le:h(gemone/w
 :de:h(gemon ew_denom
+:de:a_(gemon ew_denom doric
 
 :le:metewropore/w
 :de:metewropor ew_denom

@@ -4,7 +4,8 @@ a@iterat_act aor1 aor ind act
 e/-ato aor1 3rd pl aor ind mp ionic
 a-o aor1 2nd sg aor ind mid epic
 a@iterat_mp aor1 aor ind mid
-@a1_inf_act aor1 aor inf act stem_acc
+@a1_inf_act aor1 aor inf act aeolic
+@a1_inf_act aor1 aor inf act stem_acc attic ionic epic doric
 @a1_inf_mid aor1 aor inf mid
 @pr_sub_act aor1 aor subj act
 @pr_sub_mp aor1 aor subj mid

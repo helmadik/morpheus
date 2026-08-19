@@ -5,4 +5,7 @@ os hs_eos nom voc acc sg neut
 e@decl3 hs_eos
 e-i+ hs_eos dat sg epic ionic
 ei hs_eos dat sg contr 
+eis hs_eos masc fem nom voc acc pl contr
+esfi hs_eos dat epic
+esfin hs_eos dat epic
 hn hs_eos masc acc sg  pers_name

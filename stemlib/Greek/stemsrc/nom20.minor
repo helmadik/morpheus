@@ -40,7 +40,7 @@
 :wd:ei)ko/teron adverb comp
 
 :le:periergaste/os
-:aj:periergast verb_adj1
+:aj:periergast verb_adj2 suff_acc
 
 :le:duspragi/a
 :no:duspragi h_hs fem stem_acc
@@ -123,7 +123,7 @@
 :no:neosu/llog os_on
 
 :le:a)nadekte/os
-:aj:a)nadekt verb_adj1
+:aj:a)nadekt verb_adj2 suff_acc
 
 :le:sugkath/goros
 :no:sugkathgor os_ou masc
@@ -240,19 +240,19 @@
 :no:a)rxeqewr os_ou masc suff_acc
 
 :le:proete/os
-:aj:proet verb_adj1
+:aj:proet verb_adj2 suff_acc
 
 :le:prosdekte/os
-:aj:prosdekt verb_adj1
+:aj:prosdekt verb_adj2 suff_acc
 
 :le:sterkte/os
-:aj:sterkt verb_adj1
+:aj:sterkt verb_adj2 suff_acc
 
 :le:kataplhkte/os
-:aj:kataplhkt verb_adj1
+:aj:kataplhkt verb_adj2 suff_acc
 
 :le:prosdokhte/os
-:aj:prosdokht verb_adj1
+:aj:prosdokht verb_adj2 suff_acc
 
 #Lycurgus
 
@@ -288,4 +288,4 @@
 :aj:a)napodeikt os_on
 
 :le:e)caithte/os
-:aj:e)caitht verb_adj1
+:aj:e)caitht verb_adj2 suff_acc

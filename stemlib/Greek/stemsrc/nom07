@@ -144,6 +144,7 @@
 
 :le:a)na/pwtis
 :no:a)na-pwt is_ews fem
+:no:a)napwt is_idos fem stem_acc
 
 :le:a)ntamoibh/
 :no:a)nt-amoib h_hs fem suff_acc
@@ -193,6 +194,7 @@
 
 :le:a)rguri/s
 :no:a)rgu_r is_idos fem suff_acc
+:no:a)rgu_r is_idos fem doric
 
 :le:*)arhi/filos
 :aj:a)^rhi+-fi^l  os_h_on
@@ -293,7 +295,7 @@
 :no:batei h_hs fem 
 :no:bati h_hs fem suff_acc
 
-:le:biaths
+:le:biata/s
 :no:bia_t hs_ou masc suff_acc
 
 :le:boubo/ths
@@ -476,6 +478,8 @@
 
 :le:e)cai/fnhs
 :wd:e)cai/fnas adverb doric
+
+:le:e)capi/nhs
 :wd:e)capi/nas adverb doric
 
 :le:e(ca/riqmos
@@ -723,11 +727,6 @@
 :le:kamatwdh/s
 :aj:kamatwd hs_es suff_acc
 
-:le:ka/n
-:wd:ka/n prep apocope poetic
-:xref $kata/
-:dnum	[0]	$kata/& with apocope before words beginning in $n&.
-
 :le:karpa/limos
 :aj:karpali^m os_h_on
 
@@ -875,7 +874,7 @@
 :aj:mnasi-stefan os_on
 
 :le:mnhsth/r
-:no:mna_sth r_ros fem stem_acc doric
+:no:mna_sth r_ros masc stem_acc doric
 
 :le:mormo/rucis
 :no:mormoruc is_ews fem

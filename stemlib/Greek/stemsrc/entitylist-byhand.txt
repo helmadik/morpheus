@@ -31,7 +31,6 @@
 *sfi/gc	group
 *serapei=on	place
 *septe/mbrios	month
-*se/leukos	person
 *saka/dhs	person
 *koumano/s	person
 *puqia/s	group
@@ -47,7 +46,6 @@
 *drwpi/dhs	person
 *eu)rubia/dhs	person
 *fulh/	place
-*pa=nes	group
 *dionu/sia	festival
 *panaqh/naia	festival
 *xa/ris	group
@@ -296,7 +294,6 @@
 *sata/n	person
 *trifuli/h	place
 *)/altis	place
-*leui/ths	group
 *ligustiko/s	place
 *dwriko/s	ethnic
 *ti=tos	person
@@ -525,7 +522,6 @@
 *)anti/a	person
 *)antiath/s	person
 *)antife/ra	person
-*)antifw/n	person
 *)antigoni/s	person
 *)antigoniko/s	person
 *)antimaxei/a	person
@@ -581,8 +577,6 @@
 *)asw/pixos	person
 *)ate/as	person
 *)ath/ios	person
-*)ati/lios	person
-*)ati/llios	person
 *)atlanti/s	person
 *)atlantiko/s	person
 *)atlantiko/s	place
@@ -604,9 +598,7 @@
 *)eleuqerai/	place
 *)eleusino/qen	place
 *)elieu/s	ethnic
-*)elimi/ai	person
 *)ello/pios	person
-*)empedo/kleios	person
 *)enueu/s	person
 *)epida/mnios	ethnic
 *)epikou/reios	group
@@ -692,7 +684,6 @@
 *)rari/a	person
 *)wgu/gios	person
 *)widei=on	person
-*)wri/wn	person
 *ai(/mwn	person
 *ai)/geiroi	place
 *ai)/gesta	person
@@ -716,7 +707,6 @@
 *ai)sw/peios	person
 *ai)twliko/s	person
 *au)/gour	group
-*au)/goustos	person
 *au)/sic	person
 *au)fi/dios	person
 *au)ge/as	person
@@ -893,7 +883,6 @@
 *fonth/ios	person
 *fou/rnios	person
 *fqi=os	person
-*fqiw/ths	person
 *fraa/ths	person
 *frea/rrios	group
 *frea/rrios	person
@@ -945,7 +934,6 @@
 *graniko/s	place
 *gru/llos	person
 *gu/lwn	person
-*gumnosofistai/	person
 *gurtia/s	person
 *ka/fis	person
 *ka/llaisxros	person
@@ -1030,18 +1018,14 @@
 *koi/lios	person
 *koi/ranos	person
 *kokkh/ios	person
-*kolluteu/s	person
-*kolluto/s	person
 *kolwno/s	person
 *kolwno/s	place
 *komi/nios	person
 *kommi/nios	person
 *konsi/dios	person
-*kopti/ths	person
 *kora/tios	person
 *korduli/wn	person
 *korh/tas	person
-*koriolano/s	person
 *korni/klana	place
 *kornifi/kios	person
 *korunh/ths	person
@@ -1118,7 +1102,6 @@
 *leu/koullos	person
 *leu=kos	person
 *leu=ktros	person
-*leui/ths	person
 *leuka/tas	person
 *leukani/s	person
 *leukonoeu/s	person
@@ -1402,7 +1385,6 @@
 *porki/as	person
 *porsi/nas	person
 *postou/mios	person
-*potidai/a	person
 *pou/plios	person
 *pouluti/wn	person
 *pri/mas	person
@@ -1458,7 +1440,6 @@
 *qra/kios	person
 *qra/swn	person
 *qra=|ssa	ethnic
-*qra=|ssa	person
 *qrase/as	person
 *qra|kiko/s	person
 *qria/sios	person
@@ -1631,7 +1612,6 @@
 *tarph/ios	person
 *tarphi/a	person
 *tarrou/tios	person
-*tau/geton	person
 *taure/as	person
 *te/llhs	person
 *te/llos	person

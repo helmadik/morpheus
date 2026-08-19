@@ -1,13 +1,19 @@
-a_hs 04 noun1
 h_hs 02 noun1
+a_hs 04 noun1
+as_a 05 noun1
 hs_ou 06 noun1
-ah_ahs 011 noun1
+eas_ea 07 noun1
 eh_ehs 010 noun1
+ah_ahs 011 noun1
 ehs_eou 012 noun1
 os_ou 01 noun2
 eos_eou 03 noun2
 oos_oou 02 noun2
 aos_aou 05 noun2
+hs_h 076 noun1
+aCs_a 077 noun1
+hCs_h 078 noun1
+i_iou 06 noun2
 oeis_oentos 046 noun3
 wn_nos 045 noun3
 gc_gos 044 noun3
@@ -35,6 +41,7 @@ ous_ontos 055 noun3
 ewn_ewnos 075 noun3
 s_ntos 074 noun3
 ma_matos 023 noun3
+pa_patos noun3
 ar_atos 016 noun3
 r_ros 033 noun3
 r_rtos 035 noun3
@@ -56,6 +63,8 @@ y_fos 017 noun3
 ws_oos 05 noun3
 w_oos 047 noun3
 ws_wos 063 noun3
+wCs_w 076 noun3
+wn_nos_irr 077 noun3
 is_ews 014 noun3
 us_ews 050 noun3
 us_uos 054 noun3
@@ -64,12 +73,13 @@ s_ros 040 noun3
 s_os 051 noun3
 hr_eros 071 noun3
 hr_ros 072 noun3
+hs_entos 066 noun3
 os_h_on 01 adj1
 os_on 03 adj2
-ws_wn_long 021 adj2
 verb_adj1 07 adj2
 verb_adj2 010 adj1
 ws_wn 04 adj2
+ws_wn_long 022 adj2
 eos_eh_eon 05 adj1
 art_adj 011 adj1
 oos_oh_oon 02 adj1

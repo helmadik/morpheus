@@ -14,11 +14,16 @@ ai nom voc pl
 a_/-wn gen pl epic aeolic
 e/-wn gen pl epic ionic
 a=n gen pl doric aeolic
+a_n gen pl aeolic
 w=n gen pl
 ais dat pl
 h|s dat pl epic
 h|si dat pl ionic epic
 aisi dat pl poetic  epic aeolic ionic
-hfi dat pl epic
+hfi dat epic
+hfin dat epic
+h|fi dat epic
+h|fin dat epic
+
 a_s acc pl
 es nom voc acc pl late

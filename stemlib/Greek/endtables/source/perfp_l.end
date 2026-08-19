@@ -1,5 +1,7 @@
 lqai perfp_l perf mp inf  
-l@ath_mp_1 perfp_l perf ind mp  not 3rd pl
-l@ath_mp_2 perfp_l plup ind mp  not 3rd pl
+lqe perfp_l perf ind mp 2nd pl
+lqe perfp_l plup ind mp 2nd pl
+l@ath_mp_1 perfp_l perf ind mp  not 2nd 3rd pl
+l@ath_mp_2 perfp_l plup ind mp  not 2nd 3rd pl
 l@ath_imp_mp perfp_l perf imperat mp
 l@perfp_part perf part mp perfp_l

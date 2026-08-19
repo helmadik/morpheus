@@ -87,13 +87,12 @@ ix :perf_act:izw
 ixq :aor_pass:izw
 iz :w_stem:izw i+z:w_stem:izw
 kt :os_on:ss
-o :perfp_d:ozw :perfp_g:ozw:doric
-oc :aor1:ozw :reg_fut:ozw
+o :perfp_d:ozw:attic:epic:ionic :perfp_g:ozw:doric
 ok :perf_act:ozw
-os :aor1:ozw :reg_fut:ozw
+os :aor1:ozw:attic:ionic :reg_fut:ozw:attic:ionic
 osd :w_stem:ozw:doric
-osq :aor_pass:ozw
-oss :aor1:ozw
+osq :aor_pass:ozw:attic:ionic
+oss :aor1:ozw:epic:ionic
 ost :os_on:ozw
 oxq :aor_pass:ozw:doric
 oz :w_stem:ozw

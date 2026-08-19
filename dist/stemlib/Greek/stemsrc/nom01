@@ -18,6 +18,7 @@
 
 :le:a)bakh/s
 :aj:a)-bak hs_es suff_acc
+:aj:a)-bak hs_es aeolic
 
 :le:a)ba/kxeutos
 :aj:a)-bakxeut os_on
@@ -88,6 +89,8 @@
 
 :le:a)blabh/s
 :aj:a)-blab hs_es suff_acc
+:aj:a)-blab hs_es aeolic
+:wd:a)bla/bhn hs_es masc fem acc sg aeolic
 
 :le:a)ble/faros
 :aj:a)-blefar os_on
@@ -171,11 +174,15 @@
 :le:a(bro/s
 :aj:a(br os_h_on suff_acc
 :aj:a(br os_on suff_acc
+:aj:a)br os_h_on aeolic
+
+:le:a(brosu/nh
+:no:a(brosun h_hs stem_acc fem *sappho *eur.
+:no:a)brosun h_hs aeolic
 
 :le:a(bro/ths
 :no:a(broth s_tos   fem	ant_acc
 :no:a(brota_ s_tos   fem	ant_acc doric
-:no:a(brosun h_hs stem_acc fem *sappho *eur.
 
 :le:a(bro/timos
 :aj:a(bro-ti_m os_on
@@ -221,9 +228,12 @@
 
 :le:a)gaqo/s
 :aj:a)gaq os_h_on suff_acc no_comp
+:aj:a)gaq os_h_on  no_comp aeolic
+:aj:a)gas os_h_on suff_acc doric no_comp
 
 :le:a)gaqwsu/nh
 :no:a)gaqwsun h_hs stem_acc fem
+:no:a)gaqosun h_hs stem_acc fem
 
 :le:a)gakleh/s
 :aj:a)ga klehs_kleous,suff_acc
@@ -304,6 +314,7 @@
 
 :le:a)gano/s
 :aj:a)gan os_h_on suff_acc
+:aj:a)gan os_h_on aeolic
 
 :le:a)ganofrosu/nh
 :no:a)gano-frosun h_hs stem_acc fem
@@ -329,6 +340,7 @@
 :le:a)gaphto/s
 :aj:a)gapa_t os_h_on suff_acc  doric
 :aj:a)gapht os_h_on suff_acc
+:aj:a)gapa_t os_h_on aeolic
 
 :le:a)gapw/ntws
 :wd:a)gapw/ntws adverb *plato
@@ -345,6 +357,7 @@
 
 :le:a)gauo/s
 :aj:a)-gau os_h_on suff_acc a_copul
+:aj:a)-gau os_h_on aeolic a_copul
 
 :le:a)gauro/s
 :aj:a)-gaur os_h_on suff_acc a_copul
@@ -387,6 +400,8 @@
 :le:a)/ge
 :wd:a)/ge adverb
 :wd:a)/gete adverb
+:wd:a)/gi adverb aeolic
+:wd:a)/gite adverb aeolic
 
 :le:a)gei/twn
 :aj:a)-geit wn_on stem_acc
@@ -408,7 +423,6 @@
 
 :le:a)ge/lh
 :no:a)gel h_hs stem_acc fem
-:wd:a)ge/lhfi h_hs dat pl epic 	fem
 
 :le:a)gelhdo/n
 :wd:a)gelhdo/n adverb
@@ -438,6 +452,7 @@
 
 :le:a)ge/rwxos
 :aj:a)gerwx os_on  poetic
+:aj:a)gerwx os_on stem_acc poetic doric
 
 :le:a)ge/stratos
 :no:a)ge-strat os_ou masc fem
@@ -464,27 +479,32 @@
 :le:a)gh/nwr
 :aj:a)g-hn wr_oros stem_acc masc  fem
 :aj:a)g-a_n wr_oros stem_acc masc  fem doric
+
+:le:a)ghno/reios
 :aj:a)ghnorei os_h_on
 :aj:a)ga_norei os_h_on  doric
 
 :le:a)gh/raos
-:aj:a)-ghra os_on
-:aj:a)-ghrant os_on  *simon., *eur.
-:aj:a)-ghrat os_on  *eur., *xen.
-:aj:a)ghr ws_w_long masc fem attic stem_acc
+:aj:a)-ghra os_on epic
+:aj:a)ghr ws_wn_long
 #:wd:a)gh/rwn ws_w acc sg masc fem attic contr os_on
 #:wd:a)gh/rw| ws_w dat sg masc fem attic contr os_on
 #:wd:a)gh/rwn ws_w nom voc acc sg neut attic contr os_on
 #:wd:a)gh/rw ws_w nom voc pl masc fem attic contr os_on
 #:wd:a)gh/rws ws_w acc pl masc fem attic contr os_on
 #:wd:a)gh/rw|s ws_w dat pl masc fem attic contr os_on
-:aj:a)-ghr os_on epic *hes.
+:aj:a)-ghr os_on epic *hes. rare
+:wd:a)gei/rw os_on masc fem nom voc pl boeotian rare
+#corinna I swear!
+:wd:a)gh/rosi ws_w masc fem dat pl late
 
 :le:a)ghsi/laos
-:no:a_)ghsi-la_ os_ou masc
-:no:h(ghsi-la_ os_ou masc
+:no:a)_ghsi-la_ os_ou masc
+#:no:h(ghsi-la_ os_ou masc
 :no:h(ghsi-le ws_w masc ionic
-:no:a_)ghsi-l hs_ou masc doric
+#:no:a_)ghsi-l hs_ou masc doric
+:no:a(_ghsi-la_ os_ou masc
+:no:a)_gesi-la_ os_ou masc late
 
 :le:a)ghsi/xoros
 :aj:a_)ghsi-xor os_on
@@ -497,6 +517,7 @@
 
 :le:a(/gios
 :aj:a(gi os_h_on
+:aj:a)gi os_h_on late
 
 :le:a(gistei/a
 :no:a(gistei h_hs stem_acc fem
@@ -512,6 +533,7 @@
 :le:a)gka/lh
 :no:a)gkal h_hs stem_acc fem
 :no:a)gkal is_idos	suff_acc	fem
+:wd:a)gka/lhsi h_hs fem dat pl boeotian
 
 :le:a)gka/lisma
 :no:a)gkalis ma_matos neut
@@ -552,6 +574,8 @@
 
 :le:a)gkulomh/ths
 :no:a)gkulo-mht hs_ou stem_acc masc  fem
+:no:a)gkoulo-meit hs_ou stem_acc masc  fem
+:no:a)gkulo-mht is_ews masc fem late
 
 :le:a)gkulo/pous
 :aj:a)gkulo pous_podos stem_acc
@@ -577,6 +601,7 @@
 #Hp Epid
 :no:a)gkur os_ou neut
 #hapax
+:no:a)gkurr a_hs fem aeolic
 
 :le:a)gku/rion
 :no:a)gkuri os_ou neut
@@ -589,7 +614,7 @@
 
 :le:a)glai/a
 :no:a)glai+ h_hs stem_acc fem
-:wd:a)glai/+hfi h_hs stem_acc fem gen pl
+#:wd:a)glai/+hfi h_hs stem_acc fem gen pl
 
 :le:a)gla/isma
 :no:a)glai+s ma_matos neut
@@ -666,6 +691,8 @@
 
 :le:a(gno/s
 :aj:a(gn os_h_on suff_acc
+:aj:a)gn os_h_on aeolic
+#lesbian really but not a recognized term
 
 :le:a)/gnos
 :no:a)gn os_ou masc attic
@@ -702,6 +729,7 @@
 :le:a)gora/
 :no:a)gor h_hs suff_acc fem
 :no:a)gor os_ou masc *eur.
+:no:a)gor h_hs  fem aeolic
 
 :le:a)gorai=os
 :aj:a)gorai os_on stem_acc
@@ -733,8 +761,8 @@
 :le:a)gorhtu/s
 :no:a)gorht us_uos suff_acc fem
 
-:le:a)gorh=fi
-:wd:a)gorh=fi adverb
+#:le:a)gorh=fi
+#:wd:a)gorh=fi adverb
 
 :le:a)/gos
 :no:a(^g hs_eos	neut
@@ -826,6 +854,8 @@
 
 :le:a)groiw/ths
 :no:a)groiwt hs_ou stem_acc masc
+:no:a)groiwt is_idos fem stem_acc
+:no:a)groi+wt is_idos fem aeolic
 
 :le:a)gro/nde
 :wd:a)gro/nde adverb
@@ -886,8 +916,7 @@
 :aj:a)-gumnast os_on
 
 :le:a)/guris
-:no:a)gur is_ews fem
-:no:a)gurm os_ou suff_acc masc *babr.
+:no:a)gur is_ews fem aeolic
 
 :le:a)gurmo/s
 :no:a)gurm os_ou suff_acc masc *babr.
@@ -934,6 +963,8 @@
 
 :le:a)gxi/noos
 :no:a)gxi-n oos_oon stem_acc
+:aj:a)gxi-nouster os_h_on irreg_comp
+:aj:a)gxi-noustat os_h_on irreg_superl
 
 :le:a)gxi/ploos
 :no:a)gxi-pl oos_oon stem_acc
@@ -1022,6 +1053,7 @@
 :le:a)gw/n
 :no:a)gw n_nos stem_acc   masc
 #:wd:a(gw/n n_nos masc nom sg crasis o(
+:no:a)gw n_nos aeolic masc
 
 :le:a)gwna/rxhs
 :no:a)gwn-arx hs_ou stem_acc masc
@@ -1133,6 +1165,7 @@
 :le:a)delfide/os
 :no:a)delfid eos_eou,suff_acc,masc
 @ ionic
+:no:a)delfide os_ou,suff_acc,masc doric
 
 :le:a)delfidh=
 :no:a)delfi^d eh_ehs fem	suff_acc
@@ -1202,6 +1235,7 @@
 :wd:a(/^dhn adverb
 :wd:a)/^dhn adverb
 :wd:a)/^ddhn adverb
+:wd:a)/^dan adverb doric
 
 :le:a)/dhris
 :no:a)-dhr is_ews   masc  fem
@@ -1288,7 +1322,7 @@
 :le:a)/dikos
 :aj:a)-di^k os_on
 
-:le:a)dino/s
+:le:a(dino/s
 :aj:a)din os_h_on suff_acc
 :aj:a(din os_h_on suff_acc
 
@@ -1306,6 +1340,7 @@
 
 :le:a)/dmhtos
 :aj:a)-dmht os_h_on
+:aj:a)-dma_t os_h_on
 
 :le:a)do/khtos
 :aj:a)-dokht os_on
@@ -1395,6 +1430,7 @@
 
 :le:a)/duton
 :no:a)-du^t os_ou neut
+:no:a)-dout os_ou neut boeotian
 
 :le:a)/dutos
 :aj:a)-du^t os_on
@@ -1425,6 +1461,7 @@
 :wd:a_)e/ adverb poetic *pind.
 :wd:ai)ei/ adverb  epic
 :wd:ai)e/n adverb  poetic
+:wd:a)/i+ adverb aeolic
 
 :le:a)ei/bolos
 :aj:a)ei-bol os_on
@@ -1466,6 +1503,9 @@
 :le:a)ei/mnhstos
 :aj:a)ei-mnhst os_on
 :aj:ai)ei-mnhst os_on
+:aj:a)ei-mna_st os_on
+:aj:a)ei-mnht os_on
+:aj:a)ei-mnhst os_h_on late fem
 
 :le:a)ei/nhstis
 :no:a)ei-nhst is_ews   masc  fem
@@ -1498,6 +1538,9 @@
 
 :le:a)e/khti
 :wd:a)-e/khti adverb epic
+:wd:a)e/ka_ti adverb doric
+:wd:a)e/kasti adverb late
+#gramm
 
 :le:a)ekou/sios
 :aj:a)-ekousi os_h_on
@@ -1526,8 +1569,10 @@
 :aj:a)ello-max os_on stem_acc
 
 :le:a)ello/pos
-:no:a)ello pous_podos,stem_acc
+:no:a)ello pous_podos,stem_acc epic
 @ end:pos poetic
+:no:a)ello pous_podos,stem_acc 
+:no:a)ello pod hs_ou stem_acc late
 
 :le:*)aellw/
 :no:*)aell w_oos suff_acc fem sg
@@ -1546,9 +1591,12 @@
 :aj:a_)ei-na^ os_on
 :aj:a_)e-na^ os_on
 :aj:a_)e-nna^ os_on
-:aj:a)e-na wn_ousa_on epic stem_acc
-:aj:ai)e-na wn_ousa_on epic stem_acc
 :aj:ai)ei-na os_on ionic
+:aj:a)eine ws_wn attic
+@ end:w| nom voc pl masc fem
+@ end:ws acc pl masc fem
+:aj:a)ena wn_ousa_on
+:aj:ai)ena wn_ousa_on
 
 :le:a)eci/fullos
 :aj:a)eci-full os_on
@@ -1657,6 +1705,12 @@
 
 :le:a)hdh/s
 :aj:a)-hd hs_es suff_acc
+:aj:a)_d hs_es suff_acc poetic
+:aj:au)a_d hs_es aeolic
+:aj:a)ua_d hs_es aeolic
+:wd:au)a/dhn hs_es masc fem acc sg aeolic
+:aj:a)n-hd hs_es suff_acc late
+:wd:a)nhde/ws adverb late
 
 :le:a)hdi/a
 :no:a)-hdi h_hs stem_acc fem
@@ -1677,6 +1731,7 @@
 :wd:a)hdoi= irreg_decl3 voc sg *ar.	fem
 :wd:a)hdous irreg_decl3 gen sg irreg_decl3 *soph.	fem
 :wd:a)hdw/ irreg_decl3 nom sg irreg_decl3	fem
+:no:a)hd wn_onos fem aeolic
 
 :le:a)h/qeia
 :no:a)hqei a_hs fem ionic
@@ -1717,6 +1772,7 @@
 
 :le:a)h/th
 :no:a)ht h_hs stem_acc fem
+:no:a)ht h_hs aeolic fem
 
 :le:a)h/ths
 :no:a)ht hs_ou stem_acc masc
@@ -1747,6 +1803,9 @@
 :le:a)qa/natos
 :aj:a)-qana^t os_h_on  epic poetic
 :aj:a)-qana^t os_on
+:wd:a)qana/ta^ os_h_on aeolic fem voc sg
+#desperate
+:wd:a)qana/tus os_h_on masc fem neut dat pl boeotian
 
 :le:a)/qaptos
 :aj:a)-qapt os_on
@@ -1831,12 +1890,14 @@
 :le:*)aqhnai=os
 :aj:*)aqhnai_ os_h_on stem_acc
 :aj:*)aqa_nai_ os_h_on stem_acc doric aeolic
+:aj:*)asa_nai_ os_h_on stem_acc doric aeolic
 
 :le:*)aqh/nh
 :no:*)aqa_n h_hs fem pers_name doric	stem_acc sg
 :no:*)aqa_n h_hs fem pers_name doric    suff_acc sg
 :no:*)aqa_na+ h_hs fem pers_name aeolic alcae. *theocr sg
 :no:*)aqa_nai h_hs fem pers_name doric sg
+:no:*)asa_nai h_hs fem pers_name doric sg
 :no:*)aqhn ah_ahs fem pers_name attic sg
 :no:*)aqhn h_hs stem_acc fem pers_name sg
 :no:*)aqhnai h_hs fem stem_acc pers_name sg
@@ -2194,8 +2255,9 @@
 :le:a)idh/s
 :aj:a)-i+d hs_es suff_acc
 
-:le:*(/aidhs
+:le:*(/a|dhs
 :no:*)aid hs_ou masc
+:no:*)a|d hs_ou masc
 :no:*)ai+d hs_ou masc poetic
 :no:*)ai+ s_dos masc poetic
 :no:*)ai+dwn eus_ews suff_acc		masc
@@ -2204,6 +2266,7 @@
 :le:a)i/dios
 :aj:a)i+di os_h_on
 :aj:a)i+di os_on
+:aj:a)i+dioter os_h_on irreg_comp
 
 :le:a)idno/s
 :aj:a)-idn hs_es suff_acc
@@ -2214,6 +2277,7 @@
 
 :le:ai)doi=os
 :aj:ai)doi_ os_h_on stem_acc
+:aj:ai)doiestat os_h_on stem_acc doric irreg_superl
 
 :le:ai)do/frwn
 :aj:ai)do-fr wn_on stem_acc
@@ -2272,6 +2336,7 @@
 :le:ai)qh/r
 :no:ai)q hr_eros	suff_acc	masc
 :no:*ai)q hr_eros	suff_acc	masc
+:no:ai)q hr_eros        aeolic        masc
 
 :le:*ai)qiopi/a
 :no:*ai)qiopi h_hs stem_acc fem
@@ -2537,6 +2602,7 @@
 
 :le:ai)no/s
 :aj:ai)n os_h_on suff_acc  poetic ionic epic
+:aj:ai)n os_h_on aeolic
 
 :le:ai)=nos
 :no:ai)_n os_ou masc poetic ionic epic
@@ -2748,7 +2814,7 @@
 :le:ai)sxuntiko/s
 :aj:ai)sxuntik os_h_on suff_acc
 
-:le:a)i/tas
+:le:a)i/+tas
 :no:a)i+_t hs_ou masc doric	stem_acc
 
 :le:ai)/thma
@@ -2800,6 +2866,7 @@
 
 :le:ai)xmh/
 :no:ai)xm h_hs suff_acc fem
+:no:ai)xm h_hs fem aeolic
 
 :le:ai)xmh/eis
 :aj:ai)xmh eis_essa	stem_acc
@@ -2879,9 +2946,13 @@
 
 :le:a)kalarrei/ths
 :no:a)ka^lar-reit hs_ou stem_acc   masc
+:no:a)ka^la-reit hs_ou stem_acc   masc
 
 :le:a)kalh/fh
-:no:a)ka^lhf h_hs stem_acc fem
+:no:a)ka^lhf h_hs fem stem_acc
+:no:a)ka^luf h_hs fem
+:no:a)ka^lif h_hs fem late
+:no:a)ka^lhf h_hs fem late
 
 :le:a)kallh/s
 :aj:a)-kall hs_es suff_acc
@@ -2906,13 +2977,16 @@
 
 :le:a)kamanto/pous
 :no:a)^ka^manto pous_podos	stem_acc
+:wd:a)kamantopo/das hs_ou masc nom sg late poetic
 
 :le:a)ka/mas
 :aj:a)^-ka^m as_asa_an
 
 :le:a)ka/matos
-:aj:a)-ka^ma^t os_h_on
+:aj:a)-ka^ma^t os_h_on fem
 :aj:a)-ka^ma^t os_on
+:wd:a)kamati/ adverb
+:wd:a)kamatei/ adverb
 
 :le:a)/kamptos
 :aj:a)-kampt os_on
@@ -3112,6 +3186,7 @@
 :le:a)kh/n
 :wd:a)kh/n adverb
 :wd:a)ka= adverb doric *pind.
+:wd:a)/kan adverb aeolic
 
 :le:a)khra/sios
 :aj:a)-khrasi os_on
@@ -3158,6 +3233,7 @@
 
 :le:a)kiro/s
 :aj:a)ki^r os_on suff_acc
+:aj:a)ki^r os_on aeolic
 
 :le:a)ki/s
 :no:a)k is_idos suff_acc	fem
@@ -3216,6 +3292,7 @@
 
 :le:a)kmai=os
 :aj:a)kmai_ os_h_on stem_acc
+:aj:a)kma os_h_on aeolic
 
 :le:a)kmh/
 :no:a)km h_hs suff_acc fem
@@ -3255,7 +3332,8 @@
 
 :le:a)koh/
 :no:a)ko h_hs suff_acc fem
-:no:a)kou h_hs	suff_acc	fem
+:no:a)kou h_hs	suff_acc epic fem
+:no:a)kou h_hs  aeolic fem
 
 :le:a)koi/mhtos
 :aj:a)-koimht os_on
@@ -3619,9 +3697,6 @@
 :aj:a)kro-mel as_aina_an stem_acc
 :aj:a)kro-mel as_aina_an
 #pap ed prints former
-
-:le:a)kromo/libdos
-:aj:a)kro-molibd os_on
 
 :le:a)/kron
 :no:a)kr os_ou	neut
@@ -4050,11 +4125,14 @@
 :no:a)^la_qei a_hs fem doric
 :no:a)^lhqei h_hs fem stem_acc epic
 :no:a)^lhqhi+ h_hs fem stem_acc epic
+:no:a)^la_qh| a_hs fem doric late
+:no:a)^lhqh| a_hs fem doric late
 
 :le:a)lhqh/s
 :aj:a)^-la_q hs_es suff_acc doric
 :aj:a)^-lhq hs_es suff_acc
 :wd:a)^/-lhqes adverb
+:aj:a)^-la_q hs_es aeolic
 
 :le:a)lhqino/s
 :aj:a)lhqi^n os_h_on suff_acc
@@ -4065,6 +4143,7 @@
 
 :le:a)lhqosu/nh
 :no:a)lhqosun h_hs stem_acc fem
+:no:a)la_qosun h_hs stem_acc fem doric
 
 :le:a)lh/ios
 :aj:a)-lhi+ os_on epic
@@ -4306,6 +4385,9 @@
 
 :le:a)litro/s
 :aj:a)li^tr os_on suff_acc
+:aj:a)li^tr os_on aeolic
+:aj:a)li^tr os_h_on suff_acc fem
+:aj:a)li^tr os_h_on aeolic fem
 
 :le:a(li/trutos
 :aj:a(li-tru_t os_on
@@ -4450,12 +4532,16 @@
 
 :le:a)llodapo/s
 :aj:a)llo-dap os_h_on suff_acc
+:aj:a)llo-dap os_h_on aeolic
+:aj:a)llo-dap hs_es suff_acc late
 
 :le:a)lloeidh/s
 :aj:a)llo-eid hs_es suff_acc
 
 :le:a)/lloqen
 :wd:a)/lloqen adverb
+:wd:a)/lloqa adverb doric
+:wd:a)/lloqe adverb poetic
 
 :le:a)/lloqi
 :wd:a)/lloqi adverb
@@ -4473,18 +4559,19 @@
 :aj:a)llo-kot os_on
 
 :le:a)llopro/sallos
-:no:a)llo-pros-all os_ou masc
+:no:a)llo-pros-all os_h_on
 
 :le:a)/llos
 :aj:a)ll art_adj
 :aj:a)ll art_adj suff_acc late
 
 :le:a)/llose
-:wd:a)/lloka adverb aeolic doric
+:wd:a)/llose adverb
 
 :le:a)/llote
-:wd:a)/llose adverb
 :wd:a)/llote adverb
+:wd:a)/llota adverb aeolic
+:wd:a)/lloka adverb doric
 
 :le:a)llotrioepi/skopos
 :no:a)llotrio-episkop os_ou masc
@@ -4534,6 +4621,7 @@
 
 :le:a(lmuro/s
 :aj:a(lmu^r os_h_on suff_acc
+:aj:a)lmu^r os_h_on aeolic
 
 :le:a)/lobos
 :aj:a)-lob os_on
@@ -4738,6 +4826,7 @@
 :wd:a(ma= adverb doric
 :wd:a(ma=| adverb doric
 :wd:a(/^ma adverb
+:wd:a)/^ma adverb aeolic
 
 :le:*)amazoniko/s
 :aj:*)amazoni^k os_h_on suff_acc
@@ -4866,6 +4955,7 @@
 
 :le:a)ma/rugma
 :no:a)marug ma_matos neut
+:no:a)marux ma_matos neut aeolic
 
 :le:a(matroxia/
 :no:a(ma-troxi h_hs suff_acc fem
@@ -4875,6 +4965,7 @@
 
 :le:a)mauro/s
 :aj:a)^maur os_h_on suff_acc
+:aj:a)^maur os_h_on aeolic
 
 :le:a)mau/rwma
 :no:a)maurw ma_matos neut
@@ -4922,9 +5013,6 @@
 :le:a)mboliergo/s
 :aj:a)mboli-erg os_on suff_acc
 
-:le:a)mbrosi/h
-:no:a)mbrosi h_hs stem_acc fem
-
 :le:a)mbro/sios
 :aj:a)mbrosi os_h_on
 :aj:a)mbrosi os_on
@@ -4933,8 +5021,9 @@
 :aj:a)mbroto-pwl os_on
 
 :le:a)/mbrotos
-:aj:a)-mbrot os_h_on
+:aj:a)-mbrot os_h_on fem
 :aj:a)-mbrot os_on
+:aj:a)-mbro/tuo os_on masc fem gen sg boeotian
 
 :le:a)me/gartos
 :aj:a)-megart os_on
@@ -4953,6 +5042,7 @@
 
 :le:a)mei/nwn
 :aj:a)mein wn_on_comp
+:aj:a)meinoter os_h_on irreg_comp poetic
 
 :le:a)/meiyis
 :no:a)meiy is_ews  fem
@@ -5232,6 +5322,7 @@
 
 :le:a)moibh/
 :no:a)moib h_hs suff_acc fem
+:no:a)moib h_hs fem aeolic
 
 #:le:a)moibhdi/s
 #:wd:a)moibhdi/s adverb
@@ -5354,9 +5445,9 @@
 
 :le:a)mpla/khma
 :no:a)mplakh ma_matos neut
-:no:a)mplaki h_hs stem_acc fem *theogn. etc.
-:no:a)mplaki os_ou neut *pind.
-:no:a)plakh ma_matos neut
+#:no:a)mplaki h_hs stem_acc fem *theogn. etc.
+#:no:a)mplaki os_ou neut *pind.
+:no:a)plakh ma_matos neut poetic
 
 :le:a)mpukth/r
 :no:a)mpukth r_ros stem_acc   masc
@@ -5393,14 +5484,20 @@
 :le:a)mu/khtos
 :aj:a)-mu_kht os_on
 
-:le:*)amu/klaqen
-:wd:*)amu/kla_qen adverb
-
 :le:*)amu/klai
 :no:*)amukl h_hs	pl geog_name stem_acc	fem
+:wd:*)amu/kla_qen adverb
+
+:le:*)amuklai/+dai
+:no:*)amuklai+d hs_ou stem_acc masc
 
 :le:*)amuklai=on
 :no:*)amuklai_ os_ou stem_acc neut
+
+:le:a)mu/klai
+:no:a)mukl h_hs stem_acc fem
+:no:a)mukla_+ is_idos suff_acc fem
+:no:a)mukla| s_dos stem_acc fem
 
 :le:a)/mulos
 :aj:a)-mu^l os_on
@@ -5481,8 +5578,9 @@
 :no:*)amfiara_ os_ou  masc
 :no:*)amfiarh os_ou  masc
 :no:*)amfiare ws_w masc attic
-:no:*)amfiar eus_ews masc doric suff_acc
-:no:*)amfiar eus_ews masc doric stem_acc
+:no:*)amfiar hs_eos masc sg doric
+:no:*)amfiar eus_ews masc doric suff_acc sg
+:no:*)amfiar eus_ews masc doric stem_acc sg
 
 :le:a)mfi/asma
 :no:a)mfias ma_matos neut
@@ -5629,9 +5727,9 @@
 :aj:a)mfi-krhmn os_on
 
 :le:a)mfikti/ones
-:no:a)mfi-kti wn_onos masc pl
-:no:a)mfi-ktu wn_onos masc pl
-:no:a)mfi-ktu wn_onos suff_acc masc pl
+:no:a)mfi-kti wn_onos masc 
+:no:a)mfi-ktu wn_onos masc
+:no:a)mfi-ktu wn_onos suff_acc masc 
 
 :le:*)amfiktuoni/a
 :no:*)amfi-ktuoni h_hs stem_acc fem
@@ -5639,6 +5737,7 @@
 
 :le:*)amfiktu/ones
 :no:*)amfiktu wn_onos masc pl group_name
+:no:*)amfikti wn_onos masc pl group_name
 
 :le:*)amfiktuoniko/s
 :aj:*)amfiktuonik os_h_on suff_acc
@@ -5831,6 +5930,7 @@
 :le:a)/mfw
 :wd:a)mfoi=n os_on gen dat masc fem neut dual
 :wd:a)/mfw os_on nom voc acc masc fem neut dual
+:wd:a)/mfoin os_on gen dat masc fem neut dual aeolic
 
 :le:a)mfw/bolos
 :no:a)mf-wbol os_ou masc
@@ -5864,12 +5964,14 @@
 :no:a)^na c_ktos  masc
 :no:a)nakt wr_oros stem_acc   masc *aesch. *eur.
 :wd:a)/na c_ktos voc sg masc
+:no:vana c_ktos masc aeolic
 
 :le:a)na/
 :wd:a)na/ prep
 :wd:a)/m prep apocope epic
 :wd:a)/g prep apocope epic
 :wd:a)n prep poetic
+:wd:o)n prep aeolic
 
 :le:a)naba/dhn
 :wd:a)nab^a/dhn adverb
@@ -5948,7 +6050,6 @@
 
 :le:a)nagnw/risis
 :no:a)nagnwris is_ews fem
-:no:a)nagnwrism os_ou suff_acc masc *arist.
 
 :le:a)na/gnwsis
 :no:a)nagnws is_ews fem
@@ -6285,6 +6386,8 @@
 :le:a)nampla/khtos
 :aj:a)n-amplakht os_on a_priv
 :aj:a)n-aplakht os_on a_priv
+:aj:a)pla/kht os_on 
+#gloss
 
 :le:a)namfi/bolos
 :aj:a)n-amfibol os_on a_priv
@@ -6345,6 +6448,8 @@
 
 :le:a)na/paula
 :no:a)napaul a_hs fem
+:no:a)napaul h_hs fem stem_acc late
+:no:a)napaul h_hs fem suff_acc late
 
 :le:a)na/pauma
 :no:a)mpau ma_matos neut
@@ -6364,6 +6469,7 @@
 
 :le:a)na/phros
 :aj:a)na-phr os_on
+:aj:a)na-peir os_on late
 
 :le:a)na/pleos
 :aj:a)na-ple os_h_on
@@ -6371,7 +6477,7 @@
 @ fem sg attic
 :aj:a)na-ple ws_wn,attic masc neut
 @ end:w| nom voc pl masc fem
-@ end:ws nom voc acc pl masc fem
+@ end:ws acc pl masc fem
 
 :le:a)naplh/rwsis
 :no:a)naplhrws is_ews  fem
@@ -6479,6 +6585,7 @@
 
 :le:a)/nassa
 :no:a)nass a_hs fem
+:no:vanass a_hs fem aeolic
 
 :le:a)nastado/n
 :wd:a)na-sta^do/n adverb
@@ -6658,6 +6765,7 @@
 :le:a)ndrei=os
 :aj:a)ndrei os_h_on stem_acc
 :aj:a)ndrhi+ os_h_on stem_acc ionic
+:aj:a)ndreiwtat os_h_on irreg_superl late
 
 :le:a)ndreio/ths
 :no:a)ndreioth s_tos fem	ant_acc
@@ -6686,9 +6794,6 @@
 
 :le:a)ndri/on
 :no:a)ndri os_ou stem_acc neut diminutive
-
-:le:a)ndriste/os
-:aj:a)ndriste os_on stem_acc  verb_adj1
 
 :le:a)ndristi/
 :wd:a)ndristi/ adverb language
@@ -6864,6 +6969,8 @@
 
 :le:a)nekto/s
 :aj:a)n-ekt os_on suff_acc
+:aj:a)n-ekt os_h_on suff_acc late
+:aj:o)n-ekt os_on  aeolic
 
 :le:a)ne/legktos
 :aj:a)n-elegkt os_on a_priv
@@ -6879,6 +6986,7 @@
 
 :le:a)neleu/qeros
 :aj:a)n-eleuqer os_on a_priv
+:aj:a)n-eleuqer os_h_on late
 
 :le:a)ne/ligma
 :no:a)n-elig ma_matos neut
@@ -7024,6 +7132,7 @@
 
 :le:a)nepisth/mwn
 :aj:a)n-episthm wn_on stem_acc a_priv
+:aj:a)n-epista_m wn_on stem_acc a_priv
 
 :le:a)nepi/taktos
 :aj:a)n-epitakt os_on a_priv
@@ -7149,6 +7258,7 @@
 :le:a)nhleh/s
 :aj:a)n-hle hs_es suff_acc a_priv
 :aj:a)n-hleht os_on *aesch. a_priv
+:aj:a)nhl hs_es suff_acc poetic
 
 :le:a)nh/lios
 :aj:a)n-a_li os_on  doric a_priv
@@ -7175,6 +7285,7 @@
 
 :le:a)nh/nutos
 :aj:a)n-hnu^t os_on a_priv
+:aj:a)n-anu^t os_on a_priv doric
 
 :le:a)nh/nwr
 :no:a)n-hn wr_oros stem_acc   masc a_priv
@@ -7202,7 +7313,8 @@
 :no:a)nqem is_idos suff_acc fem
 
 :le:a)nqemo/eis
-:aj:a)nqemo eis_essa stem_acc
+:aj:a)nqem oeis_oessa suff_acc
+:wd:a)nqemeu=ntas eis_essa masc acc pl ionic
 
 :le:a)/nqemon
 :no:a)nqem os_ou neut
@@ -7238,9 +7350,10 @@
 :le:a)nqhro/s
 :aj:a)nqhr os_h_on suff_acc
 
-:le:a)nqino/s
-:aj:a)nqin os_h_on	suff_acc
+:le:a)/nqinos
+:aj:a)nqin os_h_on late	suff_acc
 :aj:a)nqin os_h_on
+:aj:a)nqein os_h_on late     suff_acc
 
 :le:a)nqippasi/a
 :no:a)nq-ippa^si h_hs stem_acc fem
@@ -7272,6 +7385,7 @@
 :le:a)/nqos
 :no:a)nq hs_eos,neut
 @ end:e/wn attic gen pl
+:wd:a)/nqia hs_eos nom acc neut pl boeotian
 
 :le:a)nqosmi/as
 :no:a)nq-osmi hs_ou stem_acc   masc
@@ -7379,6 +7493,9 @@
 :aj:a)nia_r os_h_on suff_acc
 :aj:a)nihr hs_es suff_acc comp
 :aj:a)nihr os_h_on suff_acc epic ionic
+:aj:a)niarwter os_h_on irreg_comp late
+:aj:a)niarwtat os_h_on irreg_superl late
+:aj:o)nia_r os_h_on aeolic 
 
 :le:a)nidrwti/
 :wd:a)n-i_drwti/ adverb a_priv
@@ -7405,6 +7522,9 @@
 
 :le:a)ni/lews
 :aj:a)n-i_le ws_wn a_priv
+:aj:a)nile os_on stem_acc late
+:wd:a)nilew=s adverb late
+
 
 :le:a)/nios
 :aj:a)ni^ os_on
@@ -7417,6 +7537,7 @@
 
 :le:a)/niptos
 :aj:a)-nipt os_on
+:aj:a)nipt os_h_on fem dat pl epic
 
 :le:a)/nisos
 :aj:a)n-i^s os_on a_priv
@@ -7443,11 +7564,13 @@
 
 :le:a)no/htos
 :aj:a)-noht os_on
+:wd:w)=no/htoi os_on masc fem voc pl
 
 :le:a)/noia
 :no:a)-noi a_hs fem 
 :no:a)-noi h_hs stem_acc fem attic early 
 :no:a)-noi h_hs stem_acc fem epic 
+:no:a)-noii+ h_hs  fem aeolic
 
 :le:a)/noikos
 :aj:a)n-oik os_on a_priv
@@ -7457,6 +7580,8 @@
 
 :le:a)noikti/rmwn
 :aj:a)n-oiktirm wn_on stem_acc a_priv
+:aj:a)n-oikteir os_on a_priv late
+#RomMel; got verb parse
 
 :le:a)noi/ktistos
 :aj:a)n-oiktist os_on a_priv
@@ -7544,6 +7669,7 @@
 :le:a)/noos
 :aj:a)-n oos_oon a_priv
 :aj:a)-nouster os_h_on irreg_comp a_priv
+:aj:a)-noustat os_h_on irreg_superl a_priv
 
 :le:a)nopai=a
 :wd:a)nopai=a adverb
@@ -7748,6 +7874,7 @@
 
 :le:a)nti/qeos
 :aj:a)nti-qe os_h_on
+:aj:a)nti-qe os_h_on stem_acc doric
 
 :le:a)nti/qesis
 :no:a)ntiqes is_ews fem
@@ -7801,6 +7928,7 @@
 
 :le:a)nti/lhyis
 :no:a)ntilhy is_ews fem
+:no:a)ntila_y is_ews fem doric
 
 :le:a)ntilogi/a
 :no:a)nti-logi h_hs stem_acc fem
@@ -8021,6 +8149,10 @@
 :le:a)ntifu/lac
 :no:a)nti-fu^la c_kos   masc	ant_acc
 
+:le:*)antifw=n
+:no:*)antif wCn_wCntos masc suff_acc
+:no:*)antifo wCn_wCntos masc poetic
+
 :le:a)nti/fwnos
 :aj:a)nti-fwn os_on
 
@@ -8047,6 +8179,7 @@
 
 :le:a)/ntron
 :no:a)ntr os_ou neut
+:wd:a)/ntroi os_ou dat sg neut boeotian
 
 :le:a)ntrw/dhs
 :aj:a)ntr-wd hs_es stem_acc
@@ -8126,6 +8259,7 @@
 
 :le:a)/nw2
 :wd:a)/nw adverb
+:wd:o)/nw adverb aeolic
 :wd:a)nwta/tw adverb irreg_superl
 :wd:a)nwte/rw adverb irreg_comp
 
@@ -8153,9 +8287,11 @@
 
 :le:a)nwmali/a
 :no:a)n-wma^li h_hs stem_acc fem a_priv
+:no:a)n-oma^li h_hs stem_acc fem a_priv
 
 :le:a)nw/malos
 :aj:a)n-wma^l os_on a_priv
+:aj:a)n-oma^l os_on a_priv
 
 :le:a)nwmoti/s
 :wd:a)n-wmoti/s adverb a_priv
@@ -8334,6 +8470,7 @@
 
 :le:a)oidh/
 :no:a)oid h_hs fem suff_acc
+:no:a)oid h_hs fem aeolic
 :no:w)|d h_hs fem attic suff_acc
 
 :le:a)oi/dimos
@@ -8348,8 +8485,12 @@
 :le:a)oidopo/los
 :no:a)oido-pol os_ou stem_acc masc
 
-:le:a)oido/s1
-:no:a)oid os_ou suff_acc masc
+:le:a)oido/s
+:no:a)oid os_ou suff_acc masc fem
+:no:a)oid os_ou aeolic masc fem
+
+:le:a)oido/s2
+:aj:a)oidoter os_h_on irreg_comp
 
 :le:a)oidoto/kos
 :aj:a)oido-tok os_on stem_acc
@@ -8369,6 +8510,7 @@
 
 :le:a)ollh/s
 :aj:a)-oll hs_es suff_acc a_copul
+:aj:a)-oll hs_es  a_copul aeolic
 
 :le:a)/oplos
 :aj:a)-opl os_on
@@ -8477,6 +8619,7 @@
 
 :le:a(palo/s
 :aj:a(pa^l os_h_on suff_acc
+:aj:a)pa^l os_h_on aeolic
 
 :le:a(palo/ths
 :no:a(pa^loth s_tos   fem	ant_acc
@@ -8705,7 +8848,6 @@
 
 :le:a)pei/rhtos
 :aj:a)-peira_t os_on  doric  attic
-:aj:a)-pera_t os_on  poetic
 :aj:a)-peirht os_on
 :aj:a)-peirht os_h_on
 
@@ -8715,6 +8857,7 @@
 
 :le:a)pei/ritos
 :aj:a)-peiri^t os_on
+:aj:a)-phri^t os_on
 
 :le:a)peiro/drosos
 :aj:a)peiro-dros os_on
@@ -8811,6 +8954,7 @@
 
 :le:a)pe/rantos
 :aj:a)-perant os_on
+:aj:a)-perant os_h_on fem late
 
 :le:a)pergasi/a
 :no:a)pergasi h_hs stem_acc fem
@@ -8862,6 +9006,8 @@
 
 :le:a)peukto/s
 :aj:a)p-eukt os_h_on suff_acc
+:aj:a)p-eukt os_h_on
+#accent varies
 
 :le:a)peu/xetos
 :aj:a)p-euxet os_on
@@ -8942,6 +9088,7 @@
 :no:*)a_p is_ews masc
 :no:*)a_p is_ews masc ionic end:ios
 :no:*)a_p is_idos  masc
+:no:*)ap is_ews masc late
 
 :le:a)pisti/a
 :no:a)-pisti h_hs stem_acc fem
@@ -9010,6 +9157,7 @@
 :aj:a(pl oos_oh_oon suff_acc
 :aj:a(plouster os_h_on irreg_comp
 :aj:a(ploustat os_h_on irreg_superl
+:aj:a)pl oos_oh_oon suff_acc late
 
 :le:a)/ploos
 :aj:a)-pl oos_oon
@@ -9042,11 +9190,16 @@
 
 :le:a)/pnoos
 :no:a)-pn oos_oon
+:aj:a)pnouster os_h_on irreg_comp
+:aj:a)pnoustat os_h_on irreg_superl
 
 :le:a)po/
 :wd:a)pai/ prep poetic
 :wd:a)po/ prep
 :wd:a)/po prep
+:wd:a)/p prep poetic
+:wd:a)pu/ prep aeolic
+:wd:a)/pu prep aeolic
 
 :le:a)poba/qra
 :no:a)po-baqr h_hs,fem,stem_acc
@@ -9174,6 +9327,7 @@
 
 :le:a)podoxh/
 :no:a)podox h_hs suff_acc fem
+:no:a)pudox h_hs suff_acc fem
 
 :le:a)po/drasis
 :no:a)podra_s is_ews fem
@@ -9187,6 +9341,9 @@
 
 :le:a)/poqen
 :wd:a)/poqen adverb
+
+:le:a)poqnh/|skw
+:aj:a)poqamen os_h_on late stem_acc
 
 :le:a)poqerapei/a
 :no:a)po-qerapei h_hs stem_acc fem
@@ -9550,9 +9707,8 @@
 :le:a)po/rrhtos
 :aj:a)porrht os_on
 
-:le:a)porro/h
-:no:a)porro h_hs 	stem_acc	fem
-:no:a)porroi a_hs fem
+:le:a)porroh/
+:no:a)porro h_hs 	suff_acc	fem
 
 :le:a)po/rrutos
 :aj:a)porru^t os_on
@@ -9811,6 +9967,7 @@
 
 :le:a)/praktos
 :aj:a)-pra_kt os_on
+:aj:a)-pra_kt os_h_on fem poetic
 :aj:a)-prhkt os_on  epic ionic
 
 :le:a)praci/a
@@ -9985,8 +10142,10 @@
 :le:a)/pustos
 :aj:a)-pust os_on
 
-:le:a)pfu/s
+:le:a)pfu=s
 :no:a)pf us_uos masc suff_acc
+:wd:a)pfu=s us_uos masc nom sg 
+:wd:a)pfu=n us_uos masc acc sg
 
 :le:a)pw|do/s
 :aj:a)p-w|d os_on suff_acc
@@ -10028,11 +10187,11 @@
 
 :le:a)=ra
 :wd:a)=ra^  particle interrog
+:wd:h)=ra^  particle interrog aeolic doric poetic
 
 :le:a)ra/
 :no:a)r h_hs,fem,suff_acc
-@ ionic
-:wd:a)/rew irreg_decl3 fem sg gen epic
+:no:a)r h_hs,fem aeolic
 
 :le:*)arabi/a
 :no:*)ara^bi h_hs stem_acc fem
@@ -10069,6 +10228,7 @@
 :le:a)rato/s
 :aj:a)ra_t os_on   suff_acc
 :aj:a)rht os_on   suff_acc ionic
+:aj:a)ra_t os_on aeolic
 
 :le:a)raxnai=os
 :aj:a)raxnai_ os_h_on stem_acc
@@ -10092,6 +10252,7 @@
 
 :le:a)rgale/os
 :aj:a)rga^le os_h_on stem_acc
+:aj:a)rga^le os_h_on aeolic
 
 :le:*)argei=os
 :aj:*)argei_ os_h_on stem_acc
@@ -10201,6 +10362,9 @@
 :le:a)rgu/reos
 :aj:a)rgure os_h_on
 :aj:a)rgur eos_eh_eon
+:aj:a)rguri os_h_on aeolic
+:aj:a)rgur os_h_on neut pl  stem_acc poetic
+#so Page for porfura in Sappho 44
 
 :le:a)rgurh/latos
 :aj:a)rgu^r-hla^t os_on
@@ -10322,11 +10486,12 @@
 :le:*)areiomani=tis
 :no:*)areiomani_t is_idos fem
 
-:le:a)/reios
+:le:*)/areios
 :aj:a)^rei os_on
 :aj:a)^rei os_h_on
 :aj:*)a^rei os_h_on
 :aj:a)^rhi+ os_h_on  epic ionic
+:aj:a)reui+ os_h_on aeolic
 
 :le:a)rei/tolmos
 :aj:a)rei-tolm os_on
@@ -10339,6 +10504,7 @@
 :aj:a)^rei wn_on_comp	
 :aj:a)rh| os_h_on  	stem_acc
 :aj:a)rei os_h_on comp  	stem_acc
+:aj:a)^rh wn_on_comp aeolic
 
 :le:*)areopagi/ths
 :no:*)areo-pa^gi_t hs_ou stem_acc   masc
@@ -10346,8 +10512,9 @@
 :le:*)areopagi=tis
 :no:*)areopagi_t is_idos fem stem_acc
 
-:le:a)reskei/a
-:no:a)reskei h_hs stem_acc fem
+:le:a)re/skeia
+:no:a)reskei a_hs fem
+:no:a)reskei h_hs stem_acc fem late
 
 :le:a)re/skeuma
 :no:a)reskeu ma_matos neut
@@ -10363,6 +10530,10 @@
 
 :le:a)reth/
 :no:a)^ret h_hs suff_acc fem
+
+:le:a)rh/
+:no:a)r h_hs suff_acc ionic epic rare
+:wd:a)/rew irreg_decl3 fem sg gen epic
 
 :le:a)rhgosu/nh
 :no:a)rhgosun h_hs stem_acc fem
@@ -10412,6 +10583,8 @@
 :wd:a)=res hs_eos voc sg masc
 :wd:a)/res hs_eos voc sg masc
 :aj:a)rhi+ os_h_on epic 
+:no:*)areu s_os masc aeolic
+:wd:*)/areis hs_eos masc nom sg boeotian
 
 :le:a)rhth/r
 :no:a_)rhth r_ros stem_acc   fem
@@ -10508,7 +10681,7 @@
 
 :le:a)ristero/s
 :aj:a)rister os_h_on suff_acc
-:wd:a)ristero/fin adverb
+#:wd:a)ristero/fin adverb
 
 :le:a)risteu/s
 :no:a)rist eus_ews suff_acc   masc
@@ -10606,6 +10779,7 @@
 
 :le:a(/rma
 :no:a(r ma_matos neut
+:no:a)r ma_matos aeolic
 
 :le:a(rmali/a
 :no:a(rmali h_hs stem_acc fem
@@ -10701,6 +10875,8 @@
 
 :le:a)/rosis
 :no:a)ros is_ews fem
+:no:a)rws is_ews late
+#pap only
 
 :le:a)roth/r
 :no:a)roth r_ros stem_acc   masc
@@ -10735,6 +10911,7 @@
 
 :le:a)rourai=os
 :aj:a)rourai_ os_h_on stem_acc
+:aj:a)rwrai_ os_h_on stem_acc doric
 
 :le:a)rourei/ths
 :no:a)roureit hs_ou masc	stem_acc
@@ -10794,6 +10971,7 @@
 
 :le:a)rrabw/n
 :no:a)rra^bw n_nos stem_acc   masc
+:no:a)r)r(abw n_nos stem_acc masc
 
 :le:a)/rratos
 :aj:a)-rrat os_on
@@ -10817,6 +10995,7 @@
 :le:a)rrenwpo/s
 :aj:a)rren-wp os_on suff_acc
 :aj:a)rren-wp os_h_on suff_acc
+:aj:a)rsen-wp os_h_on suff_acc
 
 :le:a)/rrhktos
 :aj:a)-rrhkt os_on
@@ -10900,6 +11079,8 @@
 
 :le:*)/artemis
 :no:*)artem is_idos fem pers_name
+:no:*)artem is_itos fem pers_name doric
+:no:*)artam is_itos fem pers_name doric
 
 :le:*)artemi/sion
 :no:*)artemisi os_ou neut
@@ -11061,6 +11242,7 @@
 
 :le:a)rusth/r
 :no:a)rusth r_ros stem_acc   masc
+:no:a)rusth r_ros   masc aeolic
 
 :le:a)ru/stixos
 :no:a)rusti^x os_ou masc
@@ -11117,6 +11299,9 @@
 :le:a)rxe/laos
 :aj:a)rxe-la_ os_on
 :aj:a)rxe-lei os_on
+:aj:a)rxe-le ws_wn attic
+@ end:w| nom voc pl masc fem
+@ end:ws acc pl masc fem
 :wd:a)rxe/-la_s os_on contr nom sg masc *ar.
 
 :le:a)rxe/ploutos
@@ -11199,6 +11384,7 @@
 
 :le:a)rxipoi/mhn
 :no:a)rxi-poim hn_enos masc	stem_acc
+:no:a)rxi-poim hn_enos masc     suff_acc late
 
 :le:a)rxisuna/gwgos
 :no:a)rxi-sunagwg os_ou masc
@@ -11319,7 +11505,8 @@
 
 :le:a)sqe/neia
 :no:a)sqenei a_hs fem
-:no:a)sqenei a_hs fem ionic
+:no:a)sqenei h_hs fem ionic
+:no:a)sqenh| a_hs fem doric late
 
 :le:a)sqenh/s
 :aj:a)-sqen hs_es suff_acc
@@ -11356,6 +11543,7 @@
 
 :le:a)sinh/s
 :aj:a)-si^n hs_es suff_acc
+:aj:a)-si^n hs_es aeolic
 
 :le:*)/asios
 :aj:*)a_si os_h_on
@@ -11533,6 +11721,7 @@
 
 :le:a)spi/s
 :no:a)sp is_idos suff_acc fem
+:no:a)sp is_idos fem aeolic
 
 :le:a)spisth/s
 :no:a)spist hs_ou suff_acc   masc
@@ -11659,6 +11848,7 @@
 :no:a)st  hr_eros,suff_acc,masc
 @ end:rasi dat pl
 :no:a)st hr_eros,masc,dat,pl
+:no:a)st  hr_eros masc aeolic
 
 :le:a)sth/riktos
 :aj:a)-sthrikt os_on
@@ -11709,6 +11899,7 @@
 
 :le:a)stra/galos
 :no:a)straga^l os_ou masc
+:no:a)straga^l os_ou neut late
 
 :le:a)straph/
 :no:a)^strap h_hs suff_acc fem
@@ -11881,6 +12072,7 @@
 :le:a)su/netos
 :aj:a)-sunet os_on
 :aj:a)-cunet os_on   attic
+:aj:a)-sunnet os_on aeolic
 
 :le:a)sunh/qeia
 :no:a)-sunhqei a_hs fem
@@ -11927,6 +12119,7 @@
 
 :le:a)sfa/leia
 :no:a)sfalei a_hs,fem
+:no:a)sfalh| a_hs,fem doric late
 
 :le:*)asfa/leios
 :aj:*)asfalei os_on
@@ -12090,6 +12283,7 @@
 :wd:a)/^ter prep
 :wd:a)/terqe prep poetic
 :wd:a)/terqen prep poetic
+:wd:a)/terqa prep aeolic
 
 :le:a)te/ramnos
 :aj:a)-teramn os_on
@@ -12097,9 +12291,6 @@
 
 :le:a)te/rmwn
 :aj:a)-term wn_on stem_acc
-
-:le:a(/teros
-:aj:a(ter os_h_on
 
 :le:a)terph/s
 :aj:a)-terp hs_es suff_acc
@@ -12149,12 +12340,14 @@
 
 :le:*)atqi/s
 :no:*)atq is_idos suff_acc fem
+:no:*)atq is_idos fem aeolic
 
 :le:a)ti/etos
 :aj:a)-tiet os_on
 
 :le:a)tiqa/seutos
 :aj:a)-ti^qaseut os_on
+:aj:a)-ti^qasseut os_on
 
 :le:a)timage/lhs
 :no:a)ti_m-a^gel hs_ou stem_acc   masc
@@ -12279,6 +12472,7 @@
 :le:a)tre/keia
 :no:a)trekei a_hs,fem
 :no:a)trekei h_hs,fem ionic
+:no:a)treki a_hs,fem boeotian
 
 :le:a)trekh/s
 :aj:a)trek hs_es suff_acc
@@ -12371,9 +12565,11 @@
 
 :le:*a)ttiki/wn
 :no:*a)ttiki wn_onos masc diminutive	stem_acc
+:wd:*(wttiki/wn wn_onos masc nom sg
 
 :le:*)attiko/s
 :aj:*)attik os_h_on suff_acc
+:wd:w(ttikoi/ os_h_on masc nom pl
 
 :le:*)attikh/
 :no:*)attik h_hs fem suff_acc
@@ -12413,9 +12609,11 @@
 
 :le:au)gh/
 :no:au)g h_hs fem suff_acc
+:no:au)g h_hs fem aeolic late
 
 :le:au)dh/
 :no:au)d h_hs,suff_acc,fem
+:no:au)d h_hs fem aeolic
 
 :le:au)dh/eis
 :aj:au)d heis_hessa suff_acc
@@ -12530,6 +12728,7 @@
 
 :le:au)lo/s
 :no:au)l os_ou suff_acc masc
+:no:au)l os_ou  masc aeolic
 
 :le:au)lw/n
 :no:au)lw n_nos stem_acc   masc
@@ -12621,6 +12820,7 @@
 
 :le:a)uth/
 :no:a)u+_t h_hs suff_acc fem
+:no:a)u+_t h_hs fem aeolic
 
 :le:au)th/koos
 :aj:au)t-hk oos_oon stem_acc
@@ -12630,6 +12830,7 @@
 
 :le:au)ti/ka
 :wd:au)ti/^ka^	adverb
+:wd:au)/ti^ka^  adverb aeolic
 
 :le:a)utmh/
 :no:a)u+tm h_hs suff_acc fem
@@ -12855,6 +13056,7 @@
 :le:au)to/s
 :aj:au)t art_adj	suff_acc
 :aj:au)te art_adj ionic
+:aj:au)t art_adj  aeolic
 :wd:tau)ta/ art_adj nom acc pl neut
 :wd:tauta/ art_adj nom acc pl neut
 :wd:tau)to/ art_adj nom acc sg neut
@@ -13020,6 +13222,7 @@
 :le:a)fairete/os
 :aj:a)fairet verb_adj1
 :aj:a)fairet verb_adj2
+:aj:a)fairht verb_adj2 late
 
 :le:a)faireto/s
 :aj:a)fairet os_on suff_acc
@@ -13039,6 +13242,7 @@
 
 :le:a)fanh/s
 :aj:a)-fa^n hs_es suff_acc
+:aj:a)-fa^n hs_es aeolic
 
 :le:a)fa/nisis
 :no:a)fanis is_ews fem
@@ -13158,6 +13362,8 @@
 :aj:a)-fqon os_on
 :aj:a)-fqon hs_es,suff_acc comp
 @ superl
+:aj:a)-fqonoter os_h_on irreg_comp
+:aj:a)-fqonotat os_h_on irreg_superl
 
 :le:a)fqori/a
 :no:a)-fqori h_hs stem_acc fem
@@ -13305,11 +13511,12 @@
 :aj:a)-frht wr_oros	stem_acc	masc fem
 
 :le:a)frio/eis
-:aj:a)fri oeis_oessa
+:aj:a)fri oeis_oessa suff_acc
 
 :le:a)frogenh/s
 :aj:a)fro-gen hs_es suff_acc
-:no:a)fro-genei a_hs,fem  	stem_acc
+:no:a)fro-genei a_hs,fem 
+:no:a)frogenei h_hs stem_acc poetic
 
 :le:*)afrodisi/as
 :aj:*)afrodi_sia s_dos 	ant_acc	fem
@@ -13323,6 +13530,7 @@
 :le:*)afrodi/th
 :no:*)afrodi_t h_hs stem_acc fem
 :no:a)frodi_t h_hs stem_acc fem
+:no:*)afrodi_t h_hs fem aeolic
 
 :le:a)fro/ntistos
 :aj:a)-frontist os_on
@@ -13347,7 +13555,8 @@
 
 :le:a)fu/h
 :no:a)fu h_hs stem_acc fem
-
+:wd:a)fu/wn h_hs gen pl fem
+ 
 :le:a)fuh/s
 :aj:a)-fu hs_es suff_acc
 
@@ -13463,11 +13672,6 @@
 :le:a)/xerdos
 :no:a)xerd os_ou fem masc
 
-:le:*)axero/ntios
-:aj:*)axeronti os_h_on
-:aj:*)axerousi os_on  *aesch.
-:aj:*)axerousia s_dos *plat. *xen.	fem
-
 :le:a)xerwi/s
 :no:a)xerw+ is_idos suff_acc fem
 
@@ -13570,6 +13774,8 @@
 :le:a)/xri
 :wd:a)/xri adverb
 :wd:a)/xris adverb  epic
+:wd:para/xris adverb
+#archil
 
 :le:a)xrw/matos
 :aj:a)-xrwmat os_on
@@ -13610,6 +13816,7 @@
 
 :le:a)yeu/deia
 :no:a)-yeudei a_hs fem
+:no:a)-yeudi a_hs fem boeotian late
 
 :le:a)yeudh/s
 :aj:a)-yeud hs_es suff_acc
@@ -14240,6 +14447,7 @@
 
 :le:ba/sanos
 :no:ba^sa^n os_ou fem
+:no:basan h_hs fem late
 
 :le:basi/leia
 :no:ba^silei a_hs fem
@@ -14271,6 +14479,7 @@
 :no:ba^si^l eus_ews,suff_acc,masc
 @ end:h acc sg
 :no:basile as_a masc stem_acc late
+:no:ba^si^l eus_ews masc aeolic
 
 :le:basilhi/s
 :no:ba^si^lh is_idos suff_acc fem poetic
@@ -14706,6 +14915,7 @@
 :no:glhxw n_nos fem ionic
 :no:gla_xw n_nos fem ionic
 :no:blhx w_oos suff_acc fem
+:no:glixw n_nos masc late
 
 :le:blhxwni/as
 :no:blhxwni hs_ou stem_acc   masc
@@ -14719,9 +14929,11 @@
 :le:blosuro/s
 :aj:blosu^r os_h_on suff_acc
 :aj:blosu^r os_on  suff_acc
+:aj:blossu^r os_h_on suff_acc late
 
 :le:blosurw=pis
 :no:blosu^r-w_p is_idos stem_acc  	fem
+:no:blossu^r-w_p is_idos stem_acc fem late
 
 :le:blu/sis
 :no:blu^s is_ews fem
@@ -14747,6 +14959,7 @@
 
 :le:boeiko/s
 :aj:boeik os_h_on suff_acc
+:aj:boi+k os_h_on suff_acc
 
 :le:bo/eios
 :aj:boei os_h_on
@@ -14774,6 +14987,7 @@
 
 :le:boh/qeia
 :no:bohqei a_hs fem
+:no:bohqh| a_hs fem doric late
 
 :le:bohqhte/os
 :aj:bohqht verb_adj1
@@ -14920,6 +15134,7 @@
 :no:*borr ehs_eou masc attic suff_acc
 :no:borr ehs_eou masc attic suff_acc
 :no:*bor	eus_ews masc suff_acc sg pers_name
+:wd:bori/ais hs_ou masc nom sg aeolic
 
 :le:*borea/s
 :no:*borea s_dos stem_acc fem
@@ -15026,6 +15241,8 @@
 
 :le:bou/balis
 :no:bouba^l is_ews fem
+:no:boubal is_idos fem suff_acc
+#accent varies
 
 :le:bou/botos
 :aj:bou-bot os_on
@@ -15132,6 +15349,7 @@
 :le:boulh/
 :no:boul h_hs suff_acc fem
 :no:bwl h_hs suff_acc fem doric
+:no:boll h_hs fem aeolic
 
 :le:boulh/eis
 :aj:boulh eis_essa stem_acc
@@ -15267,13 +15485,14 @@
 :le:brabeu/s
 :no:bra^b	eus_ews,suff_acc,masc
 @ end:h acc sg
-:no:bra^beut hs_ou suff_acc   masc *plat.
 
 :le:bra/bulon
 :no:brabu^l os_ou neut
+:no:brabi^l os_ou neut
 
 :le:bra/bulos
 :no:brabu^l os_ou fem
+:no:brabi^l os_ou fem
 
 :le:bra/gxos
 :no:bragx os_ou masc
@@ -15291,7 +15510,7 @@
 :no:bra^du pous_podos 	stem_acc
 
 :le:bradu/s
-:aj:bra^d us_eia_u suff_acc irreg_comp irreg_superl
+:aj:bra^d us_eia_u suff_acc
 :aj:bra^duter os_h_on irreg_comp
 :aj:bra^dutat os_h_on irreg_superl
 :aj:bra^dist os_h_on  irreg_superl
@@ -15350,6 +15569,7 @@
 :aj:bra^xi^ wn_on_comp comp ionic
 :aj:bra^xist os_h_on irreg_superl
 :aj:bra^xutat os_h_on irreg_superl
+:aj:brox us_eia_u no_comp aeolic
 
 :le:braxusu/mbolos
 :aj:bra^xu^-sumbol os_on
@@ -15561,12 +15781,15 @@
 
 :le:bu/qios
 :aj:buqi os_h_on
+:aj:buqin os_h_on late
 
 :le:buqi=tis
 :no:bu^qi_t is_idos stem_acc  	fem
 
 :le:buqo/s
 :no:bu^q os_ou suff_acc masc
+:wd:buqoi= adverb
+:no:buq os_ou late
 
 :le:bu/kths
 :no:bukt hs_ou stem_acc   masc
@@ -15658,6 +15881,7 @@
 
 :le:bwmo/s
 :no:bwm os_ou suff_acc masc
+:no:bwm os_ou aeolic  masc
 
 :le:bwtia/neira
 :no:bwti-aneir a_hs fem
@@ -15693,6 +15917,7 @@
 @ attic dat sg
 @ acc sg
 :no:gai h_hs fem epic ionic
+:no:gh a_hs fem boeotian
 
 :le:*gaih/ios
 :aj:gaihi+ os_h_on
@@ -15760,6 +15985,7 @@
 
 :le:gambro/s
 :no:gambr os_ou masc suff_acc
+:no:gambr os_ou masc aeolic
 
 :le:gameth/
 :no:ga^met h_hs suff_acc fem
@@ -15950,6 +16176,7 @@
 :no:gelw s_tos,masc
 @ dat sg end:ti
 @ acc sg end:ta
+:wd:ge/los os_ou nom acc sg neut aeolic
 
 :le:gelwtopoii/a
 :no:gelwtopoii+ h_hs stem_acc fem
@@ -15968,10 +16195,9 @@
 
 :le:genea/
 :no:gene h_hs fem,suff_acc
-:wd:geneh=fin adverb epic
-
-:le:geneh=qen
+#:wd:geneh=fin adverb epic
 :wd:geneh=qen adverb
+:no:gene h_hs fem aeolic
 
 :le:gene/qlh
 :no:geneql h_hs,fem 	stem_acc
@@ -15995,6 +16221,7 @@
 
 :le:ge/neion
 :no:genei os_ou neut
+:no:genh os_ou neut aeolic
 
 :le:gene/sios
 :aj:genesi os_on
@@ -16007,7 +16234,7 @@
 
 :le:gene/ths
 :no:genet hs_ou stem_acc   masc
-:no:genet hs_ou   masc
+:no:genet hs_ou   masc aeolic
 :no:genet wr_oros stem_acc   masc  *hdt. *eur.
 :no:gennht wr_oros stem_acc	masc
 :no:gennht hs_ou stem_acc	masc
@@ -16069,6 +16296,7 @@
 :aj:gera^ os_h_on suff_acc *soph.
 :aj:geraiter os_h_on irreg_comp
 :aj:geraitat os_h_on irreg_superl
+:aj:geraitat os_h_on irreg_comp stem_acc doric rare
 
 :le:geraio/floios
 :aj:geraio-floi os_on
@@ -16078,6 +16306,7 @@
 
 :le:geraro/s
 :aj:gera^r os_h_on suff_acc
+:aj:gera^r os_h_on aeolic
 
 :le:ge/ras
 :no:ger as_aos,neut
@@ -16086,6 +16315,9 @@
 
 :le:gera/smios
 :aj:gerasmi os_on
+
+:le:*gerhtoqeo/dwroi
+:no:*gerhtoqeodwr os_ou masc pl
 
 :le:gero/ntion
 :no:geronti os_ou neut diminutive
@@ -16183,6 +16415,8 @@
 @ end:eai
 @ end:ewn ionic gen pl
 @ end:a=s acc pl
+@ end:wn gen pl rare
+:wd:gh=an a_hs fem acc sg boeotian
 
 :le:ghgenh/s
 :aj:gh-gen hs_es suff_acc
@@ -16252,15 +16486,19 @@
 
 :le:gh/ruma
 :no:ghru_ ma_matos neut
+:no:ga_ru_ ma_matos neut doric
 
 :le:*ghruo/nhs
 :no:*ghruon hs_ou stem_acc   masc
 :no:*ghruon eus_ews,masc,suff_acc
 @ end:hos gen sg
 :no:*ghru wn_onos suff_acc  *aesch.	masc
+:no:*ga_ruon hs_ou stem_acc   masc doric
+:no:*ga_ru wn_onos suff_acc  doric     masc
 
 :le:gh=rus
-:no:gh_r us_uos fem
+:no:ghr us_uos fem
+:no:ga_r us_uos fem doric
 
 :le:gh/teion
 :no:ghtei os_ou neut
@@ -16309,6 +16547,7 @@
 
 :le:glauko/s
 :aj:glauk os_h_on suff_acc
+:aj:glauk os_h_on aeolic
 
 :le:glaukw=pis
 :no:glauk-wp is_idos,stem_acc,fem
@@ -16327,6 +16566,7 @@
 
 :le:glafuro/s
 :aj:gla^fu^r os_h_on suff_acc
+:aj:gla^fu^r os_h_on aeolic
 
 :le:gleukopo/ths
 :no:gleuko-pot hs_ou stem_acc   masc
@@ -16404,6 +16644,7 @@
 
 :le:gluku/s
 :aj:glu^k us_eia_u suff_acc
+:aj:glu^k us_eia_u aeolic
 :aj:glu^kuter os_h_on irreg_comp attic *pind.
 :aj:glu^kutat os_h_on irreg_superl attic *pind.
 :aj:gluki_ wn_on_comp comp attic
@@ -16879,7 +17120,7 @@
 :aj:gumn os_h_on suff_acc
 
 :le:*gumnosofistai/
-:no:*gumno-sofist hs_ou masc suff_acc pl is_group
+:no:*gumno-sofist hs_ou masc suff_acc is_group
 
 :le:gumno/ths
 :no:gumnoth s_tos   fem 	ant_acc
@@ -17058,6 +17299,7 @@
 :no:dai s_dos fem
 :no:da is_idos fem suff_acc epic
 :no:da| s_dos fem contr
+:no:dai+ s_dos fem aeolic
 
 :le:da/i+s
 :wd:da/i+ s_tos,fem,epic,apocope, dat sg *il.
@@ -17112,9 +17354,10 @@
 
 :le:da/kruon
 :no:dakru os_ou,neut
-:wd:dakruo/fi os_ou neut gen pl epic
-:wd:dakruo/fin os_ou neut gen pl epic
+#:wd:dakruo/fi os_ou neut gen pl epic
+#:wd:dakruo/fin os_ou neut gen pl epic
 :no:dakr us_uos neut poetic
+:wd:da/krou us_uos neut nom acc sg boeotian
 
 :le:dakru/rroos
 :no:dakrur-r oos_oon stem_acc
@@ -17189,11 +17432,11 @@
 :le:damw/mata
 :no:da_mwmat os_ou neut pl
 
-:le:*danai/dai
+:le:*danai/+dai
 :no:*danai+d hs_ou masc stem_acc
 
-:le:*danai/des
-:no:*dana is_idos fem suff_acc pl
+:le:*danai/+des
+:no:*dana is_idos fem suff_acc
 
 :le:*danaoi/
 :no:*da^na os_ou suff_acc masc pl
@@ -17443,6 +17686,7 @@
 
 :le:deino/s
 :aj:dein os_h_on suff_acc
+:aj:dein os_h_on aeolic
 
 :le:deino/ths
 :no:deinoth s_tos   fem 	ant_acc
@@ -17729,10 +17973,9 @@
 :le:demnioth/rhs
 :aj:demnio-thr hs_es stem_acc
 
-:le:de/mw
-
 :le:de/ndreon
 :no:dendre os_ou neut
+:no:dendri os_ou neut aeolic
 
 :le:dendrh/eis
 :aj:dendrh eis_essa stem_acc
@@ -17793,7 +18036,7 @@
 :le:decio/s
 :aj:deci os_h_on suff_acc
 :aj:deci os_h_on late
-:wd:decio/fin os_h_on dat pl epic masc neut
+#:wd:decio/fin os_h_on dat pl epic masc neut
 
 :le:decio/seiros
 :no:decio-seir os_ou masc
@@ -17806,7 +18049,7 @@
 
 :le:decitero/s
 :aj:deciter os_h_on suff_acc
-:wd:deciterh=|fi os_h_on dat pl fem epic
+#:wd:deciterh=|fi os_h_on dat pl fem epic
 
 :le:deci/wma
 :no:deciw ma_matos neut
@@ -18243,6 +18486,7 @@
 :le:dhro/s
 :aj:dhr os_h_on suff_acc
 :aj:da_r os_h_on suff_acc  doric
+:aj:da_r os_h_on aeolic
 
 :le:dh=ta
 :wd:dh=ta	adverb
@@ -18259,6 +18503,7 @@
 :le:dia/
 :wd:dia/ prep
 :wd:diai/ prep poetic
+:wd:za/ prep aeolic
 
 :le:draste/os
 :aj:drast verb_adj2
@@ -18293,8 +18538,7 @@
 
 :le:e)lpi/s
 :no:e)lp is_idos suff_acc fem
-
-:le:e)/lpw
+:no:e)lp is_idos fem aeolic
 
 :le:e)oiko/tws
 :wd:e)oiko/tws  adverb

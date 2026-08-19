@@ -26,6 +26,8 @@
 
 :le:*(aghsi/loxos
 :no:*(aghsilox	os_ou masc
+:no:*)aghsilox  os_ou masc
+:no:*(hghsilox os_ou masc
 
 
 :le:*(agno/filos
@@ -625,12 +627,6 @@
 :le:*)artoce/rchs
 :no:*)artocerc	hs_ou masc stem_acc
 
-
-:le:*)arxe/ptolis
-:no:*)arxeptol	is_ews masc
-:no:*)arxeptol	is_idos fem
-
-
 :le:*)asa/hlos
 :no:*)asahl	os_ou masc
 
@@ -834,6 +830,7 @@
 
 :le:*)isxo/laos
 :no:*)isxola	os_ou masc
+:no:*)isxol as_a  masc stem_acc
 
 
 :le:*)iw/asos
@@ -891,14 +888,8 @@
 :le:*)obou/lkwn
 :no:*)oboulkw	n_nos masc
 
-
 :le:*)ofe/llios
 :no:*)ofelli	os_ou masc
-
-
-:le:*)oktaou/i+os
-:no:*)oktaoui+	os_ou masc
-
 
 :le:*)olu/mpixos
 :no:*)olumpix	os_ou masc
@@ -1171,9 +1162,9 @@
 
 
 :le:*da/ndamis
-:no:*dandam	is_ews masc
-:no:*dandam	is_idos fem
-
+:no:*dandam	is_ews masc sg
+:no:*dandam hs_ou masc stem_acc
+:no:*dandam     is_idos masc sg
 
 :le:*da/oxos
 :no:*daox	os_ou masc
@@ -1403,22 +1394,14 @@
 :no:*fazhmwni_t	is_ews masc stem_acc
 :no:*fazhmwni_t	is_idos fem stem_acc
 
-
-:le:*febrouari/as
-:no:*febrouari	hs_ou masc stem_acc
-
-
 :le:*fh=stos
 :no:*fhst	os_ou masc stem_acc
-
 
 :le:*fhliki/wn
 :no:*fhlikiw	n_nos masc
 
-
 :le:*filhmoni/dhs
 :no:*filhmonid	hs_ou masc stem_acc
-
 
 :le:*filippi/wn
 :no:*filippiw	n_nos masc
@@ -2158,6 +2141,8 @@
 :le:*magki=nos
 :no:*magki_n	os_ou masc stem_acc
 
+:le:*mai=sa
+:no:*mais a_hs fem
 
 :le:*maisa/dhs
 :no:*maisad	hs_ou masc stem_acc
@@ -2864,10 +2849,13 @@
 :wd:*salh/m indecl_noun masc sg
 :wd:*salh/m indecl_noun fem sg
 
-:le:*sa/lmocis
+:le:*za/lmocis
 :no:*salmoc	is_ews masc
-:no:*salmoc	is_idos fem
-
+:no:*salmoc	is_idos masc
+:no:*zamolc     is_ews masc
+:no:*zamolc     is_idos masc
+:no:*zalmoc     is_ews masc
+:no:*zalmoc     is_idos masc
 
 :le:*sa/louios
 :no:*saloui	os_ou masc
@@ -3067,6 +3055,9 @@
 :le:*so/aimos
 :no:*soaim	os_ou masc
 
+:le:*soaimi/s
+:no:*soaim is_idos suff_acc fem
+:no:*soaimi h_hs stem_acc fem
 
 :le:*so/fwn
 :no:*sofw	n_nos masc
@@ -3402,12 +3393,6 @@
 :le:*za/maris
 :no:*zamar	is_ews masc
 :no:*zamar	is_idos fem
-
-
-:le:*za/molcis
-:no:*zamolc	is_ews masc
-:no:*zamolc	is_idos fem
-
 
 #:le:*zabou/lhs
 #:no:*zaboul	hs_ou masc stem_acc

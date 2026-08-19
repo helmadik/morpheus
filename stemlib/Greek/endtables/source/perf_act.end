@@ -1,8 +1,10 @@
 e/nai perf_act perf act inf  
+hn perf_act perf act inf aeolic
 e@ath_inf_act perf_act perf inf act epic
 @pr_inf_act perf_act perf inf act epic poetic
 @a1_ind_act perf_act perf act ind  not 3rd pl
 a_si perf_act perf act ind plural pers3  
+aisi perf_act 3rd pl perf ind act aeolic
 anti perf_act 3rd pl plup ind act doric
 anti perf_act perf act ind plural pers3   doric
 #@pr_imp_act perf_act perf imperat act not 3rd pl
@@ -13,6 +15,11 @@ w/s perf_act perf act part masc nom voc sing
 o/s perf_act perf act part neut nom voc acc sing  
 ot@decl3 perf_act perf part act masc neut needs_acc
 ui_@decl1_sh perf_act perf part act fem needs_acc
+ws perf_act perf act part masc nom voc sing aeolic
+os perf_act perf act part neut nom voc acc sing aeolic
+ot@decl3 perf_act perf part act masc neut aeolic
+ui_@decl1_sh perf_act perf part act fem aeolic
+
 #@wn_ousa_on perf_act perf part act epic 
 h perf_act plup act ind sing pers1   
 een perf_act plup act ind sing pers1 

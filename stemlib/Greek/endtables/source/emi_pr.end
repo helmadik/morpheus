@@ -3,6 +3,7 @@ h@ath_inf_act emi_pr pres inf act epic needs_acc
 e@ath_inf_act emi_pr pres inf act epic needs_acc
 e@ath_inf_act emi_pr pres inf act epic needs_acc
 h@ath_inf_act emi_pr pres inf act epic needs_acc
+hn emi_pr pres inf act aeolic
 esqai emi_pr pres mp inf  
 h@ath_act_1 emi_pr pres ind act sg
 e-@ath_act_1 emi_pr pres ind act  not sg
@@ -23,6 +24,7 @@ e@ath_imp_a emi_pr pres imperat act  not 2nd sg
 @pr_sub_act emi_pr pres subj act needs_acc
 e@ihn_opt emi_pr pres opt act needs_acc
 e@s_sa_n emi_pr pres part act needs_acc
+e@s_sa_n emi_pr pres part act aeolic
 e@ath_mp_1 emi_pr pres mp ind
 @pr_sub_mp emi_pr pres subj mp needs_acc
 @pr_sub_mp emi_pr pres subj mp
@@ -31,4 +33,6 @@ e@imhn_opt emi_pr pres opt mp needs_acc
 ou emi_pr pres imperat mp 2nd sg
 e@ath_imp_mp emi_pr pres imperat mp
 emen@adj1 emi_pr pres part mp
+hmen@adj1 emi_pr pres part mp aeolic
 #accent varies early on subj mp
+hmmi emi_pr 1st sg pres ind act
